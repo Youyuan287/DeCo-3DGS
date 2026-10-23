@@ -53,7 +53,7 @@ VALA 里有一份 `dataset/scannet.zip` 可以**读**，但解压目标必须放
 - `ref/paper.txt:1239` **Table 9. ScanNet Results with Revised Evaluation Protocol** ← **指标口径以这张表为准，先读它**。
 - `ref/paper.txt:682 / 694 / 714` 正文声明 ScanNet 上做语义分割且取得最高 mean IoU。
 - `ref/paper.txt:1469` ScanNet 数据集描述（1513 个室内 RGB-D 场景）。
-- `ref/paper.txt:1500–1512` 3D 基准（ScanNet / ScanNet++）的评测方式说明（预测如何映射到 GT）。
+- `ref/paper.txt:1500–1512` 3D 基准（ScanNet / ScanNet++）的评测方式说明（预测如何映射到 GT）。实测数值与协议要点见 **§11.1**（已抄录，不要再猜）。
 
 > 注意：LERF 用的是 CLIP ViT-B-16 + LERF 多边形 GT；**ScanNet 不是同一套**，不要照搬。
 
@@ -111,6 +111,8 @@ scene0200_00 scene0347_00 scene0400_00 scene0590_00 scene0645_00
 ---
 
 ## 5. 需要优先确认的三件事（决定后续全部工作量）
+
+> ⚠️ **2026-10-23 二次核实：本节问题已有答案，见 §11。先读 §11 再动手。**
 
 1. **HF 上有没有 ScanNet 的 2DGS 场景和 `sai_nag.pt`？**
    查法（镜像 API 不可靠，用网页或 resolve 探测）：
@@ -196,6 +198,10 @@ ssh root@hn01-ssh.gpuhome.cc -p 30946
    OpenSeg 特征在哪；ScanNet 原始包在 /root/rivermind-data/VALA/dataset/scannet.zip（11.5G，只读，禁止整包解压，
    用 python zipfile 按需抽取到 $R 下的目录）。
 
+【先读】/root/rivermind-data/ReLaGS-1023/reproduction/reports/09_scannet_handoff.md 的 §11
+「已核实的 ScanNet 事实」——HF 有没有场景、本地 zip 能不能训练、OpenGaussian 的数据布局
+都已经查清，不要重复调研，直接从 §11.4 的唯一阻塞点开始。
+
 【已有可复用资产】
 - 3 个补丁 $R/patches/*.diff（CUDA include、PyG 2.3.0 的 keys 垫片、fp16 dtype）
 - 评测 harness $R/scripts/eval_lerf_relags.py（LERF 用；ScanNet 指标别直接套，但聚合与渲染约定可参考）
@@ -233,3 +239,89 @@ results/scannet_{query,scene}_metrics.csv、results/scannet_manifest.csv（sha25
 
 协议：簇级检索 `topk=5 / level_until=3 / filter_small=50 / remove_small=True`，
 掩膜 `semantics[0] > 0.5`，先逐图对 query 平均再对图平均。
+
+---
+
+## 11. 二次核实结果（2026-10-23 晚，覆盖 §3.1 / §5）
+
+### 11.1 论文 Table 9 实测数值（原文抄录，`ref/paper.txt:1239`）
+
+| Method | 19 类 mIoU / mAcc | 15 类 mIoU / mAcc | 10 类 mIoU / mAcc |
+|---|---|---|---|
+| THGS* | 39.33 / 54.23 | 43.61 / 61.55 | 52.52 / 70.50 |
+| **Ours** | **41.26 / 57.29** | **45.24 / 62.75** | **54.04 / 71.48** |
+
+协议（附录 §9 原文要点）：
+
+1. ScanNet 场景训练时**开启 densification**（固定基元数重建质量差，Dr. Splat 已有同样观察）；
+2. 评测时**把每个高斯赋为「最近 GT 点」的标签**（L2 距离；Dr. Splat 用 Mahalanobis）；
+3. 指标是 **3D mIoU（点集 IoU，Eq.16）+ mAcc**，按 19/15/10 类子集报告；
+4. `THGS*` = 作者在**同一协议下重跑**的 THGS；
+5. 这是 **3D** 指标，不是 LERF 的 2D 多边形 IoU —— `eval_lerf_relags.py` 不能直接套用。
+
+### 11.2 HF 资产核查（结论：没有 ScanNet）
+
+`dfki-av/ReLaGS`（model repo，公开，1.59 GB）只有：
+
+- `scenes/LeRF/<4 个场景>/{cameras.json,cfg_args,input.ply,nag-l1.pt,neighbor.pt,neighbor_new.pt,point_cloud/iteration_0/point_cloud.ply,sai_nag.pt}`
+- `GNN_model/graph_transformer_512_80.pth`
+
+**没有任何 ScanNet 场景、没有 ScanNet 的 `sai_nag.pt`** → 必须自己训练。
+
+### 11.3 本地 ScanNet 数据核查（结论：不能用于训练）
+
+`/root/rivermind-data/VALA/dataset/scannet.zip`，11.5 GB，7784 entries：
+
+- `.sens` 文件数 = **0**；`/label/` 目录数 = 0；`/color/` 目录数 = 0
+- 每个场景仅 5 个条目：`_vh_clean_2.ply`、`_vh_clean_2.labels.ply`、`.aggregation.json`、`.0.010000.segs.json`
+- 未压缩体积构成：`scans/` 20.15 GB、`scans_test/` 0.74 GB、`tasks/` 0.64 GB
+
+→ 它**只能提供 GT 标签**（正好对应 OpenGaussian 需要的 `*_vh_clean_2.labels.ply`），**无法训练 2DGS**（无 RGB 图像与位姿）。
+→ 全盘搜索：无 `.sens`、无 ScanNet 图像目录；VALA 代码与其 ScanNet 工作目录已被删除，仅剩 `/tmp/vala_*_help.txt` 等残迹。
+
+### 11.4 唯一阻塞点
+
+**ScanNet 的 `color/`（RGB）+ `transforms_*.json`（位姿）+ `language_features/` 从哪来？**
+
+| 选项 | 可行性 |
+|---|---|
+| (a) 手上还有 OpenGaussian 预处理包（OneDrive / Baidu） | 最快，直接铺开 |
+| (b) 有 ScanNet 官方授权，下载 `.sens` 自行转换 | 体量大（数百 GB），需 `download-scannet.py` + `preprocess_2d_scannet.py` + `scannet2blender.py` |
+| (c) 都没有 | ScanNet 无法开始 |
+
+### 11.5 OpenGaussian 路线（用户指定参考）
+
+仓库：**`github.com/yanmin-wu/OpenGaussian`**（用户名是 `yanmin-wu`，不是 `yanminwu`）
+
+ScanNet 数据布局：
+
+```
+scannet/<scene>/color/                     # RGB 图像
+              language_features/           # LangSplat 风格 SAM+CLIP 特征
+              points3d.ply                 # 初始化点云
+              transforms_train.json / transforms_test.json
+              *_vh_clean_2.labels.ply      # GT（本地 zip 里已有）
+```
+
+预处理包：作者 OneDrive / Baidu（`color.zip` + `language_features.zip`），**无需 ScanNet 授权**；只有想扩场景才需要 `.sens`。
+
+评测：`scripts/eval_scannet.py`（`target_id` 设 19/15/10），文本特征 `assets/text_features.zip`。
+
+**关键差异**：OpenGaussian 走 3DGS（`diff-gaussian-rasterization`），ReLaGS 走 2DGS（`diff-surfel-rasterization`），**checkpoint 不可互换**；只能复用数据与评测思路，重建须用 ReLaGS 的 `train.py` 且**开启 densification**。
+
+### 11.6 特征口径冲突（必须先定）
+
+- ReLaGS `scripts/run_scannet.sh` 传 `--vlm_type openseg`（OpenSeg 特征）
+- OpenGaussian 的 `language_features/` 是 LangSplat 的 **CLIP** 特征
+
+两者不可混用。先确认 ReLaGS 论文 ScanNet 实验实际用哪个（查 `merge_proj.py` 两个分支、`dataset_readers.py` 读取路径、论文措辞），再决定下载哪套。
+
+### 11.7 磁盘现状
+
+`/root/rivermind-data` 50G，已用 33G，**剩余 18G**。本轮已删除并留档：
+
+- `ReLaGS_Reproduction/work/`（2.8G，我自己的流水线中间产物，最终指标不依赖）
+- `ReLaGS_Reproduction/ref/hf_lerf/lerf_ovs.zip`（0.7G，已解压）
+- `VALA/dataset/3dgs/lerf_ovs/*/langsplat`（5.6G）+ `*/distorted`（1.0G）——清单见 `results/vala_langsplat_inventory.txt`
+
+`VALA/dataset/scannet.zip`（11.5G）**尚未删除**：它是 §11.4 选项 (b) 的唯一本地来源，确认走 (a) 后可释放。
