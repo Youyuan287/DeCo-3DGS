@@ -20,6 +20,14 @@ ReLaGS enables **hierarchical 3D scene understanding with language guidance** fo
 
 > **Note:** Evaluation scripts will be published soon.
 
+> **🔁 Third-party reproduction (2026-10).** A complete LERF-OVS four-scene reproduction is
+> included in [`reproduction/`](reproduction/), filling in the evaluation harness that is not
+> shipped here: **Mean 64.01 mIoU vs. the paper's 64.40** (figurines 63.29 / ramen 51.15 /
+> teatime 80.97 / waldo_kitchen 60.62), on HuggingFace-only inputs.
+> Start at [`reproduction/README.md`](reproduction/README.md) (protocol + how to run) and
+> [`reproduction/FINAL_REPORT.md`](reproduction/FINAL_REPORT.md) (full report, provenance,
+> protocol sensitivity, limitations).
+
 ---
 
 ![Teaser](assets/images/teaser.jpg)

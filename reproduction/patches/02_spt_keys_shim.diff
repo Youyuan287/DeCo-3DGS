@@ -1,0 +1,27 @@
+--- /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/ext/spt/data/data.py.orig	2026-10-22 17:20:41.834942806 +0000
++++ /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/ext/spt/data/data.py	2026-10-22 17:21:18.693601345 +0000
+@@ -24,7 +24,24 @@
+ __all__ = ['Data', 'Batch']
+ 
+ 
++class _CallableKeys(list):
++    """List of attribute names that is also callable.
++
++    The vendored SPT revision calls `data.keys()` (method style) while
++    torch_geometric 2.3.0 exposes `Data.keys` as a property returning a list.
++    Returning a callable list keeps both call styles working without touching
++    any call site.
++    """
++
++    def __call__(self):
++        return list(self)
++
++
+ class Data(PyGData):
++    @property
++    def keys(self):
++        return _CallableKeys(super().keys)
++
+     """Inherit from torch_geometric.Data with extensions tailored to our
+     specific needs.
+     """

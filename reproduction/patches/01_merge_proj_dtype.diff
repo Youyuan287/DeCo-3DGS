@@ -1,0 +1,11 @@
+--- /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/merge_proj.py.orig_dtype	2026-10-22 17:27:10.933817059 +0000
++++ /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/merge_proj.py	2026-10-22 17:27:10.973817759 +0000
+@@ -151,7 +151,7 @@
+             weight = render_pkg["weight"]
+             gau_mask = weight > WEIGHT_THRESHOLD
+ 
+-            gt_feature = view.semantic["sem"].to(device)
++            gt_feature = view.semantic["sem"].to(device).float()
+             seg_map = view.semantic["seg_map"][feature_level]
+             img_mask = view.semantic["fg_mask"][feature_level]
+ 

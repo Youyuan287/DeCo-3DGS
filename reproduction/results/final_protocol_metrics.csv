@@ -1,0 +1,6 @@
+protocol,figurines,ramen,teatime,waldo_kitchen,Mean
+paper,64.70,51.20,81.00,60.60,64.38
+A_topk5_lvl3_filt50,62.78,50.46,80.22,61.37,63.71
+C_topk3_lvl3_filt50,58.11,40.40,82.91,57.62,59.76
+B_topk5_rootOnly,32.35,31.46,56.80,53.00,43.40
+ORACLE_perQuery,65.20,50.46,82.66,61.79,65.03

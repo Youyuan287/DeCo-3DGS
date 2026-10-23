@@ -1,0 +1,17 @@
+scene,file,bytes,sha256,origin
+figurines,cameras.json,119337,491d85915c79617aa3c2f680053cd9a18b3c3028b8ac0357614ec71ccc000da1,hf:dfki-av/ReLaGS/scenes/LeRF/figurines/cameras.json
+figurines,input.ply,1364192,c13dddbc383fd2c53b37294750e9b4c4efcd7c55dc0ef9bccd9426eb222c912d,hf:dfki-av/ReLaGS/scenes/LeRF/figurines/input.ply
+figurines,point_cloud/iteration_0/point_cloud.ply,75990954,1908dc76615f23dd0ad9f8e65d14c02de355bcfd61dc3afc2bac4b755a77c79c,hf:dfki-av/ReLaGS/scenes/LeRF/figurines/point_cloud/iteration_0/point_cloud.ply
+figurines,sai_nag.pt,10310916,27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435,hf:dfki-av/ReLaGS/scenes/LeRF/figurines/sai_nag.pt
+ramen,cameras.json,52282,0e5391f05e7c53cf96ee542f07ba7dd1bace3f60d7a8365d04e83bc64b29890b,hf:dfki-av/ReLaGS/scenes/LeRF/ramen/cameras.json
+ramen,input.ply,803375,a457b8cc268d033b79f8ca62d6e5d41fcd56983243c9dd2cb1e4eba63e8cbcd0,hf:dfki-av/ReLaGS/scenes/LeRF/ramen/input.ply
+ramen,point_cloud/iteration_0/point_cloud.ply,120617418,e7d2fb7a725b882efe3c8f4cc9f0f64fc5cbe5a36866f0d8bee353fbd9b68276,hf:dfki-av/ReLaGS/scenes/LeRF/ramen/point_cloud/iteration_0/point_cloud.ply
+ramen,sai_nag.pt,12791108,10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324,hf:dfki-av/ReLaGS/scenes/LeRF/ramen/sai_nag.pt
+teatime,cameras.json,70465,0ec2b053ea7a6ad8336246899e1f1cb4ac836c5a634304fad06aa216b8972151,hf:dfki-av/ReLaGS/scenes/LeRF/teatime/cameras.json
+teatime,input.ply,688814,b61e7a2b0da9ae1e751e30633290fe8f8f9d7e36ace5fa6acd76d8e249fdcb19,hf:dfki-av/ReLaGS/scenes/LeRF/teatime/input.ply
+teatime,point_cloud/iteration_0/point_cloud.ply,310666098,b052255e78922c00769b3fd5b016c5ae2ee3277941395a090dcb87feca6a2c6e,hf:dfki-av/ReLaGS/scenes/LeRF/teatime/point_cloud/iteration_0/point_cloud.ply
+teatime,sai_nag.pt,42448708,780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817,hf:dfki-av/ReLaGS/scenes/LeRF/teatime/sai_nag.pt
+waldo_kitchen,cameras.json,49152,a667f889f2d0ae259b457b6d43a9db6353259b6721f31965b572f47347ffbeb0,hf:dfki-av/ReLaGS/scenes/LeRF/waldo_kitchen/cameras.json
+waldo_kitchen,input.ply,472058,5f708d31dd185dc4a2d36b32ee1667e29442ee4ebaf2c52dd711290756adfc7b,hf:dfki-av/ReLaGS/scenes/LeRF/waldo_kitchen/input.ply
+waldo_kitchen,point_cloud/iteration_0/point_cloud.ply,293225826,f3177dfc7f65b2310786acc0d5cff8a425ef2e43c6a129c4e5439df260dba7c3,hf:dfki-av/ReLaGS/scenes/LeRF/waldo_kitchen/point_cloud/iteration_0/point_cloud.ply
+waldo_kitchen,sai_nag.pt,28760644,6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098,hf:dfki-av/ReLaGS/scenes/LeRF/waldo_kitchen/sai_nag.pt
