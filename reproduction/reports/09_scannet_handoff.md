@@ -325,3 +325,42 @@ scannet/<scene>/color/                     # RGB 图像
 - `VALA/dataset/3dgs/lerf_ovs/*/langsplat`（5.6G）+ `*/distorted`（1.0G）——清单见 `results/vala_langsplat_inventory.txt`
 
 `VALA/dataset/scannet.zip`（11.5G）**尚未删除**：它是 §11.4 选项 (b) 的唯一本地来源，确认走 (a) 后可释放。
+
+### 11.8 服务器 2（`fj01-ssh.gpuhome.cc:30253`，代号 255）核查 — 2026-10-23
+
+**结论：那里也没有 ScanNet 的 RGB/位姿数据，但找到了 VALA 的完整代码。**
+
+1. **VALA 代码在 255 上**：`/root/rivermind-data/VALA`（30G），含 `run_scannet.sh`、`eval/scannet_utils.py`、
+   `train.py`、`gaussian_feature_extractor.py`、`VALA_HANDOFF.md`、`VALA_REPRO_ISSUES.md`。
+   （225 上只剩 `dataset/`，代码不在。）
+2. **VALA 的 ScanNet 其实没跑成**：
+   - `VALA_REPRO_PROGRESS.md` 第 26 行：`Stage 4 status: LERF complete; ScanNet pending`
+   - `VALA_REPRO_ISSUES.md` R003 原文：*"VALA commit 48902a5 does not contain the dataset/scannet module …
+     run_scannet.sh expects preprocessed scene directories. **ScanNet download is stopped pending an
+     authoritative source/protocol.**"*
+3. **数据同样缺失**：`VALA/dataset/3dgs` 只有 `lerf_ovs`（9.7G），没有 `scannet_langsplat`；
+   `VALA/dataset/scannet.zip` 与 225 上那份**同一个 ply-only 包**（0 `.sens`、0 `color/`）；
+   255 的 `/root/rivermind-data/scannet.zip`（747 MB）是**中断的下载**（无 EOCD，首条目仍是 `scannet/`，即同一归档）。
+   全盘 `find / -name "*.sens"`、`-type d -name color` 均无结果。
+4. **可复用的只有「跑法」和「类表」**，不是数据：
+
+   VALA 的 ScanNet 流程（数据到手后可直接照抄）：
+   ```bash
+   python train.py -s dataset/3dgs/scannet_langsplat/$case \
+       -m output/3dgs/scannet_langsplat/$case --iterations 30000 --eval
+   python gaussian_feature_extractor.py -m output/3dgs/scannet_langsplat/$case \
+       -s dataset/3dgs/scannet_langsplat/$case --iteration 30000 --eval \
+       --feature_level 0 --use_efficient --tau_mass 0.9 --tau_abs 0.01
+   ```
+
+   `VALA/eval/scannet_utils.py` 里的 19/15/10 类子集索引（Table 9 用的就是这些）：
+   ```python
+   10: [0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 33]
+   15: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 33, 34]
+   19: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 24, 28, 33, 34, 36]
+   ```
+   （索引对应 `scannetv2-labels.combined.tsv` 的类别 id；0 为 ignore。）
+
+5. **判断**：ScanNet 阶段的唯一缺口就是 **RGB 图像 + 位姿 + 语言特征**。
+   在拿到 OpenGaussian 预处理包（或 ScanNet `.sens` 授权）之前，这项无法开始；
+   `scannet.zip`（两个位置共约 12.3G）对本任务只剩「GT 标签」价值，可释放。
