@@ -1,3 +1,28 @@
+# DeCo-3DGS
+
+**DeCo** (*De-Collapse*) removes the scene-wide common mode from the language representation of an
+open-vocabulary 3D Gaussian Splatting pipeline. Two training-free operators, no new parameters, no
+labels, < 10 ms per scene.
+
+| benchmark | readout | baseline | + DeCo |
+|---|---|---|---|
+| ScanNet-10 K19 (dataset-pooled) | 18-class argmax | 40.79 | **58.55** (+17.76) |
+| ScanNet-10 K19 (macro) | 18-class argmax | 39.94 | **53.30** (+13.36) |
+| LERF-Mask (Gaussian Grouping) | single-query retrieval | 0.6800 | 0.7112 |
+| LERF-OVS | single-query retrieval | 0.6401 | 0.6393 |
+
+The first two rows are the claim; the last two are a scope check, and `deco/PROTOCOLS.md` explains
+why image-side mean removal is provably inert for a single-query readout.
+
+* implementation: [`deco/`](deco/) — `deco_ops.py`, the three harnesses, both lexicons
+* evaluation conventions: [`deco/PROTOCOLS.md`](deco/PROTOCOLS.md) (class divisor is 18, not 19)
+* full tables and negative results: [`deco/RESULTS.md`](deco/RESULTS.md)
+* reproduction notes for the base pipeline: [`reproduction/`](reproduction/)
+
+This repository is built on the ReLaGS codebase; its README follows unchanged.
+
+---
+
 # ReLaGS: Relational Language Gaussian Splatting
 
 **CVPR 2025**
