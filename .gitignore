@@ -14,3 +14,5 @@ eval
 models
 ckpts
 masks
+deco/out/
+*.tar.gz

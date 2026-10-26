@@ -1,5 +1,10 @@
 # ReLaGS · LERF-OVS 四场景复现（独立复现实验）
 
+> **本目录的范围**：上游 ReLaGS 管线在 **LERF-OVS** 上的第三方独立复现。
+> 本仓库的方法代码（DeCo 两个算子）与 **ScanNet-10 / LERF-Mask** 的结果在 [`../deco/`](../deco/)，
+> 数字以 [`deco/RESULTS.md`](../deco/RESULTS.md) 为准。
+> `reports/archive/` 下的 09/10 是过期交接文档，仅存档。
+
 本目录是 **ReLaGS**(CVPR 2025) 在 **LERF-OVS** 数据集上的第三方独立复现，
 上游仓库未发布评测代码（README 中 "Evaluation scripts will be published soon"），
 本目录补齐了缺失的评测链路，并给出可复现的四场景结果。

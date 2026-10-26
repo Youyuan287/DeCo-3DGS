@@ -19,6 +19,14 @@ why image-side mean removal is provably inert for a single-query readout.
 * full tables and negative results: [`deco/RESULTS.md`](deco/RESULTS.md)
 * reproduction notes for the base pipeline: [`reproduction/`](reproduction/)
 
+### Repository map
+
+| path | what |
+|---|---|
+| `deco/` | the two DeCo operators, the three evaluation harnesses, both lexicons — everything behind the numbers above |
+| `reproduction/` | third-party reproduction of the upstream ReLaGS pipeline on LERF-OVS (64.01 vs 64.40) and of the ScanNet-10 baseline (40.79 vs 41.26) |
+| `scene/`, `gaussian_renderer/`, `nag_data.py`, `scripts/`, `ext/`, `submodules/` | upstream ReLaGS code, unmodified except for the patches listed in `reproduction/patches/` |
+
 This repository is built on the ReLaGS codebase; its README follows unchanged.
 
 ---

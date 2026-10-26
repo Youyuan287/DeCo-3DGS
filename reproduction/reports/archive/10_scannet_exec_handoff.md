@@ -1,3 +1,9 @@
+> **Archived — superseded.** This was an internal handoff written before the ScanNet phase ran;
+> the numbers and the "nothing downloaded yet" status in it are out of date. Kept for the record.
+> Current results: [`deco/RESULTS.md`](../../../deco/RESULTS.md).
+
+---
+
 # ReLaGS · ScanNet 复现执行交接（服务器 TZJ）
 
 > 新窗口直接照此执行。LERF-OVS 已完成（Mean **64.01** vs 论文 64.40），本阶段只剩 ScanNet。

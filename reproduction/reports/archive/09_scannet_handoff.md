@@ -1,3 +1,9 @@
+> **Archived — superseded.** This was an internal handoff written before the ScanNet phase ran;
+> the numbers and the "nothing downloaded yet" status in it are out of date. Kept for the record.
+> Current results: [`deco/RESULTS.md`](../../../deco/RESULTS.md).
+
+---
+
 # ReLaGS · ScanNet 复现交接（记忆 + 提示词）
 
 > 用途：在新窗口继续 ReLaGS 的 ScanNet 实验。本文件上半部分是**事实记忆**（已核实），
