@@ -17,7 +17,6 @@ why image-side mean removal is provably inert for a single-query readout.
 * implementation: [`deco/`](deco/) — `deco_ops.py`, the three harnesses, both lexicons
 * evaluation conventions: [`deco/PROTOCOLS.md`](deco/PROTOCOLS.md) (class divisor is 18, not 19)
 * full tables and negative results: [`deco/RESULTS.md`](deco/RESULTS.md)
-* reproduction notes for the base pipeline: [`reproduction/`](reproduction/)
 
 ### Repository map
 
