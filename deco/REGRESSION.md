@@ -77,6 +77,15 @@ $PY deco/deco_ops.py
 prints the numpy/torch agreement (8.9e-8 on the score path) and nothing else. The gate itself is
 `deco_ops.cmr` / `deco_ops.should_center`; measured values are in PROTOCOLS.md §6.
 
+## 5. Why `--renorm` is not cosmetic
+
+```bash
+$PY deco/scannet/probe_renorm.py scene0000_00
+```
+
+Expected: `V=1 argmax differs 0 / 366`, `V=4 argmax differs 109 / 366 (29.78%)`, median top-1
+minus top-2 margin `0.0034`. This is the mechanism behind the 0.70 mIoU gap; PROTOCOLS.md §4.1.
+
 ## What is *not* covered by these anchors
 
 * the ablation arms behind `RESULTS.md` §3 (operator zoo, lexicon ladder, CMR table): they live in the

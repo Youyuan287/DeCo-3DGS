@@ -99,6 +99,34 @@ widens the false-positive surface. Measured on LERF-OVS: LSE over a 63-entry lex
 the lexicon −11.0, lexicon with the canon readout preserved −7.2 (all against 0.6401). C2 is
 therefore only applied where the readout is multi-class.
 
+## 4.1 Why `renorm` is not cosmetic, and why the tau-LSE is the reason
+
+With **one** word per class, `argmax_k <f_i - m, w_k>` is invariant to scaling `f_i - m` by a positive
+row constant, so `l2n(f - m)` would be a no-op. With a **tau-LSE over several words per class it is
+not**:
+
+```
+LSE_tau(c * a) = c * LSE_{tau / c}(a)
+```
+
+Scaling the similarities by a row constant changes the *effective temperature* of the marginalisation,
+so the words of a class are averaged differently and the argmax can move. Measured on scene0000_00,
+same features, same bank (V variants per class, all unit norm):
+
+| bank | superpoints whose argmax moves | note |
+|---|---|---|
+| V = 1, one word per class | 0 / 366 (0.00%) | scaling invisible, as the algebra says |
+| V = 4, lexicon + templates | **109 / 366 (29.8%)** | scaling changes the temperature |
+
+Numerical check on a single row: `LSE(c*a)/LSE(a) = 1.029` while `c = 1.115` -- not proportional, as
+the identity predicts. It becomes visible because the decision margins are tiny: the median top-1 minus
+top-2 margin is **0.0034**, 18.3% of superpoints are below 1e-3, and `||f_i - m||` varies **4.2x**
+across a scene, so the injected temperature change is different for every region.
+
+This is the entire 0.70 mIoU gap between `--renorm 0` (58.55) and `--renorm 1` (57.85). It is also why
+the two variants are named by flag everywhere in this repository instead of being described as "with
+and without an extra normalisation". Probe: `scannet/probe_renorm.py`.
+
 ## 5. Reproduction anchors
 
 | what | value | how |

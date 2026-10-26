@@ -20,6 +20,11 @@ adds `l2n(f - mean)`, costs 0.70 mIoU, and survives only because the earlier abl
 it. Both come out of the same entry point: `REGRESSION.md` §1 has the commands and the expected
 output verbatim.
 
+The 0.70 gap is **not** cosmetic and **not** noise: with a single word per class the renormalisation
+would be invisible to `argmax`, but the tau-LSE over a class's words is not homogeneous
+(`LSE_tau(c*a) = c * LSE_{tau/c}(a)`), so it changes the effective temperature. Measured: 0/366
+superpoints move with one word per class, **109/366 (29.8%)** with four. See PROTOCOLS.md §4.1.
+
 Subsets, renormalised variant: K19 57.85 / 69.07, K15 57.13, K10 61.13. K10 is 0.95 lower than the
 templates-only arm (62.08); with a 9-class denominator that is a single-class effect and we report it.
 
