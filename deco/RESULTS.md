@@ -11,11 +11,14 @@ the LERF-Mask / LERF-OVS split. Protocols are in `PROTOCOLS.md`; the class divis
 | ReLaGS, reproduced here | 40.79 | 56.69 | certified baseline |
 | + C1 image side only | 53.67 | 66.67 | |
 | + C2 templates only | 56.32 | 68.11 | |
-| **+ C1 + C2 (DeCo, renormalised)** | **57.85** | **69.07** | +17.06 over the reproduction |
-| **+ C1 + C2 (DeCo, unified)** | **58.55** | **69.82** | +17.76, the variant used everywhere in this repo |
+| + C1 + C2, `--renorm 1` | 57.85 | 69.07 | +17.06 over the reproduction |
+| **+ C1 + C2, `--renorm 0` (unified, the default)** | **58.55** | **69.82** | **+17.76** |
 
-"Unified" = `f <- f - mean(f)` without the extra L2 renormalisation; it is the same definition that is
-applied to the LERF harnesses, and it is 0.70 better than the renormalised one.
+`--renorm 0` is the default of `scannet/score_scannet.py` and the definition in
+`deco_ops.center_np`: `f <- f - mean(f)`, with **no** L2 renormalisation afterwards. `--renorm 1`
+adds `l2n(f - mean)`, costs 0.70 mIoU, and survives only because the earlier ablations were run with
+it. Both come out of the same entry point: `REGRESSION.md` §1 has the commands and the expected
+output verbatim.
 
 Subsets, renormalised variant: K19 57.85 / 69.07, K15 57.13, K10 61.13. K10 is 0.95 lower than the
 templates-only arm (62.08); with a 9-class denominator that is a single-class effect and we report it.
@@ -137,9 +140,25 @@ about *which axis the operator acts on*, not a number to put in a comparison tab
 
 ## 6. Negative results (kept because they constrain the story)
 
-Region-posterior mixing 47.15; coarse-to-fine downflow 44.46; tree smoothing 30.59; oracle histogram
-55.57; naive EM 42.36; leave-one-scene prior 47.53; MAP-EM 43.36; auto-mined lexicon at k=3/5/8/12 =
-52.67 / 47.30 / 45.11 / 39.64.
+These are scene-mean with `--renorm 1`, so the reference point is 48.55 (four templates averaged),
+**not** 58.55.
+
+| attempt | mIoU | where it lives | what it shows |
+|---|---|---|---|
+| region as a distribution: `E[f(x)]` over children posteriors | 47.15 | `scannet/ablation_region_posterior.py` | mixing posteriors loses to classifying the mean |
+| coarse posterior pushed down to the fine level | 44.46 | same script | the coarse advantage is region count, not context |
+| tree smoothing, noise ~ 1/members | 30.59 (fine 25.66) | working tree `cli_tree.py` | no clean parameterisation, not shipped |
+| oracle scene histogram | 55.57 (+7.02) | working tree | an upper bound, kept as future work |
+| naive EM / leave-one-scene prior / MAP-EM | 42.36 / 47.53 / 43.36 | working tree | priors self-reinforce |
+| auto-mined lexicon, k = 3/5/8/12 | 52.67 / 47.30 / 45.11 / 39.64 | working tree `cli_prune.py` | text-space neighbours are co-occurrence, not synonymy |
+
+**Scope limit on the first row, stated explicitly.** 47.15 tests *posterior mixing*: average the
+children's class posteriors, then decide. It does **not** test *retaining the raw multi-view evidence*
+(the `(Gaussian, view, mask)` triples, voted into class space at the very end). That experiment
+exists in the working tree as `obs_bank.py` / `vote_final.py`, is **not shipped here, and has no
+shipped number**. The two differ in where the averaging happens, so 47.15 cannot be cited as
+evidence against evidence retention, and `RESULTS.md` should not be read as having closed that
+direction.
 
 Leave-one-word-out over the 18 classes: worst slot −2.86, and removing slot 4 *helps* (+0.69), so the
 lexicon is not individually tuned.

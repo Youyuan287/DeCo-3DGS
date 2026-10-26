@@ -12,6 +12,16 @@ Protocol
 Predicted masks are written as <out>/<scene>/<view_dir>/<prompt>.png (0/255) at GT
 resolution so that the official GG script can be run on them unchanged.
 """
+import os as _os
+import sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
+# honour RELAGS_REPO here, not only in the runners, so `--help` works as docs/README says
+_REL = _os.environ.get("RELAGS_REPO")
+if _REL:
+    for _p in (_os.path.join(_REL, "ext"), _REL):
+        if _p not in _sys.path:
+            _sys.path.insert(0, _p)
+from deco_ops import center_torch  # noqa: E402
 import argparse
 import csv
 import json
@@ -90,6 +100,8 @@ def main():
     ap.add_argument("--clip-type", default="ViT-B-16",
                     choices=["ViT-B-16", "ViT-L-14-336"])
     ap.add_argument("--center", default="none", choices=["none", "image"])
+    ap.add_argument("--renorm", type=int, default=0,
+                    help="0 = f - mean (the certified +3.12 run); 1 = l2n(f - mean)")
     ap.add_argument("--no-canon", action="store_true",
                     help="score with plain positive cosine only")
     ap.add_argument("--threshold", type=float, default=0.5,
@@ -124,7 +136,7 @@ def main():
     snag = SemanticNAG(nag["nag"], nag["nag_feat"])
     snag.feat = [f.cuda().float() for f in snag.feat]
     if args.center == "image":
-        snag.feat = [f - f.mean(0, keepdim=True) for f in snag.feat]
+        snag.feat = center_torch(snag.feat, renorm=bool(args.renorm))
         print(f"[{args.scene}] common mode removed from {len(snag.feat)} levels")
     print(f"[{args.scene}] nag levels: {len(nag['nag'])}  superpoints/level: "
           f"{[int(l.max()) + 1 for l in nag['nag']]}")

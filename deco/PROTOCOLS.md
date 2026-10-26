@@ -110,3 +110,31 @@ therefore only applied where the readout is multi-class.
 
 If your run does not reproduce these four numbers, the harness is misconfigured; do not read the
 deltas.
+
+
+## 6. The applicability gate is code, not prose
+
+```python
+from deco_ops import cmr, should_center
+
+cmr(feats)                     # ||mean(F)|| / rms(F - mean(F)), scale-free in the norm and in D
+should_center(feats, 1.6)      # the decision
+```
+
+Measured: ScanNet superpoint features CLIP ViT-B-16 **2.14** (1.60-3.12 across scenes), OpenSeg-768
+**1.13** (0.93-2.04). LERF-Mask: CLIP 1.92 / 2.06 / 1.84, OpenSeg 1.05 / 1.24 / 1.09.
+
+**What the shipped harnesses actually do with it: nothing automatic.** `score_scannet.py` and the two
+LERF harnesses apply the operator whenever `--center image` is passed; the gate is a policy function
+you call, not a switch that fires inside the loop. On the ScanNet CLIP arm that is exactly right — CMR
+is 2.14 in every scene, so the gate would always open and the explicit flag changes nothing. On the
+OpenSeg arm it would close, which is why that arm is reported as out of scope (the operator forced on
+takes 61.64 to 47.05) rather than as a failure of the method.
+
+To let the gate decide, call it:
+
+```python
+X = feats[level]                     # (N, D) for one scene, one level
+if should_center(X):
+    X = X - X.mean(axis=0)
+```

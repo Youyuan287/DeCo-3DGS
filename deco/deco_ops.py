@@ -79,6 +79,35 @@ def score_torch(feats, bank, tau=DEFAULT_TAU):
     return [lse_torch((f @ bank.T).T, tau) for f in feats]
 
 
+# --------------------------------------------------------------------------- applicability gate
+def cmr(feats):
+    """Common-mode ratio: ||mean(F)|| / rms(F - mean(F)).
+
+    Scale-free in the feature norm and in D, so it compares across encoders. Measured on the
+    ScanNet superpoint features: CLIP ViT-B-16 2.14 (1.60-3.12 across scenes), OpenSeg-768 1.13
+    (0.93-2.04). On LERF-Mask: CLIP 1.92 / 2.06 / 1.84, OpenSeg 1.05 / 1.24 / 1.09.
+    """
+    import numpy as _np
+
+    f = _np.asarray(feats, dtype=_np.float64)
+    m = f.mean(axis=0)
+    r = f - m
+    return float(_np.linalg.norm(m) / (_np.sqrt((r ** 2).sum(axis=1).mean()) + 1e-12))
+
+
+CMR_THRESHOLD = 1.6
+
+
+def should_center(feats, threshold=CMR_THRESHOLD):
+    """The gate: apply the operator when the common mode dominates the residual.
+
+    It opens on CLIP and closes on OpenSeg, which is why the OpenSeg arm (61.64 -> 47.05, on the
+    ScanNet K19 arm, `cli_syn.py` with the operator forced on) is documented as out of scope rather
+    than as a negative result of the method.
+    """
+    return cmr(feats) > threshold
+
+
 if __name__ == "__main__":
     # the two implementations must agree bit for bit on the same input
     import torch

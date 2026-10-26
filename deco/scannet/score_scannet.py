@@ -28,6 +28,10 @@ ROOT = os.environ.get("RIVERMIND_ROOT", ".")
 CACHE = ROOT + "/clip_cache"
 sys.path.insert(0, ROOT + "/scripts")
 from eval_scannet_3d import NYU40, SUBSETS, metrics  # noqa: E402
+_DECO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if _DECO not in sys.path:
+    sys.path.insert(0, _DECO)
+from deco_ops import center_np  # noqa: E402
 
 classes = SUBSETS[19]
 NAMES = [NYU40[c] for c in classes]
@@ -64,7 +68,14 @@ def l2n(x):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--emit", action="store_true")
+    ap.add_argument("--emit", action="store_true", default=True)
+    ap.add_argument("--no-emit", dest="emit", action="store_false")
+    ap.add_argument("--renorm", type=int, default=0,
+                    help="0 = f - mean (the unified operator, 58.55); 1 = l2n(f - mean) (57.85)")
+    ap.add_argument("--out", default=os.environ.get("SCANNET_OUT",
+                                                     os.path.join(os.environ.get("RIVERMIND_RESULTS", "results"),
+                                                                  "scannet_k19")),
+                    help="where the per-scene JSON goes; aggregate.py reads the same default")
     args = ap.parse_args()
     import open_clip
     import torch
@@ -101,7 +112,8 @@ def main():
         lv = [np.asarray(x).ravel().astype(np.int64) for x in nag["nag"]]
         li = len(nag["nag_feat"]) - 1
         X = l2n(np.asarray(nag["nag_feat"][li].detach().float().cpu().numpy()))
-        Xc = l2n(X - X.mean(0, keepdims=True))
+        # one definition, in deco_ops.py: renorm=0 -> f - mean, renorm=1 -> l2n(f - mean)
+        Xc = center_np([X], renorm=bool(args.renorm))[0]
 
         def lse(bank):
             sc = np.stack([Xc @ bank[i].T for i in range(len(bank))])
@@ -117,12 +129,12 @@ def main():
             mm = metrics(gt[keep], pred[keep], classes)
             out[k] = 100 * mm["mIoU"]
             if args.emit and k == "both_lse":
-                d = dict(scene=S, center="both_lse", subsets={})
+                d = dict(scene=S, center="both_lse", renorm=int(args.renorm), subsets={})
                 for kk, cls in SUBSETS.items():
                     d["subsets"][str(kk)] = metrics(gt[keep], pred[keep], cls)
-                od = os.path.join(ROOT, "results", "scannet_digs")
+                od = args.out
                 os.makedirs(od, exist_ok=True)
-                with open(os.path.join(od, S + ".json"), "w") as fh:
+                with open(os.path.join(od, S + "__r%d.json" % int(args.renorm)), "w") as fh:
                     json.dump(d, fh)
         for k, v in out.items():
             agg.setdefault(k, []).append(v)

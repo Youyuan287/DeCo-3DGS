@@ -12,6 +12,16 @@ Arms (all share the same geometry, nag hierarchy, topk/level/filter settings):
 Usage:
   PYTHONPATH=... python eval_lerf_relags_deco.py --scene ramen ... --center image --text template
 """
+import os as _os
+import sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))))
+# honour RELAGS_REPO here, not only in the runners, so `--help` works as docs/README says
+_REL = _os.environ.get("RELAGS_REPO")
+if _REL:
+    for _p in (_os.path.join(_REL, "ext"), _REL):
+        if _p not in _sys.path:
+            _sys.path.insert(0, _p)
+from deco_ops import center_torch  # noqa: E402
 import argparse
 import csv
 import json
@@ -67,7 +77,8 @@ def main():
     ap.add_argument("--tau", type=float, default=0.02)
     ap.add_argument("--norm", default="none", choices=["none", "zscore"])
     ap.add_argument("--text-center", default="none", choices=["none", "global"])
-    ap.add_argument("--renorm", type=int, default=1)
+    ap.add_argument("--renorm", type=int, default=0,
+                    help="0 = f - mean (the setting behind -0.08); 1 = l2n(f - mean) (the -17 branch)")
     ap.add_argument("--arbitrate", type=int, default=0)
     ap.add_argument("--text-agg", default="lse", choices=["lse", "mean", "canon_mean"])
     ap.add_argument("--sel", default="gap", choices=["gap", "ratio"])
@@ -94,11 +105,8 @@ def main():
     vlm.load_model()
 
     if args.center == "image":
-        # NOTE: the certified LERF-Mask run only subtracts the mean and does NOT renormalise
-        if args.renorm:
-            snag.feat = [l2n(f - f.mean(0, keepdim=True)) for f in snag.feat]
-        else:
-            snag.feat = [f - f.mean(0, keepdim=True) for f in snag.feat]
+        # one definition, in deco_ops.py; --renorm 0 is what the reported -0.08 used
+        snag.feat = center_torch(snag.feat, renorm=bool(args.renorm))
         print("[%s] image common mode removed from %d levels" % (args.scene, len(snag.feat)), flush=True)
 
     # the text-side common mode is estimated over the class set (all query categories of the scene)

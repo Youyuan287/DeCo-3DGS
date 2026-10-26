@@ -12,6 +12,11 @@ C1  image side :  f_i  <-  f_i - mean_i(f)                       (per scene, per
 C2  text  side :  t    <-  l2n(t - mean_c(t)),  s(i,c) = tau * logmeanexp_{w in L(c)} <f_i, w>
 ```
 
+There is one definition of each piece, in `deco_ops.py`: `center_np` / `center_torch` (C1, with
+`renorm=False` as the default), `text_center_np` / `text_center_torch` (C2a), `lse_np` / `lse_torch`
+(C2b), and `cmr` / `should_center` (the applicability gate, PROTOCOLS.md §6). The three harnesses
+import them; `python deco_ops.py` asserts that the numpy and torch paths agree (8.9e-8).
+
 This directory contains the code that produced the numbers in `RESULTS.md` on ScanNet-10 and
 LERF-Mask, plus the LERF-OVS harness used to test the scope of the method.
 
@@ -39,6 +44,7 @@ lerf_ovs/                LERF-OVS evaluation (+ the per-query lexicon used for t
 scripts/                 runners
 PROTOCOLS.md             evaluation conventions, including the 18-vs-19 class divisor
 RESULTS.md               full tables, ablations, and the negative results
+REGRESSION.md            the four anchor numbers, the commands, and the expected output
 ```
 
 ## Requirements
@@ -59,8 +65,9 @@ The CLIP encoder is `ViT-B-16 laion2b_s34b_b88k` (512-d). Text features are L2-n
 
 ```bash
 # ScanNet-10: score 10 scenes, then aggregate to dataset level
-python scannet/score_scannet.py            # per-scene JSON -> $RIVERMIND_ROOT/results/scannet_digs
-python scannet/aggregate.py                # dataset-pooled mIoU / mAcc, per class
+export SCANNET_OUT=/tmp/deco_reg           # scorer and aggregator share this default
+python scannet/score_scannet.py --renorm 0 # 58.55 pooled (--renorm 1 gives 57.85)
+python scannet/aggregate.py --verbose      # pooled + macro, per class
 
 # LERF-Mask, image-side operator only
 python lerf_mask/eval_lerf_mask.py --scene figurines ... --center image
