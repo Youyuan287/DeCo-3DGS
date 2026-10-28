@@ -1,0 +1,12 @@
+{
+  "b2_avg_groups": 2.1533333333333333,
+  "b2_group_count_max": 3,
+  "b2_group_count_min": 1,
+  "k1_max_abs_error": 0.0,
+  "observations": 11961,
+  "regions": 300,
+  "status": "STRUCTURAL_ONLY_NO_TEXT_NO_DEV_DIRECTION",
+  "views": 131,
+  "weight_max": 1.0,
+  "weight_min": 3.669455327326432e-05
+}

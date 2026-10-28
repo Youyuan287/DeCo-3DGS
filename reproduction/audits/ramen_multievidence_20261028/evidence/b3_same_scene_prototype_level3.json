@@ -1,0 +1,10 @@
+{
+  "debiased_avg_groups": 2.49,
+  "direction_sha256": "583ba94787c56108a96e8593c2aebf1d01a298d82108dd5b8466afd7ad958ba3",
+  "observation_sha256": "8af9864ff598bd8bd55e19a318dce857a2cdee920db73a8a4252c42983b62c58",
+  "raw_avg_groups": 2.1533333333333333,
+  "regions": 300,
+  "regions_with_different_group_count": 110,
+  "status": "PROTOTYPE_UNVERIFIED_SAME_SCENE_DIRECTION",
+  "u_norm": 0.9999999403953552
+}

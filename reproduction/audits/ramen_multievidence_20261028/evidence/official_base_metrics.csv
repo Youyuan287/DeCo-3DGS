@@ -1,0 +1,5 @@
+scene,official_field_miou,my_rebuild_miou,paper_miou,thres_used_for_base
+figurines,58.11,NA_features_deleted,64.7,0.0005(official iteration_0)
+ramen,40.40,49.48,51.2,0.0005(official iteration_0)
+teatime,82.91,69.31,81.0,0.0005(official iteration_0)
+waldo_kitchen,57.62,45.92,60.6,0.0005(official iteration_0)
