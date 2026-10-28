@@ -1,0 +1,201 @@
+diff --git a/merge_proj.py b/merge_proj.py
+index 0000000..1111111 100644
+--- a/merge_proj.py
++++ b/merge_proj.py
+@@ -17,12 +17,13 @@ import utils.sai3d_utils as utils
+ from utils.linetimer import CodeTimer
+ 
+ from scene import Scene, GaussianModel
+ from gaussian_renderer import render_point, trace
+ from arguments import *
+ import torch.nn.functional as F
++from production_observation_adapter import ProductionObservationSink
+ 
+ 
+ N_WORKERS = 20
+ 
+ 
+ class SAI3D:
+@@ -124,12 +125,24 @@ class SAI3D:
+         keep_mask = mean_sim > (mu - self.args.tau * sigma)
+ 
+         if keep_mask.sum() == 0:
+             keep_mask[mean_sim.argmax()] = True
+ 
+         filtered_feats = features[keep_mask]
++        mode = getattr(self.args, "agg", "mean")
++        if mode == "medoid" and filtered_feats.shape[0] > 1:
++            # pick a REAL observation: the one closest (in mean cosine) to all kept ones
++            cs = F.cosine_similarity(filtered_feats.unsqueeze(1),
++                                     filtered_feats.unsqueeze(0), dim=-1)
++            return F.normalize(filtered_feats[cs.mean(1).argmax()], p=2, dim=-1)
++        if mode == "trimmed" and filtered_feats.shape[0] > 4:
++            # drop the most isolated quarter, then average the rest
++            cs = F.cosine_similarity(filtered_feats.unsqueeze(1),
++                                     filtered_feats.unsqueeze(0), dim=-1)
++            keep = cs.mean(1) >= cs.mean(1).quantile(0.25)
++            return F.normalize(filtered_feats[keep].mean(dim=0), p=2, dim=-1)
+         return F.normalize(filtered_feats.mean(dim=0), p=2, dim=-1)
+ 
+     @torch.no_grad()
+     def proj_gaussian_features(
+         self, gaussians, views, feature_level, gau2sp, pt_sp_label, device="cuda"
+     ):
+@@ -138,23 +151,26 @@ class SAI3D:
+         WEIGHT_THRESHOLD = 0.0001
+         RATIO_THRESHOLD = 0.3
+ 
+         sp_uni, sp_gnum = torch.unique(gau2sp, return_counts=True, sorted=True)
+         feat_dim = views[0].semantic["sem"].to(device).shape[1]
+         sp_feature_list = [[] for _ in range(sp_uni.shape[0])]
++        observation_out = getattr(self.args, "observation_out", __import__("os").environ.get("RELAGS_OBSERVATION_OUT", ""))
++        observation_sink = ProductionObservationSink() if observation_out else None
++        gaussian_ids = torch.arange(gau2sp.numel(), device=gau2sp.device)
+ 
+         pipeline = self.pipeline
+         background = self.background
+ 
+         # Render and accumulate features from each view
+         for view_idx, view in enumerate(tqdm(views, desc="Projection progress")):
+             render_pkg = render_point(view, gaussians, pipeline, background)
+             weight = render_pkg["weight"]
+             gau_mask = weight > WEIGHT_THRESHOLD
+ 
+-            gt_feature = view.semantic["sem"].to(device)
++            gt_feature = view.semantic["sem"].to(device).float()
+             seg_map = view.semantic["seg_map"][feature_level]
+             img_mask = view.semantic["fg_mask"][feature_level]
+ 
+             seg_min = seg_map[img_mask].min().item()
+             seg_max = seg_map[img_mask].max().item()
+             view_level_feature = gt_feature[seg_min : seg_max + 1]
+@@ -162,20 +178,43 @@ class SAI3D:
+ 
+             # Compute superpoint-to-mask assignment ratios
+             sp_mask_mat = self._get_superpoint_mask_ratio(
+                 gau2sp, pt_sp_label[view_idx], seg_num
+             )
+             sp_mask_mat[sp_mask_mat < RATIO_THRESHOLD] = 0
++            _mix = getattr(self.args, "mix", "soft")
++            if _mix == "hard":
++                # a superpoint gets ONE real mask observation, not a blend of neighbours
++                _hard = torch.zeros_like(sp_mask_mat)
++                _nz = sp_mask_mat.sum(1) > 0
++                _hard[_nz, sp_mask_mat[_nz].argmax(1)] = 1.0
++                sp_mask_mat = _hard
++            elif _mix == "top2":
++                _vals, _idx = sp_mask_mat.topk(2, dim=1)
++                _keep = torch.zeros_like(sp_mask_mat)
++                _keep.scatter_(1, _idx, (_vals > 0).float())
++                sp_mask_mat = sp_mask_mat * _keep
++                sp_mask_mat = sp_mask_mat / (sp_mask_mat.sum(1, keepdim=True) + 1e-8)
+             sp_feat = sp_mask_mat @ view_level_feature
+ 
+             # Accumulate weighted features for visible superpoints
+             sp_index = gau2sp[gau_mask]
+             unique_sp, sp_gau_count = torch.unique(sp_index, return_counts=True)
++            visible_gaussian_ids = torch.nonzero(gau_mask, as_tuple=False).flatten()
+ 
+             for sp_idx, sp in enumerate(unique_sp):
+                 visibility_portion = sp_gau_count[sp_idx] / sp_gnum[sp].item()
++                if observation_sink is not None:
++                    member_ids = gaussian_ids[gau2sp == sp]
++                    visible_ids = visible_gaussian_ids[sp_index == sp]
++                    observation_sink.add(
++                        region_id=sp.item(), view_id=view_idx,
++                        sp_feat=sp_feat[sp].detach().cpu().numpy(),
++                        visibility_portion=visibility_portion.item(),
++                        member_gaussian_ids=member_ids.detach().cpu().numpy(),
++                        visible_gaussian_ids=visible_ids.detach().cpu().numpy(), level_id=feature_level)
+                 feat = F.normalize(sp_feat[sp], p=2, dim=-1) * visibility_portion
+                 if feat.any():
+                     sp_feature_list[sp].append(feat)
+ 
+         # Filter outliers and compute final features using our statistical method
+         sp_features = []
+@@ -185,12 +224,14 @@ class SAI3D:
+                 
+                 # outlier-aware feature aggregation
+                 sp_features.append(self._filter_feature_outliers(features, device))
+             else:
+                 sp_features.append(torch.zeros(feat_dim, device=device))
+ 
++        if observation_sink is not None:
++            observation_sink.save(observation_out.format(level=feature_level))
+         return F.normalize(torch.stack(sp_features, dim=0), p=2, dim=-1)
+ 
+     def extract_gaussian_features(self, gaussians, views, feature_level):
+         pipeline = self.pipeline
+         background = self.background
+         labels = []
+@@ -201,13 +242,16 @@ class SAI3D:
+                 seg_map[img_mask].min().item(),
+                 seg_map[img_mask].max().item(),
+             )
+             seg_num = seg_max - seg_min + 2
+             seg_map -= seg_min - 1
+             seg_map[~img_mask] = 0
+-            enc = torch.normal(mean=0, std=1, size=(seg_num, 20), device="cuda")
++            _g = torch.Generator(device="cuda")
++            _g.manual_seed(getattr(self.args, "seed", 1234))
++            enc = torch.normal(mean=0, std=1, size=(seg_num, 20),
++                               generator=_g, device="cuda")
+             enc = torch.nn.functional.normalize(enc, p=2, dim=-1)
+ 
+             feature_map = enc[seg_map]
+             # ray tracing
+             render_pkg = trace(view, gaussians, feature_map, None, pipeline, background)
+             gau_depth, gau_sem, num_ray = (
+@@ -613,12 +657,16 @@ def everything_seg(args):
+         )
+         utils.save_label_ply(
+             agent.points,
+             labels_fine_global,
+             join(args.model_path, args.model_path.split("/")[-2] + "saifine.ply"),
+         )
++        import numpy as _np
++        _lab = labels_fine_global
++        _lab = _lab.detach().cpu().numpy() if hasattr(_lab, "detach") else _np.asarray(_lab)
++        _np.save(join(args.model_path, "saifine_labels.npy"), _lab.astype(_np.int32))
+     print("Final labels num:", torch.unique(labels_fine_global).shape[0])
+ 
+     for k, v in time_collection.items():
+         print(f"Time {k}: {v:.1f}")
+     print(f"Total time: {sum(time_collection.values()):.1f}")
+ 
+@@ -694,12 +742,35 @@ if __name__ == "__main__":
+     parser.add_argument(
+         "--tau",
+         type=float,
+         default=2,
+         help="threshold factor for filtering features based on mean cosine similarity",
+     )
++    parser.add_argument(
++        "--seed",
++        type=int,
++        default=1234,
++        help="seed for the per-mask random encodings that drive region growing; the "
++             "clustering changes with it, so report the spread over seeds",
++    )
++    parser.add_argument(
++        "--mix",
++        type=str,
++        default="soft",
++        choices=["soft", "hard", "top2"],
++        help="per-view superpoint feature: soft ratio mixture, hard dominant mask, "
++             "or top-2 renormalised",
++    )
++    parser.add_argument(
++        "--agg",
++        type=str,
++        default="mean",
++        choices=["mean", "medoid", "trimmed"],
++        help="how to aggregate the kept per-view features: average, pick a real "
++             "observation (medoid), or trimmed average",
++    )
+     args = get_combined_args(parser)
+ 
+     th_tuple = args.thres_connect.split(",")
+     args.thres_connect = list(map(float, th_tuple))
+ 
+     everything_seg(args)
