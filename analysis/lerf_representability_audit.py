@@ -49,7 +49,7 @@ with torch.no_grad():
         vis = (wt > 1e-4)
         R = torch.from_numpy(np.asarray(cam.R)).float().cuda()
         T = torch.from_numpy(np.asarray(cam.T)).float().cuda()
-        pc = xyz @ R.T + T
+        pc = xyz @ R + T
         z = pc[:, 2]
         front = vis & (z > 1e-4)
         fx = w / (2 * np.tan(cam.FoVx * 0.5))
