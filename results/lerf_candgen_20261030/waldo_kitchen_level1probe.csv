@@ -1,0 +1,5 @@
+scene,image,prompt,l2_5_n,l2_5_best,l1_5_n,l1_5_best,l1_10_n,l1_10_best
+waldo_kitchen,frame_00089,knife,5,0.2582074805928017,5,0.2582074805928017,10,0.2582074805928017
+waldo_kitchen,frame_00089,cabinet,5,0.0,5,0.0,10,0.9795472057290486
+waldo_kitchen,frame_00140,spoon,6,0.0,6,0.026926359897571195,12,0.026926359897571195
+waldo_kitchen,frame_00154,knife,5,0.0,5,0.0,10,0.0
