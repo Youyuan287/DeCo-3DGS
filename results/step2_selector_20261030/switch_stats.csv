@@ -1,0 +1,3 @@
+method,switched,switched_correct,switch_precision
+logit,406,110,0.270935960591133
+gbm,503,130,0.2584493041749503

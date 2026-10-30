@@ -1,0 +1,23 @@
+Phase B segment identity audit (PREREG_identity_phaseB.md), queries=208
+families: hard=55 (deep 19), cross_root_hard=46, found=124, recall_fail=29; fallback rows=108
+  Vc_seg   hard             auc        0.759 [0.688,0.829] n=55
+  Vc_seg   hard             rescue     0.273 [0.164,0.382] n=55
+  Vc_seg   cross_root_hard  rescue     0.326 [0.196,0.457] n=46
+  Vc_seg   deep             rescue     0.211 [0.053,0.368] n=19
+  Vc_seg   found            retention  0.597 [0.524,0.669] n=124
+
+  A(scale) hard             auc        0.892 [0.852,0.932] n=55
+  A(scale) hard             rescue     0.618 [0.491,0.745] n=55
+  A(scale) cross_root_hard  rescue     0.696 [0.565,0.826] n=46
+  A(scale) deep             rescue     0.632 [0.421,0.842] n=19
+  A(scale) found            retention  0.637 [0.556,0.718] n=124
+
+R_cons_seg hard rescue 0.218 [0.127,0.327]
+R_cons_seg found retention 0.968 [0.935,0.992]
+Vc_seg residualized on log n_points (hard): AUC 0.722 [0.639,0.800] n=55
+
+  [FAIL] hard rescue(Vc_seg)>=0.50 & CI_low>0.30
+  [FAIL] found retention>=0.85 & CI_low>0.75
+  [FAIL] cross_root_hard rescue>=0.45 & CI_low>0.25
+  [PASS] hard residual AUC(Vc_seg) CI_low>0.60
+VERDICT: FAIL

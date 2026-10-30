@@ -1,0 +1,10 @@
+OLD_SESSION_*.md
+check_server.bat
+check_server.ps1
+check_result.txt
+server_check_result.txt
+__pycache__/
+*.pyc
+*.log
+results/**/logs/
+results/**/*.log

@@ -1,0 +1,84 @@
+{
+  "methods": {
+    "off": {
+      "pooled": 55.04050551155686,
+      "macro": 50.1783291304542
+    },
+    "lam": {
+      "pooled": 53.2195656591159,
+      "macro": 48.22196369402353
+    },
+    "logit": {
+      "pooled": 55.14115257369275,
+      "macro": 50.4274274083775
+    },
+    "gbm": {
+      "pooled": 56.8975342604933,
+      "macro": 50.69535292347736
+    },
+    "oracle_top5": {
+      "pooled": 73.58264441184103,
+      "macro": 69.13561495953967
+    },
+    "oracle_cand": {
+      "pooled": 75.127997874057,
+      "macro": 70.39595313602508
+    }
+  },
+  "folds": [
+    {
+      "scene": "scene0000_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0062_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0070_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0097_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0140_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0200_00",
+      "lam": 0.5
+    },
+    {
+      "scene": "scene0347_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0400_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0590_00",
+      "lam": 0.0
+    },
+    {
+      "scene": "scene0645_00",
+      "lam": 0.5
+    }
+  ],
+  "switches": [
+    {
+      "method": "logit",
+      "switched": 406,
+      "switched_correct": 110,
+      "switch_precision": 0.270935960591133
+    },
+    {
+      "method": "gbm",
+      "switched": 503,
+      "switched_correct": 130,
+      "switch_precision": 0.2584493041749503
+    }
+  ]
+}
