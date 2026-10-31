@@ -46,6 +46,9 @@ B0 的六位核对值：58.5869 / 51.8076 / 79.3896 / 65.9209，macro 0.6392625�
 | 8 | 秩融合替代 z 融合 | A | ReLaGS +0.0069（CI 含 0）；B0 +0.0080（未达 +0.01） | FAIL（修掉 λ 敏感但丢 ramen 收益） |
 | 9 | 模块 C + mask 排序叠加 | A（B0） | main 0.6393 / C 0.6603 / stack 0.6478；stack−C −0.0125（CI 含 0），found 0.8177 vs C 0.8312，waldo −8.2 | FAIL（交互破坏 C 的 guard；且 mask 排序存在 nan 填充 bug，结果仅作记录） |
 | 10 | 逐查询 gating（C vs mask） | A（B0） | **gateB（mask 改动用 mask，否则 C）：0.6757**，+3.65 vs main（CI [+0.0243,+0.0470]），+1.55 vs C（CI [+0.0068,+0.0242]），+1.39 vs mask（CI [+0.0055,+0.0236]）；found 0.8312（与 C 持平），deep 0.6607 | **PASS（四场景完整实跑）** |
+| 11 | 有原理的 margin gating | A（B0） | 选择边界 margin 0.6603、top-1 margin 0.6600，均退化为 C；在 mask 改变选择的查询上从未触发 | FAIL（两路 margin 不可比：mask 分数含 NAG 项） |
+| 12 | 查询视角 top-1 mask 提升（Stage 1） | A（B0） | 整体 0.4598；recall 0.1083（池内 0.027）、deep 0.5292、found 0.5753；union/lowconf 组合 0.5854/0.6501 | Stage 1 过 recall 门；Stage 2 组合 FAIL（伤 found） |
+| 13 | 证据竞争式 mask 扩张 | A（B0） | proposal 的 top-3 mask 相似度 > gate 选中候选的 id_top3 时才替换；0.6778（+0.0020，CI [+0.0000,+0.0074]）；3 条查询切换，found/rank2/deep 完全不变，recall 0.0198→0.0390 | 安全的小增益（未达 +0.01 门控） |
 
 ### 3.1 掩膜级聚合重排（当前最好结果）
 
@@ -94,6 +97,21 @@ gateB−mask **+0.0139 [+0.0022,+0.0259]**；gateB−main **+0.0364**。
 gateB 的 95% CI：vs main **+0.0365 [+0.0243,+0.0470]**、vs C **+0.0155 [+0.0068,+0.0242]**、
 vs mask **+0.0139 [+0.0055,+0.0236]**。此前 gate 脚本的 `nan` 填充 bug 已修复（缺失 id_top3 用有限值均值填充），
 修复前的 mask 分支会少救 3 条 deep 查询。stack 结果（第 9 行）产生于该修复之前，仅作记录。
+
+### 3.4 有原理的 gating 与 mask 扩张（2026-10-31 补充）
+
+- **margin gating**：用“选择边界 margin”和“top-1 margin”两种稳定性判据（预注册 `PREREG_margin_gate.md`）
+  比较 NAG 与 mask 两路，实测分别退化为 0.6603 / 0.6600（= 模块 C）。原因：mask 分数本身是
+  `z(NAG)+z(id_top3)`，两路 margin 不在同一尺度；在 mask 真正改变选择的查询上，mask margin 从未更大。
+  这是一个有价值的负结果：**跨融合分数的 margin 不可直接比较**。
+- **mask 扩张 Stage 1**（`PREREG_mask_proposal.md`）：查询视角按文本选 top-1 SAM mask 提升到 3D。
+  整体仅 0.4598，但 **recall 族 0.1083（池内 0.027）**、deep 0.5292；说明 proposal 对“池内无正确候选”
+  有独立价值，但对 found 太弱。
+- **Stage 2 组合**：无条件 union 0.5854、低置信（max_pred<0.5）union 0.6501，均因 found 下降而失败。
+- **证据竞争式扩张**：仅当 proposal 的 top-3 mask 相似度 **大于** gate 选中候选的 `id_top3` 时才替换
+  proposal。结果 **0.6778（+0.0020，CI [+0.0000,+0.0074]）**；只有 3 条查询切换（figurines 的
+  `tesla door handle` 0→0.556，ramen 两条 onion 0→0），found/rank2/deep **完全不变**，recall 0.0198→0.0390。
+  结论：安全的小增益，未达 +0.01 门控；recall 的更大头寸需要多视角 proposal 或扩池。
 
 ---
 

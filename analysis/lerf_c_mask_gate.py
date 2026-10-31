@@ -148,8 +148,35 @@ with torch.no_grad():
             S_M = order_m[:g] if g > 0 else []
             S_gate = S_C if set(S_C) != set(S0) else S_M
             S_gateb = S_M if set(S_M) != set(S0) else S_C
-            row = dict(scene=args.scene, image=name, prompt=prompt, n=n, gap_len=g, center=args.center)
-            for tag, sel in (("main", S0), ("c", S_C), ("mask", S_M), ("gate", S_gate), ("gateb", S_gateb)):
+            zn = zs(sc)
+            zm = zs(S)
+
+            def _margin(sel, s):
+                if not sel:
+                    return -1e9
+                if len(sel) == len(s):
+                    return 1e9
+                sel_set = set(sel)
+                rest = [j for j in range(len(s)) if j not in sel_set]
+                return float(min(s[i] for i in sel) - max(s[j] for j in rest))
+
+            m_nag = _margin(S0, zn)
+            m_mask = _margin(S_M, zm)
+
+            def _top1_margin(s):
+                if len(s) < 2:
+                    return 1e9
+                ss = sorted(s, reverse=True)
+                return float(ss[0] - ss[1])
+
+            m1_nag = _top1_margin(zn)
+            m1_mask = _top1_margin(zm)
+            S_gatec = S_M if (set(S_M) != set(S0) and m_mask > m_nag) else S_C
+            S_gated = S_M if (set(S_M) != set(S0) and m1_mask > m1_nag) else S_C
+            row = dict(scene=args.scene, image=name, prompt=prompt, n=n, gap_len=g, center=args.center,
+                       m_nag=m_nag, m_mask=m_mask, m1_nag=m1_nag, m1_mask=m1_mask)
+            for tag, sel in (("main", S0), ("c", S_C), ("mask", S_M), ("gate", S_gate),
+                             ("gateb", S_gateb), ("gatec", S_gatec), ("gated", S_gated)):
                 row[tag + "_len"] = len(sel)
                 row[tag + "_iou"] = iou(render_mask([p5[i] for i in sel], cam, h, w), gt) if sel else 0.0
             rows.append(row)
