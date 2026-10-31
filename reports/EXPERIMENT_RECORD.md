@@ -57,6 +57,7 @@ B0 的六位核对值：58.5869 / 51.8076 / 79.3896 / 65.9209，macro 0.6392625�
 | 19 | query-agnostic id_mean_c rerank（标准协议） | A（B0） | 0.6393→**0.6421（+0.0028，CI [+0.0000,+0.0085]）** | 同上 |
 | 20 | SREM Phase A（背景对比+子集选择） | A（Phase A） | found 87.9%→75.8%、deep 73.7%→68.4%、recall 24.1%→17.2%；λ0μ1 仅 recall 31.0% 但 found 76.6% | **Stage 1 FAIL**（不调 λ） |
 | 21 | ScanNet-10 移植 late interaction | A（ScanNet） | baseline scene macro 40.36 / pooled 43.88；top3 22.85 / 31.94；meanfeat 40.15 / 42.83；背景对比 1.58 / 2.66 | **负迁移**（协议不同；方法只适用于 query selection） |
+| 22 | query-only 模板一致性 gating | A（B0） | qgate 0.6603（=C） vs gateE 0.6760；deep 0.6607→0.4446；reliability found/rank2/deep/recall=0.90–0.93，deep 低分比例 0 | FAIL（信号无区分度） |
 
 > **读出方式说明（2026-10-31 更正）**：`id_top3` **不是**“文本进入聚合”；场是固定的逐视角 token，
 > 文本只在查询时对 token 打分（late interaction，ColBERT 式）。`id_mean` 是单向量读出，
