@@ -38,6 +38,31 @@ LREF-OVS figurines 是唯一同时具备以下条件的场景，故选它做端�
 **读法**：重建的特征与作者的特征在同一层级上是**同一个语义场**（0.9999）。
 58.11 那一行是同一个代码路径喂了另一套 CLIP 权重（OpenAI ViT-B/16）的结果，与作者无关。
 
+### 2.1 全部 14 次重跑（`results/rerun_matrix.csv`）
+
+同一评测脚本、同一 56 条 query / 4 图、同一参数，只改"喂什么语义场"和"随机种子"：
+
+| # | 臂（`results/reruns/<arm>__*.{log,csv}`） | 语义场来源 | seed | mIoU | flat |
+|---:|---|---|---:|---:|---:|
+| 1 | `fig_relags2_s7` | 官方编码器重编码（正确路径） | 7 | **66.10** | 65.56 |
+| 2 | `swapA` | 本分区 + 官方 `nag_feat`（最大重叠映射） | 7 | 64.68 | 64.07 |
+| 3 | `official` | 作者发布 `sai_nag.pt` | — | 63.29 | 62.78 |
+| 4 | `fig_up_s7` | LangSplat 特征 + **上游未打补丁** `merge_proj.py` | 7 | 58.11 | 57.55 |
+| 5 | `fig_relags_s7` | LangSplat 特征 + 本补丁版 | 7 | 58.11 | 57.55 |
+| 6–10 | `figurines_s0/s7/s42/s1234/s2024` | LangSplat 特征 + 播种扫描 | 0/7/42/1234/2024 | 58.11 ×5 | 57.55 ×5 |
+| 11–12 | `fig_off_s0/s42` | 同上，DeCo 两算子关闭 | 0/42 | 58.11 ×2 | 57.55 ×2 |
+| 13 | `mp_off` | 同上，`merge_proj` 去均值关闭 | 7 | 58.11 | 57.55 |
+| 14 | `swapB` | 官方标签 + 本特征 | 7 | **OOM，未跑完** | — |
+
+三条可直接读出的结论：
+
+1. **换种子不动分**（#6–10）：5 个种子到小数点后 4 位相同 → `torch.normal` 的随机性不是偏差来源。
+2. **换实现不动分**（#4 vs #5、#11–13）：上游版 / 本补丁版 / 关算子，全 58.11 → 补丁没有引入偏差。
+3. **只换特征就动 5.2 分**（#3 vs #5 = 63.29 vs 58.11；#3 vs #2 = 同特征换分区的 1.4 分）。
+   #1 比 #3 高 2.81，是"特征等价 + 分区微差"的结果，见 §5。
+
+`swapB` 的日志保留了 OOM 现场（`swapB__eval.log`），作为"官方标签按最大重叠贴回本分区"这条路走不通的记录。
+
 ## 3. 根因：符号链接路径穿透（`dataset_readers.py:117`）
 
 官方 `scripts/image_encoding.py` 把特征写成 `<scene>/language_features/<frame>_f.npy`，
@@ -156,6 +181,8 @@ $V/bin/python reproduction/scripts/eval_lerf_relags.py --scene figurines \
 
 | 文件 | 内容 |
 |---|---|
+| `results/rerun_matrix.csv` | 全部 14 次重跑的 mIoU / flat / 语义场来源 / 种子（§2.1） |
+| `results/reruns/` | 14 次重跑的评测日志 + 逐 query CSV（`<arm>__eval.log`、`<arm>__q.csv`） |
 | `results/official_figurines.csv` | 官方 `sai_nag.pt` 的 56 条逐 query IoU |
 | `results/relags2_figurines.csv` | 本重建（laion2b + 正确路径）的 56 条逐 query IoU |
 | `results/figurines_relags2_sai_nag_3.0.pt` | 重建产物（`nag` 4 层 + `nag_feat` 3×512） |
