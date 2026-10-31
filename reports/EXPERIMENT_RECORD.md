@@ -56,12 +56,12 @@ B0 的六位核对值：58.5869 / 51.8076 / 79.3896 / 65.9209，macro 0.6392625�
 | 18 | query-agnostic id_mean rerank（标准协议） | A（B0） | 0.6393→**0.6448（+0.0056，CI [+0.0000,+0.0134]）** | 未达 +0.01 门控；标准协议下增益很小 |
 | 19 | query-agnostic id_mean_c rerank（标准协议） | A（B0） | 0.6393→**0.6421（+0.0028，CI [+0.0000,+0.0085]）** | 同上 |
 
-> **协议警告（2026-10-31）**：mask rerank / gateE 使用的 `id_top3` 在**聚合阶段**用了文本相似度，
-> 得到的是 **query-conditioned readout**，不是“固定语义高斯场 + 查询时打分”的标准 3D-OVS 协议。
-> 标准协议下（`id_mean` / `id_mean_c`）增益只有 **+0.28~+0.56**，未达门控；+2.3~+3.7 主要来自协议差异。
-> 详见 `reports/PROTOCOL_QUERY_CONDITIONED.md`。在标准协议下目前**不能声称优于 ReLaGS/DeCo**。
+> **读出方式说明（2026-10-31 更正）**：`id_top3` **不是**“文本进入聚合”；场是固定的逐视角 token，
+> 文本只在查询时对 token 打分（late interaction，ColBERT 式）。`id_mean` 是单向量读出，
+> 同一 token 场下只有 **+0.28~+0.56**；换成多 token late interaction 才到 **+2.26~+3.66**。
+> 比较时必须声明读出方式；baseline 是单向量读出。详见 `reports/PROTOCOL_QUERY_CONDITIONED.md`。
 
-### 3.1 掩膜级聚合重排（query-conditioned 协议下最好结果）
+### 3.1 掩膜级聚合重排（多视角 late-interaction 读出下最好结果）
 
 - 方法：`S = z(NAG) + 1.0·z(id_top3_mask)`，保持 released gap 的 k，仅在 k 内重排。
 - 分场景 Δ（ReLaGS / B0）：figurines +1.27 / +3.02；ramen +6.14 / +6.10；teatime 0 / 0；waldo −0.11 / −0.07。
@@ -84,7 +84,7 @@ B0 的六位核对值：58.5869 / 51.8076 / 79.3896 / 65.9209，macro 0.6392625�
 结论：信号互补，但不能靠改排序叠加；下一步应做 **per-query gating** 或 **feature-level 聚合**，
 而不是把 mask 顺序直接塞进 C。
 
-### 3.3 逐查询 gating（query-conditioned 协议下最好，0.6760）
+### 3.3 逐查询 gating（late-interaction 读出下最好，0.6760）
 
 规则（训练-free，只看“哪一路改变了 released 选择”）：
 - gateA：C 改变选择 → 用 C；否则用 mask 重排（预注册主规则）。
@@ -104,7 +104,7 @@ B0 底座，四场景（按图平均）：
 gateB−mask **+0.0139 [+0.0022,+0.0259]**；gateB−main **+0.0364**。
 分族：found 0.8312（与 C 持平）、rank2 0.6395、deep **0.6607**（C 0.4446 / mask 0.5281）、recall 0.0198。
 
-**协议**：本节所有 0.676 结果使用 id_top3（文本进入聚合），属于 query-conditioned readout；标准协议（id_mean）仅 0.6448（+0.56）。
+**读出**：本节 0.676 结果使用 `id_top3` 多 token late interaction；同一 token 场的单向量读出（id_mean）仅 0.6448（+0.56）。
 
 **状态**：四场景已全部用修复后的脚本完整实跑（waldo/teatime 在 GPU 释放后补跑），表中数字为实测；
 gateB 的 95% CI：vs main **+0.0365 [+0.0243,+0.0470]**、vs C **+0.0155 [+0.0068,+0.0242]**、
