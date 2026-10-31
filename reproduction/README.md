@@ -29,6 +29,15 @@
 
 完整分析见 **[FINAL_REPORT.md](FINAL_REPORT.md)**，分阶段记录见 [`reports/`](reports/)。
 
+### 1.1 后续补充（2026-10-31）
+
+| 追加内容 | 位置 | 一句话 |
+|---|---|---|
+| **语义场能否从零重建** | [`audits/figurines_feature_encoding_20261031/`](audits/figurines_feature_encoding_20261031/) | 能。官方编码器重编码 299 帧后重建的 `sai_nag_3.0.pt` 与作者发布权重逐簇余弦 **0.9999**，mIoU **0.6610** vs 发布 **0.6329**。同时查清 §8.3「重建不等值」的真实根因是 `dataset_readers.py:117` 的**符号链接路径穿透**，不是编码参数。 |
+| **3D-OVS 全流程扩展** | [`3dovs/`](3dovs/) | 官方 3D-OVS 5 场景从原始数据跑完（2DGS 30k → SAM+CLIP → 超点层级 → merge_proj → 评测），5 场景 × 7 臂。base 均值 70.05，DeCo 两算子在该协议下为 wash。 |
+
+3D-OVS 是本仓库的**扩展**：DeCo 只发布 ScanNet-10/LERF-Mask/LERF-OVS，没有 3D-OVS 数字与评测代码。
+
 ---
 
 ## 2. 快速开始
@@ -109,6 +118,10 @@ python ../reproduction/scripts/eval_lerf_relags.py \
 ```
 reproduction/
 ├── FINAL_REPORT.md      最终交付稿（11 节，含结论/溯源/协议/局限）
+├── audits/
+│   ├── ramen_multievidence_20261028/    ramen 多证据检索的审计与补丁提案
+│   └── figurines_feature_encoding_20261031/ 语义场从零重建（cos 0.9999）+ 符号链接路径穿透 bug
+├── 3dovs/               3D-OVS 全流程扩展（8 场景数据集 → 5 场景 × 7 臂评测）
 ├── reports/01..08       分阶段记录（环境审计→2DGS→流水线→协议→结果→HF口径→逐像素→参数上限）
 ├── scripts/
 │   ├── eval_lerf_relags.py     主评测（簇级协议）
@@ -142,7 +155,11 @@ reproduction/
 - 论文未给出 `topk`/聚合细节，评测代码未公开；剩余 −0.39 可能来自这些未公开细节（多实例合并、聚合权重）。
 - 未从零训练 2DGS，复用官方发布场景。
 - 仅覆盖 LERF-OVS 四场景，未做 ScanNet / 3D-OVS / 场景图预测。
+  （**更新**：3D-OVS 已在 [`3dovs/`](3dovs/) 补齐，但那是**扩展**不是复现 —— DeCo 无 3D-OVS 数字。）
 - 本目录早期数字 55.38（剪枝阈值误用 0.005）与 59.76（`topk=3`）**均已作废**，仅作为过程记录保留在 `reports/05`、`reports/06`。
+- **§8.3 的更正**：语义场重建当时被判"不等值"，实际根因是符号链接路径穿透读到了 LangSplat
+  的 OpenAI ViT-B/16 特征；修正后重建与发布权重等价（cos 0.9999）。详见
+  [`audits/figurines_feature_encoding_20261031/`](audits/figurines_feature_encoding_20261031/)。
 
 ## 8. 引用
 

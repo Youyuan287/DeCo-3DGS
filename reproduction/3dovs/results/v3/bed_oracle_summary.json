@@ -1,0 +1,27 @@
+{
+  "scene": "bed",
+  "miou": 0.9593598924847747,
+  "flat_miou": 0.9593599333333331,
+  "n_queries": 30,
+  "per_view": [
+    0.9592761398542796,
+    0.9586106245071854,
+    0.9546404326414607,
+    0.9621657177021471,
+    0.9621065477188004
+  ],
+  "mode": "oracle",
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 0,
+    "text_agg": "lse",
+    "cand_mode": "gap2",
+    "cand_margin": 0.02
+  }
+}

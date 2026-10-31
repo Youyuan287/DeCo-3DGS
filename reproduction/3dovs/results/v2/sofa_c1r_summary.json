@@ -1,0 +1,24 @@
+{
+  "scene": "sofa",
+  "miou": 0.5293162765937851,
+  "flat_miou": 0.5293163,
+  "n_queries": 30,
+  "per_view": [
+    0.5068084400782789,
+    0.46120155103142996,
+    0.5334481933690296,
+    0.5958352736424919,
+    0.5492879248476953
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 1,
+    "text_agg": "lse"
+  }
+}

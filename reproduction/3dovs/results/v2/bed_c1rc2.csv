@@ -1,0 +1,31 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+bed,00,red bag,0.0,0,1197379,1
+bed,00,black leather shoe,2e-05,272,603594,1
+bed,00,banana,0.701371,449504,317035,2
+bed,00,hand,0.0,0,616331,1
+bed,00,camera,0.0,16,278851,1
+bed,00,white sheet,0.0,0,9179578,1
+bed,04,red bag,0.0,0,1012078,1
+bed,04,black leather shoe,7.5e-05,7136,751316,1
+bed,04,banana,0.629041,542864,342463,2
+bed,04,hand,0.0,0,764574,1
+bed,04,camera,0.0,0,279994,1
+bed,04,white sheet,0.0,0,9042343,1
+bed,10,red bag,0.0,0,883560,1
+bed,10,black leather shoe,5.5e-05,4144,755966,1
+bed,10,banana,0.619174,560640,348369,2
+bed,10,hand,0.0,0,490557,1
+bed,10,camera,0.0,0,270878,1
+bed,10,white sheet,0.0,0,9443438,1
+bed,23,red bag,0.0,0,1048115,1
+bed,23,black leather shoe,3.7e-05,2576,977058,1
+bed,23,banana,0.640667,801600,514592,2
+bed,23,hand,0.0,0,426204,1
+bed,23,camera,0.0,0,358558,1
+bed,23,white sheet,0.0,0,8868241,1
+bed,30,red bag,0.0,0,1823879,1
+bed,30,black leather shoe,0.0,0,744371,1
+bed,30,banana,0.763063,732384,565447,2
+bed,30,hand,0.0,18224,1090337,1
+bed,30,camera,0.0,176,554610,1
+bed,30,white sheet,0.002458,18224,7414124,1

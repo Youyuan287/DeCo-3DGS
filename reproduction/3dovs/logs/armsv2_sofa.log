@@ -1,0 +1,1567 @@
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+  view 02: 6 classes, mIoU=0.6524
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+  view 04: 6 classes, mIoU=0.6046
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+  view 10: 6 classes, mIoU=0.6718
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+  view 15: 6 classes, mIoU=0.7132
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+  view 22: 6 classes, mIoU=0.6955
+SCENE_RESULT sofa mIoU=0.6675 flat=0.6675 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] image common mode removed from 3 levels
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8402, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8389, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7931, Num_pts: 188
+Level: 2, Root ID: 9, Index: 41, Sim: 0.7091, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6958, Num_pts: 34
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5947, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9145, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.7549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7016, Num_pts: 156
+----- Selected candidates above -----
+Level: 2, Root ID: 2, Index: 1, Sim: 0.5309, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4765, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4620, Num_pts: 4624
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8416, Num_pts: 8408
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8324, Num_pts: 156
+Level: 2, Root ID: 7, Index: 79, Sim: 0.8123, Num_pts: 313
+----- Selected candidates above -----
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6483, Num_pts: 27427
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6218, Num_pts: 106
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4856, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.7339, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.5538, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.5538, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.5482, Num_pts: 582
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5431, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.8371, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 93, Sim: 0.7081, Num_pts: 30
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6077, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.5771, Num_pts: 106
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4822, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.6480, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.6480, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.6397, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5508, Num_pts: 2349
+Level: 3, Root ID: 13, Index: 13, Sim: 0.5400, Num_pts: 1157
+  view 02: 6 classes, mIoU=0.6401
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8402, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8389, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7931, Num_pts: 188
+Level: 2, Root ID: 9, Index: 41, Sim: 0.7091, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6958, Num_pts: 34
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5947, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9145, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.7549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7016, Num_pts: 156
+----- Selected candidates above -----
+Level: 2, Root ID: 2, Index: 1, Sim: 0.5309, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4765, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4620, Num_pts: 4624
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8416, Num_pts: 8408
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8324, Num_pts: 156
+Level: 2, Root ID: 7, Index: 79, Sim: 0.8123, Num_pts: 313
+----- Selected candidates above -----
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6483, Num_pts: 27427
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6218, Num_pts: 106
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4856, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.7339, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.5538, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.5538, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.5482, Num_pts: 582
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5431, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.8371, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 93, Sim: 0.7081, Num_pts: 30
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6077, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.5771, Num_pts: 106
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4822, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.6480, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.6480, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.6397, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5508, Num_pts: 2349
+Level: 3, Root ID: 13, Index: 13, Sim: 0.5400, Num_pts: 1157
+  view 04: 6 classes, mIoU=0.5906
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8402, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8389, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7931, Num_pts: 188
+Level: 2, Root ID: 9, Index: 41, Sim: 0.7091, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6958, Num_pts: 34
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5947, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9145, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.7549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7016, Num_pts: 156
+----- Selected candidates above -----
+Level: 2, Root ID: 2, Index: 1, Sim: 0.5309, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4765, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4620, Num_pts: 4624
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8416, Num_pts: 8408
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8324, Num_pts: 156
+Level: 2, Root ID: 7, Index: 79, Sim: 0.8123, Num_pts: 313
+----- Selected candidates above -----
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6483, Num_pts: 27427
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6218, Num_pts: 106
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4856, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.7339, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.5538, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.5538, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.5482, Num_pts: 582
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5431, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.8371, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 93, Sim: 0.7081, Num_pts: 30
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6077, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.5771, Num_pts: 106
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4822, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.6480, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.6480, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.6397, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5508, Num_pts: 2349
+Level: 3, Root ID: 13, Index: 13, Sim: 0.5400, Num_pts: 1157
+  view 10: 6 classes, mIoU=0.6625
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8402, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8389, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7931, Num_pts: 188
+Level: 2, Root ID: 9, Index: 41, Sim: 0.7091, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6958, Num_pts: 34
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5947, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9145, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.7549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7016, Num_pts: 156
+----- Selected candidates above -----
+Level: 2, Root ID: 2, Index: 1, Sim: 0.5309, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4765, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4620, Num_pts: 4624
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8416, Num_pts: 8408
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8324, Num_pts: 156
+Level: 2, Root ID: 7, Index: 79, Sim: 0.8123, Num_pts: 313
+----- Selected candidates above -----
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6483, Num_pts: 27427
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6218, Num_pts: 106
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4856, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.7339, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.5538, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.5538, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.5482, Num_pts: 582
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5431, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.8371, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 93, Sim: 0.7081, Num_pts: 30
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6077, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.5771, Num_pts: 106
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4822, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.6480, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.6480, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.6397, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5508, Num_pts: 2349
+Level: 3, Root ID: 13, Index: 13, Sim: 0.5400, Num_pts: 1157
+  view 15: 6 classes, mIoU=0.7109
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8402, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8389, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7931, Num_pts: 188
+Level: 2, Root ID: 9, Index: 41, Sim: 0.7091, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6958, Num_pts: 34
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5947, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9145, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.7549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7016, Num_pts: 156
+----- Selected candidates above -----
+Level: 2, Root ID: 2, Index: 1, Sim: 0.5309, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4765, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4620, Num_pts: 4624
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8416, Num_pts: 8408
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8324, Num_pts: 156
+Level: 2, Root ID: 7, Index: 79, Sim: 0.8123, Num_pts: 313
+----- Selected candidates above -----
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6483, Num_pts: 27427
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6218, Num_pts: 106
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4856, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.7339, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.5538, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.5538, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.5482, Num_pts: 582
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5431, Num_pts: 2720
+Level: 2, Root ID: 3, Index: 2, Sim: 0.8371, Num_pts: 27427
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 93, Sim: 0.7081, Num_pts: 30
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6077, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.5771, Num_pts: 106
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4822, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.6480, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.6480, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.6397, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5508, Num_pts: 2349
+Level: 3, Root ID: 13, Index: 13, Sim: 0.5400, Num_pts: 1157
+  view 22: 6 classes, mIoU=0.6851
+SCENE_RESULT sofa mIoU=0.6578 flat=0.6578 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] image common mode removed from 3 levels
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8930, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8741, Num_pts: 9651
+Level: 3, Root ID: 9, Index: 9, Sim: 0.8574, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.8504, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.8371, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.7202, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9192, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.9067, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7491, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4469, Num_pts: 1613
+Level: 2, Root ID: 3, Index: 2, Sim: 0.4321, Num_pts: 27427
+Level: 2, Root ID: 7, Index: 79, Sim: 0.9069, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8860, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8818, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.7661, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6859, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4674, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.8466, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 9, Index: 9, Sim: 0.6164, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.6156, Num_pts: 582
+Level: 3, Root ID: 2, Index: 2, Sim: 0.6098, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.6051, Num_pts: 2720
+Level: 3, Root ID: 3, Index: 3, Sim: 0.8962, Num_pts: 27612
+Level: 2, Root ID: 11, Index: 93, Sim: 0.8607, Num_pts: 30
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6774, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6287, Num_pts: 8408
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4685, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.7473, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.7473, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.7384, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5710, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.5580, Num_pts: 604
+  view 02: 6 classes, mIoU=0.5068
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8930, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8741, Num_pts: 9651
+Level: 3, Root ID: 9, Index: 9, Sim: 0.8574, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.8504, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.8371, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.7202, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9192, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.9067, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7491, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4469, Num_pts: 1613
+Level: 2, Root ID: 3, Index: 2, Sim: 0.4321, Num_pts: 27427
+Level: 2, Root ID: 7, Index: 79, Sim: 0.9069, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8860, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8818, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.7661, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6859, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4674, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.8466, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 9, Index: 9, Sim: 0.6164, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.6156, Num_pts: 582
+Level: 3, Root ID: 2, Index: 2, Sim: 0.6098, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.6051, Num_pts: 2720
+Level: 3, Root ID: 3, Index: 3, Sim: 0.8962, Num_pts: 27612
+Level: 2, Root ID: 11, Index: 93, Sim: 0.8607, Num_pts: 30
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6774, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6287, Num_pts: 8408
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4685, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.7473, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.7473, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.7384, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5710, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.5580, Num_pts: 604
+  view 04: 6 classes, mIoU=0.4612
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8930, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8741, Num_pts: 9651
+Level: 3, Root ID: 9, Index: 9, Sim: 0.8574, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.8504, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.8371, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.7202, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9192, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.9067, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7491, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4469, Num_pts: 1613
+Level: 2, Root ID: 3, Index: 2, Sim: 0.4321, Num_pts: 27427
+Level: 2, Root ID: 7, Index: 79, Sim: 0.9069, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8860, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8818, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.7661, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6859, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4674, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.8466, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 9, Index: 9, Sim: 0.6164, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.6156, Num_pts: 582
+Level: 3, Root ID: 2, Index: 2, Sim: 0.6098, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.6051, Num_pts: 2720
+Level: 3, Root ID: 3, Index: 3, Sim: 0.8962, Num_pts: 27612
+Level: 2, Root ID: 11, Index: 93, Sim: 0.8607, Num_pts: 30
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6774, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6287, Num_pts: 8408
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4685, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.7473, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.7473, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.7384, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5710, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.5580, Num_pts: 604
+  view 10: 6 classes, mIoU=0.5334
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8930, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8741, Num_pts: 9651
+Level: 3, Root ID: 9, Index: 9, Sim: 0.8574, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.8504, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.8371, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.7202, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9192, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.9067, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7491, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4469, Num_pts: 1613
+Level: 2, Root ID: 3, Index: 2, Sim: 0.4321, Num_pts: 27427
+Level: 2, Root ID: 7, Index: 79, Sim: 0.9069, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8860, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8818, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.7661, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6859, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4674, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.8466, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 9, Index: 9, Sim: 0.6164, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.6156, Num_pts: 582
+Level: 3, Root ID: 2, Index: 2, Sim: 0.6098, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.6051, Num_pts: 2720
+Level: 3, Root ID: 3, Index: 3, Sim: 0.8962, Num_pts: 27612
+Level: 2, Root ID: 11, Index: 93, Sim: 0.8607, Num_pts: 30
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6774, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6287, Num_pts: 8408
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4685, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.7473, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.7473, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.7384, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5710, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.5580, Num_pts: 604
+  view 15: 6 classes, mIoU=0.5958
+Level: 2, Root ID: 5, Index: 9, Sim: 0.8930, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.8741, Num_pts: 9651
+Level: 3, Root ID: 9, Index: 9, Sim: 0.8574, Num_pts: 137
+Level: 2, Root ID: 11, Index: 128, Sim: 0.8504, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.8371, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.7202, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.9192, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.9067, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.7491, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4469, Num_pts: 1613
+Level: 2, Root ID: 3, Index: 2, Sim: 0.4321, Num_pts: 27427
+Level: 2, Root ID: 7, Index: 79, Sim: 0.9069, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.8860, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.8818, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.7661, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.6859, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.4674, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.8466, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 9, Index: 9, Sim: 0.6164, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.6156, Num_pts: 582
+Level: 3, Root ID: 2, Index: 2, Sim: 0.6098, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.6051, Num_pts: 2720
+Level: 3, Root ID: 3, Index: 3, Sim: 0.8962, Num_pts: 27612
+Level: 2, Root ID: 11, Index: 93, Sim: 0.8607, Num_pts: 30
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.6774, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6287, Num_pts: 8408
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4685, Num_pts: 100
+Level: 3, Root ID: 16, Index: 16, Sim: 0.7473, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.7473, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.7384, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.5710, Num_pts: 2349
+Level: 3, Root ID: 12, Index: 12, Sim: 0.5580, Num_pts: 604
+  view 22: 6 classes, mIoU=0.5493
+SCENE_RESULT sofa mIoU=0.5293 flat=0.5293 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 9, Sim: 0.3178, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.3017, Num_pts: 9651
+Level: 2, Root ID: 9, Index: 41, Sim: 0.3004, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2924, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.2785, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2403, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.3400, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.2702, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1943, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1171, Num_pts: 1613
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0984, Num_pts: 106
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2530, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.2506, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1703, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.1291, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1070, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2840, Num_pts: 56085
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2061, Num_pts: 56
+Level: 2, Root ID: 2, Index: 3, Sim: 0.1986, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1957, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1914, Num_pts: 2720
+Level: 2, Root ID: 9, Index: 40, Sim: 0.1869, Num_pts: 112
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1814, Num_pts: 25
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3019, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2057, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.1900, Num_pts: 8408
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1842, Num_pts: 25692
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1550, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2100, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2100, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2077, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.2029, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.1975, Num_pts: 1157
+  view 02: 6 classes, mIoU=0.6403
+Level: 2, Root ID: 5, Index: 9, Sim: 0.3178, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.3017, Num_pts: 9651
+Level: 2, Root ID: 9, Index: 41, Sim: 0.3004, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2924, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.2785, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2403, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.3400, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.2702, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1943, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1171, Num_pts: 1613
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0984, Num_pts: 106
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2530, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.2506, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1703, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.1291, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1070, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2840, Num_pts: 56085
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2061, Num_pts: 56
+Level: 2, Root ID: 2, Index: 3, Sim: 0.1986, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1957, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1914, Num_pts: 2720
+Level: 2, Root ID: 9, Index: 40, Sim: 0.1869, Num_pts: 112
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1814, Num_pts: 25
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3019, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2057, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.1900, Num_pts: 8408
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1842, Num_pts: 25692
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1550, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2100, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2100, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2077, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.2029, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.1975, Num_pts: 1157
+  view 04: 6 classes, mIoU=0.5906
+Level: 2, Root ID: 5, Index: 9, Sim: 0.3178, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.3017, Num_pts: 9651
+Level: 2, Root ID: 9, Index: 41, Sim: 0.3004, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2924, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.2785, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2403, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.3400, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.2702, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1943, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1171, Num_pts: 1613
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0984, Num_pts: 106
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2530, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.2506, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1703, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.1291, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1070, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2840, Num_pts: 56085
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2061, Num_pts: 56
+Level: 2, Root ID: 2, Index: 3, Sim: 0.1986, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1957, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1914, Num_pts: 2720
+Level: 2, Root ID: 9, Index: 40, Sim: 0.1869, Num_pts: 112
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1814, Num_pts: 25
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3019, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2057, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.1900, Num_pts: 8408
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1842, Num_pts: 25692
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1550, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2100, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2100, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2077, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.2029, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.1975, Num_pts: 1157
+  view 10: 6 classes, mIoU=0.6627
+Level: 2, Root ID: 5, Index: 9, Sim: 0.3178, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.3017, Num_pts: 9651
+Level: 2, Root ID: 9, Index: 41, Sim: 0.3004, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2924, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.2785, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2403, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.3400, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.2702, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1943, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1171, Num_pts: 1613
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0984, Num_pts: 106
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2530, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.2506, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1703, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.1291, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1070, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2840, Num_pts: 56085
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2061, Num_pts: 56
+Level: 2, Root ID: 2, Index: 3, Sim: 0.1986, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1957, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1914, Num_pts: 2720
+Level: 2, Root ID: 9, Index: 40, Sim: 0.1869, Num_pts: 112
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1814, Num_pts: 25
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3019, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2057, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.1900, Num_pts: 8408
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1842, Num_pts: 25692
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1550, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2100, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2100, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2077, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.2029, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.1975, Num_pts: 1157
+  view 15: 6 classes, mIoU=0.7110
+Level: 2, Root ID: 5, Index: 9, Sim: 0.3178, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.3017, Num_pts: 9651
+Level: 2, Root ID: 9, Index: 41, Sim: 0.3004, Num_pts: 25
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2924, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.2785, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2403, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.3400, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.2702, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1943, Num_pts: 156
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1171, Num_pts: 1613
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0984, Num_pts: 106
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2530, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.2506, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1703, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.1291, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.1070, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2840, Num_pts: 56085
+----- Selected candidates above -----
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2061, Num_pts: 56
+Level: 2, Root ID: 2, Index: 3, Sim: 0.1986, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1957, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1914, Num_pts: 2720
+Level: 2, Root ID: 9, Index: 40, Sim: 0.1869, Num_pts: 112
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1814, Num_pts: 25
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3019, Num_pts: 27427
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2057, Num_pts: 106
+Level: 2, Root ID: 7, Index: 14, Sim: 0.1900, Num_pts: 8408
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1842, Num_pts: 25692
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1550, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2100, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2100, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2077, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.2029, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.1975, Num_pts: 1157
+  view 22: 6 classes, mIoU=0.6852
+SCENE_RESULT sofa mIoU=0.6580 flat=0.6580 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] image common mode removed from 3 levels
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1527, Num_pts: 6738
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1383, Num_pts: 25
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1375, Num_pts: 9651
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1310, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1153, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0834, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.2468, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.1764, Num_pts: 354
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1032, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0397, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0244, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.0098, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1727, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.1678, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0896, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.0481, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0307, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.1473, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.0683, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0619, Num_pts: 2720
+Level: 3, Root ID: 9, Index: 9, Sim: 0.0505, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.0501, Num_pts: 582
+Level: 3, Root ID: 3, Index: 3, Sim: 0.1692, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0724, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0680, Num_pts: 25692
+Level: 3, Root ID: 7, Index: 7, Sim: 0.0530, Num_pts: 8779
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0502, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.0949, Num_pts: 275
+Level: 3, Root ID: 16, Index: 16, Sim: 0.0920, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0920, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.0896, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.0770, Num_pts: 1157
+  view 02: 6 classes, mIoU=0.6403
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1527, Num_pts: 6738
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1383, Num_pts: 25
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1375, Num_pts: 9651
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1310, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1153, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0834, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.2468, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.1764, Num_pts: 354
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1032, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0397, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0244, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.0098, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1727, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.1678, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0896, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.0481, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0307, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.1473, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.0683, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0619, Num_pts: 2720
+Level: 3, Root ID: 9, Index: 9, Sim: 0.0505, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.0501, Num_pts: 582
+Level: 3, Root ID: 3, Index: 3, Sim: 0.1692, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0724, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0680, Num_pts: 25692
+Level: 3, Root ID: 7, Index: 7, Sim: 0.0530, Num_pts: 8779
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0502, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.0949, Num_pts: 275
+Level: 3, Root ID: 16, Index: 16, Sim: 0.0920, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0920, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.0896, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.0770, Num_pts: 1157
+  view 04: 6 classes, mIoU=0.5907
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1527, Num_pts: 6738
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1383, Num_pts: 25
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1375, Num_pts: 9651
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1310, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1153, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0834, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.2468, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.1764, Num_pts: 354
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1032, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0397, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0244, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.0098, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1727, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.1678, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0896, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.0481, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0307, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.1473, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.0683, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0619, Num_pts: 2720
+Level: 3, Root ID: 9, Index: 9, Sim: 0.0505, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.0501, Num_pts: 582
+Level: 3, Root ID: 3, Index: 3, Sim: 0.1692, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0724, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0680, Num_pts: 25692
+Level: 3, Root ID: 7, Index: 7, Sim: 0.0530, Num_pts: 8779
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0502, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.0949, Num_pts: 275
+Level: 3, Root ID: 16, Index: 16, Sim: 0.0920, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0920, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.0896, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.0770, Num_pts: 1157
+  view 10: 6 classes, mIoU=0.6628
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1527, Num_pts: 6738
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1383, Num_pts: 25
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1375, Num_pts: 9651
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1310, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1153, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0834, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.2468, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.1764, Num_pts: 354
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1032, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0397, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0244, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.0098, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1727, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.1678, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0896, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.0481, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0307, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.1473, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.0683, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0619, Num_pts: 2720
+Level: 3, Root ID: 9, Index: 9, Sim: 0.0505, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.0501, Num_pts: 582
+Level: 3, Root ID: 3, Index: 3, Sim: 0.1692, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0724, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0680, Num_pts: 25692
+Level: 3, Root ID: 7, Index: 7, Sim: 0.0530, Num_pts: 8779
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0502, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.0949, Num_pts: 275
+Level: 3, Root ID: 16, Index: 16, Sim: 0.0920, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0920, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.0896, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.0770, Num_pts: 1157
+  view 15: 6 classes, mIoU=0.7089
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1527, Num_pts: 6738
+Level: 2, Root ID: 9, Index: 41, Sim: 0.1383, Num_pts: 25
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1375, Num_pts: 9651
+Level: 2, Root ID: 11, Index: 128, Sim: 0.1310, Num_pts: 34
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1153, Num_pts: 188
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0834, Num_pts: 2720
+Level: 2, Root ID: 1, Index: 0, Sim: 0.2468, Num_pts: 26629
+Level: 3, Root ID: 21, Index: 21, Sim: 0.1764, Num_pts: 354
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1032, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0397, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0244, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.0098, Num_pts: 4624
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1727, Num_pts: 156
+Level: 3, Root ID: 7, Index: 7, Sim: 0.1678, Num_pts: 8779
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0896, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.0481, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0307, Num_pts: 1613
+Level: 3, Root ID: 4, Index: 4, Sim: 0.1473, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.0683, Num_pts: 142025
+Level: 3, Root ID: 10, Index: 10, Sim: 0.0619, Num_pts: 2720
+Level: 3, Root ID: 9, Index: 9, Sim: 0.0505, Num_pts: 137
+Level: 3, Root ID: 11, Index: 11, Sim: 0.0501, Num_pts: 582
+Level: 3, Root ID: 3, Index: 3, Sim: 0.1692, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.0724, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0680, Num_pts: 25692
+Level: 3, Root ID: 7, Index: 7, Sim: 0.0530, Num_pts: 8779
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0502, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.0949, Num_pts: 275
+Level: 3, Root ID: 16, Index: 16, Sim: 0.0920, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.0920, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.0896, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 13, Index: 13, Sim: 0.0770, Num_pts: 1157
+  view 22: 6 classes, mIoU=0.6852
+SCENE_RESULT sofa mIoU=0.6576 flat=0.6576 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] image common mode removed from 3 levels
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2789, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.2749, Num_pts: 25
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2492, Num_pts: 56
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2119, Num_pts: 2720
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1968, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1607, Num_pts: 9651
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1406, Num_pts: 188
+Level: 3, Root ID: 21, Index: 21, Sim: 0.3567, Num_pts: 354
+Level: 3, Root ID: 1, Index: 1, Sim: 0.2833, Num_pts: 26893
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1326, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0791, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0581, Num_pts: 1613
+Level: 2, Root ID: 7, Index: 79, Sim: 0.2557, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2210, Num_pts: 156
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2146, Num_pts: 106
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0744, Num_pts: 1613
+Level: 3, Root ID: 3, Index: 3, Sim: 0.0640, Num_pts: 27612
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1633, Num_pts: 2720
+Level: 3, Root ID: 2, Index: 2, Sim: 0.1600, Num_pts: 142025
+Level: 3, Root ID: 11, Index: 11, Sim: 0.1269, Num_pts: 582
+Level: 3, Root ID: 9, Index: 9, Sim: 0.1181, Num_pts: 137
+Level: 3, Root ID: 3, Index: 3, Sim: 0.2291, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1735, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1509, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1052, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1052, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1646, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1646, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1630, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.1521, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 12, Index: 12, Sim: 0.1130, Num_pts: 604
+  view 02: 6 classes, mIoU=0.4093
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2789, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.2749, Num_pts: 25
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2492, Num_pts: 56
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2119, Num_pts: 2720
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1968, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1607, Num_pts: 9651
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1406, Num_pts: 188
+Level: 3, Root ID: 21, Index: 21, Sim: 0.3567, Num_pts: 354
+Level: 3, Root ID: 1, Index: 1, Sim: 0.2833, Num_pts: 26893
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1326, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0791, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0581, Num_pts: 1613
+Level: 2, Root ID: 7, Index: 79, Sim: 0.2557, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2210, Num_pts: 156
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2146, Num_pts: 106
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0744, Num_pts: 1613
+Level: 3, Root ID: 3, Index: 3, Sim: 0.0640, Num_pts: 27612
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1633, Num_pts: 2720
+Level: 3, Root ID: 2, Index: 2, Sim: 0.1600, Num_pts: 142025
+Level: 3, Root ID: 11, Index: 11, Sim: 0.1269, Num_pts: 582
+Level: 3, Root ID: 9, Index: 9, Sim: 0.1181, Num_pts: 137
+Level: 3, Root ID: 3, Index: 3, Sim: 0.2291, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1735, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1509, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1052, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1052, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1646, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1646, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1630, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.1521, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 12, Index: 12, Sim: 0.1130, Num_pts: 604
+  view 04: 6 classes, mIoU=0.3878
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2789, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.2749, Num_pts: 25
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2492, Num_pts: 56
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2119, Num_pts: 2720
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1968, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1607, Num_pts: 9651
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1406, Num_pts: 188
+Level: 3, Root ID: 21, Index: 21, Sim: 0.3567, Num_pts: 354
+Level: 3, Root ID: 1, Index: 1, Sim: 0.2833, Num_pts: 26893
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1326, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0791, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0581, Num_pts: 1613
+Level: 2, Root ID: 7, Index: 79, Sim: 0.2557, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2210, Num_pts: 156
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2146, Num_pts: 106
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0744, Num_pts: 1613
+Level: 3, Root ID: 3, Index: 3, Sim: 0.0640, Num_pts: 27612
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1633, Num_pts: 2720
+Level: 3, Root ID: 2, Index: 2, Sim: 0.1600, Num_pts: 142025
+Level: 3, Root ID: 11, Index: 11, Sim: 0.1269, Num_pts: 582
+Level: 3, Root ID: 9, Index: 9, Sim: 0.1181, Num_pts: 137
+Level: 3, Root ID: 3, Index: 3, Sim: 0.2291, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1735, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1509, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1052, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1052, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1646, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1646, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1630, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.1521, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 12, Index: 12, Sim: 0.1130, Num_pts: 604
+  view 10: 6 classes, mIoU=0.4257
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2789, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.2749, Num_pts: 25
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2492, Num_pts: 56
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2119, Num_pts: 2720
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1968, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1607, Num_pts: 9651
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1406, Num_pts: 188
+Level: 3, Root ID: 21, Index: 21, Sim: 0.3567, Num_pts: 354
+Level: 3, Root ID: 1, Index: 1, Sim: 0.2833, Num_pts: 26893
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1326, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0791, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0581, Num_pts: 1613
+Level: 2, Root ID: 7, Index: 79, Sim: 0.2557, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2210, Num_pts: 156
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2146, Num_pts: 106
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0744, Num_pts: 1613
+Level: 3, Root ID: 3, Index: 3, Sim: 0.0640, Num_pts: 27612
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1633, Num_pts: 2720
+Level: 3, Root ID: 2, Index: 2, Sim: 0.1600, Num_pts: 142025
+Level: 3, Root ID: 11, Index: 11, Sim: 0.1269, Num_pts: 582
+Level: 3, Root ID: 9, Index: 9, Sim: 0.1181, Num_pts: 137
+Level: 3, Root ID: 3, Index: 3, Sim: 0.2291, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1735, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1509, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1052, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1052, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1646, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1646, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1630, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.1521, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 12, Index: 12, Sim: 0.1130, Num_pts: 604
+  view 15: 6 classes, mIoU=0.4280
+Level: 2, Root ID: 11, Index: 128, Sim: 0.2789, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.2749, Num_pts: 25
+Level: 2, Root ID: 11, Index: 83, Sim: 0.2492, Num_pts: 56
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.2119, Num_pts: 2720
+Level: 2, Root ID: 5, Index: 9, Sim: 0.1968, Num_pts: 6738
+Level: 2, Root ID: 5, Index: 20, Sim: 0.1607, Num_pts: 9651
+Level: 3, Root ID: 18, Index: 18, Sim: 0.1406, Num_pts: 188
+Level: 3, Root ID: 21, Index: 21, Sim: 0.3567, Num_pts: 354
+Level: 3, Root ID: 1, Index: 1, Sim: 0.2833, Num_pts: 26893
+----- Selected candidates above -----
+Level: 3, Root ID: 20, Index: 20, Sim: 0.1326, Num_pts: 156
+Level: 2, Root ID: 2, Index: 1, Sim: 0.0791, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0581, Num_pts: 1613
+Level: 2, Root ID: 7, Index: 79, Sim: 0.2557, Num_pts: 313
+Level: 3, Root ID: 20, Index: 20, Sim: 0.2210, Num_pts: 156
+Level: 3, Root ID: 8, Index: 8, Sim: 0.2146, Num_pts: 106
+----- Selected candidates above -----
+Level: 3, Root ID: 15, Index: 15, Sim: 0.0744, Num_pts: 1613
+Level: 3, Root ID: 3, Index: 3, Sim: 0.0640, Num_pts: 27612
+Level: 3, Root ID: 4, Index: 4, Sim: 0.2486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.1633, Num_pts: 2720
+Level: 3, Root ID: 2, Index: 2, Sim: 0.1600, Num_pts: 142025
+Level: 3, Root ID: 11, Index: 11, Sim: 0.1269, Num_pts: 582
+Level: 3, Root ID: 9, Index: 9, Sim: 0.1181, Num_pts: 137
+Level: 3, Root ID: 3, Index: 3, Sim: 0.2291, Num_pts: 27612
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.1735, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.1509, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1052, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1052, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.1646, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.1646, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.1630, Num_pts: 541
+Level: 2, Root ID: 19, Index: 96, Sim: 0.1521, Num_pts: 275
+----- Selected candidates above -----
+Level: 3, Root ID: 12, Index: 12, Sim: 0.1130, Num_pts: 604
+  view 22: 6 classes, mIoU=0.4317
+SCENE_RESULT sofa mIoU=0.4165 flat=0.4165 queries=30 views=5
+[transformers] Disabling PyTorch because PyTorch >= 2.5 is required but found 2.2.0
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Reading camera 1/28Reading camera 2/28Reading camera 3/28Reading camera 4/28Reading camera 5/28Reading camera 6/28Reading camera 7/28Reading camera 8/28Reading camera 9/28Reading camera 10/28Reading camera 11/28Reading camera 12/28Reading camera 13/28Reading camera 14/28Reading camera 15/28Reading camera 16/28Reading camera 17/28Reading camera 18/28Reading camera 19/28Reading camera 20/28Reading camera 21/28Reading camera 22/28Reading camera 23/28Reading camera 24/28Reading camera 25/28Reading camera 26/28Reading camera 27/28Reading camera 28/28
+Loading Training Cameras
+[sofa] 6 classes, 5 labelled views: ['02', '04', '10', '15', '22']
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4765, Num_pts: 4624
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4591, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4534, Num_pts: 12
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4522, Num_pts: 1601
+Level: 2, Root ID: 2, Index: 3, Sim: 0.4422, Num_pts: 55042
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4165, Num_pts: 541
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 6, Index: 11, Sim: 0.3135, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.3061, Num_pts: 12
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2365, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2365, Num_pts: 100
+Level: 3, Root ID: 17, Index: 17, Sim: 0.2155, Num_pts: 2349
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 1, Sim: 0.2289, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2241, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2241, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2193, Num_pts: 541
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4549, Num_pts: 12
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4345, Num_pts: 529
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4290, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4159, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4159, Num_pts: 541
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+Level: 2, Root ID: 11, Index: 93, Sim: 0.6272, Num_pts: 30
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.4357, Num_pts: 25692
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4279, Num_pts: 529
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4152, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 2, Root ID: 15, Index: 77, Sim: 0.3892, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 2, Root ID: 19, Index: 96, Sim: 0.4185, Num_pts: 275
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+Level: 3, Root ID: 13, Index: 13, Sim: 0.4152, Num_pts: 1157
+Level: 2, Root ID: 2, Index: 3, Sim: 0.3636, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 57, Sim: 0.3602, Num_pts: 462
+  view 02: 6 classes, mIoU=0.6524
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4765, Num_pts: 4624
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4591, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4534, Num_pts: 12
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4522, Num_pts: 1601
+Level: 2, Root ID: 2, Index: 3, Sim: 0.4422, Num_pts: 55042
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4165, Num_pts: 541
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 6, Index: 11, Sim: 0.3135, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.3061, Num_pts: 12
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2365, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2365, Num_pts: 100
+Level: 3, Root ID: 17, Index: 17, Sim: 0.2155, Num_pts: 2349
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 1, Sim: 0.2289, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2241, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2241, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2193, Num_pts: 541
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4549, Num_pts: 12
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4345, Num_pts: 529
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4290, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4159, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4159, Num_pts: 541
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+Level: 2, Root ID: 11, Index: 93, Sim: 0.6272, Num_pts: 30
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.4357, Num_pts: 25692
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4279, Num_pts: 529
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4152, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 2, Root ID: 15, Index: 77, Sim: 0.3892, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 2, Root ID: 19, Index: 96, Sim: 0.4185, Num_pts: 275
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+Level: 3, Root ID: 13, Index: 13, Sim: 0.4152, Num_pts: 1157
+Level: 2, Root ID: 2, Index: 3, Sim: 0.3636, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 57, Sim: 0.3602, Num_pts: 462
+  view 04: 6 classes, mIoU=0.6046
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4765, Num_pts: 4624
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4591, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4534, Num_pts: 12
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4522, Num_pts: 1601
+Level: 2, Root ID: 2, Index: 3, Sim: 0.4422, Num_pts: 55042
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4165, Num_pts: 541
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 6, Index: 11, Sim: 0.3135, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.3061, Num_pts: 12
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2365, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2365, Num_pts: 100
+Level: 3, Root ID: 17, Index: 17, Sim: 0.2155, Num_pts: 2349
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 1, Sim: 0.2289, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2241, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2241, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2193, Num_pts: 541
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4549, Num_pts: 12
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4345, Num_pts: 529
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4290, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4159, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4159, Num_pts: 541
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+Level: 2, Root ID: 11, Index: 93, Sim: 0.6272, Num_pts: 30
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.4357, Num_pts: 25692
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4279, Num_pts: 529
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4152, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 2, Root ID: 15, Index: 77, Sim: 0.3892, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 2, Root ID: 19, Index: 96, Sim: 0.4185, Num_pts: 275
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+Level: 3, Root ID: 13, Index: 13, Sim: 0.4152, Num_pts: 1157
+Level: 2, Root ID: 2, Index: 3, Sim: 0.3636, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 57, Sim: 0.3602, Num_pts: 462
+  view 10: 6 classes, mIoU=0.6718
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4765, Num_pts: 4624
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4591, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4534, Num_pts: 12
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4522, Num_pts: 1601
+Level: 2, Root ID: 2, Index: 3, Sim: 0.4422, Num_pts: 55042
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4165, Num_pts: 541
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 6, Index: 11, Sim: 0.3135, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.3061, Num_pts: 12
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2365, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2365, Num_pts: 100
+Level: 3, Root ID: 17, Index: 17, Sim: 0.2155, Num_pts: 2349
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 1, Sim: 0.2289, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2241, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2241, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2193, Num_pts: 541
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4549, Num_pts: 12
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4345, Num_pts: 529
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4290, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4159, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4159, Num_pts: 541
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+Level: 2, Root ID: 11, Index: 93, Sim: 0.6272, Num_pts: 30
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.4357, Num_pts: 25692
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4279, Num_pts: 529
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4152, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 2, Root ID: 15, Index: 77, Sim: 0.3892, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 2, Root ID: 19, Index: 96, Sim: 0.4185, Num_pts: 275
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+Level: 3, Root ID: 13, Index: 13, Sim: 0.4152, Num_pts: 1157
+Level: 2, Root ID: 2, Index: 3, Sim: 0.3636, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 57, Sim: 0.3602, Num_pts: 462
+  view 15: 6 classes, mIoU=0.7132
+Level: 2, Root ID: 5, Index: 20, Sim: 0.7790, Num_pts: 9651
+Level: 2, Root ID: 5, Index: 9, Sim: 0.7773, Num_pts: 6738
+Level: 3, Root ID: 18, Index: 18, Sim: 0.7540, Num_pts: 188
+Level: 2, Root ID: 11, Index: 128, Sim: 0.6861, Num_pts: 34
+Level: 2, Root ID: 9, Index: 41, Sim: 0.6772, Num_pts: 25
+----- Selected candidates above -----
+Level: 3, Root ID: 10, Index: 10, Sim: 0.5479, Num_pts: 2720
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4765, Num_pts: 4624
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4591, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4534, Num_pts: 12
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4522, Num_pts: 1601
+Level: 2, Root ID: 2, Index: 3, Sim: 0.4422, Num_pts: 55042
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4165, Num_pts: 541
+Level: 2, Root ID: 1, Index: 0, Sim: 0.7724, Num_pts: 26629
+----- Selected candidates above -----
+Level: 3, Root ID: 21, Index: 21, Sim: 0.5549, Num_pts: 354
+Level: 3, Root ID: 20, Index: 20, Sim: 0.4848, Num_pts: 156
+Level: 2, Root ID: 6, Index: 11, Sim: 0.3135, Num_pts: 529
+Level: 2, Root ID: 6, Index: 56, Sim: 0.3061, Num_pts: 12
+Level: 2, Root ID: 2, Index: 1, Sim: 0.3050, Num_pts: 25692
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2840, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 73, Sim: 0.2797, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2365, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2365, Num_pts: 100
+Level: 3, Root ID: 17, Index: 17, Sim: 0.2155, Num_pts: 2349
+Level: 3, Root ID: 20, Index: 20, Sim: 0.6334, Num_pts: 156
+Level: 2, Root ID: 7, Index: 14, Sim: 0.6053, Num_pts: 8408
+----- Selected candidates above -----
+Level: 3, Root ID: 8, Index: 8, Sim: 0.3639, Num_pts: 106
+Level: 2, Root ID: 3, Index: 2, Sim: 0.3569, Num_pts: 27427
+Level: 3, Root ID: 15, Index: 15, Sim: 0.2634, Num_pts: 1613
+Level: 2, Root ID: 2, Index: 1, Sim: 0.2289, Num_pts: 25692
+Level: 3, Root ID: 16, Index: 16, Sim: 0.2241, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.2241, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.2193, Num_pts: 541
+Level: 3, Root ID: 4, Index: 4, Sim: 0.6486, Num_pts: 56085
+----- Selected candidates above -----
+Level: 3, Root ID: 2, Index: 2, Sim: 0.4766, Num_pts: 142025
+Level: 3, Root ID: 9, Index: 9, Sim: 0.4551, Num_pts: 137
+Level: 2, Root ID: 6, Index: 56, Sim: 0.4549, Num_pts: 12
+Level: 2, Root ID: 11, Index: 128, Sim: 0.4512, Num_pts: 34
+Level: 3, Root ID: 10, Index: 10, Sim: 0.4432, Num_pts: 2720
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4345, Num_pts: 529
+Level: 2, Root ID: 15, Index: 77, Sim: 0.4290, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4159, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4159, Num_pts: 541
+Level: 2, Root ID: 3, Index: 2, Sim: 0.7580, Num_pts: 27427
+Level: 2, Root ID: 11, Index: 93, Sim: 0.6272, Num_pts: 30
+----- Selected candidates above -----
+Level: 2, Root ID: 7, Index: 14, Sim: 0.4752, Num_pts: 8408
+Level: 3, Root ID: 8, Index: 8, Sim: 0.4630, Num_pts: 106
+Level: 2, Root ID: 2, Index: 1, Sim: 0.4357, Num_pts: 25692
+Level: 2, Root ID: 6, Index: 11, Sim: 0.4279, Num_pts: 529
+Level: 2, Root ID: 2, Index: 73, Sim: 0.4152, Num_pts: 4624
+Level: 3, Root ID: 14, Index: 14, Sim: 0.4144, Num_pts: 541
+Level: 3, Root ID: 16, Index: 16, Sim: 0.4144, Num_pts: 100
+Level: 2, Root ID: 15, Index: 77, Sim: 0.3892, Num_pts: 1601
+Level: 3, Root ID: 16, Index: 16, Sim: 0.5269, Num_pts: 100
+Level: 3, Root ID: 14, Index: 14, Sim: 0.5269, Num_pts: 541
+Level: 3, Root ID: 6, Index: 6, Sim: 0.5179, Num_pts: 541
+----- Selected candidates above -----
+Level: 3, Root ID: 17, Index: 17, Sim: 0.4259, Num_pts: 2349
+Level: 2, Root ID: 19, Index: 96, Sim: 0.4185, Num_pts: 275
+Level: 3, Root ID: 12, Index: 12, Sim: 0.4152, Num_pts: 604
+Level: 3, Root ID: 13, Index: 13, Sim: 0.4152, Num_pts: 1157
+Level: 2, Root ID: 2, Index: 3, Sim: 0.3636, Num_pts: 55042
+Level: 2, Root ID: 11, Index: 57, Sim: 0.3602, Num_pts: 462
+  view 22: 6 classes, mIoU=0.6955
+SCENE_RESULT sofa mIoU=0.6675 flat=0.6675 queries=30 views=5
+### ARMS_V2_DONE sofa

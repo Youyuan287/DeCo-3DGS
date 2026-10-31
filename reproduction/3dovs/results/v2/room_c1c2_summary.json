@@ -1,0 +1,24 @@
+{
+  "scene": "room",
+  "miou": 0.6416845709849199,
+  "flat_miou": 0.6416846333333334,
+  "n_queries": 30,
+  "per_view": [
+    0.6388544461992473,
+    0.6285831392258584,
+    0.6448504222873165,
+    0.6499125027511163,
+    0.6462223444610612
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "template",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 0,
+    "text_agg": "lse"
+  }
+}

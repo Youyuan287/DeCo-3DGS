@@ -24,6 +24,8 @@ why image-side mean removal is provably inert for a single-query readout.
 |---|---|
 | `deco/` | the two DeCo operators, the three evaluation harnesses, both lexicons — everything behind the numbers above |
 | `reproduction/` | third-party reproduction of the upstream ReLaGS pipeline on LERF-OVS (64.01 vs 64.40) and of the ScanNet-10 baseline (40.79 vs 41.26) |
+| `reproduction/3dovs/` | **extension**: 3D-OVS end-to-end on 5 scenes (2DGS 30k → SAM+CLIP → superpoints → `merge_proj` → eval), 7 arms per scene. DeCo publishes no 3D-OVS number, so this is new territory, not a table reproduction |
+| `reproduction/audits/figurines_feature_encoding_20261031/` | can the released semantic field be rebuilt from scratch? Yes — per-cluster cosine **0.9999** against the release, mIoU 66.10 vs 63.29, plus the symlink path-escape bug that had hidden it |
 | `scene/`, `gaussian_renderer/`, `nag_data.py`, `scripts/`, `ext/`, `submodules/` | upstream ReLaGS code, unmodified except for the patches listed in `reproduction/patches/` |
 
 This repository is built on the ReLaGS codebase; its README follows unchanged.
@@ -59,6 +61,18 @@ ReLaGS enables **hierarchical 3D scene understanding with language guidance** fo
 > Start at [`reproduction/README.md`](reproduction/README.md) (protocol + how to run) and
 > [`reproduction/FINAL_REPORT.md`](reproduction/FINAL_REPORT.md) (full report, provenance,
 > protocol sensitivity, limitations).
+>
+> **🔁 Third-party extension (2026-10).** Two follow-ups live next to it:
+> (a) [`reproduction/audits/figurines_feature_encoding_20261031/`](reproduction/audits/figurines_feature_encoding_20261031/) —
+> the released `sai_nag.pt` **is** rebuildable: re-encoding all 299 figurines frames with the
+> shipped encoder and re-running the five-stage pipeline reproduces the author's per-cluster
+> features at **cosine 0.9999** (mIoU 66.10 vs 63.29 on release weights); it also documents the
+> symlink path-escape bug that made an earlier rebuild silently read LangSplat's OpenAI-CLIP
+> features instead of the freshly encoded ones;
+> (b) [`reproduction/3dovs/`](reproduction/3dovs/) — 3D-OVS from raw data, 5 scenes × 7 arms
+> (base mean 70.05), where the two DeCo operators turn out to be a wash on this readout, plus an
+> oracle control (95.20) that localises the 22-point literature gap to cluster *selection*, not
+> training or the metric.
 
 ---
 

@@ -106,6 +106,13 @@
 1. **剪枝阈值用错**：`configs/lerf.yml` 写 `0.005`，而官方 `run_lerf.sh` 是 `0.0005`（仓库自身不一致）。我一度按 yaml 执行导致过度剪枝，该批结果（Mean 55.38）**已作废**。
 2. **figurines 特征被删**：`figurines/langsplat/language_features` 于 2026-10-23 00:53 被删除（用户确认为误删）。
 3. **重建尝试**：我据官方数据结构反推并实现了 SAM+CLIP 重建（`scripts/regen_langsplat_features.py`），但参数与官方 `scripts/image_encoding.py` 不一致，产物**不等值**，已删除，不进入任何结果。
+   > **2026-10-31 更正**：该判断已过时。用官方 `scripts/image_encoding.py`（laion2b_s34b_b88k + SAM ViT-H）
+   > 在训练分辨率上重编码 299 帧后重建的 `sai_nag_3.0.pt`，与作者发布权重的逐簇余弦为 **0.9999**，
+   > mIoU **66.10**（发布权重 63.29）。当年"不等值"的真实根因是
+   > `scene/dataset_readers.py:117` 用字符串拼 `images/../language_features/...`，
+   > 而我把场景目录做成了符号链接薄壳 → `..` 穿透到原始目录，读到的其实是 LangSplat 的
+   > OpenAI ViT-B/16 特征（逐位 cos 1.00000）。详见
+   > [`audits/figurines_feature_encoding_20261031/`](audits/figurines_feature_encoding_20261031/)。
 4. **HF 特征发现**：`JUNHAKBAE/THGS-lerf-ovs-language-features` 中 figurines 的 `_s` 形状与原生分辨率一致，但其余目录组织有误；本稿最终**不使用任何语言特征**（评测只用作者发布的 `sai_nag.pt`），故不受影响。
 5. **选择合适的检索参数**：`topk=5` 是仓库默认值，属"修正回默认"，非按 GT 择优；但本人在同一评测集上观察过该值更好，存在轻微测试集选择效应，如实记录。ORACLE 行未作为结果。
 

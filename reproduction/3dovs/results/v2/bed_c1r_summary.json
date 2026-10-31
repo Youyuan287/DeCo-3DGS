@@ -1,0 +1,27 @@
+{
+  "scene": "bed",
+  "miou": 0.49122884775699216,
+  "flat_miou": 0.4912289,
+  "n_queries": 30,
+  "per_view": [
+    0.4637322061978269,
+    0.46151991535573345,
+    0.4742865384245169,
+    0.5080113732131043,
+    0.5485942055937792
+  ],
+  "mode": "prompt",
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 1,
+    "text_agg": "lse",
+    "cand_mode": "gap2",
+    "cand_margin": 0.02
+  }
+}

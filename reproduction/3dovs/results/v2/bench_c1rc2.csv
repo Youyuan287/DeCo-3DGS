@@ -1,0 +1,36 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+bench,02,pebbled concrete wall,0.0,0,4204386,2
+bench,02,wood,0.084383,528112,6258376,1
+bench,02,Portuguese egg tart,0.872935,179344,162978,4
+bench,02,orange cat,0.814293,700080,571841,3
+bench,02,green grape,0.862808,433120,402953,4
+bench,02,mini offroad car,0.000633,8752,143065,1
+bench,02,dressing doll,0.0,0,449169,1
+bench,05,pebbled concrete wall,0.0,0,4445194,2
+bench,05,wood,0.07114,431056,6005381,1
+bench,05,Portuguese egg tart,0.888505,166848,157059,4
+bench,05,orange cat,0.797915,776976,620218,3
+bench,05,green grape,0.884012,422976,401036,4
+bench,05,mini offroad car,0.003439,15264,153972,1
+bench,05,dressing doll,0.0,0,409908,1
+bench,25,pebbled concrete wall,0.0,0,5448570,2
+bench,25,wood,0.032599,156544,4719422,1
+bench,25,Portuguese egg tart,0.904299,131264,136886,4
+bench,25,orange cat,0.972259,718208,703266,3
+bench,25,green grape,0.933873,534736,536129,4
+bench,25,mini offroad car,0.0,64,225617,1
+bench,25,dressing doll,0.0,0,422878,1
+bench,27,pebbled concrete wall,0.0,0,5229226,2
+bench,27,wood,0.052249,272000,4891336,1
+bench,27,Portuguese egg tart,0.924343,125536,127086,4
+bench,27,orange cat,0.953355,837952,802708,3
+bench,27,green grape,0.919443,487632,488775,4
+bench,27,mini offroad car,0.000356,12816,229031,1
+bench,27,dressing doll,0.0,0,424606,1
+bench,32,pebbled concrete wall,0.0,0,6123612,2
+bench,32,wood,0.021589,96304,4219648,1
+bench,32,Portuguese egg tart,0.909464,104752,105734,4
+bench,32,orange cat,0.971906,623952,612368,3
+bench,32,green grape,0.922441,539584,538440,4
+bench,32,mini offroad car,0.0,0,204994,1
+bench,32,dressing doll,0.0,0,387972,1

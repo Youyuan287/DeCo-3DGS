@@ -1,0 +1,31 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+sofa,02,Pikachu,0.964279,773216,759401,-1
+sofa,02,a stack of UNO cards,0.978067,176672,178486,-1
+sofa,02,a red Nintendo Switch joy-con controller,0.978204,123232,123454,-1
+sofa,02,Gundam,0.927697,483040,472479,-1
+sofa,02,Xbox wireless controller,0.981024,468640,461952,-1
+sofa,02,grey sofa,0.905684,9635824,10587140,-1
+sofa,04,Pikachu,0.966125,867312,856913,-1
+sofa,04,a stack of UNO cards,0.97482,182752,183111,-1
+sofa,04,a red Nintendo Switch joy-con controller,0.967672,115840,116062,-1
+sofa,04,Gundam,0.925083,426560,427917,-1
+sofa,04,Xbox wireless controller,0.976204,401472,394889,-1
+sofa,04,grey sofa,0.925255,9871200,10604020,-1
+sofa,10,Pikachu,0.967548,852448,842839,-1
+sofa,10,a stack of UNO cards,0.976775,196224,198109,-1
+sofa,10,a red Nintendo Switch joy-con controller,0.959484,138864,139224,-1
+sofa,10,Gundam,0.912394,704960,671524,-1
+sofa,10,Xbox wireless controller,0.98404,655536,651633,-1
+sofa,10,grey sofa,0.855344,8679168,10079583,-1
+sofa,15,Pikachu,0.968625,915168,921526,-1
+sofa,15,a stack of UNO cards,0.977509,356176,360133,-1
+sofa,15,a red Nintendo Switch joy-con controller,0.951996,385936,376541,-1
+sofa,15,Gundam,0.906526,793216,754180,-1
+sofa,15,Xbox wireless controller,0.982742,866736,866105,-1
+sofa,15,grey sofa,0.871422,8185104,9304427,-1
+sofa,22,Pikachu,0.970276,946976,939250,-1
+sofa,22,a stack of UNO cards,0.97534,241648,243535,-1
+sofa,22,a red Nintendo Switch joy-con controller,0.965559,181376,180902,-1
+sofa,22,Gundam,0.923359,1019920,974792,-1
+sofa,22,Xbox wireless controller,0.842243,789920,867329,-1
+sofa,22,grey sofa,0.798153,7548000,9377104,-1

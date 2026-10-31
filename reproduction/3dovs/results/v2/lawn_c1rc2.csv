@@ -1,0 +1,31 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+lawn,01,red apple,0.933628,102656,98801,1
+lawn,01,New York Yankees cap,0.983899,1382512,1373600,1
+lawn,01,stapler,0.136701,23040,133636,1
+lawn,01,black headphone,0.0,0,579696,1
+lawn,01,hand soap,0.0,0,239368,1
+lawn,01,green lawn,2e-06,16,9767667,1
+lawn,03,red apple,0.955151,126624,124611,1
+lawn,03,New York Yankees cap,0.971827,913648,907997,1
+lawn,03,stapler,0.075842,20576,237768,1
+lawn,03,black headphone,2e-06,16,562404,1
+lawn,03,hand soap,0.0,0,403693,1
+lawn,03,green lawn,0.0,0,9956295,1
+lawn,09,red apple,0.945288,113888,116333,1
+lawn,09,New York Yankees cap,0.980836,1131536,1142095,1
+lawn,09,stapler,0.071533,13792,177871,1
+lawn,09,black headphone,0.0,0,875524,1
+lawn,09,hand soap,0.0,0,273059,1
+lawn,09,green lawn,0.0,0,9607886,1
+lawn,13,red apple,0.948807,133584,132473,1
+lawn,13,New York Yankees cap,0.97986,1074000,1081628,1
+lawn,13,stapler,0.011491,3328,277814,1
+lawn,13,black headphone,0.0,0,983236,1
+lawn,13,hand soap,0.0,0,335399,1
+lawn,13,green lawn,0.0,0,9382218,1
+lawn,29,red apple,0.93883,121664,120839,1
+lawn,29,New York Yankees cap,0.979807,1003376,1015681,1
+lawn,29,stapler,0.04526,12320,232554,1
+lawn,29,black headphone,0.0,0,728611,1
+lawn,29,hand soap,0.0,0,315231,1
+lawn,29,green lawn,0.0,0,9779852,1
