@@ -65,6 +65,12 @@
 **含义**：领域缺一个**协议冻结、特征发布、带置信区间、且在novel view/instance level 评测**的基准。
 否则方法间的 1–2 分差异不可信。
 
+**对我们自己的要求**：mask rerank/gating 用了逐视角 mask 证据（baseline 的 NAG 读权没有用）。
+leave-query-view-out 检查（剔除查询视角）显示增益仍在：id_top3 命中 found 52.4%→53.2%、
+deep 26.3%→42.1%，端到端 gateE 0.6753（vs main +3.60，CI [+0.0228,+0.0480]）。
+所以不是查询视角 2D 捷径，但**仍是“额外输入证据”**；论文中必须把它写成 same-readout + extra
+per-view mask evidence 的对比，或给 baseline 同样证据 / 用 novel-view 评测，不能直接声称“同输入下超过 baseline”。
+
 ## 5. 问题五：指标只测“查询 mIoU”，隐藏了 recall/实例发现问题
 
 **现象**：所有方法只报 query mIoU；没有实例级 precision/recall、没有 open-set 拒识、没有校准。
