@@ -173,10 +173,15 @@ with torch.no_grad():
             m1_mask = _top1_margin(zm)
             S_gatec = S_M if (set(S_M) != set(S0) and m_mask > m_nag) else S_C
             S_gated = S_M if (set(S_M) != set(S0) and m1_mask > m1_nag) else S_C
+            e_c = max([mm_arr[i] for i in S_C], default=-1e9) if S_C else -1e9
+            e_m = max([mm_arr[i] for i in S_M], default=-1e9) if S_M else -1e9
+            S_gatee = S_M if (set(S_M) != set(S0) and e_m > e_c) else S_C
             row = dict(scene=args.scene, image=name, prompt=prompt, n=n, gap_len=g, center=args.center,
-                       m_nag=m_nag, m_mask=m_mask, m1_nag=m1_nag, m1_mask=m1_mask)
+                       m_nag=m_nag, m_mask=m_mask, m1_nag=m1_nag, m1_mask=m1_mask,
+                       e_c=e_c, e_m=e_m)
             for tag, sel in (("main", S0), ("c", S_C), ("mask", S_M), ("gate", S_gate),
-                             ("gateb", S_gateb), ("gatec", S_gatec), ("gated", S_gated)):
+                             ("gateb", S_gateb), ("gatec", S_gatec), ("gated", S_gated),
+                             ("gatee", S_gatee)):
                 row[tag + "_len"] = len(sel)
                 row[tag + "_iou"] = iou(render_mask([p5[i] for i in sel], cam, h, w), gt) if sel else 0.0
             rows.append(row)
