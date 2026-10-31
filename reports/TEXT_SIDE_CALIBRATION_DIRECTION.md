@@ -2,6 +2,22 @@
 
 日期：2026-11-01
 
+> **撤回（2026-11-01）**：下面第 2–6 节的“vocabulary-aware / 场景类别 bank”方案**不成立**。
+> LERF-OVS 逐 query 处理正是开放词汇的定义；使用场景内其他类别（14–21 个）做文本中心化、
+> hard-negative 或 bank softmax，会把任务变成闭集/直推，违背任务设定。
+> C2 在 ScanNet 上的收益不能通过“把 class bank 搬进 LERF”来移植。
+>
+> 仍可合法使用的文本侧信号必须**只依赖当前 query**：
+> 1. 同一 query 的模板/复述一致性（paraphrase consistency），用作可靠性/不确定性；
+> 2. 当前 query 的组合分解（属性/部件，如 "green toy chair"），不引入外部类别；
+> 3. 固定的通用背景提示（"background", "wall", "floor" 等，且不得包含测试类别），需谨慎；
+> 4. 候选间的 per-query 分数归一化（本来就在用）。
+>
+> 这些是**小模块**，很难单独成为 CVPR 主创新；文本侧不能作为解决 3D-OVS 的核心路线。
+> 若要主创新，仍应回到 class-agnostic 实例 proposal / query-conditioned 子图（QCMG）。
+
+---
+
 ## 1. 先把 C2 的 ScanNet 结论读准
 
 DeCo 的 ScanNet 数字（pooled，18 类）：
@@ -25,7 +41,7 @@ LSE 50.76 → hand lexicon 53.17 → templates+lexicon 53.62。
 3. 这也解释了 LERF 上 C2 失败：LERF 是 per-query 二分类检索，没有 class bank；
    lexicon 扩展只会引入 false positives（C2 4 templates 0.6003、lexicon 0.4929，均低于 0.6401）。
 
-## 2. 创新机会：Vocabulary-Aware Text Calibration（VATC）
+## 2. 创新机会：Vocabulary-Aware Text Calibration（VATC）——已撤回，违反开放词汇设定
 
 LERF 每场景的类别数只有 **14–21**（figurines 21、ramen 14、teatime 14、waldo 18）。
 这是一个天然的小 class bank。当前 3D-OVS 方法**把每个 query 独立处理，完全忽略场景词表**。
