@@ -23,6 +23,7 @@ for k in ["scene", "source", "model", "nag", "gt_root", "out", "id_csv"]:
 ap.add_argument("--center", default="none", choices=["none", "image"])
 ap.add_argument("--column", default="id_top3")
 ap.add_argument("--lam", type=float, default=1.0)
+ap.add_argument("--fusion", default="z", choices=["z", "rank"])
 ap.add_argument("--limit-queries", type=int, default=0)
 args = ap.parse_args()
 
@@ -114,13 +115,21 @@ with torch.no_grad():
             sc = np.array([c[3] for c in p5], float)
             m = np.array([sig.get((name, prompt, i + 1), np.nan) for i in range(n)], float)
             m = np.where(np.isfinite(m), m, np.nanmean(m) if np.isfinite(m).any() else 0.0)
-            S = zs(sc) + args.lam * zs(m)
+            if args.fusion == "rank":
+                def ranks(x):
+                    order = np.argsort(-x, kind="stable")
+                    r = np.empty(len(x))
+                    r[order] = np.arange(len(x))
+                    return r
+                S = -(ranks(sc) + ranks(m))
+            else:
+                S = zs(sc) + args.lam * zs(m)
             k = gap_len(sc)
             main_idx = list(range(k))
             order = np.argsort(-S, kind="stable")
             sel = list(order[:k]) if k > 0 else []
             rows.append(dict(scene=args.scene, image=name, prompt=prompt, n=n, gap_len=k,
-                             lam=args.lam, center=args.center,
+                             lam=args.lam, fusion=args.fusion, center=args.center,
                              main_iou=iou(render_mask([p5[i] for i in main_idx], cam, h, w), gt) if main_idx else 0.0,
                              rerank_iou=iou(render_mask([p5[i] for i in sel], cam, h, w), gt) if sel else 0.0,
                              n_changed=int(sum(1 for i in range(k) if i not in sel))))
@@ -129,7 +138,8 @@ with torch.no_grad():
             break
 
 os.makedirs(args.out, exist_ok=True)
-with open(os.path.join(args.out, "%s_maskagg_%s.csv" % (args.scene, args.center)), "w", newline="") as f:
+suffix = "" if args.fusion == "z" else "_" + args.fusion
+with open(os.path.join(args.out, "%s_maskagg_%s%s.csv" % (args.scene, args.center, suffix)), "w", newline="") as f:
     wr = csv.DictWriter(f, fieldnames=list(rows[0]))
     wr.writeheader()
     wr.writerows(rows)
