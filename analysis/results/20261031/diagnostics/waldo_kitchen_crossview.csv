@@ -1,0 +1,5 @@
+scene,cat,n_views,same_cos_med,n_same_pairs,diff_cos_med,retr_top1,retr_top3,retr_top5,retr_n
+waldo_kitchen,ALL,18,0.6030727624893188,5,0.49836307764053345,0.2,0.4,0.4,10
+waldo_kitchen,knife,3,0.6030727624893188,,,,,,
+waldo_kitchen,plate,2,0.4681396186351776,,,,,,
+waldo_kitchen,sink,2,0.8192858099937439,,,,,,

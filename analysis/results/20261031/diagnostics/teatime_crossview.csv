@@ -1,0 +1,15 @@
+scene,cat,n_views,same_cos_med,n_same_pairs,diff_cos_med,retr_top1,retr_top3,retr_top5,retr_n
+teatime,ALL,14,0.758913516998291,112,0.49606823921203613,0.20089285714285715,0.5089285714285714,0.6607142857142857,224
+teatime,apple,5,0.6813289821147919,,,,,,
+teatime,bag of cookies,5,0.668048620223999,,,,,,
+teatime,bear nose,3,0.8486218452453613,,,,,,
+teatime,coffee,4,0.8543266654014587,,,,,,
+teatime,coffee mug,5,0.8543266654014587,,,,,,
+teatime,dall-e brand,2,0.9337494373321533,,,,,,
+teatime,hooves,2,0.598741352558136,,,,,,
+teatime,paper napkin,5,0.815317690372467,,,,,,
+teatime,plate,6,0.753332793712616,,,,,,
+teatime,sheep,4,0.5829079449176788,,,,,,
+teatime,stuffed bear,5,0.7372910976409912,,,,,,
+teatime,tea in a glass,6,0.8076663613319397,,,,,,
+teatime,three cookies,6,0.5984734296798706,,,,,,

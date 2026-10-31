@@ -1,0 +1,29 @@
+Identity pilot v2 — stage 1 (PREREG_identity_v2.md), queries=208
+families: hard=55 (deep 19, rank2 36), cross_root_hard=46, found=124, recall_fail=29
+  F=z(A)+z(Vc) hard             auc        0.902 [0.865,0.940] n=55
+  F=z(A)+z(Vc) hard             rescue     0.636 [0.509,0.764] n=55
+  F=z(A)+z(Vc) cross_root_hard  rescue     0.674 [0.543,0.783] n=46
+  F=z(A)+z(Vc) deep             rescue     0.579 [0.368,0.789] n=19
+  F=z(A)+z(Vc) found            retention  0.742 [0.669,0.815] n=124
+
+  Vc         hard             auc        0.807 [0.749,0.861] n=55
+  Vc         hard             rescue     0.382 [0.255,0.509] n=55
+  Vc         cross_root_hard  rescue     0.435 [0.304,0.565] n=46
+  Vc         deep             rescue     0.263 [0.105,0.474] n=19
+  Vc         found            retention  0.710 [0.629,0.782] n=124
+
+  A=z(area)+z(mean_vis) hard             auc        0.892 [0.852,0.932] n=55
+  A=z(area)+z(mean_vis) hard             rescue     0.618 [0.491,0.745] n=55
+  A=z(area)+z(mean_vis) cross_root_hard  rescue     0.696 [0.565,0.826] n=46
+  A=z(area)+z(mean_vis) deep             rescue     0.632 [0.421,0.842] n=19
+  A=z(area)+z(mean_vis) found            retention  0.637 [0.556,0.718] n=124
+
+R_F_gate hard rescue 0.400 [0.273,0.510] n=55
+R_F_gate found retention 1.000 [1.000,1.000] n=124
+F residualized on log n_points (hard): AUC 0.852 [0.802,0.903] n=55
+
+  [PASS] hard rescue(R_F)>=0.50 & CI_low>0.30
+  [FAIL] found retention>=0.85 & CI_low>0.75
+  [PASS] cross_root_hard rescue>=0.45 & CI_low>0.25
+  [PASS] hard residual AUC(F) CI_low>0.60
+VERDICT: FAIL

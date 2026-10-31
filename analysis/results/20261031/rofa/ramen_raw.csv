@@ -1,0 +1,72 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+ramen,frame_00006,chopsticks,0.879264,7668,7041,1
+ramen,frame_00006,egg,0.927265,6732,6967,2
+ramen,frame_00006,nori,0.863979,15178,13298,3
+ramen,frame_00006,bowl,0.0,0,53296,1
+ramen,frame_00006,napkin,0.0,12,5528,1
+ramen,frame_00006,sake cup,0.0,21610,11994,3
+ramen,frame_00006,wavy noodles,0.785123,5364,4763,2
+ramen,frame_00006,kamaboko,0.799302,2348,2807,1
+ramen,frame_00006,plate,0.44794,22122,49037,2
+ramen,frame_00006,onion segments,0.0,1591,2767,2
+ramen,frame_00024,bowl,0.0,0,161092,1
+ramen,frame_00024,chopsticks,0.814825,14094,11613,1
+ramen,frame_00024,egg,0.907093,30208,27842,2
+ramen,frame_00024,nori,0.977874,99519,99105,3
+ramen,frame_00024,wavy noodles,0.804876,27702,25087,2
+ramen,frame_00024,kamaboko,0.904312,12151,12845,1
+ramen,frame_00024,onion segments,0.0,0,18208,2
+ramen,frame_00024,corn,0.0,0,1837,1
+ramen,frame_00060,chopsticks,0.850332,14490,12832,1
+ramen,frame_00060,egg,0.907537,25831,23826,2
+ramen,frame_00060,sake cup,0.0,0,9953,3
+ramen,frame_00060,napkin,0.980737,20290,20224,1
+ramen,frame_00060,wavy noodles,0.824675,21514,18950,2
+ramen,frame_00060,kamaboko,0.881937,9345,9815,1
+ramen,frame_00060,corn,0.0,0,1412,1
+ramen,frame_00060,onion segments,0.0,0,10296,2
+ramen,frame_00065,bowl,0.0,0,80805,1
+ramen,frame_00065,egg,0.923963,13869,13357,2
+ramen,frame_00065,chopsticks,0.865595,6282,5669,1
+ramen,frame_00065,sake cup,0.0,27207,11492,3
+ramen,frame_00065,wavy noodles,0.831898,11113,9734,2
+ramen,frame_00065,nori,0.863495,25455,22489,3
+ramen,frame_00065,napkin,0.0,6721,5392,1
+ramen,frame_00065,kamaboko,0.85272,5314,5517,1
+ramen,frame_00065,plate,0.23636,9479,39853,2
+ramen,frame_00065,corn,0.0,0,1199,1
+ramen,frame_00065,onion segments,0.0,0,8624,2
+ramen,frame_00081,bowl,0.449621,25964,51295,1
+ramen,frame_00081,chopsticks,0.844545,9484,8065,1
+ramen,frame_00081,sake cup,0.079411,35598,11283,3
+ramen,frame_00081,nori,0.97112,23771,23392,3
+ramen,frame_00081,egg,0.898977,5974,5530,2
+ramen,frame_00081,wavy noodles,0.535418,7911,4314,2
+ramen,frame_00081,glass of water,0.726503,10197,13444,1
+ramen,frame_00081,kamaboko,0.851679,1996,1974,1
+ramen,frame_00081,spoon,0.281075,25539,7400,3
+ramen,frame_00081,napkin,0.0,0,3992,1
+ramen,frame_00081,plate,0.428477,16118,33483,2
+ramen,frame_00081,onion segments,0.0,1653,2032,2
+ramen,frame_00119,nori,0.971363,94645,92254,3
+ramen,frame_00119,egg,0.885662,41806,37471,2
+ramen,frame_00119,sake cup,0.144157,52710,7634,3
+ramen,frame_00119,chopsticks,0.824195,5732,4914,1
+ramen,frame_00119,wavy noodles,0.753865,47071,36869,2
+ramen,frame_00119,kamaboko,0.85616,11378,12353,1
+ramen,frame_00119,corn,0.0,0,775,1
+ramen,frame_00119,onion segments,0.0,6654,10026,2
+ramen,frame_00128,glass of water,0.734035,39484,51943,1
+ramen,frame_00128,nori,0.960182,46683,45324,3
+ramen,frame_00128,egg,0.901718,18489,17037,2
+ramen,frame_00128,sake cup,0.034112,64678,12655,3
+ramen,frame_00128,bowl,0.308157,26234,76769,1
+ramen,frame_00128,chopsticks,0.860816,11087,9903,1
+ramen,frame_00128,wavy noodles,0.419268,36804,16569,2
+ramen,frame_00128,spoon,0.232777,63721,19722,3
+ramen,frame_00128,corn,0.0,0,723,1
+ramen,frame_00128,onion segments,0.0,6434,4870,2
+ramen,frame_00128,hand,0.0,0,9381,2
+ramen,frame_00128,plate,0.566354,42361,62461,2
+ramen,frame_00128,kamaboko,0.870387,5062,5227,1
+ramen,frame_00128,napkin,0.0,0,2891,1
