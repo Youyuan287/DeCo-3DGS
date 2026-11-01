@@ -21,9 +21,11 @@
 
 ### 0.2 当前最好结果（2026-11-01 晚修正）
 
-**training-free 主结果：官方锚点 0.6401 → gateE-TF 0.6716（+3.15，CI [+0.0120,+0.0539]）。**
+**training-free 主结果（审计器）：官方锚点 0.6401 → 0.6711（+3.13，CI [+0.0114,+0.0548]）。**
 口径：路线 A 官方权重 `ref/relags_hf` + center=none + 官方评测；
-详见 `reports/CONTRIBUTION_REANCHOR_20261101.md`。
+详见 `reports/REFRAME_DECISION_AUDIT_20261101.md`（叙事/机制）与
+`reports/CONTRIBUTION_REANCHOR_20261101.md`（出处核验）。
+同尺度确定性门控（不做配对证书）为 0.6716，作为变体报告；两者差 0.0005。
 
 **原 0.6760 仍存在，但含学习组件**：module C 的剪枝用的是冻结 LOSO GBM 的预测 IoU
 （`lerf_subset_20261030/preds.csv` 的 `pred` 列），gateE 回退分支是 S_C，
@@ -38,12 +40,16 @@
 | 策略移植（原称 B0） | `--center image`，DeCo 选簇策略套 ReLaGS 场 | 58.5869 / 51.8076 / 79.3896 / 65.9209 | 0.6392625 |
 | 路线 B（未本机复核） | 我方重建语义场 + gap 补丁（hn01） | — | 0.6471 |
 
-gateE-TF 分场景：figurines 0.6493 / ramen 0.6221 / teatime 0.8097 / waldo 0.6051。
+审计器分场景：figurines 0.6493 / ramen 0.6203 / teatime 0.8097 / waldo 0.6051
+（gateE-TF 变体：0.6493 / 0.6221 / 0.8097 / 0.6051）；
 原 gateE（center=image，学习器）分场景：0.6129 / 0.6092 / 0.8223 / 0.6597。
 
 ### 0.3 最终指标状态（必须说清）
 
-- **training-free 最好：官方 208 条 0.6716（+3.15 vs 0.6401）**，已通过配对 bootstrap 与分族门控。
+- **training-free 最好（审计器）：官方 208 条 0.6711（+3.13 vs 0.6401）**，已通过配对 bootstrap 与分族门控。
+  改判集中在 deep（24%），found 仅 2.3%；π∈[0.5,0.95] 结果仅差 0.0036。
+- 跨场复核（常数不变）：center=image 0.6393 → 0.6691（+2.99）；
+  leave-query-view-out 0.6675（+2.77），说明不是查询视角 2D 捷径。
 - 原 0.6760 含 LOSO 学习器（module C），只能作学习层消融；0.6393 不是 DeCo 基线，是策略移植。
 - Part 方向的最新 +2.1 是 **GT-parent oracle 上界**，有数据泄露，不能算方法结果。
 - 无 GT parent 推断失败；part-level 特征/选择器门控失败。
@@ -64,7 +70,7 @@ gateE-TF 分场景：figurines 0.6493 / ramen 0.6221 / teatime 0.8097 / waldo 0.
 
 ### 0.5 还没证明什么
 
-- 没有任何方法把 208 条推过 0.70；training-free 当前 0.6716（官方锚点 +3.15），已排除学习器。
+- 没有任何方法把 208 条推过 0.70；training-free 当前 0.6711（官方锚点 +3.13），已排除学习器。
 - 没有可部署的 part-level 方法（parent 推断、part 选择、多实例集合均未过门控）。
 - ScanNet 上没有正迁移（late interaction 负迁移）。
 - C1-off/center-image 的受控消融已由 gateE-TF（center=none）部分补齐；路线 B 未复核。
@@ -212,9 +218,10 @@ gateE-TF 分场景：figurines 0.6493 / ramen 0.6221 / teatime 0.8097 / waldo 0.
 ### 5.3 逐查询 gating（gateB/gateE）
 
 > **协议修正（2026-11-01 晚）**：下表 gateB/gateE 的 S_C 来自学习型 module C（见 5.2）。
-> training-free 版本（C_tf = 尺度并入）在官方锚点 center=none 下重跑：
-> main 0.6401 → C_tf 0.6572 → mask 0.6582 → **gateE-TF 0.6716（+3.15，CI [+1.20,+5.39]）**；
-> deep 0.2914→0.6515，found −0.0045，无场景恶化 >−0.01。详见 `reports/CONTRIBUTION_REANCHOR_20261101.md`。
+> training-free 主方法改为**判决审计**（配对证书 + 范围支配），在官方锚点 center=none 下：
+> main 0.6401 → C_tf 0.6572 → mask 0.6582 → **审计器 0.6711（+3.13，CI [+1.14,+5.48]）**；
+> deep 0.2914→0.6515，found −0.0041，无场景恶化 >−0.01；改判 found 2.3% / deep 24%。
+> 详见 `reports/REFRAME_DECISION_AUDIT_20261101.md`。
 
 **gateB（启发式）**：mask 改变 released 选择 → 用 mask；否则用 C。
 
@@ -244,7 +251,7 @@ CI：gateE−main +0.0367 [+0.0247,+0.0482]；−C +0.0158 [+0.0068,+0.0248]；�
 
 **想证明**：只在物体证据更强时改选择，保护 found；同尺度比较避免跨融合 margin 不可比。
 **结论**：PASS；但 0.6760 含学习型 S_C，不能作 training-free 主张。
-training-free 对应结果 **0.6716（官方锚点 +3.15）**，见 5.3 顶部修正框。
+training-free 对应结果为**审计器 0.6711（官方锚点 +3.13）**，见 5.3 顶部修正框。
 
 ### 5.4 失败的组合（不要重复）
 
@@ -828,8 +835,8 @@ baseline 是 root 3D 特征点积。
 
 ## 17. 一句话总结
 
-**training-free 最好结果 0.6716（官方锚点 0.6401 +3.15）来自”尺度门控并入 + 多视角 mask late interaction +
-同尺度证据 gating”；原 0.6760 含 LOSO 学习器，只能作学习层消融。**
+**training-free 最好结果 0.6711（官方锚点 0.6401 +3.13）来自”判决审计：配对证词证书 + 范围支配”；
+原 0.6760 含 LOSO 学习器，只能作学习层消融。**
 它把选择层做到了接近池内 oracle，但没有解决”实例/part 从哪里来”。
 最新 Part 诊断表明：part 候选在 2D/3D leaf 里存在，主因是 root-first 候选策略把 leaf part 挡在池外；
 特征是第二瓶颈，聚合第三。无 GT parent 推断、part 语义选择、多实例集合都未过门控，

@@ -183,6 +183,7 @@ $PY analysis/results/.../summarize_6760.py --results ... --identity ...
 |---|---|
 | `reports/PROJECT_HANDOFF_20261101.md` | **总交接**：目标/全部实验/结论/计划/泄露审计/文件索引 |
 | `reports/CONTRIBUTION_REANCHOR_20261101.md` | **贡献重锚定**：出处核验、module C 学习性质审计、training-free gateE-TF 0.6716 |
+| `reports/REFRAME_DECISION_AUDIT_20261101.md` | **叙事重构**：判决审计、配对证书 0.6711、四条可证伪预测、非重合表述词表 |
 | `reports/EXPERIMENT_RECORD.md` | 总记录（双基线、实验判定、协议警告） |
 | `reports/GPT_HANDOFF_DOSSIER.md` | 给 GPT 的完整交接 |
 | `reports/PART_MULTIGRANULARITY_GATE.md` | Part 多粒度：2D/3D 候选、grounding、enrichment、selector、lift |
@@ -238,13 +239,17 @@ $PY analysis/results/.../summarize_6760.py --results ... --identity ...
 详见 `reports/CONTRIBUTION_REANCHOR_20261101.md`。
 
 **新主结果（官方锚点 center=none，208 条）**：main 0.6401 → C_tf 0.6572 → mask 0.6582
-→ **gateE-TF 0.6716（+3.15，CI [+1.20,+5.39]）**。
+→ **审计器 0.6711（+3.13，CI [+1.14,+5.48]）**；确定性门控变体 0.6716。
+跨场（center=image 63.93）0.6691（+2.99）；leave-query-view-out 0.6675（+2.77）。
+机制与表述见 `reports/REFRAME_DECISION_AUDIT_20261101.md`。
 
 | 内容 | 脚本 / runner | 结果 |
 |---|---|---|
 | center=none 三份 dump | `run_cnone_dumps.sh`（服务器；dump 脚本 `*_cnone.py`） | `cnone_20261101/{cand,ev,segid}/` |
 | gateE-TF（pred=NAG root score） | `run_gate_cnone_tf.sh` | `cnone_20261101/gate/` |
 | 离线门控分析 | `analysis/lerf_gate_trainingfree.py` | `analysis/results/20261101/cnone_gate_tf/` |
+| 判决审计（配对证书） | `analysis/lerf_witness_certificate.py` | `analysis/results/20261101/witness/`（witness dump）+ 同目录 |
+| 跨场复核（center=image） | 服务器 `run_crossfield_image.sh` | `analysis/results/20261101/{witness_image,gate_image,ev_image,segid_image}/` |
 
 口径提醒：0.6716（官方 64.01 锚点 + training-free）与 0.6760（center=image 策略移植 + 学习器）
 不属同一协议，不能并列。
