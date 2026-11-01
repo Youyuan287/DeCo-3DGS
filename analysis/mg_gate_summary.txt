@@ -1,0 +1,72 @@
+== by query group ==
+part       n= 16  best3=0.372 best_all=0.813 union=0.856  gain_all=+0.442 gain_union=+0.043  best3>=.5= 25.0% all>=.5= 87.5% union>=.5= 87.5%  union>=.8= 81.2%  n_union=2.62
+set        n= 34  best3=0.729 best_all=0.910 union=0.931  gain_all=+0.182 gain_union=+0.021  best3>=.5= 76.5% all>=.5= 97.1% union>=.5=100.0%  union>=.8= 94.1%  n_union=3.12
+part+set   n=  9  best3=0.256 best_all=0.871 union=0.898  gain_all=+0.615 gain_union=+0.027  best3>=.5= 22.2% all>=.5=100.0% union>=.5=100.0%  union>=.8= 88.9%  n_union=3.33
+attr       n= 18  best3=0.821 best_all=0.936 union=0.950  gain_all=+0.115 gain_union=+0.014  best3>=.5= 88.9% all>=.5=100.0% union>=.5=100.0%  union>=.8=100.0%  n_union=3.67
+whole      n=131  best3=0.644 best_all=0.880 union=0.948  gain_all=+0.236 gain_union=+0.068  best3>=.5= 67.9% all>=.5= 96.2% union>=.5=100.0%  union>=.8= 98.5%  n_union=3.45
+ALL        n=208  best3=0.635 best_all=0.884 union=0.936  gain_all=+0.249 gain_union=+0.052  best3>=.5= 65.9% all>=.5= 96.2% union>=.5= 99.0%  union>=.8= 96.2%  n_union=3.35
+
+== per-level best (mean) ==
+part L0=0.438 L1=0.722 L2=0.615 L3=0.372
+set L0=0.747 L1=0.521 L2=0.800 L3=0.729
+part+set L0=0.365 L1=0.433 L2=0.854 L3=0.256
+whole L0=0.678 L1=0.674 L2=0.783 L3=0.644
+ALL L0=0.665 L1=0.644 L2=0.781 L3=0.635
+
+== best level distribution (ALL / part+set) ==
+ALL {0: 57, 1: 38, 2: 58, 3: 55}
+part+set {0: 1, 1: 1, 2: 6, 3: 1}
+
+== part detail ==
+teatime       bear nose              best3=0.065 all=0.989 union=0.990 level=2 n_union=2
+teatime       bear nose              best3=0.095 all=0.989 union=0.989 level=1 n_union=1
+teatime       bear nose              best3=0.143 all=0.985 union=0.989 level=2 n_union=2
+teatime       dall-e brand           best3=0.066 all=0.284 union=0.352 level=1 n_union=2
+teatime       dall-e brand           best3=0.058 all=0.251 union=0.364 level=2 n_union=4
+ramen         hand                   best3=0.166 all=0.980 union=0.980 level=1 n_union=1
+waldo_kitchen ottolenghi             best3=0.941 all=0.941 union=0.953 level=0 n_union=6
+figurines     pirate hat             best3=0.304 all=0.929 union=0.929 level=1 n_union=1
+figurines     pirate hat             best3=0.111 all=0.729 union=0.780 level=1 n_union=2
+figurines     pirate hat             best3=0.249 all=0.947 union=0.948 level=2 n_union=2
+figurines     pirate hat             best3=0.358 all=0.941 union=0.941 level=1 n_union=1
+figurines     porcelain hand         best3=0.319 all=0.519 union=0.881 level=2 n_union=4
+figurines     porcelain hand         best3=0.854 all=0.854 union=0.881 level=3 n_union=6
+figurines     porcelain hand         best3=0.919 all=0.919 union=0.922 level=3 n_union=3
+figurines     tesla door handle      best3=0.407 all=0.839 union=0.876 level=1 n_union=2
+figurines     tesla door handle      best3=0.893 all=0.919 union=0.923 level=0 n_union=3
+
+== set detail ==
+waldo_kitchen Stainless steel pots   best3=0.466 all=0.535 union=0.945 level=1 n_union=5
+teatime       bag of cookies         best3=0.957 all=0.981 union=0.986 level=2 n_union=3
+teatime       bag of cookies         best3=0.214 all=0.979 union=0.981 level=2 n_union=3
+teatime       bag of cookies         best3=0.973 all=0.973 union=0.974 level=0 n_union=3
+teatime       bag of cookies         best3=0.985 all=0.985 union=0.986 level=3 n_union=3
+teatime       bag of cookies         best3=0.990 all=0.990 union=0.990 level=2 n_union=2
+ramen         chopsticks             best3=0.783 all=0.944 union=0.944 level=2 n_union=1
+ramen         chopsticks             best3=0.954 all=0.954 union=0.954 level=0 n_union=1
+ramen         chopsticks             best3=0.941 all=0.941 union=0.942 level=3 n_union=3
+ramen         chopsticks             best3=0.489 all=0.489 union=0.500 level=3 n_union=2
+ramen         chopsticks             best3=0.974 all=0.976 union=0.976 level=2 n_union=1
+ramen         chopsticks             best3=0.502 all=0.963 union=0.977 level=2 n_union=2
+ramen         chopsticks             best3=0.000 all=0.952 union=0.953 level=0 n_union=2
+ramen         glass of water         best3=0.987 all=0.987 union=0.993 level=3 n_union=4
+ramen         glass of water         best3=0.993 all=0.993 union=0.993 level=0 n_union=3
+figurines     rubber duck with buoy  best3=0.624 all=0.922 union=0.968 level=2 n_union=6
+figurines     rubber duck with buoy  best3=0.968 all=0.968 union=0.971 level=3 n_union=3
+figurines     rubber duck with buoy  best3=0.598 all=0.598 union=0.605 level=0 n_union=4
+figurines     rubber duck with hat   best3=0.954 all=0.954 union=0.956 level=3 n_union=5
+figurines     rubber duck with hat   best3=0.284 all=0.914 union=0.919 level=2 n_union=3
+figurines     rubber duck with hat   best3=0.970 all=0.970 union=0.972 level=3 n_union=4
+figurines     rubber duck with hat   best3=0.794 all=0.945 union=0.947 level=0 n_union=2
+teatime       tea in a glass         best3=0.969 all=0.969 union=0.974 level=3 n_union=4
+teatime       tea in a glass         best3=0.971 all=0.971 union=0.971 level=0 n_union=1
+teatime       tea in a glass         best3=0.886 all=0.886 union=0.887 level=0 n_union=5
+teatime       tea in a glass         best3=0.978 all=0.978 union=0.978 level=3 n_union=1
+teatime       tea in a glass         best3=0.614 all=0.913 union=0.987 level=2 n_union=3
+teatime       tea in a glass         best3=0.996 all=0.996 union=0.996 level=0 n_union=2
+teatime       three cookies          best3=0.301 all=0.869 union=0.896 level=0 n_union=2
+teatime       three cookies          best3=0.856 all=0.856 union=0.892 level=3 n_union=6
+teatime       three cookies          best3=0.834 all=0.857 union=0.860 level=0 n_union=5
+teatime       three cookies          best3=0.060 all=0.860 union=0.888 level=0 n_union=4
+teatime       three cookies          best3=0.000 all=0.977 union=0.977 level=2 n_union=1
+teatime       three cookies          best3=0.909 all=0.909 union=0.924 level=3 n_union=7

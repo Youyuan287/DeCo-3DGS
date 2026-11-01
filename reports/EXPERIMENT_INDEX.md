@@ -4,6 +4,8 @@
 目的：以后要复跑或找结果时，从这张表直接定位。
 所有 GPU 实验都在服务器 `fj01` 上跑；本地仓库只存脚本/报告/CSV 副本。
 
+> **先读总交接**：`reports/PROJECT_HANDOFF_20261101.md`（目标、全部实验设计/结果/结论、当前计划、泄露审计、文件索引）。
+
 ---
 
 ## 0. 统一环境（所有命令的前缀）
@@ -179,8 +181,13 @@ $PY analysis/results/.../summarize_6760.py --results ... --identity ...
 
 | 报告 | 内容 |
 |---|---|
+| `reports/PROJECT_HANDOFF_20261101.md` | **总交接**：目标/全部实验/结论/计划/泄露审计/文件索引 |
+| `reports/CONTRIBUTION_REANCHOR_20261101.md` | **贡献重锚定**：出处核验、module C 学习性质审计、training-free gateE-TF 0.6716 |
 | `reports/EXPERIMENT_RECORD.md` | 总记录（双基线、实验判定、协议警告） |
 | `reports/GPT_HANDOFF_DOSSIER.md` | 给 GPT 的完整交接 |
+| `reports/PART_MULTIGRANULARITY_GATE.md` | Part 多粒度：2D/3D 候选、grounding、enrichment、selector、lift |
+| `reports/GAUSSIAN_HEADROOM_AND_DIGS_POSITIONING.md` | 高斯级头寸、DIGS 定位 |
+| `reports/BOUNDARY_LOSS_ANALYSIS.md` | BIoU 边界审计 |
 | `reports/WHY_CONSISTENCY_HURTS.md` | 2D/3D、一致性崩塌的逐场景分析 |
 | `reports/PROTOCOL_QUERY_CONDITIONED.md` | late interaction vs 单向量、协议公平性 |
 | `reports/HEADROOM_ANALYSIS.md` | 池内/2D/贪心 oracle 头寸 |
@@ -199,3 +206,45 @@ $PY analysis/results/.../summarize_6760.py --results ... --identity ...
 - **作废**：`lerf_rofa_20261031`（DeCo 候选/错误底座）、`maskagg_*` 的 C1-off bank 数字。
 - **修正后**：SREM 用 `srem2_20261031`，不要用 `srem_20261031` 初版。
 - **当前最好**：`gatee_20261031` = 0.6760。
+
+---
+
+## 8. Part 多粒度 / grounding / 边界（2026-11-01 新增）
+
+服务器数据盘：`/root/rivermind-data/part_grounding_20261101/`
+（`pylibs/`、`model/grounding-dino-tiny/`、`code/`、`out/`、`hf_cache/`；**不要放系统盘**）
+
+| 内容 | 脚本 | 结果 |
+|---|---|---|
+| 2D 多粒度 oracle | `analysis/lerf_multigranularity_gate.py` | `analysis/results/20261101/mg_gate2/` |
+| 文本选 mask | `analysis/lerf_mg_select.py` | `analysis/results/20261101/mg_select/` |
+| 高斯级头寸 | `analysis/lerf_gaussian_headroom.py` | `analysis/results/20261101/gauss_headroom3/` |
+| 边界 BIoU | `analysis/lerf_boundary_probe.py` | `analysis/results/20261101/boundary_oracle/` |
+| GroundingDINO parent/part | `analysis/lerf_part_grounding_gate.py`、`lerf_part_grounding_mh.py` | 服务器 `part_grounding_20261101/out/` |
+| 无 GT parent | `analysis/lerf_part_grounding_nogt.py` | 服务器 `out/part_grounding_nogt.csv` |
+| enrichment | `analysis/lerf_part_enrichment_gate.py` | `analysis/results/20261101/enrichment/` |
+| part-whole selector | `analysis/lerf_part_selector_gate.py` | `analysis/results/20261101/selector/` |
+| 3D 候选覆盖 | 服务器 `code/part_3d_recall2.py` | `part_3d_recall` 日志 |
+
+当前状态：2D/3D leaf part 候选存在；root-first 候选策略是主因；无 GT parent/part 选择器均失败；
+208 最终指标仍 0.6760；+2.1 是 GT-parent oracle。详见 `reports/PART_MULTIGRANULARITY_GATE.md`。
+
+---
+
+## 9. 贡献重锚定与 training-free gateE（2026-11-01 新增）
+
+**背景**：module C 的分支使用冻结 LOSO GBM 的预测 IoU（`lerf_subset_20261030/preds.csv`
+的 `pred` 列），属于学习组件；gateE 的回退分支是 S_C，因此 0.6760 不能作为 training-free 结果。
+详见 `reports/CONTRIBUTION_REANCHOR_20261101.md`。
+
+**新主结果（官方锚点 center=none，208 条）**：main 0.6401 → C_tf 0.6572 → mask 0.6582
+→ **gateE-TF 0.6716（+3.15，CI [+1.20,+5.39]）**。
+
+| 内容 | 脚本 / runner | 结果 |
+|---|---|---|
+| center=none 三份 dump | `run_cnone_dumps.sh`（服务器；dump 脚本 `*_cnone.py`） | `cnone_20261101/{cand,ev,segid}/` |
+| gateE-TF（pred=NAG root score） | `run_gate_cnone_tf.sh` | `cnone_20261101/gate/` |
+| 离线门控分析 | `analysis/lerf_gate_trainingfree.py` | `analysis/results/20261101/cnone_gate_tf/` |
+
+口径提醒：0.6716（官方 64.01 锚点 + training-free）与 0.6760（center=image 策略移植 + 学习器）
+不属同一协议，不能并列。

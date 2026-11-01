@@ -40,6 +40,11 @@
 
 **预期**：如果 top-20 能把 recall 从 0.02 提到 0.1+，这是比任何 gating 都大的收益。
 
+> 2026-11-01 实测：**扩池是负收益**。把 gap 前缀扩到整个 top-5/leaf 候选池，
+> 3D precision 0.707→0.493、IoU 0.553→0.432；GT-oracle 最好前缀也只 +0.079。
+> 当前 gap 已接近前缀最优（57.7% 恰好、32.7% 选多、9.6% 选少）。
+> 原因不是候选数少，而是超点单位太混；见 `reports/GAUSSIAN_HEADROOM_AND_DIGS_POSITIONING.md`。
+
 ---
 
 ## 2. 层级区域生长（阶段 4）
@@ -104,20 +109,27 @@ query-agnostic，协议安全。成本低；可能对 deep/teatime 有帮助。
 
 ---
 
-## 7. 推荐优先级
+## 7. 推荐优先级（2026-11-01 高斯级审计后更新）
 
 | 优先级 | 方向 | 成本 | 预期 | 新颖性 |
 |---|---|---|---|---|
-| **1** | **top-k 扩池（10/20）+ 现有读出** | 中 | recall 0.02→0.1+？ | 中 |
-| **2** | **2D mask 精修/多视角共识** | 低–中 | found/deep IoU 直接提升 | 中 |
-| 3 | 几何/coverage 选视角用于 3D 聚合 | 低 | deep/teatime | 中低 |
-| 4 | class-agnostic proposal / mask graph（QCMG-lite） | 高 | recall + macro | 高 |
-| 5 | 特征提取/backbone 改进 | 中 | 绝对提升 | 低 |
-| 6 | MWP/剪枝消融 | 低 | 掩膜质量 | 低 |
+| **1** | **多粒度 part-whole 本体 + 查询条件化粒度/集合选择** | 高 | oracle 0.635→0.884→0.936；part 0.372→0.813；**但 CLIP 选择器 top1 0.511 < L3 oracle** | 高（需先过 grounding 门控） |
+| 2 | 透明/薄结构的 transmission-aware voting | 中 | DIGS F1 的残余失败 | 中高 |
+| 3 | 叶级拆分/更细超点 | 低–中 | 高斯级 oracle +0.035；仅 deep +0.096 | 中低 |
+| 4 | 候选选择（best single/prefix） | 低 | 3D oracle 仅 +0.08；2D 已近饱和 | 低 |
+| 5 | 扩 top-k / 更多超点 | 低 | **负**：全池 3D IoU 0.432 vs 0.553 | 无 |
+| 6 | 边界高斯精修 | 中 | 3D oracle +0.040（found/rank2 为主）；DIGS 已做 | 无 |
+| 7 | 特征提取/backbone 改进 | 中 | 绝对提升 | 低 |
 
-**建议先做 1**：它最便宜、直接验证“候选生成”这个最大头寸。
-如果 top-20 扩池能把 recall 拉起来，再投入 QCMG-lite；如果扩池也救不了，
-说明问题在 proposal 质量，需要换 class-agnostic 图。
+**建议先做 1 的可行性门控**：多粒度 mask DAG 的 part proposal recall + granularity oracle；
+只有 part 查询的 GT 子区域能进入 DAG，且 oracle 显著高于单粒度，才投入方法。
+**不要先做 5/6**：一个负收益，一个已被 DIGS 占据且只有 +0.040。
+
+> 2026-11-01 补充：多粒度 2D oracle 已过（L3 0.635→四层 0.884→集合 0.936；
+> part 0.372→0.813），但 **CLIP/AlphaCLIP/NAG 选择器都选不动**（raw top1 0.511，
+> part+set top1 0.000）。下一步不是建 DAG，而是先过 part grounding 门控
+> （GroundingDINO/OWL-ViT 或多视角 part track）；详见
+> `reports/PART_MULTIGRANULARITY_GATE.md`。
 
 ---
 

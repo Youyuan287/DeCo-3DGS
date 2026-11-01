@@ -8,3 +8,5 @@ __pycache__/
 *.log
 results/**/logs/
 results/**/*.log
+part_grounding/
+digs_2610.16177.pdf
