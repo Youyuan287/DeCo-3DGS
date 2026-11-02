@@ -31,3 +31,11 @@ python experiments/cvpr27_8h_discovery/probe_rank.py
 ## 未提交的大文件（可再生成）
 `analysis/results/20261103_axis/n1*/` 是 shift 后的 witness CSV（约 12.6 MB），
 由 `build_n1_shifted.py` 从 `analysis/results/20261101/` + `ag/*.npz` 重建，故不入库。
+
+## 文献占位检查
+```bash
+cd experiments/cvpr27_8h_discovery
+python tools/litcheck.py --cat cs.CV --q 'all:"conformal" AND all:segmentation' --since 2025-01-01
+python tools/litcheck.py --ids 2608.16103 --abstracts
+```
+依赖：`curl`（内置 WebSearch/WebFetch 在本机不可用）。退出码 2 = 未取到响应，判 UNVERIFIED。

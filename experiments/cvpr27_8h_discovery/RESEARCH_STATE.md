@@ -37,6 +37,11 @@ E10 支配模式 / E11 排序器 probe。
 ## 未解决 bug
 无（probe_rank 的 rank1/oracle 索引错误已修复）。
 
+## 文献检查（固定流程）
+- 工具：`tools/litcheck.py`（arXiv API，经 curl）；协议：`LITERATURE_PROTOCOL.md`；账本：`NOVELTY_LOG.md`
+- 已查实：粒度诊断被 QAGaussian 占；zR/原型校准被 PTC、Target-Aware 占；实例发现被 DIGS 占。
+- 唯一未占（弱证据）：对返回的 3D 区域集合做保形覆盖保证。
+
 ## 下一步最优先
 若获得远程权限：①push 本分支；②补 CSLS/hubness 公平对照；③在未参与设计的场景复现。
 
