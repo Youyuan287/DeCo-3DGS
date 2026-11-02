@@ -22,8 +22,17 @@ E10 支配模式 / E11 排序器 probe。
 
 ## Git
 - 本地分支 `research/cvpr27-autonomous-8h`
-- **阻塞：本仓库没有配置任何 remote（`git remote -v` 为空），`gh` 未安装。
-  无法 push。需要用户提供远程地址与凭证。** 已按要求仅做本地提交，未尝试绕过。
+- 本地提交 `791332c`（`research: two-axis bias decomposition, audit ceiling, and signal probes`）
+- **推送阻塞，原因有三，均已核实：**
+  1. `git remote -v` 为空，本仓库从未配置 remote；`gh` 未安装。
+  2. 远程 `https://github.com/Youyuan287/DeCo-3DGS` 可达，但其 HEAD 为 `1aa0bf1`，
+     **本地仓库不包含该提交**（`git cat-file` 失败），即两者是无关历史。
+     本目录是研究笔记仓库，不是 DeCo-3DGS 的克隆。
+  3. 因此 `git push -u origin HEAD` 会在用户的公开仓库里建立一个历史无关的分支。
+     这属于对共享状态的不可逆改动，且很可能不是用户本意 —— 按要求记录而不猜测执行。
+- 恢复方式（需用户执行一次）：
+  `git remote add origin <正确仓库> && git push -u origin research/cvpr27-autonomous-8h`
+  或者把 `experiments/cvpr27_8h_discovery/` 拷进真正的 DeCo-3DGS 克隆后提交。
 
 ## 未解决 bug
 无（probe_rank 的 rank1/oracle 索引错误已修复）。
