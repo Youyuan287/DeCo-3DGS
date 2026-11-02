@@ -165,3 +165,55 @@ ScanNet 看见 `b_c`（+5.62，已知），LERF 看见 `a_g`（+0.97，本轮新
 它们不是同一个上限。
 
 **这才是值得攻的问题**：训练-free 地识别"池中哪个候选是隐藏的正确解"。
+
+## 11. 非文本信号 probe（E9–E11）
+
+问题：既然池内存在更好的候选（22.6%），信息到底在不在我们已测量的描述量里？
+
+**E9 单特征 AUC（逐查询，预测"是否为 IoU 最高候选"）**
+
+| 特征 | mean AUC |
+|---|---:|
+| id_top3 | 0.875 |
+| score（=rank 依据） | 0.871 |
+| obs_sim_max | 0.851 |
+| id_mean_c | 0.847 |
+| area_ratio | 0.837 |
+| obs_sim_std | 0.805 |
+| cover_views / mean_vis | 0.72–0.73 |
+| **mwp_conf（跨视角掩膜一致性）** | **0.465** |
+| **agree** | **0.442** |
+| vis_frac / mem_frac / bbox_diag | 0.48–0.54 |
+
+AUC 高不等于能用来选：所有这些特征都与 rank 高度共线。
+
+**E10 逐视角支配模式（不看均值，看"在多少视角赢、赢多少"）**
+
+| 规则 | 单候选 macro |
+|---|---:|
+| rank1 | 0.5565 |
+| max win-views | 0.4692 |
+| max win-rate(>0.1) | 0.4069 |
+| max mean margin | 0.2364 |
+| max median margin | 0.4044 |
+| max lower-quartile margin | 0.4444 |
+
+**全部低于 rank1。**
+
+**E11 排序器（在查询内做百分位，预测"是否最优"）**
+
+| 选择器 | 单候选 macro |
+|---|---:|
+| rank1 | 0.5565 |
+| **LOSO logistic（全特征，监督）** | **0.6226** |
+| fixed rank-sum `id`（training-free） | 0.6015 |
+| fixed rank-sum 全部 | 0.5072 |
+| fixed rank-sum 几何 / 证据 / 掩膜一致性 | 0.39 / 0.44 / 0.09 |
+| pool oracle | 0.6948–0.7031 |
+
+**结论**：信号不是"不存在"，而是**只存在于已被使用的特征里**。唯一显著的 training-free
+提升来自 `id` 族（0.6015），而审计器的挑战者已经在用 `z(NAG)+z(id_top3)`。
+监督排序器能到 0.6226，但既非 training-free，也仍离 oracle 8 pp。
+
+**跨视角掩膜一致性（mwp_conf / agree）AUC < 0.5** —— 这条直接否掉了"用二维掩膜一致性
+作为新信号"的设想，不必再建这条管线。
