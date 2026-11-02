@@ -184,6 +184,11 @@ $PY analysis/results/.../summarize_6760.py --results ... --identity ...
 | `reports/PROJECT_HANDOFF_20261101.md` | **总交接**：目标/全部实验/结论/计划/泄露审计/文件索引 |
 | `reports/CONTRIBUTION_REANCHOR_20261101.md` | **贡献重锚定**：出处核验、module C 学习性质审计、training-free gateE-TF 0.6716 |
 | `reports/REFRAME_DECISION_AUDIT_20261101.md` | **叙事重构**：判决审计、配对证书 0.6711、四条可证伪预测、非重合表述词表 |
+| `reports/EXPERIMENT_DOC_LERF_SCANNET_20261102.md` | **简要实验文档**：摘要/引言/方法/实验（LERF+ScanNet）+ 小记录；§3.4.2.1 视角中心化归因（独立增益 +0.39，上界 ~0.8，收口）；§3.4.3 局部对比 B0–B6 全负（随机≈空间邻域）；§6 下一步=二维→三维映射可辨识性实验（需先有 level 0/1 观测） |
+| `reports/CVPR_DRAFT_DECISION_AUDIT_20261102.md` | **CVPR 论文草稿**（中文，CVPR 结构）：判决审计 + 层匹配原则 + OpenSeg-768 ScanNet 记录 + 补充材料 |
+| `reports/SCANNET_AUDIT_NEGATIVE_20261101.md` | **ScanNet 负结果**：审计器不迁移闭集分类（40.36→36.73），配对前提不成立 |
+| `reports/3DOVS_DECISION_AUDIT_NEGATIVE_20261102.md` | **3D-OVS 负结果**：证书 0.98–1.00 时改判仍掉分（70.05→63.51），证据≠IoU |
+| `reports/3DOVS_REPRO_GAP_AND_AUDIT_20261102.md` | **3D-OVS 复现差距根因**：三级 oracle 分解，特征分辨率（level-1 天花板 0.7735） |
 | `reports/EXPERIMENT_RECORD.md` | 总记录（双基线、实验判定、协议警告） |
 | `reports/GPT_HANDOFF_DOSSIER.md` | 给 GPT 的完整交接 |
 | `reports/PART_MULTIGRANULARITY_GATE.md` | Part 多粒度：2D/3D 候选、grounding、enrichment、selector、lift |
