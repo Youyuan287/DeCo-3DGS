@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "scene": "ramen",
+  "n_observations": 8469,
+  "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+  "observation_sha256": "feeb6de4876398b7bef4b7476456cdd450c70ab1bb36d4100bf27a4ae1cdf3bc",
+  "sidecar_sha256": "e50daebea06a9f77ce923f5841f7aeb1df14f6beb42c073b400ad31eeb2fafcd",
+  "n_gaussians": 372270,
+  "n_views": 131,
+  "root_regions": 249
+}

@@ -1,0 +1,36 @@
+{
+  "status": "blocked_before_implementation",
+  "date": "2026-10-29",
+  "remote_host": "fj01-ssh.gpuhome.cc:30253",
+  "code_root": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/DeCo-3DGS",
+  "files": {
+    "merge_proj.py": {"sha256": "2b2d78e397e62f6b19960b4f5e62c6300eb124ec744790559ba196e1a0542c3a", "path": "/root/rivermind-data/repro/deco-b123/frozen_ramen_relags/merge_proj.py"},
+    "evidence_modes.py": {"sha256": "c3fe2f5b0da733419c04b7005d5df21473d6060eb397e9909822f4d4478e8f69", "path": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/DeCo-3DGS/deco/lerf_ovs/evidence_modes.py"},
+    "evidence_readout_v2.py": {"sha256": "44c5673c17df3e99841e41d0228da2b0ece9eaa17808a268c136ca85a7fa0554", "path": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/DeCo-3DGS/deco/lerf_ovs/evidence_readout_v2.py"},
+    "eval_lerf_ovs_v2.py": {"sha256": "da6e2ea79e536ebd582933648a79331c0923ff63b42a232950c13f405cc0fec6", "path": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/DeCo-3DGS/deco/lerf_ovs/eval_lerf_ovs_v2.py"}
+  },
+  "nag_sha256": {
+    "ramen": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "figurines": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "teatime": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "waldo_kitchen": "6cd39db45d60031ab04eac18630a918c311890de22220e07618a6da903098"
+  },
+  "observation_sha256": {
+    "ramen": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "figurines": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "teatime": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "waldo_kitchen": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8"
+  },
+  "bank_sha256": {
+    "ramen": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "figurines": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "teatime": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "waldo_kitchen": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3"
+  },
+  "gaussian_iteration0_ply_sha256": {
+    "ramen": "e7d2fb7a725b882efe3c8f4cc9f0f64fc5cbe5a36866f0d8bee353fbd9b68276",
+    "figurines": "1908dc76615f23dd0ad9f8e65d14c02de355bcfd61dc3afc2bac4b755a77c79c",
+    "teatime": "b052255e78922c00769b3fd5b016c5ae2ee3277941395a090dcb87feca6a2c6e",
+    "waldo_kitchen": "f3177dfc7f65b2310786acc0d5cff8a425ef2e43c6a129c4e5439df260dba7c3"
+  }
+}

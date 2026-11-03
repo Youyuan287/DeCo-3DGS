@@ -1,0 +1,4692 @@
+{
+  "generated_at": "2026-11-01T23:19:35.131097+08:00",
+  "input_root": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\experiments\\pairwise_semantic_20261101\\results",
+  "n": 208,
+  "expected_counts": {
+    "figurines": 56,
+    "ramen": 71,
+    "teatime": 59,
+    "waldo_kitchen": 22
+  },
+  "actual_counts": {
+    "figurines": 56,
+    "ramen": 71,
+    "teatime": 59,
+    "waldo_kitchen": 22
+  },
+  "missing_files": [],
+  "integrity_issues": [],
+  "fixed_counts_verified": true,
+  "gateE_anchor_is_independent": true,
+  "training_summary": {
+    "path": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\experiments\\pairwise_semantic_20261101\\train_summary.json",
+    "status": "RECORDED",
+    "issues": [],
+    "successful_optimizers": 12,
+    "prediction_inventory": {
+      "path": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\experiments\\pairwise_semantic_20261101\\predictions.jsonl",
+      "n": 67,
+      "scene_prompt_counts": {
+        "figurines": 21,
+        "ramen": 14,
+        "teatime": 14,
+        "waldo_kitchen": 18
+      },
+      "units": [
+        {
+          "scene": "figurines",
+          "prompt": "bag",
+          "g_A": 7
+        },
+        {
+          "scene": "figurines",
+          "prompt": "green apple",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "green toy chair",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "jake",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "miffy",
+          "g_A": 2
+        },
+        {
+          "scene": "figurines",
+          "prompt": "old camera",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "pikachu",
+          "g_A": 4
+        },
+        {
+          "scene": "figurines",
+          "prompt": "pink ice cream",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "pirate hat",
+          "g_A": 10
+        },
+        {
+          "scene": "figurines",
+          "prompt": "porcelain hand",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "pumpkin",
+          "g_A": 3
+        },
+        {
+          "scene": "figurines",
+          "prompt": "red apple",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "red toy chair",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "rubber duck with buoy",
+          "g_A": 2
+        },
+        {
+          "scene": "figurines",
+          "prompt": "rubber duck with hat",
+          "g_A": 3
+        },
+        {
+          "scene": "figurines",
+          "prompt": "rubics cube",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "spatula",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "tesla door handle",
+          "g_A": 2
+        },
+        {
+          "scene": "figurines",
+          "prompt": "toy cat statue",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "toy elephant",
+          "g_A": 1
+        },
+        {
+          "scene": "figurines",
+          "prompt": "waldo",
+          "g_A": 1
+        },
+        {
+          "scene": "ramen",
+          "prompt": "bowl",
+          "g_A": 1
+        },
+        {
+          "scene": "ramen",
+          "prompt": "chopsticks",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "corn",
+          "g_A": 4
+        },
+        {
+          "scene": "ramen",
+          "prompt": "egg",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "glass of water",
+          "g_A": 1
+        },
+        {
+          "scene": "ramen",
+          "prompt": "hand",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "kamaboko",
+          "g_A": 1
+        },
+        {
+          "scene": "ramen",
+          "prompt": "napkin",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "nori",
+          "g_A": 3
+        },
+        {
+          "scene": "ramen",
+          "prompt": "onion segments",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "plate",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "sake cup",
+          "g_A": 3
+        },
+        {
+          "scene": "ramen",
+          "prompt": "spoon",
+          "g_A": 2
+        },
+        {
+          "scene": "ramen",
+          "prompt": "wavy noodles",
+          "g_A": 2
+        },
+        {
+          "scene": "teatime",
+          "prompt": "apple",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "bag of cookies",
+          "g_A": 3
+        },
+        {
+          "scene": "teatime",
+          "prompt": "bear nose",
+          "g_A": 3
+        },
+        {
+          "scene": "teatime",
+          "prompt": "coffee",
+          "g_A": 2
+        },
+        {
+          "scene": "teatime",
+          "prompt": "coffee mug",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "dall-e brand",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "hooves",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "paper napkin",
+          "g_A": 3
+        },
+        {
+          "scene": "teatime",
+          "prompt": "plate",
+          "g_A": 4
+        },
+        {
+          "scene": "teatime",
+          "prompt": "sheep",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "stuffed bear",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "tea in a glass",
+          "g_A": 1
+        },
+        {
+          "scene": "teatime",
+          "prompt": "three cookies",
+          "g_A": 2
+        },
+        {
+          "scene": "teatime",
+          "prompt": "yellow pouf",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "Stainless steel pots",
+          "g_A": 2
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "cabinet",
+          "g_A": 4
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "dark cup",
+          "g_A": 3
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "frog cup",
+          "g_A": 2
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "ketchup",
+          "g_A": 2
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "knife",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "ottolenghi",
+          "g_A": 4
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "plastic ladle",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "plate",
+          "g_A": 4
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "pot",
+          "g_A": 3
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "pour-over vessel",
+          "g_A": 4
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "red cup",
+          "g_A": 6
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "refrigerator",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "sink",
+          "g_A": 4
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "spatula",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "spoon",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "toaster",
+          "g_A": 1
+        },
+        {
+          "scene": "waldo_kitchen",
+          "prompt": "yellow desk",
+          "g_A": 1
+        }
+      ]
+    },
+    "data": {
+      "status": "COMPLETE",
+      "generated_at": "2026-11-01T15:10:04.388635+00:00",
+      "validation": {
+        "candidate_view_rows": 1097,
+        "feature_rows": 366,
+        "max_feature_dot_error": 3.606716036941293e-08,
+        "max_score_join_error": 0.0,
+        "max_label_join_error": 0.0,
+        "query_views": 208,
+        "scene_prompt_units": 67,
+        "scene_prompt_counts": {
+          "figurines": 21,
+          "ramen": 14,
+          "teatime": 14,
+          "waldo_kitchen": 18
+        }
+      },
+      "toy_gradient_check": {
+        "max_absolute_gradient_error": 6.046321776587149e-11,
+        "passed": true,
+        "real_data_fitted": false
+      },
+      "folds": [
+        {
+          "heldout_scene": "figurines",
+          "train_scenes": [
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ],
+          "optimizer": {
+            "S": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.50956486383729,
+              "gradient_infinity_norm": 7.892930822227251e-07,
+              "coefficient_l2_norm": 1.3890190708503767,
+              "active_dimensions_per_block": [
+                20
+              ]
+            },
+            "J": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.4977900056324739,
+              "gradient_infinity_norm": 4.878617583109479e-07,
+              "coefficient_l2_norm": 1.4158041820600293,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            },
+            "Q": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.5010819169689538,
+              "gradient_infinity_norm": 3.658011317195578e-07,
+              "coefficient_l2_norm": 1.4145576891630918,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            }
+          },
+          "pair_counts": {
+            "candidate_rows": 244,
+            "scene_prompt_units": 46,
+            "eligible_scene_prompt_units": 41,
+            "non_tied_pairs": 266,
+            "weight_sum": 0.9999999999999999,
+            "eligible_mass_by_scene": {
+              "ramen": 0.8868429189857762,
+              "teatime": 0.9681818181818181,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "train_regret": {
+            "S": {
+              "single_candidate_iou": 0.5917052331629877,
+              "query_consistent_single_mask_oracle": 0.6729381635649184,
+              "regret": 0.08123293040193069,
+              "weighted_pair_accuracy_ties_half": 0.9538808263423368,
+              "pair_counts": {
+                "candidate_rows": 244,
+                "scene_prompt_units": 46,
+                "eligible_scene_prompt_units": 41,
+                "non_tied_pairs": 266,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.5917052331629877,
+              "query_consistent_single_mask_oracle": 0.6729381635649184,
+              "regret": 0.08123293040193069,
+              "weighted_pair_accuracy_ties_half": 0.9539141593198259,
+              "pair_counts": {
+                "candidate_rows": 244,
+                "scene_prompt_units": 46,
+                "eligible_scene_prompt_units": 41,
+                "non_tied_pairs": 266,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.5917052331629877,
+              "query_consistent_single_mask_oracle": 0.6729381635649184,
+              "regret": 0.08123293040193069,
+              "weighted_pair_accuracy_ties_half": 0.9539141593198259,
+              "pair_counts": {
+                "candidate_rows": 244,
+                "scene_prompt_units": 46,
+                "eligible_scene_prompt_units": 41,
+                "non_tied_pairs": 266,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "oof_ranking": {
+            "S": {
+              "single_candidate_iou": 0.5780334970469017,
+              "query_consistent_single_mask_oracle": 0.7302770409706084,
+              "regret": 0.15224354392370676,
+              "weighted_pair_accuracy_ties_half": 0.9247984293981104,
+              "pair_counts": {
+                "candidate_rows": 122,
+                "scene_prompt_units": 21,
+                "eligible_scene_prompt_units": 20,
+                "non_tied_pairs": 125,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.5780334970469017,
+              "query_consistent_single_mask_oracle": 0.7302770409706084,
+              "regret": 0.15224354392370676,
+              "weighted_pair_accuracy_ties_half": 0.9247984293981104,
+              "pair_counts": {
+                "candidate_rows": 122,
+                "scene_prompt_units": 21,
+                "eligible_scene_prompt_units": 20,
+                "non_tied_pairs": 125,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.5780334970469017,
+              "query_consistent_single_mask_oracle": 0.7302770409706084,
+              "regret": 0.15224354392370676,
+              "weighted_pair_accuracy_ties_half": 0.9247984293981104,
+              "pair_counts": {
+                "candidate_rows": 122,
+                "scene_prompt_units": 21,
+                "eligible_scene_prompt_units": 20,
+                "non_tied_pairs": 125,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "shuffle": {
+            "train": {
+              "seed": 20261102,
+              "mapping": [
+                {
+                  "scene": "ramen",
+                  "prompt": "bowl",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bear nose"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "chopsticks",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "corn",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "refrigerator"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "egg",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "dark cup"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "glass of water",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "stuffed bear"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "hand",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "sink"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "kamaboko",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "napkin",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "hooves"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "nori",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "bowl"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "onion segments",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "nori"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "plate",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pot"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "sake cup",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "tea in a glass"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "spoon",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "hand"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "wavy noodles",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "dall-e brand"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "apple",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pour-over vessel"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bag of cookies",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee mug"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bear nose",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "three cookies"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "kamaboko"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee mug",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "dall-e brand",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "apple"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "hooves",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "paper napkin",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "sake cup"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "plate",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ketchup"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "sheep",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "napkin"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "stuffed bear",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "Stainless steel pots"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "tea in a glass",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "corn"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "three cookies",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "yellow desk"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "yellow pouf",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "sheep"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "Stainless steel pots",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "red cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "cabinet",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "frog cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "dark cup",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "glass of water"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "frog cup",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "wavy noodles"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ketchup",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "paper napkin"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "knife",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plastic ladle"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ottolenghi",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "chopsticks"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plastic ladle",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bag of cookies"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plate",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "toaster"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pot",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "egg"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pour-over vessel",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "knife"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "red cup",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "yellow pouf"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "refrigerator",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ottolenghi"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "sink",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spatula",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "onion segments"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spoon",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "cabinet"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "toaster",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "yellow desk",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spoon"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 46
+            },
+            "test": {
+              "seed": 20261103,
+              "mapping": [
+                {
+                  "scene": "figurines",
+                  "prompt": "bag",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with hat"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "porcelain hand"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pumpkin"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "jake",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pink ice cream"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "miffy",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "tesla door handle"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "old camera",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pirate hat"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pikachu",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "waldo"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pink ice cream",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "miffy"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pirate hat",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with buoy"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "porcelain hand",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pumpkin",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "jake"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pikachu"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with buoy",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "old camera"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with hat",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubics cube"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubics cube",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green apple"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "spatula",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "bag"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "tesla door handle",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy cat statue"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy cat statue",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy elephant",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red apple"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "waldo",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy elephant"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 21
+            }
+          },
+          "train_scene_prompt_units": 46,
+          "heldout_scene_prompt_units": 21
+        },
+        {
+          "heldout_scene": "ramen",
+          "train_scenes": [
+            "figurines",
+            "teatime",
+            "waldo_kitchen"
+          ],
+          "optimizer": {
+            "S": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.5073985855984758,
+              "gradient_infinity_norm": 5.038175668109143e-07,
+              "coefficient_l2_norm": 1.4142748879972367,
+              "active_dimensions_per_block": [
+                20
+              ]
+            },
+            "J": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.49337714766685553,
+              "gradient_infinity_norm": 5.08294288943667e-07,
+              "coefficient_l2_norm": 1.4415567879176576,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            },
+            "Q": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.4994901800611734,
+              "gradient_infinity_norm": 4.017220758684159e-07,
+              "coefficient_l2_norm": 1.4361636996400169,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            }
+          },
+          "pair_counts": {
+            "candidate_rows": 290,
+            "scene_prompt_units": 53,
+            "eligible_scene_prompt_units": 49,
+            "non_tied_pairs": 299,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "teatime": 0.9681818181818181,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "train_regret": {
+            "S": {
+              "single_candidate_iou": 0.6272948078935096,
+              "query_consistent_single_mask_oracle": 0.7211970361237762,
+              "regret": 0.09390222823026662,
+              "weighted_pair_accuracy_ties_half": 0.9579026809868814,
+              "pair_counts": {
+                "candidate_rows": 290,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 49,
+                "non_tied_pairs": 299,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.6272948078935096,
+              "query_consistent_single_mask_oracle": 0.7211970361237762,
+              "regret": 0.09390222823026662,
+              "weighted_pair_accuracy_ties_half": 0.9647618311631467,
+              "pair_counts": {
+                "candidate_rows": 290,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 49,
+                "non_tied_pairs": 299,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.6272948078935096,
+              "query_consistent_single_mask_oracle": 0.7211970361237762,
+              "regret": 0.09390222823026662,
+              "weighted_pair_accuracy_ties_half": 0.9647618311631467,
+              "pair_counts": {
+                "candidate_rows": 290,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 49,
+                "non_tied_pairs": 299,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "teatime": 0.9681818181818181,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "oof_ranking": {
+            "S": {
+              "single_candidate_iou": 0.3499222508056208,
+              "query_consistent_single_mask_oracle": 0.5855004232940348,
+              "regret": 0.23557817248841406,
+              "weighted_pair_accuracy_ties_half": 0.8690936347968066,
+              "pair_counts": {
+                "candidate_rows": 76,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 12,
+                "non_tied_pairs": 92,
+                "weight_sum": 0.9999999999999998,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.3499222508056208,
+              "query_consistent_single_mask_oracle": 0.5855004232940348,
+              "regret": 0.23557817248841406,
+              "weighted_pair_accuracy_ties_half": 0.8690936347968066,
+              "pair_counts": {
+                "candidate_rows": 76,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 12,
+                "non_tied_pairs": 92,
+                "weight_sum": 0.9999999999999998,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.3497135309540438,
+              "query_consistent_single_mask_oracle": 0.5855004232940348,
+              "regret": 0.23578689233999106,
+              "weighted_pair_accuracy_ties_half": 0.8517822211185233,
+              "pair_counts": {
+                "candidate_rows": 76,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 12,
+                "non_tied_pairs": 92,
+                "weight_sum": 0.9999999999999998,
+                "eligible_mass_by_scene": {
+                  "ramen": 0.8868429189857762
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "shuffle": {
+            "train": {
+              "seed": 20261202,
+              "mapping": [
+                {
+                  "scene": "figurines",
+                  "prompt": "bag",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ketchup"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green apple",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plastic ladle"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "jake"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "jake",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "old camera"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "miffy",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bear nose"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "old camera",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pikachu"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pikachu",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "red cup"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pink ice cream",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bag of cookies"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pirate hat",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy cat statue"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "porcelain hand",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "tea in a glass"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pumpkin",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "tesla door handle"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "bag"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with buoy",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pirate hat"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with hat",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "Stainless steel pots"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubics cube",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pour-over vessel"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "spatula",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "waldo"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "tesla door handle",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "stuffed bear"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy cat statue",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "porcelain hand"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy elephant",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "waldo",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "toaster"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "apple",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "three cookies"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bag of cookies",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with hat"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bear nose",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubics cube"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green apple"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee mug",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "miffy"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "dall-e brand",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "hooves",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green toy chair"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "paper napkin",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "plate",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "yellow pouf"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "sheep",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy elephant"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "stuffed bear",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee mug"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "tea in a glass",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "sink"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "three cookies",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "frog cup"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "yellow pouf",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with buoy"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "Stainless steel pots",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "knife"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "cabinet",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "sheep"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "dark cup",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red apple"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "frog cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pot"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ketchup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "knife",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pink ice cream"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ottolenghi",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "refrigerator"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plastic ladle",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "dall-e brand"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plate",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pot",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pumpkin"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pour-over vessel",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "red cup",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "paper napkin"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "refrigerator",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "apple"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "sink",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "hooves"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spatula",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ottolenghi"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spoon",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "yellow desk"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "toaster",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "dark cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "yellow desk",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "cabinet"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 53
+            },
+            "test": {
+              "seed": 20261203,
+              "mapping": [
+                {
+                  "scene": "ramen",
+                  "prompt": "bowl",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "kamaboko"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "chopsticks",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "corn"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "corn",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "egg",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "hand"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "glass of water",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "bowl"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "hand",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "nori"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "kamaboko",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "wavy noodles"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "napkin",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "sake cup"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "nori",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "chopsticks"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "onion segments",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "plate",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "onion segments"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "sake cup",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "egg"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "spoon",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "glass of water"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "wavy noodles",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "napkin"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 14
+            }
+          },
+          "train_scene_prompt_units": 53,
+          "heldout_scene_prompt_units": 14
+        },
+        {
+          "heldout_scene": "teatime",
+          "train_scenes": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ],
+          "optimizer": {
+            "S": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.5313048456500584,
+              "gradient_infinity_norm": 3.95824801806971e-07,
+              "coefficient_l2_norm": 1.345481066551054,
+              "active_dimensions_per_block": [
+                20
+              ]
+            },
+            "J": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.518944787158714,
+              "gradient_infinity_norm": 4.4289459828761313e-07,
+              "coefficient_l2_norm": 1.381734280393268,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            },
+            "Q": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.5225795485566034,
+              "gradient_infinity_norm": 3.306957791909815e-07,
+              "coefficient_l2_norm": 1.3782468103566503,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            }
+          },
+          "pair_counts": {
+            "candidate_rows": 300,
+            "scene_prompt_units": 53,
+            "eligible_scene_prompt_units": 48,
+            "non_tied_pairs": 340,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "ramen": 0.8868429189857762,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "train_regret": {
+            "S": {
+              "single_candidate_iou": 0.5189836902988324,
+              "query_consistent_single_mask_oracle": 0.6493127766831481,
+              "regret": 0.13032908638431573,
+              "weighted_pair_accuracy_ties_half": 0.9310984283450593,
+              "pair_counts": {
+                "candidate_rows": 300,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 48,
+                "non_tied_pairs": 340,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.5189836902988324,
+              "query_consistent_single_mask_oracle": 0.6493127766831481,
+              "regret": 0.13032908638431573,
+              "weighted_pair_accuracy_ties_half": 0.9326337312159823,
+              "pair_counts": {
+                "candidate_rows": 300,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 48,
+                "non_tied_pairs": 340,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.5189836902988324,
+              "query_consistent_single_mask_oracle": 0.6493127766831481,
+              "regret": 0.13032908638431573,
+              "weighted_pair_accuracy_ties_half": 0.9344444462480561,
+              "pair_counts": {
+                "candidate_rows": 300,
+                "scene_prompt_units": 53,
+                "eligible_scene_prompt_units": 48,
+                "non_tied_pairs": 340,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "oof_ranking": {
+            "S": {
+              "single_candidate_iou": 0.8010526260697513,
+              "query_consistent_single_mask_oracle": 0.8011532016159194,
+              "regret": 0.00010057554616815789,
+              "weighted_pair_accuracy_ties_half": 0.9921752738654146,
+              "pair_counts": {
+                "candidate_rows": 66,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 13,
+                "non_tied_pairs": 51,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.8010526260697513,
+              "query_consistent_single_mask_oracle": 0.8011532016159194,
+              "regret": 0.00010057554616815789,
+              "weighted_pair_accuracy_ties_half": 0.9921752738654146,
+              "pair_counts": {
+                "candidate_rows": 66,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 13,
+                "non_tied_pairs": 51,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.8010526260697513,
+              "query_consistent_single_mask_oracle": 0.8011532016159194,
+              "regret": 0.00010057554616815789,
+              "weighted_pair_accuracy_ties_half": 0.9921752738654146,
+              "pair_counts": {
+                "candidate_rows": 66,
+                "scene_prompt_units": 14,
+                "eligible_scene_prompt_units": 13,
+                "non_tied_pairs": 51,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "shuffle": {
+            "train": {
+              "seed": 20261302,
+              "mapping": [
+                {
+                  "scene": "figurines",
+                  "prompt": "bag",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green toy chair",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "jake",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "miffy"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "miffy",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "knife"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "old camera",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pour-over vessel"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pikachu",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy elephant"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pink ice cream",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pot"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pirate hat",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "dark cup"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "porcelain hand",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "wavy noodles"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pumpkin",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "sake cup"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "old camera"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red toy chair",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "frog cup"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with buoy",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "glass of water"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with hat",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubics cube",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "bag"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "spatula",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "cabinet"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "tesla door handle",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "toaster"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy cat statue",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ottolenghi"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy elephant",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "jake"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "waldo",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy cat statue"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "bowl",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "red cup"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "chopsticks",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "kamaboko"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "corn",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red apple"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "egg",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with buoy"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "glass of water",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "hand",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "kamaboko",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "porcelain hand"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "napkin",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubics cube"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "nori",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "Stainless steel pots"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "onion segments",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "plate",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "tesla door handle"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "sake cup",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green apple"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "spoon",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "bowl"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "wavy noodles",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pikachu"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "Stainless steel pots",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "hand"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "cabinet",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "nori"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "dark cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "refrigerator"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "frog cup",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "waldo"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ketchup",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "chopsticks"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "knife",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "napkin"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ottolenghi",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pumpkin"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plastic ladle",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "sink"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plate",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pink ice cream"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pot",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "yellow desk"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pour-over vessel",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "corn"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "red cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plastic ladle"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "refrigerator",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "sink",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pirate hat"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spatula",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ketchup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spoon",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with hat"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "toaster",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "onion segments"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "yellow desk",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "egg"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 53
+            },
+            "test": {
+              "seed": 20261303,
+              "mapping": [
+                {
+                  "scene": "teatime",
+                  "prompt": "apple",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "tea in a glass"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bag of cookies",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "paper napkin"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bear nose",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "yellow pouf"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bag of cookies"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee mug",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "dall-e brand",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "stuffed bear"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "hooves",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "paper napkin",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "hooves"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "plate",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "apple"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "sheep",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bear nose"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "stuffed bear",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "dall-e brand"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "tea in a glass",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "three cookies"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "three cookies",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "sheep"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "yellow pouf",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee mug"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 14
+            }
+          },
+          "train_scene_prompt_units": 53,
+          "heldout_scene_prompt_units": 14
+        },
+        {
+          "heldout_scene": "waldo_kitchen",
+          "train_scenes": [
+            "figurines",
+            "ramen",
+            "teatime"
+          ],
+          "optimizer": {
+            "S": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.5022216593169819,
+              "gradient_infinity_norm": 1.3875304031903818e-06,
+              "coefficient_l2_norm": 1.4131321174915177,
+              "active_dimensions_per_block": [
+                20
+              ]
+            },
+            "J": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.4881761944878232,
+              "gradient_infinity_norm": 8.830879457653873e-07,
+              "coefficient_l2_norm": 1.4427199459457052,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            },
+            "Q": {
+              "method": "L-BFGS-B",
+              "success": true,
+              "status": 0,
+              "message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+              "iterations": 6,
+              "function_evaluations": 7,
+              "objective": 0.4927078011670685,
+              "gradient_infinity_norm": 8.130429879843817e-07,
+              "coefficient_l2_norm": 1.4401010227056998,
+              "active_dimensions_per_block": [
+                20,
+                512
+              ]
+            }
+          },
+          "pair_counts": {
+            "candidate_rows": 264,
+            "scene_prompt_units": 49,
+            "eligible_scene_prompt_units": 45,
+            "non_tied_pairs": 268,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "ramen": 0.8868429189857762,
+              "teatime": 0.9681818181818181
+            }
+          },
+          "train_regret": {
+            "S": {
+              "single_candidate_iou": 0.6044244838744461,
+              "query_consistent_single_mask_oracle": 0.7056435552935211,
+              "regret": 0.10121907141907494,
+              "weighted_pair_accuracy_ties_half": 0.9398483159000353,
+              "pair_counts": {
+                "candidate_rows": 264,
+                "scene_prompt_units": 49,
+                "eligible_scene_prompt_units": 45,
+                "non_tied_pairs": 268,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.6044580090565022,
+              "query_consistent_single_mask_oracle": 0.7056435552935211,
+              "regret": 0.10118554623701892,
+              "weighted_pair_accuracy_ties_half": 0.9439585278383309,
+              "pair_counts": {
+                "candidate_rows": 264,
+                "scene_prompt_units": 49,
+                "eligible_scene_prompt_units": 45,
+                "non_tied_pairs": 268,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.6044580090565022,
+              "query_consistent_single_mask_oracle": 0.7056435552935211,
+              "regret": 0.10118554623701892,
+              "weighted_pair_accuracy_ties_half": 0.9440095950218268,
+              "pair_counts": {
+                "candidate_rows": 264,
+                "scene_prompt_units": 49,
+                "eligible_scene_prompt_units": 45,
+                "non_tied_pairs": 268,
+                "weight_sum": 1.0,
+                "eligible_mass_by_scene": {
+                  "figurines": 0.9660633484162895,
+                  "ramen": 0.8868429189857762,
+                  "teatime": 0.9681818181818181
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "oof_ranking": {
+            "S": {
+              "single_candidate_iou": 0.5026977250177072,
+              "query_consistent_single_mask_oracle": 0.6321608657848007,
+              "regret": 0.12946314076709353,
+              "weighted_pair_accuracy_ties_half": 0.942510928204445,
+              "pair_counts": {
+                "candidate_rows": 102,
+                "scene_prompt_units": 18,
+                "eligible_scene_prompt_units": 16,
+                "non_tied_pairs": 123,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "J": {
+              "single_candidate_iou": 0.5026977250177072,
+              "query_consistent_single_mask_oracle": 0.6321608657848007,
+              "regret": 0.12946314076709353,
+              "weighted_pair_accuracy_ties_half": 0.9565611961766467,
+              "pair_counts": {
+                "candidate_rows": 102,
+                "scene_prompt_units": 18,
+                "eligible_scene_prompt_units": 16,
+                "non_tied_pairs": 123,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            },
+            "Q": {
+              "single_candidate_iou": 0.5026977250177072,
+              "query_consistent_single_mask_oracle": 0.6321608657848007,
+              "regret": 0.12946314076709353,
+              "weighted_pair_accuracy_ties_half": 0.942510928204445,
+              "pair_counts": {
+                "candidate_rows": 102,
+                "scene_prompt_units": 18,
+                "eligible_scene_prompt_units": 16,
+                "non_tied_pairs": 123,
+                "weight_sum": 0.9999999999999999,
+                "eligible_mass_by_scene": {
+                  "waldo_kitchen": 0.8933333333333334
+                }
+              },
+              "diagnostic_only": true,
+              "not_a_multimask_upper_bound": true
+            }
+          },
+          "shuffle": {
+            "train": {
+              "seed": 20261402,
+              "mapping": [
+                {
+                  "scene": "figurines",
+                  "prompt": "bag",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "corn"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green apple",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "nori"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "green toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red apple"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "jake",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "miffy",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pikachu"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "old camera",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bag of cookies"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pikachu",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with hat"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pink ice cream",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green apple"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pirate hat",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy elephant"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "porcelain hand",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "hand"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "pumpkin",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "bag"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "green toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "red toy chair",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pumpkin"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with buoy",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "miffy"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubber duck with hat",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "apple"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "rubics cube",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "bear nose"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "spatula",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "red toy chair"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "tesla door handle",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "kamaboko"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy cat statue",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "egg"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "toy elephant",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "chopsticks"
+                },
+                {
+                  "scene": "figurines",
+                  "prompt": "waldo",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "old camera"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "bowl",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "tesla door handle"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "chopsticks",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "wavy noodles"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "corn",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "sake cup"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "egg",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "onion segments"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "glass of water",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "hooves"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "hand",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "kamaboko",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "tea in a glass"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "napkin",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "sheep"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "nori",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "onion segments",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "bowl"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "plate",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "napkin"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "sake cup",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "spoon",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "three cookies"
+                },
+                {
+                  "scene": "ramen",
+                  "prompt": "wavy noodles",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "yellow pouf"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "apple",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "jake"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bag of cookies",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "porcelain hand"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "bear nose",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "paper napkin"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "stuffed bear"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "coffee mug",
+                  "donor_scene": "ramen",
+                  "donor_prompt": "glass of water"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "dall-e brand",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "toy cat statue"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "hooves",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "waldo"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "paper napkin",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "coffee mug"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "plate",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pink ice cream"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "sheep",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "stuffed bear",
+                  "donor_scene": "teatime",
+                  "donor_prompt": "dall-e brand"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "tea in a glass",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubics cube"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "three cookies",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "pirate hat"
+                },
+                {
+                  "scene": "teatime",
+                  "prompt": "yellow pouf",
+                  "donor_scene": "figurines",
+                  "donor_prompt": "rubber duck with buoy"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 49
+            },
+            "test": {
+              "seed": 20261403,
+              "mapping": [
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "Stainless steel pots",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spatula"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "cabinet",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ketchup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "dark cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "Stainless steel pots"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "frog cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "sink"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ketchup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "ottolenghi"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "knife",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "refrigerator"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "ottolenghi",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pot"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plastic ladle",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "yellow desk"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "plate",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "toaster"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pot",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plastic ladle"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "pour-over vessel",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "dark cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "red cup",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "plate"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "refrigerator",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "knife"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "sink",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "frog cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spatula",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "cabinet"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "spoon",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "red cup"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "toaster",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "spoon"
+                },
+                {
+                  "scene": "waldo_kitchen",
+                  "prompt": "yellow desk",
+                  "donor_scene": "waldo_kitchen",
+                  "donor_prompt": "pour-over vessel"
+                }
+              ],
+              "fixed_points": 0,
+              "same_normalized_text": 0,
+              "same_embedding_collisions": 0,
+              "n_units": 18
+            }
+          },
+          "train_scene_prompt_units": 49,
+          "heldout_scene_prompt_units": 18
+        }
+      ],
+      "scalar_feature_names": [
+        "s",
+        "r",
+        "b",
+        "m",
+        "rank",
+        "deficit",
+        "is_leaf",
+        "level",
+        "root_score",
+        "log1p_n_points",
+        "log1p_root_n_points",
+        "n_points_ratio",
+        "log1p_n_leaf",
+        "leaf_gain",
+        "id_top3",
+        "id_mean",
+        "cover_frac",
+        "log1p_cover_views",
+        "mwp_conf",
+        "fallback_seg"
+      ],
+      "heads": {
+        "S": "scalar-only",
+        "J": "scalar+q*F",
+        "Q": "scalar+deranged_q*F"
+      },
+      "hyperparameters": {
+        "l2": 0.1,
+        "optimizer": "L-BFGS-B",
+        "maxiter": 1000,
+        "tol": 1e-09,
+        "ftol": 1e-09,
+        "gtol": 1e-09,
+        "maxls": 50,
+        "initialization": "zeros",
+        "seed": 20261101,
+        "pair_tie_tolerance": 1e-08,
+        "scale_epsilon": 1e-12,
+        "no_sweep": true
+      },
+      "label_weight_definition": {
+        "view": "a_v=1/(scene image count * queries in image)",
+        "candidate_label": "y_qc=sum_v a_v*IoU_qcv/sum_v a_v",
+        "query_mass": "sum_v a_v",
+        "pair": "all abs(delta_y)>1e-8; within-query weights proportional to abs(delta_y)",
+        "loss": "query mass renormalized over eligible queries within scene, then equal scene mean; total pair weight=1",
+        "preprocessing": "train-only candidate-row median imputation; train-weighted pair-difference RMS per column; inactive columns zero; each block divided by sqrt(active dimensions)",
+        "CLIP_vectors_unchanged": true,
+        "area_ratio_excluded": true,
+        "GT_and_family_excluded_from_inputs": true,
+        "heldout_GT_not_used_in_training_or_selection": true
+      },
+      "out_of_fold": {
+        "S": {
+          "single_candidate_iou": 0.5579265247349952,
+          "query_consistent_single_mask_oracle": 0.6872728829163407,
+          "regret": 0.12934635818134554,
+          "weighted_pair_accuracy_ties_half": 0.9321445665661942,
+          "pair_counts": {
+            "candidate_rows": 366,
+            "scene_prompt_units": 67,
+            "eligible_scene_prompt_units": 61,
+            "non_tied_pairs": 391,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "ramen": 0.8868429189857762,
+              "teatime": 0.9681818181818181,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "diagnostic_only": true,
+          "not_a_multimask_upper_bound": true
+        },
+        "J": {
+          "single_candidate_iou": 0.5579265247349952,
+          "query_consistent_single_mask_oracle": 0.6872728829163407,
+          "regret": 0.12934635818134554,
+          "weighted_pair_accuracy_ties_half": 0.9356571335592445,
+          "pair_counts": {
+            "candidate_rows": 366,
+            "scene_prompt_units": 67,
+            "eligible_scene_prompt_units": 61,
+            "non_tied_pairs": 391,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "ramen": 0.8868429189857762,
+              "teatime": 0.9681818181818181,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "diagnostic_only": true,
+          "not_a_multimask_upper_bound": true
+        },
+        "Q": {
+          "single_candidate_iou": 0.557874344772101,
+          "query_consistent_single_mask_oracle": 0.6872728829163407,
+          "regret": 0.12939853814423974,
+          "weighted_pair_accuracy_ties_half": 0.9278167131466234,
+          "pair_counts": {
+            "candidate_rows": 366,
+            "scene_prompt_units": 67,
+            "eligible_scene_prompt_units": 61,
+            "non_tied_pairs": 391,
+            "weight_sum": 1.0,
+            "eligible_mass_by_scene": {
+              "figurines": 0.9660633484162895,
+              "ramen": 0.8868429189857762,
+              "teatime": 0.9681818181818181,
+              "waldo_kitchen": 0.8933333333333334
+            }
+          },
+          "diagnostic_only": true,
+          "not_a_multimask_upper_bound": true
+        }
+      },
+      "scope": [
+        "67 scene/prompt decisions, 208 repeated query-view evaluations; not 1097 independent samples.",
+        "Ranking diagnostics choose one mask consistently across all query views; they are not bounds on multi-mask predictions.",
+        "All deployed selections use the original A pool and original g_A without heldout labels.",
+        "Fixed original A order breaks exact learned-score ties; no threshold, gate, or head is chosen post hoc.",
+        "Same four scenes have been explored previously; LOSO is not a fresh independent confirmation."
+      ]
+    }
+  },
+  "status": "COMPLETE",
+  "overall": {
+    "n": 208,
+    "scene_prompt_units": 67,
+    "arms": {
+      "A": {
+        "image_then_scene_macro": 0.639262456425896,
+        "query_mean": 0.6256916151085625,
+        "scene_query_mean": 0.6396233394443037,
+        "scene_means": {
+          "figurines": 0.5858689558051238,
+          "ramen": 0.5180756071656566,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.6592091348450333
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.5515278298574228
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.4243563256122048
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.919088984843825,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "S": {
+        "image_then_scene_macro": 0.6323761180582186,
+        "query_mean": 0.6258020840836309,
+        "scene_query_mean": 0.6339396020568675,
+        "scene_means": {
+          "figurines": 0.600503545237284,
+          "ramen": 0.5179281845879901,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.61717661451983
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.610066187586064
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.42332436756853914
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.7089263832178087,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "J": {
+        "image_then_scene_macro": 0.6323761180582186,
+        "query_mean": 0.6258020840836309,
+        "scene_query_mean": 0.6339396020568675,
+        "scene_means": {
+          "figurines": 0.600503545237284,
+          "ramen": 0.5179281845879901,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.61717661451983
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.610066187586064
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.42332436756853914
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.7089263832178087,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "Q": {
+        "image_then_scene_macro": 0.6323761126965851,
+        "query_mean": 0.6258020739790141,
+        "scene_query_mean": 0.6339395946563031,
+        "scene_means": {
+          "figurines": 0.600503545237284,
+          "ramen": 0.5179281631414564,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.61717661451983
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.610066187586064
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.42332421744280335
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.7089263832178087,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      }
+    },
+    "comparisons": {
+      "J_minus_A": {
+        "first": "J_iou",
+        "second": "A_iou",
+        "delta_image_then_scene_macro": -0.006886338367677377,
+        "delta_query_mean": 0.00011046897506842162,
+        "ci95_image_cluster_bootstrap": [
+          -0.03152439024390244,
+          0.007317294716080142
+        ],
+        "wins": 1,
+        "losses": 2,
+        "ties": 205,
+        "bootstrap_replicates": 2000,
+        "seed": 20261101,
+        "unit": "image clusters within scene, equal scene weighting"
+      },
+      "J_minus_S": {
+        "first": "J_iou",
+        "second": "S_iou",
+        "delta_image_then_scene_macro": 0.0,
+        "delta_query_mean": 0.0,
+        "ci95_image_cluster_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "wins": 0,
+        "losses": 0,
+        "ties": 208,
+        "bootstrap_replicates": 2000,
+        "seed": 20261101,
+        "unit": "image clusters within scene, equal scene weighting"
+      },
+      "J_minus_Q": {
+        "first": "J_iou",
+        "second": "Q_iou",
+        "delta_image_then_scene_macro": 5.361633419739332e-09,
+        "delta_query_mean": 1.010461682950874e-08,
+        "ci95_image_cluster_bootstrap": [
+          0.0,
+          1.6084900259217995e-08
+        ],
+        "wins": 1,
+        "losses": 0,
+        "ties": 207,
+        "bootstrap_replicates": 2000,
+        "seed": 20261101,
+        "unit": "image clusters within scene, equal scene weighting"
+      }
+    },
+    "baseline_error_max": 0.0,
+    "g_A_mean": 2.110576923076923,
+    "g_A_zero_rows": 0
+  },
+  "scenes": {
+    "figurines": {
+      "n": 56,
+      "scene_prompt_units": 21,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.5858689558051238,
+          "query_mean": 0.5803943075934501,
+          "scene_query_mean": 0.5803943075934501,
+          "scene_means": {
+            "figurines": 0.5858689558051238
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.5515278298574228
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.600503545237284,
+          "query_mean": 0.5960742248421933,
+          "scene_query_mean": 0.5960742248421933,
+          "scene_means": {
+            "figurines": 0.600503545237284
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.610066187586064
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.600503545237284,
+          "query_mean": 0.5960742248421933,
+          "scene_query_mean": 0.5960742248421933,
+          "scene_means": {
+            "figurines": 0.600503545237284
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.610066187586064
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.600503545237284,
+          "query_mean": 0.5960742248421933,
+          "scene_query_mean": 0.5960742248421933,
+          "scene_means": {
+            "figurines": 0.600503545237284
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.610066187586064
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": 0.014634589432160283,
+          "delta_query_mean": 0.01567991724874316,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.04390376829648085
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 55,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 56,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 56,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.1607142857142856,
+      "g_A_zero_rows": 0
+    },
+    "ramen": {
+      "n": 71,
+      "scene_prompt_units": 14,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.5180756071656566,
+          "query_mean": 0.5116503451489887,
+          "scene_query_mean": 0.5116503451489887,
+          "scene_means": {
+            "ramen": 0.5180756071656566
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.4243563256122048
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.5179281845879901,
+          "query_mean": 0.5114468604643222,
+          "scene_query_mean": 0.5114468604643222,
+          "scene_means": {
+            "ramen": 0.5179281845879901
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.42332436756853914
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.5179281845879901,
+          "query_mean": 0.5114468604643222,
+          "scene_query_mean": 0.5114468604643222,
+          "scene_means": {
+            "ramen": 0.5179281845879901
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.42332436756853914
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.5179281631414564,
+          "query_mean": 0.5114468308620644,
+          "scene_query_mean": 0.5114468308620644,
+          "scene_means": {
+            "ramen": 0.5179281631414564
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.42332421744280335
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": -0.00014742257766653288,
+          "delta_query_mean": -0.00020348468466648202,
+          "ci95_image_cluster_bootstrap": [
+            -0.00044226773299959867,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 1,
+          "ties": 70,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 71,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 2.1446533678957328e-08,
+          "delta_query_mean": 2.9602257754053775e-08,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            6.433960103687198e-08
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 70,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.112676056338028,
+      "g_A_zero_rows": 0
+    },
+    "teatime": {
+      "n": 59,
+      "scene_prompt_units": 14,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 59,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 59,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 59,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 1.9152542372881356,
+      "g_A_zero_rows": 0
+    },
+    "waldo_kitchen": {
+      "n": 22,
+      "scene_prompt_units": 18,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.6592091348450333,
+          "query_mean": 0.6812398212238422,
+          "scene_query_mean": 0.6812398212238422,
+          "scene_means": {
+            "waldo_kitchen": 0.6592091348450333
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.919088984843825,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.61717661451983,
+          "query_mean": 0.6430284391100209,
+          "scene_query_mean": 0.6430284391100209,
+          "scene_means": {
+            "waldo_kitchen": 0.61717661451983
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.7089263832178087,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.61717661451983,
+          "query_mean": 0.6430284391100209,
+          "scene_query_mean": 0.6430284391100209,
+          "scene_means": {
+            "waldo_kitchen": 0.61717661451983
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.7089263832178087,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.61717661451983,
+          "query_mean": 0.6430284391100209,
+          "scene_query_mean": 0.6430284391100209,
+          "scene_means": {
+            "waldo_kitchen": 0.61717661451983
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.7089263832178087,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": -0.04203252032520326,
+          "delta_query_mean": -0.03821138211382114,
+          "ci95_image_cluster_bootstrap": [
+            -0.12609756097560976,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 1,
+          "ties": 21,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 22,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 22,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.5,
+      "g_A_zero_rows": 0
+    }
+  },
+  "families": {
+    "deep": {
+      "n": 19,
+      "scene_prompt_units": 7,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.4588500593474633,
+          "query_mean": 0.226267259333655,
+          "scene_query_mean": 0.4590046512691783,
+          "scene_means": {
+            "figurines": 0.3450185818522356,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.23207392677506142
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.495436532927864,
+          "query_mean": 0.2724817522773191,
+          "scene_query_mean": 0.49559112484957896,
+          "scene_means": {
+            "figurines": 0.45477800259343776,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.6711116097398699
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.495436532927864,
+          "query_mean": 0.2724817522773191,
+          "scene_query_mean": 0.49559112484957896,
+          "scene_means": {
+            "figurines": 0.45477800259343776,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.6711116097398699
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.495436532927864,
+          "query_mean": 0.2724817522773191,
+          "scene_query_mean": 0.49559112484957896,
+          "scene_means": {
+            "figurines": 0.45477800259343776,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.6711116097398699
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": 0.03658647358040071,
+          "delta_query_mean": 0.04621449294366405,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.10975942074120211
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 18,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 19,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 19,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.9473684210526314,
+      "g_A_zero_rows": 0
+    },
+    "found": {
+      "n": 124,
+      "scene_prompt_units": 43,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.8184041964136941,
+          "query_mean": 0.8160100733376032,
+          "scene_query_mean": 0.8123586592167754,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.8224527685489103
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.908782048991401,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.8008906462781928,
+          "query_mean": 0.8092306345754736,
+          "scene_query_mean": 0.7961923052455433,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.7523985680069047
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.6285652468233793,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.8008906462781928,
+          "query_mean": 0.8092306345754736,
+          "scene_query_mean": 0.7961923052455433,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.7523985680069047
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.6285652468233793,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.8008906462781928,
+          "query_mean": 0.8092306345754736,
+          "scene_query_mean": 0.7961923052455433,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.7523985680069047
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.6285652468233793,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": -0.017513550135501356,
+          "delta_query_mean": -0.006779438762129557,
+          "ci95_image_cluster_bootstrap": [
+            -0.05254065040650407,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 1,
+          "ties": 123,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 124,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 124,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 1.9193548387096775,
+      "g_A_zero_rows": 0
+    },
+    "rank2": {
+      "n": 36,
+      "scene_prompt_units": 13,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 36,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 36,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 36,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.2222222222222223,
+      "g_A_zero_rows": 0
+    },
+    "recall": {
+      "n": 29,
+      "scene_prompt_units": 11,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.028051267647396495,
+          "query_mean": 0.02664234593493627,
+          "scene_query_mean": 0.03214251724467902,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.020294091919380686,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 0.0036885245901639345
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "S": {
+          "image_then_scene_macro": 0.027922272891938278,
+          "query_mean": 0.026144159293166602,
+          "scene_query_mean": 0.03190172703449036,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.027922272891938278,
+          "query_mean": 0.026144159293166602,
+          "scene_query_mean": 0.03190172703449036,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "Q": {
+          "image_then_scene_macro": 0.027922254126221305,
+          "query_mean": 0.02614408681867348,
+          "scene_query_mean": 0.03190169200515201,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.01977803783467994,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.61459972587441e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "J_minus_A": {
+          "first": "J_iou",
+          "second": "A_iou",
+          "delta_image_then_scene_macro": -0.00012899475545821628,
+          "delta_query_mean": -0.0004981866417696629,
+          "ci95_image_cluster_bootstrap": [
+            -0.00038698426637464884,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 1,
+          "ties": 28,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_S": {
+          "first": "J_iou",
+          "second": "S_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 29,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J_minus_Q": {
+          "first": "J_iou",
+          "second": "Q_iou",
+          "delta_image_then_scene_macro": 1.876571696908766e-08,
+          "delta_query_mean": 7.247449312199373e-08,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            5.6297150907262985e-08
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 28,
+          "bootstrap_replicates": 2000,
+          "seed": 20261101,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "baseline_error_max": 0.0,
+      "g_A_mean": 2.2413793103448274,
+      "g_A_zero_rows": 0
+    }
+  },
+  "decision": {
+    "claim_supported": "no",
+    "practical_improvement_gate": "FAIL",
+    "semantic_interaction_gate": "FAIL",
+    "tests": {
+      "J_minus_A_at_least_0.01": false,
+      "J_minus_A_CI_low_positive": false,
+      "no_scene_J_minus_A_below_minus_0.01": false,
+      "J_minus_S_CI_low_positive": false,
+      "J_minus_Q_CI_low_positive": false
+    },
+    "scene_J_minus_A": {
+      "figurines": 0.014634589432160283,
+      "ramen": -0.00014742257766653288,
+      "teatime": 0.0,
+      "waldo_kitchen": -0.04203252032520326
+    },
+    "scope": "固定候选池与g_A；LOSO四场景pilot；不按结果选择head，不代表新场景总体保证"
+  }
+}

@@ -1,0 +1,169 @@
+mode,image,prompt,bucket,weighted_delta_pp
+visibility,frame_00041,old camera,cutoff_compatible_only,0.8923841218604658
+spatial,frame_00041,old camera,unchanged_nodes,0.0
+permutation,frame_00041,old camera,cutoff_compatible_only,0.8923841218604658
+visibility,frame_00041,toy elephant,unchanged_nodes,0.0
+spatial,frame_00041,toy elephant,unchanged_nodes,0.0
+permutation,frame_00041,toy elephant,unchanged_nodes,0.0
+visibility,frame_00041,waldo,unchanged_nodes,0.0
+spatial,frame_00041,waldo,unchanged_nodes,0.0
+permutation,frame_00041,waldo,unchanged_nodes,0.0
+visibility,frame_00041,tesla door handle,rank_and_count_mixed,0.0
+spatial,frame_00041,tesla door handle,rank_and_count_mixed,0.0
+permutation,frame_00041,tesla door handle,rank_and_count_mixed,0.0
+visibility,frame_00041,porcelain hand,cutoff_compatible_only,-0.05202572641718444
+spatial,frame_00041,porcelain hand,unchanged_nodes,0.0
+permutation,frame_00041,porcelain hand,cutoff_compatible_only,-0.07892104769644309
+visibility,frame_00041,rubber duck with hat,unchanged_nodes,0.0
+spatial,frame_00041,rubber duck with hat,cutoff_compatible_only,-0.2015480569433919
+permutation,frame_00041,rubber duck with hat,membership_change_same_count,0.48348521556624097
+visibility,frame_00041,rubber duck with buoy,unchanged_nodes,0.0
+spatial,frame_00041,rubber duck with buoy,unchanged_nodes,0.0
+permutation,frame_00041,rubber duck with buoy,rank_and_count_mixed,-1.1442298574453962
+visibility,frame_00041,pink ice cream,unchanged_nodes,0.0
+spatial,frame_00041,pink ice cream,unchanged_nodes,0.0
+permutation,frame_00041,pink ice cream,cutoff_compatible_only,-1.404239075110885
+visibility,frame_00041,red toy chair,cutoff_compatible_only,-0.5277229277555257
+spatial,frame_00041,red toy chair,unchanged_nodes,0.0
+permutation,frame_00041,red toy chair,membership_change_same_count,-1.2138580264320493
+visibility,frame_00041,green apple,cutoff_compatible_only,-1.0029799499875034
+spatial,frame_00041,green apple,unchanged_nodes,0.0
+permutation,frame_00041,green apple,membership_change_same_count,-1.4090268981740082
+visibility,frame_00041,pikachu,rank_and_count_mixed,0.5227510154583443
+spatial,frame_00041,pikachu,rank_and_count_mixed,0.0
+permutation,frame_00041,pikachu,cutoff_compatible_only,0.0
+visibility,frame_00041,red apple,rank_and_count_mixed,-1.4041188956541537
+spatial,frame_00041,red apple,cutoff_compatible_only,-1.091533054112734
+permutation,frame_00041,red apple,membership_change_same_count,-1.4041188956541537
+visibility,frame_00041,spatula,rank_and_count_mixed,0.0
+spatial,frame_00041,spatula,rank_and_count_mixed,0.0
+permutation,frame_00041,spatula,rank_and_count_mixed,-0.8152772155584435
+visibility,frame_00041,jake,unchanged_nodes,0.0
+spatial,frame_00041,jake,cutoff_compatible_only,0.5102537389302985
+permutation,frame_00041,jake,cutoff_compatible_only,-0.650413290522466
+visibility,frame_00041,toy cat statue,cutoff_compatible_only,-0.954672429222754
+spatial,frame_00041,toy cat statue,unchanged_nodes,0.0
+permutation,frame_00041,toy cat statue,rank_and_count_mixed,-1.0495946116803192
+visibility,frame_00041,pirate hat,cutoff_compatible_only,-0.9967623706507214
+spatial,frame_00041,pirate hat,membership_change_same_count,-1.3465343425143683
+permutation,frame_00041,pirate hat,rank_and_count_mixed,-1.3465343425143683
+visibility,frame_00041,miffy,membership_change_same_count,-0.5216541369835244
+spatial,frame_00041,miffy,rank_and_count_mixed,-0.5257243565305697
+permutation,frame_00041,miffy,rank_and_count_mixed,-0.5257243565305697
+visibility,frame_00105,rubics cube,unchanged_nodes,0.0
+spatial,frame_00105,rubics cube,unchanged_nodes,0.0
+permutation,frame_00105,rubics cube,cutoff_compatible_only,-1.716337133785539
+visibility,frame_00105,green apple,cutoff_compatible_only,-0.6089523923702393
+spatial,frame_00105,green apple,unchanged_nodes,0.0
+permutation,frame_00105,green apple,membership_change_same_count,-1.843799159680599
+visibility,frame_00105,green toy chair,unchanged_nodes,0.0
+spatial,frame_00105,green toy chair,unchanged_nodes,0.0
+permutation,frame_00105,green toy chair,membership_change_same_count,-1.375789985415654
+visibility,frame_00105,jake,unchanged_nodes,0.0
+spatial,frame_00105,jake,cutoff_compatible_only,0.8215135959682965
+permutation,frame_00105,jake,cutoff_compatible_only,-0.8136803316444035
+visibility,frame_00105,old camera,cutoff_compatible_only,0.6895329100695501
+spatial,frame_00105,old camera,unchanged_nodes,0.0
+permutation,frame_00105,old camera,cutoff_compatible_only,0.6895329100695501
+visibility,frame_00105,pink ice cream,unchanged_nodes,0.0
+spatial,frame_00105,pink ice cream,unchanged_nodes,0.0
+permutation,frame_00105,pink ice cream,cutoff_compatible_only,-1.4785846408980738
+visibility,frame_00105,pumpkin,cutoff_compatible_only,0.9937304174147358
+spatial,frame_00105,pumpkin,rank_and_count_mixed,0.0
+permutation,frame_00105,pumpkin,rank_and_count_mixed,0.0
+visibility,frame_00105,red apple,rank_and_count_mixed,-1.885884434091833
+spatial,frame_00105,red apple,cutoff_compatible_only,-0.7635937160716261
+permutation,frame_00105,red apple,membership_change_same_count,-1.885884434091833
+visibility,frame_00105,rubber duck with hat,unchanged_nodes,0.0
+spatial,frame_00105,rubber duck with hat,cutoff_compatible_only,0.07574745353901687
+permutation,frame_00105,rubber duck with hat,membership_change_same_count,0.25068506371386556
+visibility,frame_00105,tesla door handle,rank_and_count_mixed,0.0
+spatial,frame_00105,tesla door handle,rank_and_count_mixed,0.0
+permutation,frame_00105,tesla door handle,rank_and_count_mixed,0.0
+visibility,frame_00105,spatula,rank_and_count_mixed,0.0
+spatial,frame_00105,spatula,rank_and_count_mixed,0.0
+permutation,frame_00105,spatula,rank_and_count_mixed,-1.4710466838126413
+visibility,frame_00105,rubber duck with buoy,unchanged_nodes,0.0
+spatial,frame_00105,rubber duck with buoy,unchanged_nodes,0.0
+permutation,frame_00105,rubber duck with buoy,rank_and_count_mixed,-1.560197108871388
+visibility,frame_00105,pirate hat,cutoff_compatible_only,-1.1963321980127266
+spatial,frame_00105,pirate hat,membership_change_same_count,-1.5774743448392843
+permutation,frame_00105,pirate hat,rank_and_count_mixed,-1.5774743448392843
+visibility,frame_00152,rubber duck with hat,unchanged_nodes,0.0
+spatial,frame_00152,rubber duck with hat,cutoff_compatible_only,-1.4107648545993163
+permutation,frame_00152,rubber duck with hat,membership_change_same_count,-0.7879843631598825
+visibility,frame_00152,rubics cube,unchanged_nodes,0.0
+spatial,frame_00152,rubics cube,unchanged_nodes,0.0
+permutation,frame_00152,rubics cube,cutoff_compatible_only,-1.7779313928804301
+visibility,frame_00152,toy elephant,unchanged_nodes,0.0
+spatial,frame_00152,toy elephant,unchanged_nodes,0.0
+permutation,frame_00152,toy elephant,unchanged_nodes,0.0
+visibility,frame_00152,green apple,cutoff_compatible_only,-1.2173028498959086
+spatial,frame_00152,green apple,unchanged_nodes,0.0
+permutation,frame_00152,green apple,membership_change_same_count,-2.0739613204854646
+visibility,frame_00152,jake,unchanged_nodes,0.0
+spatial,frame_00152,jake,cutoff_compatible_only,-0.043540615810833884
+permutation,frame_00152,jake,cutoff_compatible_only,-2.042415421383856
+visibility,frame_00152,toy cat statue,cutoff_compatible_only,-1.5809717305801572
+spatial,frame_00152,toy cat statue,unchanged_nodes,0.0
+permutation,frame_00152,toy cat statue,rank_and_count_mixed,-1.939149560117302
+visibility,frame_00152,pikachu,rank_and_count_mixed,1.0943702197695808
+spatial,frame_00152,pikachu,rank_and_count_mixed,0.0
+permutation,frame_00152,pikachu,cutoff_compatible_only,0.0
+visibility,frame_00152,porcelain hand,cutoff_compatible_only,-0.04379445882465727
+spatial,frame_00152,porcelain hand,unchanged_nodes,0.0
+permutation,frame_00152,porcelain hand,cutoff_compatible_only,-0.07353535353535354
+visibility,frame_00152,red apple,rank_and_count_mixed,-1.9976608524893151
+spatial,frame_00152,red apple,cutoff_compatible_only,-1.7105478376677672
+permutation,frame_00152,red apple,membership_change_same_count,-1.9976608524893151
+visibility,frame_00152,waldo,unchanged_nodes,0.0
+spatial,frame_00152,waldo,unchanged_nodes,0.0
+permutation,frame_00152,waldo,unchanged_nodes,0.0
+visibility,frame_00152,pirate hat,cutoff_compatible_only,-1.8256649300171441
+spatial,frame_00152,pirate hat,membership_change_same_count,-2.1495587353268784
+permutation,frame_00152,pirate hat,rank_and_count_mixed,-2.1495587353268784
+visibility,frame_00195,toy elephant,unchanged_nodes,0.0
+spatial,frame_00195,toy elephant,unchanged_nodes,0.0
+permutation,frame_00195,toy elephant,unchanged_nodes,0.0
+visibility,frame_00195,pink ice cream,unchanged_nodes,0.0
+spatial,frame_00195,pink ice cream,unchanged_nodes,0.0
+permutation,frame_00195,pink ice cream,cutoff_compatible_only,-1.5709092881944442
+visibility,frame_00195,porcelain hand,cutoff_compatible_only,-0.20042403988849192
+spatial,frame_00195,porcelain hand,unchanged_nodes,0.0
+permutation,frame_00195,porcelain hand,cutoff_compatible_only,-0.22347321733196862
+visibility,frame_00195,green apple,cutoff_compatible_only,-1.2763492269001566
+spatial,frame_00195,green apple,unchanged_nodes,0.0
+permutation,frame_00195,green apple,membership_change_same_count,-1.6003862698621718
+visibility,frame_00195,green toy chair,unchanged_nodes,0.0
+spatial,frame_00195,green toy chair,unchanged_nodes,0.0
+permutation,frame_00195,green toy chair,membership_change_same_count,-1.5531928319030792
+visibility,frame_00195,old camera,cutoff_compatible_only,0.9666477275586535
+spatial,frame_00195,old camera,unchanged_nodes,0.0
+permutation,frame_00195,old camera,cutoff_compatible_only,0.9666477275586535
+visibility,frame_00195,rubics cube,unchanged_nodes,0.0
+spatial,frame_00195,rubics cube,unchanged_nodes,0.0
+permutation,frame_00195,rubics cube,cutoff_compatible_only,-1.4473684210526316
+visibility,frame_00195,spatula,rank_and_count_mixed,0.0
+spatial,frame_00195,spatula,rank_and_count_mixed,0.0
+permutation,frame_00195,spatula,rank_and_count_mixed,-1.2238958014989447
+visibility,frame_00195,toy cat statue,cutoff_compatible_only,-1.01504441297275
+spatial,frame_00195,toy cat statue,unchanged_nodes,0.0
+permutation,frame_00195,toy cat statue,rank_and_count_mixed,-1.3399020262747718
+visibility,frame_00195,waldo,unchanged_nodes,0.0
+spatial,frame_00195,waldo,unchanged_nodes,0.0
+permutation,frame_00195,waldo,unchanged_nodes,0.0
+visibility,frame_00195,rubber duck with buoy,unchanged_nodes,0.0
+spatial,frame_00195,rubber duck with buoy,unchanged_nodes,0.0
+permutation,frame_00195,rubber duck with buoy,rank_and_count_mixed,-1.0484164556022373
+visibility,frame_00195,pirate hat,cutoff_compatible_only,-1.0984702139466629
+spatial,frame_00195,pirate hat,membership_change_same_count,-1.5217009312950271
+permutation,frame_00195,pirate hat,rank_and_count_mixed,-1.5217009312950271
+visibility,frame_00195,miffy,membership_change_same_count,-0.9758448281575549
+spatial,frame_00195,miffy,rank_and_count_mixed,-0.9796813053191952
+permutation,frame_00195,miffy,rank_and_count_mixed,-0.9796813053191952
+visibility,frame_00195,bag,rank_and_count_mixed,1.431277898889235
+spatial,frame_00195,bag,rank_and_count_mixed,1.431277898889235
+permutation,frame_00195,bag,rank_and_count_mixed,0.0
+visibility,frame_00195,rubber duck with hat,unchanged_nodes,0.0
+spatial,frame_00195,rubber duck with hat,cutoff_compatible_only,-0.09693165935234033
+permutation,frame_00195,rubber duck with hat,membership_change_same_count,0.15317659684845006

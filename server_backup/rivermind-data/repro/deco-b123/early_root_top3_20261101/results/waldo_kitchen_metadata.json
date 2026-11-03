@@ -1,0 +1,11 @@
+{
+  "scene": "waldo_kitchen",
+  "elapsed_seconds": 12.163325071334839,
+  "obs_features": [
+    13434,
+    512
+  ],
+  "eligible_roots": 279,
+  "observations_sha256": "7bd23efcf007e45f6678c5953fd3c7532e603268590628a0d98af70dbfcb7445",
+  "original_script_sha256": "74b76c8490f3c203aee28c0c0ca547e0ab20e870ce0d8f8c581034366c0e4618"
+}

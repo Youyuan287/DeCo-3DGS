@@ -1,0 +1,29 @@
+{
+  "scene": "ramen",
+  "miou": 0.47876493795008696,
+  "flat_miou": 0.4686003661971831,
+  "n_queries": 71,
+  "per_image": [
+    0.41629725744156215,
+    0.5363754846043958,
+    0.5582363418219605,
+    0.37520760945582127,
+    0.5089628963621785,
+    0.5453221271057289,
+    0.4109528488589618
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse"
+  }
+}

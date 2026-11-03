@@ -1,0 +1,178 @@
+scene,image,prompt,variant,rank,iou_best
+teatime,frame_00002,stuffed bear,raw,1,0.9733213093819733
+teatime,frame_00002,stuffed bear,cdot,1,0.9733213093819733
+teatime,frame_00002,stuffed bear,ccos,1,0.9733213093819733
+teatime,frame_00025,stuffed bear,raw,1,0.9880187747035574
+teatime,frame_00025,stuffed bear,cdot,1,0.9880187747035574
+teatime,frame_00025,stuffed bear,ccos,1,0.9880187747035574
+teatime,frame_00043,stuffed bear,raw,1,0.9853900236971466
+teatime,frame_00043,stuffed bear,cdot,1,0.9853900236971466
+teatime,frame_00043,stuffed bear,ccos,1,0.9853900236971466
+teatime,frame_00107,stuffed bear,raw,1,0.9896380563639341
+teatime,frame_00107,stuffed bear,cdot,1,0.9896380563639341
+teatime,frame_00107,stuffed bear,ccos,1,0.9896380563639341
+teatime,frame_00140,stuffed bear,raw,2,0.6777674725689313
+teatime,frame_00140,stuffed bear,cdot,2,0.6777674725689313
+teatime,frame_00140,stuffed bear,ccos,2,0.6777674725689313
+teatime,frame_00002,coffee mug,raw,1,0.7954545454545454
+teatime,frame_00002,coffee mug,cdot,1,0.7954545454545454
+teatime,frame_00002,coffee mug,ccos,1,0.7954545454545454
+teatime,frame_00025,coffee mug,raw,1,0.8318667504714017
+teatime,frame_00025,coffee mug,cdot,1,0.8318667504714017
+teatime,frame_00025,coffee mug,ccos,1,0.8318667504714017
+teatime,frame_00043,coffee mug,raw,1,0.7971029928639898
+teatime,frame_00043,coffee mug,cdot,1,0.7971029928639898
+teatime,frame_00043,coffee mug,ccos,1,0.7971029928639898
+teatime,frame_00107,coffee mug,raw,1,0.8379701758290674
+teatime,frame_00107,coffee mug,cdot,1,0.8379701758290674
+teatime,frame_00107,coffee mug,ccos,1,0.8379701758290674
+teatime,frame_00140,coffee mug,raw,1,0.7804668304668305
+teatime,frame_00140,coffee mug,cdot,1,0.7804668304668305
+teatime,frame_00140,coffee mug,ccos,1,0.7804668304668305
+teatime,frame_00002,bag of cookies,raw,1,0.9567712318286151
+teatime,frame_00002,bag of cookies,cdot,1,0.9567712318286151
+teatime,frame_00002,bag of cookies,ccos,1,0.9567712318286151
+teatime,frame_00025,bag of cookies,raw,3,0.2141110065851364
+teatime,frame_00025,bag of cookies,cdot,3,0.2141110065851364
+teatime,frame_00025,bag of cookies,ccos,3,0.2141110065851364
+teatime,frame_00043,bag of cookies,raw,4,0.9729638518074096
+teatime,frame_00043,bag of cookies,cdot,4,0.9729638518074096
+teatime,frame_00043,bag of cookies,ccos,3,0.9729638518074096
+teatime,frame_00107,bag of cookies,raw,1,0.9848213053677384
+teatime,frame_00107,bag of cookies,cdot,1,0.9848213053677384
+teatime,frame_00107,bag of cookies,ccos,1,0.9848213053677384
+teatime,frame_00140,bag of cookies,raw,1,0.989618394906525
+teatime,frame_00140,bag of cookies,cdot,1,0.989618394906525
+teatime,frame_00140,bag of cookies,ccos,1,0.989618394906525
+teatime,frame_00002,sheep,raw,26,0.00037448083339007283
+teatime,frame_00002,sheep,cdot,26,0.00037448083339007283
+teatime,frame_00002,sheep,ccos,26,0.00037448083339007283
+teatime,frame_00025,sheep,raw,1,0.9948541458211926
+teatime,frame_00025,sheep,cdot,1,0.9948541458211926
+teatime,frame_00025,sheep,ccos,1,0.9948541458211926
+teatime,frame_00107,sheep,raw,1,0.986253568785027
+teatime,frame_00107,sheep,cdot,1,0.986253568785027
+teatime,frame_00107,sheep,ccos,2,0.986253568785027
+teatime,frame_00129,sheep,raw,1,0.9820578081294257
+teatime,frame_00129,sheep,cdot,1,0.9820578081294257
+teatime,frame_00129,sheep,ccos,1,0.9820578081294257
+teatime,frame_00002,apple,raw,1,0.7591743119266054
+teatime,frame_00002,apple,cdot,1,0.7591743119266054
+teatime,frame_00002,apple,ccos,1,0.7591743119266054
+teatime,frame_00043,apple,raw,1,0.21979773214832976
+teatime,frame_00043,apple,cdot,1,0.21979773214832976
+teatime,frame_00043,apple,ccos,2,0.21979773214832976
+teatime,frame_00107,apple,raw,1,0.9711595055915244
+teatime,frame_00107,apple,cdot,1,0.9711595055915244
+teatime,frame_00107,apple,ccos,1,0.9711595055915244
+teatime,frame_00129,apple,raw,1,0.3324083067388187
+teatime,frame_00129,apple,cdot,1,0.3324083067388187
+teatime,frame_00129,apple,ccos,1,0.3324083067388187
+teatime,frame_00140,apple,raw,1,0.9821035242290749
+teatime,frame_00140,apple,cdot,1,0.9821035242290749
+teatime,frame_00140,apple,ccos,1,0.9821035242290749
+teatime,frame_00002,paper napkin,raw,1,0.9797397769516729
+teatime,frame_00002,paper napkin,cdot,1,0.9797397769516729
+teatime,frame_00002,paper napkin,ccos,2,0.9797397769516729
+teatime,frame_00025,paper napkin,raw,6,0.0
+teatime,frame_00025,paper napkin,cdot,6,0.0
+teatime,frame_00025,paper napkin,ccos,9,0.0
+teatime,frame_00043,paper napkin,raw,2,0.984789486493064
+teatime,frame_00043,paper napkin,cdot,2,0.984789486493064
+teatime,frame_00043,paper napkin,ccos,2,0.984789486493064
+teatime,frame_00107,paper napkin,raw,1,0.9372239747634069
+teatime,frame_00107,paper napkin,cdot,1,0.9372239747634069
+teatime,frame_00107,paper napkin,ccos,1,0.9372239747634069
+teatime,frame_00140,paper napkin,raw,2,0.9892926582139825
+teatime,frame_00140,paper napkin,cdot,2,0.9892926582139825
+teatime,frame_00140,paper napkin,ccos,2,0.9892926582139825
+teatime,frame_00002,plate,raw,3,0.666068544769424
+teatime,frame_00002,plate,cdot,3,0.666068544769424
+teatime,frame_00002,plate,ccos,8,0.666068544769424
+teatime,frame_00025,plate,raw,2,0.946874691418979
+teatime,frame_00025,plate,cdot,2,0.946874691418979
+teatime,frame_00025,plate,ccos,3,0.946874691418979
+teatime,frame_00043,plate,raw,1,0.9514807992064617
+teatime,frame_00043,plate,cdot,1,0.9514807992064617
+teatime,frame_00043,plate,ccos,2,0.9514807992064617
+teatime,frame_00107,plate,raw,1,0.9090277777777778
+teatime,frame_00107,plate,cdot,1,0.9090277777777778
+teatime,frame_00107,plate,ccos,1,0.9090277777777778
+teatime,frame_00129,plate,raw,1,0.9574621959237344
+teatime,frame_00129,plate,cdot,1,0.9574621959237344
+teatime,frame_00129,plate,ccos,1,0.9574621959237344
+teatime,frame_00140,plate,raw,1,0.9712606561611986
+teatime,frame_00140,plate,cdot,1,0.9712606561611986
+teatime,frame_00140,plate,ccos,1,0.9712606561611986
+teatime,frame_00002,tea in a glass,raw,1,0.9691176470588235
+teatime,frame_00002,tea in a glass,cdot,1,0.9691176470588235
+teatime,frame_00002,tea in a glass,ccos,1,0.9691176470588235
+teatime,frame_00025,tea in a glass,raw,1,0.9711439367914806
+teatime,frame_00025,tea in a glass,cdot,1,0.9711439367914806
+teatime,frame_00025,tea in a glass,ccos,1,0.9711439367914806
+teatime,frame_00043,tea in a glass,raw,1,0.8857439784814769
+teatime,frame_00043,tea in a glass,cdot,1,0.8857439784814769
+teatime,frame_00043,tea in a glass,ccos,1,0.8857439784814769
+teatime,frame_00107,tea in a glass,raw,1,0.9784382284382285
+teatime,frame_00107,tea in a glass,cdot,1,0.9784382284382285
+teatime,frame_00107,tea in a glass,ccos,1,0.9784382284382285
+teatime,frame_00129,tea in a glass,raw,2,0.6142330723169046
+teatime,frame_00129,tea in a glass,cdot,2,0.6142330723169046
+teatime,frame_00129,tea in a glass,ccos,2,0.6142330723169046
+teatime,frame_00140,tea in a glass,raw,1,0.995817274655672
+teatime,frame_00140,tea in a glass,cdot,1,0.995817274655672
+teatime,frame_00140,tea in a glass,ccos,1,0.995817274655672
+teatime,frame_00002,bear nose,raw,11,0.06468486686889113
+teatime,frame_00002,bear nose,cdot,11,0.06468486686889113
+teatime,frame_00002,bear nose,ccos,14,0.06468486686889113
+teatime,frame_00025,bear nose,raw,5,0.09543858772379156
+teatime,frame_00025,bear nose,cdot,5,0.09543858772379156
+teatime,frame_00025,bear nose,ccos,8,0.09543858772379156
+teatime,frame_00107,bear nose,raw,3,0.1427928156472767
+teatime,frame_00107,bear nose,cdot,3,0.1427928156472767
+teatime,frame_00107,bear nose,ccos,6,0.1427928156472767
+teatime,frame_00002,three cookies,raw,1,0.3010752688172043
+teatime,frame_00002,three cookies,cdot,1,0.3010752688172043
+teatime,frame_00002,three cookies,ccos,1,0.3010752688172043
+teatime,frame_00025,three cookies,raw,1,0.855544587035209
+teatime,frame_00025,three cookies,cdot,1,0.855544587035209
+teatime,frame_00025,three cookies,ccos,1,0.855544587035209
+teatime,frame_00043,three cookies,raw,1,0.8336428501612746
+teatime,frame_00043,three cookies,cdot,1,0.8336428501612746
+teatime,frame_00043,three cookies,ccos,1,0.8336428501612746
+teatime,frame_00107,three cookies,raw,6,0.06028286575469511
+teatime,frame_00107,three cookies,cdot,6,0.06028286575469511
+teatime,frame_00107,three cookies,ccos,6,0.06028286575469511
+teatime,frame_00129,three cookies,raw,10,0.00030446034404018875
+teatime,frame_00129,three cookies,cdot,10,0.00030446034404018875
+teatime,frame_00129,three cookies,ccos,10,0.00030446034404018875
+teatime,frame_00140,three cookies,raw,1,0.9089266737513284
+teatime,frame_00140,three cookies,cdot,1,0.9089266737513284
+teatime,frame_00140,three cookies,ccos,1,0.9089266737513284
+teatime,frame_00002,coffee,raw,1,0.8574547723019339
+teatime,frame_00002,coffee,cdot,1,0.8574547723019339
+teatime,frame_00002,coffee,ccos,1,0.8574547723019339
+teatime,frame_00025,coffee,raw,1,0.9541429475015812
+teatime,frame_00025,coffee,cdot,1,0.9541429475015812
+teatime,frame_00025,coffee,ccos,1,0.9541429475015812
+teatime,frame_00043,coffee,raw,1,0.9617194183062446
+teatime,frame_00043,coffee,cdot,1,0.9617194183062446
+teatime,frame_00043,coffee,ccos,1,0.9617194183062446
+teatime,frame_00140,coffee,raw,1,0.8364207028124808
+teatime,frame_00140,coffee,cdot,1,0.8364207028124808
+teatime,frame_00140,coffee,ccos,1,0.8364207028124808
+teatime,frame_00025,hooves,raw,20,0.044808994674206064
+teatime,frame_00025,hooves,cdot,20,0.044808994674206064
+teatime,frame_00025,hooves,ccos,17,0.044808994674206064
+teatime,frame_00043,hooves,raw,8,0.9756553297759571
+teatime,frame_00043,hooves,cdot,8,0.9756553297759571
+teatime,frame_00043,hooves,ccos,8,0.9756553297759571
+teatime,frame_00107,dall-e brand,raw,1,0.06626362262349852
+teatime,frame_00107,dall-e brand,cdot,1,0.06626362262349852
+teatime,frame_00107,dall-e brand,ccos,3,0.06626362262349852
+teatime,frame_00129,dall-e brand,raw,1,0.05808562395639976
+teatime,frame_00129,dall-e brand,cdot,1,0.05808562395639976
+teatime,frame_00129,dall-e brand,ccos,1,0.05808562395639976
+teatime,frame_00129,yellow pouf,raw,1,0.9914751828292008
+teatime,frame_00129,yellow pouf,cdot,1,0.9914751828292008
+teatime,frame_00129,yellow pouf,ccos,1,0.9914751828292008

@@ -1,0 +1,23 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+waldo_kitchen,frame_00053,knife,0.444572,5548,9503,1
+waldo_kitchen,frame_00053,yellow desk,0.547935,119611,66361,3
+waldo_kitchen,frame_00053,toaster,0.456597,20114,9184,3
+waldo_kitchen,frame_00053,Stainless steel pots,0.422387,15605,10547,2
+waldo_kitchen,frame_00053,pour-over vessel,0.797568,6485,7705,1
+waldo_kitchen,frame_00053,ottolenghi,0.0,0,16909,1
+waldo_kitchen,frame_00066,plastic ladle,0.516335,5725,3558,3
+waldo_kitchen,frame_00066,refrigerator,0.980565,73272,72046,1
+waldo_kitchen,frame_00066,pot,0.946179,20500,19457,4
+waldo_kitchen,frame_00066,spatula,0.90902,2427,2462,1
+waldo_kitchen,frame_00089,knife,0.260855,10878,33436,1
+waldo_kitchen,frame_00089,ketchup,0.816789,2677,2777,2
+waldo_kitchen,frame_00089,cabinet,0.0,0,87629,2
+waldo_kitchen,frame_00140,plate,0.0,2045,36726,1
+waldo_kitchen,frame_00140,dark cup,0.115097,14649,30082,2
+waldo_kitchen,frame_00140,frog cup,0.744559,32239,26598,1
+waldo_kitchen,frame_00140,spoon,0.0,0,4013,2
+waldo_kitchen,frame_00140,sink,0.853047,471249,426369,4
+waldo_kitchen,frame_00154,plate,0.903589,122137,121254,1
+waldo_kitchen,frame_00154,knife,0.0,0,4580,1
+waldo_kitchen,frame_00154,red cup,0.814183,33456,37767,2
+waldo_kitchen,frame_00154,sink,0.765122,462332,467619,4

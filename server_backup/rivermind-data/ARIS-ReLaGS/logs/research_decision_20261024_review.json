@@ -1,0 +1,47 @@
+{
+  "role": "reviewer",
+  "model": "glm-5.3-prime",
+  "status": "ok",
+  "content": "# 裁决审查\n\n**结论：继续（问题1诊断线），且仅限诊断性闭环；不推荐任何新方法。本审查维持原稿方向，但有约束性更正。**\n\n原稿的问题定位、边界设置和对已知工作的让步（THGS/ReLaGS/COS3D/VALA/DIGS/Search3D/Mask Scoring R-CNN覆盖情况）基本成立，无须推翻。以下三项是核心反对意见及最小取舍。\n\n## 反对一：单调变换实验的证伪力被高估\n\n五种变换0/21全部保持排名，只排除了“任何单调重标定普遍破坏排序”这一弱假设。原因在附带代码中可以直接看到：`gap_select`的切点由相邻分差的最大值决定，而`get_related_gaussian`的候选集合来自跨层级topk合并后截断。排序不变时前缀切点在affine/sqrt/square下确实不变——但这只是数学必然（单调变换保持排序，且gap位置在线性正变换下不变），square/sqrt在特定数值区间理论上可改变gap位置，0/21说明分数动态范围未触及该区间。**该实验是正确的负控制，不是独立证据**。真正缺的证据是：问题1声称的“排名与最终集合质量错配”尚未在缺失的两格（rank1/count0、rank0/count1）中量化。裁决依赖闭环，而闭环数据不存在。最小取舍：明确承认该变换实验仅排除标量重标定类解释，不写入“削弱gap不稳定解释”的因果语言；闭环4组中后2组未跑完前，问题1只是假设，不是“值得持续投入的收敛结论”。\n\n## 反对二：diagnostic_only数据与正式结论的边界尚未闭合，且空间模式本身是大负增益\n\n表内可见：spatial -10.6pp、visibility -13.8pp、permutation -46.7pp，且JSON显式标记`official_miou: null, diagnostic_only: true`。所有诊断分析基于一个场景、21个query、56个query-view，其中4个空mask。在这种规模下：permutation列的23个空mask与21个newly_empty说明排序信息被完全摧毁时集合崩溃，这反过来支持“排序承载了主要信息”——这对问题1是一个**反证方向的证据**（排序并非与集合质量可分离，摧毁排序即摧毁集合）。若spatial重评分（r1）在原始口径下-10.6pp，则“rank1优于rank0”的前提不存在，闭环中rank1/count1格是负的起点。最小取舍：闭环的首要价值变为解释“为何空间重评分在原口径下变差、是否纯粹由count变化（k1≠k0）中介”——即rank1/count0格回答“分数质量”与count1格回答“数量效应”的分解。若两格都不能恢复到baseline区间内，问题1在figurines上被证伪，按原稿规则停止gap主线。这个停止条款原稿已有，予以保留并前置。\n\n## 反对三：新颖性声明“文献没有training-free集合质量目标”缺乏本项目侧的可比证据\n\n近邻文献已覆盖查询自适应层级（ReLaGS Alg1）、语言-边界协同（COS3D）、可见性gate（VALA）。原稿正确指出不重复申报，但“没有已证明有效的training-free集合质量目标”是关于文献的负陈述，而本轮无工具核实arxiv 26xx编号文献的真实存在（2603/2609/2610/2608编号超出常规时间线，且禁止声称已访问链接）。这些引文只能作为Codex一方提供的断言接受。最小取舍：新颖性结论降格为“基于Codex提供的近邻摘要，未发现直接重叠”；论文级新颖性声明推迟到最小闭环出现正的因果分解结果之后。原稿“不推荐新方法”的决定正确且必须保留——旧校准、扩k、空间乘法均失败，Mask Scoring R-CNN已先例化核心概念，当前不存在可辩护的新算法主张。\n\n## 其他须更正的技术点\n\n- `gap_select`中`gaps.index(max(gaps))`在并列最大gap时取**第一个**位置，产生前缀最短的选择——这是隐式实现细节，若问题1要研究“停止决策”，必须先声明该并列规则是否属于被检验对象，否则分解不干净。\n- `get_related_gaussian`中topk跨层级合并后再全局截断topk（`related_sp_lvl[:topk]`）意味着高层单个大superpoint与低层多个小superpoint竞争同一预算——这与候选2/3（分区粒度）纠缠，问题1的分解若不冻结该合并规则，rank/count两轴会引入第三个混杂。\n- 空mask诊断（2个empty）出现在baseline与spatial两组——闭环解释性指标应包含这2个query的归属变化，避免“改善集中在空补洞”被误读为语义增益（原稿停止条款已含此意，予以确认）。\n\n## 最终裁决\n\n**继续，DIAGNOSTIC_ONLY。** 问题1作为唯一诊断问题成立，条件是：(a) 单调变换结果降格为负控制；(b) 闭环缺失两格完成前不得书写任何因果结论；(c) 近邻文献声明限定为“据Codex摘要”；(d) permutation组的大幅崩溃视为排序信息量的反证纳入解释，不得忽略。若rank1/count0与rank0/count1两格均无法在baseline重放波动内恢复空间组的损失，问题1在现有证据下证伪，停止gap主线并只保留工程补全归类。不推荐任何新方法、不授权训练、建图、特征提取或GPU扫描。",
+  "usage": {
+    "prompt_tokens": 5426,
+    "total_tokens": 6674,
+    "completion_tokens": 1248,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "finish_reason": "stop",
+  "raw_response": {
+    "id": "chatcmpl-ff3b5723-b99b-99da-8fcf-d1f32c879b11",
+    "object": "chat.completion",
+    "created": 1792812236,
+    "model": "glm-5.3-prime",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "reasoning_content": "",
+          "content": "# 裁决审查\n\n**结论：继续（问题1诊断线），且仅限诊断性闭环；不推荐任何新方法。本审查维持原稿方向，但有约束性更正。**\n\n原稿的问题定位、边界设置和对已知工作的让步（THGS/ReLaGS/COS3D/VALA/DIGS/Search3D/Mask Scoring R-CNN覆盖情况）基本成立，无须推翻。以下三项是核心反对意见及最小取舍。\n\n## 反对一：单调变换实验的证伪力被高估\n\n五种变换0/21全部保持排名，只排除了“任何单调重标定普遍破坏排序”这一弱假设。原因在附带代码中可以直接看到：`gap_select`的切点由相邻分差的最大值决定，而`get_related_gaussian`的候选集合来自跨层级topk合并后截断。排序不变时前缀切点在affine/sqrt/square下确实不变——但这只是数学必然（单调变换保持排序，且gap位置在线性正变换下不变），square/sqrt在特定数值区间理论上可改变gap位置，0/21说明分数动态范围未触及该区间。**该实验是正确的负控制，不是独立证据**。真正缺的证据是：问题1声称的“排名与最终集合质量错配”尚未在缺失的两格（rank1/count0、rank0/count1）中量化。裁决依赖闭环，而闭环数据不存在。最小取舍：明确承认该变换实验仅排除标量重标定类解释，不写入“削弱gap不稳定解释”的因果语言；闭环4组中后2组未跑完前，问题1只是假设，不是“值得持续投入的收敛结论”。\n\n## 反对二：diagnostic_only数据与正式结论的边界尚未闭合，且空间模式本身是大负增益\n\n表内可见：spatial -10.6pp、visibility -13.8pp、permutation -46.7pp，且JSON显式标记`official_miou: null, diagnostic_only: true`。所有诊断分析基于一个场景、21个query、56个query-view，其中4个空mask。在这种规模下：permutation列的23个空mask与21个newly_empty说明排序信息被完全摧毁时集合崩溃，这反过来支持“排序承载了主要信息”——这对问题1是一个**反证方向的证据**（排序并非与集合质量可分离，摧毁排序即摧毁集合）。若spatial重评分（r1）在原始口径下-10.6pp，则“rank1优于rank0”的前提不存在，闭环中rank1/count1格是负的起点。最小取舍：闭环的首要价值变为解释“为何空间重评分在原口径下变差、是否纯粹由count变化（k1≠k0）中介”——即rank1/count0格回答“分数质量”与count1格回答“数量效应”的分解。若两格都不能恢复到baseline区间内，问题1在figurines上被证伪，按原稿规则停止gap主线。这个停止条款原稿已有，予以保留并前置。\n\n## 反对三：新颖性声明“文献没有training-free集合质量目标”缺乏本项目侧的可比证据\n\n近邻文献已覆盖查询自适应层级（ReLaGS Alg1）、语言-边界协同（COS3D）、可见性gate（VALA）。原稿正确指出不重复申报，但“没有已证明有效的training-free集合质量目标”是关于文献的负陈述，而本轮无工具核实arxiv 26xx编号文献的真实存在（2603/2609/2610/2608编号超出常规时间线，且禁止声称已访问链接）。这些引文只能作为Codex一方提供的断言接受。最小取舍：新颖性结论降格为“基于Codex提供的近邻摘要，未发现直接重叠”；论文级新颖性声明推迟到最小闭环出现正的因果分解结果之后。原稿“不推荐新方法”的决定正确且必须保留——旧校准、扩k、空间乘法均失败，Mask Scoring R-CNN已先例化核心概念，当前不存在可辩护的新算法主张。\n\n## 其他须更正的技术点\n\n- `gap_select`中`gaps.index(max(gaps))`在并列最大gap时取**第一个**位置，产生前缀最短的选择——这是隐式实现细节，若问题1要研究“停止决策”，必须先声明该并列规则是否属于被检验对象，否则分解不干净。\n- `get_related_gaussian`中topk跨层级合并后再全局截断topk（`related_sp_lvl[:topk]`）意味着高层单个大superpoint与低层多个小superpoint竞争同一预算——这与候选2/3（分区粒度）纠缠，问题1的分解若不冻结该合并规则，rank/count两轴会引入第三个混杂。\n- 空mask诊断（2个empty）出现在baseline与spatial两组——闭环解释性指标应包含这2个query的归属变化，避免“改善集中在空补洞”被误读为语义增益（原稿停止条款已含此意，予以确认）。\n\n## 最终裁决\n\n**继续，DIAGNOSTIC_ONLY。** 问题1作为唯一诊断问题成立，条件是：(a) 单调变换结果降格为负控制；(b) 闭环缺失两格完成前不得书写任何因果结论；(c) 近邻文献声明限定为“据Codex摘要”；(d) permutation组的大幅崩溃视为排序信息量的反证纳入解释，不得忽略。若rank1/count0与rank0/count1两格均无法在baseline重放波动内恢复空间组的损失，问题1在现有证据下证伪，停止gap主线并只保留工程补全归类。不推荐任何新方法、不授权训练、建图、特征提取或GPU扫描。"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 5426,
+      "total_tokens": 6674,
+      "completion_tokens": 1248,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  }
+}

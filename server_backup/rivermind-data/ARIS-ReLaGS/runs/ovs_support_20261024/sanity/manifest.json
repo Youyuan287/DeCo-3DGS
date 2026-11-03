@@ -1,0 +1,113 @@
+{
+  "dataset": "LERF-OVS",
+  "scene": "figurines",
+  "sanity": true,
+  "baseline_origin": "author_released_PT_not_self_generated",
+  "topk": 5,
+  "level_until": 3,
+  "filter_small": 50,
+  "remove_small": true,
+  "threshold": 0.5,
+  "support_downsample": 4,
+  "support_seed": 0,
+  "support_views": [
+    "frame_00001",
+    "frame_00044",
+    "frame_00086",
+    "frame_00129",
+    "frame_00172",
+    "frame_00215",
+    "frame_00257",
+    "frame_00301"
+  ],
+  "query_by_image": {
+    "frame_00041": [
+      "old camera"
+    ],
+    "frame_00105": [
+      "old camera"
+    ],
+    "frame_00152": [],
+    "frame_00195": [
+      "old camera"
+    ]
+  },
+  "score_rule": "raw_score * mean(V * IoU); visibility=raw_score*mean(V)",
+  "fallback": "All modes use raw scores ONLY if entire pre-gap pool unobserved; zero-IoU observed pool remains zero",
+  "input_sha256": {
+    "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/sai_nag.pt": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/point_cloud/iteration_0/point_cloud.ply": "1908dc76615f23dd0ad9f8e65d14c02de355bcfd61dc3afc2bac4b755a77c79c",
+    "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/nag_data.py": "175c9e78d58bbaf4de7720874075fd4743c3ff4d56392c2acdac9ffb8bb45889",
+    "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/utils/vlm_utils.py": "dbcb8c75c8f0fb9e0ef3d547fa7343395dc33e93b3ad644de71fa907994adb50",
+    "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/gaussian_renderer/__init__.py": "04f9458d8c237ad409c3cea146bb5cf289e0ca0c2270dc039dbf4a84cad7401b",
+    "/root/rivermind-data/ReLaGS_Reproduction/scripts/eval_lerf_relags.py": "fc4725cb48294573d0a401e14502258b31b1c958d4d889acf32c151dbf1851a2",
+    "/root/rivermind-data/ARIS-ReLaGS/scripts/run_ovs_support.py": "4cd069eb5482d64ef659828de5a736f4b559480a62ef983be42975608563c6a3",
+    "/root/rivermind-data/ARIS-ReLaGS/scripts/support_ops.py": "b3ee329e7c2185269378bb18e0bf87aeb64af7bdc58d1c72c65a08e9518567de",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00001_f.npy": "fd4c25695032dcd85774fb32e78442e79e664d3b76a375585896413d44bf3892",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00001_s.npy": "8ad38da989f104ae63bd93ee6d8bd993db4ad09066fe35ede75ecc3eee004295",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00044_f.npy": "56a35891f3d55de57622b7482a482603981b74468a01487766891f65599ec2d9",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00044_s.npy": "26879622986443138a960f98051509681a86e9b4da733f65591497131fd1f7d7",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00086_f.npy": "c59b4708e2b49b390a3d24928b21f1634a89ba96d759efe4396fbc88d66add32",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00086_s.npy": "37ae36bd651ad233997a42d1b2297499f26dca35232b2b347571c16b5ac01a48",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00129_f.npy": "1a0d10310d1050866089ff51cac62b821cb8bc74e24b9ccf925b846cd4d6b726",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00129_s.npy": "06cacf34e13db7301c969431facf3bede572d862dcbe8f3c9788df0bfea41ca8",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00172_f.npy": "4472f48719050ecc5b0ddf7725d43d431a84c005b49022920744eda7ec59af72",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00172_s.npy": "a55a342ee75529edffcae84bdf53c0f39332069cfc0f41412849415be2859c17",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00215_f.npy": "442004369b2de2cc49a1e046304ca092da7d011bd900e1b22c9ca5c7587a510e",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00215_s.npy": "1e78f6da20408c8cb0fd1df52b881cbf88ddb2f5079249fd665d05264eec8916",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00257_f.npy": "76a9591b24335d3dff05bb669cc9c1e328adafdbfe0b384513c9a83e5c335a6f",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00257_s.npy": "87f5b33215f53d8f17272ac2e5243b69831596c7c75631e3d7e0b0ee60b2ced6",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00301_f.npy": "c1f0fdd12e327c1edf080e12ad02b4355ca303059a4e65aad65c1155dba875c9",
+    "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines/langsplat/language_features/frame_00301_s.npy": "8b65467e07259f306ab189b034d039496205bdc1c480e4aab8bf7579a58406c6"
+  },
+  "permutation_stats": {
+    "frame_00001": {
+      "eligible_features": 267,
+      "moved_features": 253,
+      "singleton_features": 14,
+      "total_mask_area_preserved": true
+    },
+    "frame_00044": {
+      "eligible_features": 238,
+      "moved_features": 222,
+      "singleton_features": 16,
+      "total_mask_area_preserved": true
+    },
+    "frame_00086": {
+      "eligible_features": 146,
+      "moved_features": 128,
+      "singleton_features": 18,
+      "total_mask_area_preserved": true
+    },
+    "frame_00129": {
+      "eligible_features": 274,
+      "moved_features": 255,
+      "singleton_features": 19,
+      "total_mask_area_preserved": true
+    },
+    "frame_00172": {
+      "eligible_features": 393,
+      "moved_features": 383,
+      "singleton_features": 10,
+      "total_mask_area_preserved": true
+    },
+    "frame_00215": {
+      "eligible_features": 147,
+      "moved_features": 132,
+      "singleton_features": 15,
+      "total_mask_area_preserved": true
+    },
+    "frame_00257": {
+      "eligible_features": 436,
+      "moved_features": 419,
+      "singleton_features": 17,
+      "total_mask_area_preserved": true
+    },
+    "frame_00301": {
+      "eligible_features": 325,
+      "moved_features": 313,
+      "singleton_features": 12,
+      "total_mask_area_preserved": true
+    }
+  }
+}

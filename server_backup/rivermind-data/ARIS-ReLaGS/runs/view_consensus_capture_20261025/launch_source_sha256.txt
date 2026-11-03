@@ -1,0 +1,2 @@
+8a4b3b06d267509311ac410503f6038e2c8dda675a83661916e045e966b2c83b  capture_fixed.py
+c2e6bcbfeec654eb1deef899c8a85c6b1b6218b66a2c3da078d7d80f8c09f6c6  capture_contracts.py

@@ -1,0 +1,5 @@
+dataset,scene,baseline_origin,mode,miou_percent,delta_vs_baseline_pp,n_query_views,empty_masks
+LERF-OVS,figurines,author_PT,baseline,63.28714011730666,0,56,2
+LERF-OVS,figurines,author_PT,visibility,49.49520142350826,-13.791938693798397,56,1
+LERF-OVS,figurines,author_PT,spatial,52.70679899425017,-10.580341123056487,56,2
+LERF-OVS,figurines,author_PT,permutation,16.60719676485241,-46.67994335245423,56,23

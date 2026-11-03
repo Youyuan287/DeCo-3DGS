@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "scene": "scene0000_00",
+  "n_observations": 10224,
+  "nag_sha256": "f94fd500951a94dda6cfaa6ed6d09f28dec9184df7fd3f694d3503bc5d2b50e4",
+  "observation_sha256": "d8748f17fe80d6263dcf65b1fef28c73872eb17db79280b289996c98f2cdd629",
+  "sidecar_sha256": "9a610a046e03f152aab2c6c9cd918d5683b99ac324d855c8e40ab0e4e589dabc",
+  "n_gaussians": 1012438,
+  "n_views": 251,
+  "root_regions": 386
+}

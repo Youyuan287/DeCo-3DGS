@@ -1,0 +1,5 @@
+scene,topk,level_until,filter_small,remove_small,miou_grand,n
+figurines,5,3,50,1,0.6278339593685536,56
+figurines,10,3,50,1,0.5956433242417326,56
+figurines,3,3,50,1,0.5785365469322998,56
+figurines,1,3,50,1,0.04277121900943213,56

@@ -1,0 +1,18 @@
+{
+  "scene": "figurines",
+  "miou": 2.1084262082063073e-05,
+  "flat_miou": 2.5607142857142857e-05,
+  "n_queries": 56,
+  "per_image": [
+    8.433704832825229e-05,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "protocol": {
+    "topk": 3,
+    "level_until": 3,
+    "filter_small": 50,
+    "remove_small": true
+  }
+}

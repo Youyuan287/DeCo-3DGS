@@ -1,0 +1,27 @@
+{
+  "scene": "bench",
+  "miou": 0.7561177524624789,
+  "flat_miou": 0.7561177142857142,
+  "n_queries": 35,
+  "per_view": [
+    0.7530460443834129,
+    0.7559980552297895,
+    0.7561635637942824,
+    0.7661470627938233,
+    0.7492340361110871
+  ],
+  "mode": "prompt",
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 0,
+    "text_agg": "lse",
+    "cand_mode": "gap2",
+    "cand_margin": 0.02
+  }
+}

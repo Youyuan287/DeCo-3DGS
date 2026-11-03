@@ -1,0 +1,39 @@
+{
+  "scene": "waldo_kitchen",
+  "miou": 0.5381927671475113,
+  "flat_miou": 0.5562667727272728,
+  "n_queries": 22,
+  "per_image": [
+    0.6084751729133221,
+    0.5039004246271983,
+    0.36179209227561,
+    0.6188549371426679,
+    0.5979412087787582
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse",
+    "evidence_v2": "semantic",
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.npz",
+    "evidence_temperature": 0.08,
+    "correction_coefficient": 1.0
+  },
+  "main_miou": 0.6812397727272729,
+  "main_flat_miou": 0.6812397727272729,
+  "improved_queries": 0,
+  "degraded_queries": 6,
+  "unchanged_queries": 16,
+  "total_iou_gain": 0.0,
+  "total_iou_loss": 2.749406,
+  "triggered_queries": 22
+}

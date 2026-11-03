@@ -1,0 +1,5 @@
+scene,image,prompt,cat,n_masks,best_label,iou_best,rank_dataset,rank_maskfull,rank_bbox
+waldo_kitchen,frame_00053,knife,found,40,347,0.4958132719279883,28,30,1
+waldo_kitchen,frame_00053,ottolenghi,deep,40,378,0.9413434785077508,22,7,1
+waldo_kitchen,frame_00066,pot,rank2,24,241,0.9645439935717155,4,6,1
+waldo_kitchen,frame_00089,knife,recall_fail,30,239,0.2788364499851588,7,1,2

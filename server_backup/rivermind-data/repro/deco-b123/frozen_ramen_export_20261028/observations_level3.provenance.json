@@ -1,0 +1,14 @@
+{
+  "n_observations": 8486,
+  "n_observed_regions": 244,
+  "n_root_regions": 245,
+  "n_views": 131,
+  "n_gaussians": 372270,
+  "nag_sha256": "722676ee258edf87f9769ad9d33b1f77cd6efe1b074c8e2bcbdda87eae7cd535",
+  "observation_sha256": "3c857c05d101029fd332fbdbb4e499b4d0c8d1b67a643121a9b7fdb7d32a7fc6",
+  "source": "/root/rivermind-data/repro/deco-b123/frozen_ramen_source",
+  "model": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen",
+  "frozen_nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen/sai_nag_3.0.pt",
+  "export_level": 3,
+  "seed": 1234
+}

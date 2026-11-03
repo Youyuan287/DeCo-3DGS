@@ -1,0 +1,11 @@
+{
+  "scene": "figurines",
+  "elapsed_seconds": 0.631854772567749,
+  "obs_features": [
+    16811,
+    512
+  ],
+  "eligible_roots": 135,
+  "observations_sha256": "d8811c3aa58ccd59115586bdcfe99aaacd340051a6c5d0b0bda4bf6b3a8cd854",
+  "original_script_sha256": "74b76c8490f3c203aee28c0c0ca547e0ab20e870ce0d8f8c581034366c0e4618"
+}

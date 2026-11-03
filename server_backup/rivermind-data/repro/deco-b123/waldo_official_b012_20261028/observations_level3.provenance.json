@@ -1,0 +1,14 @@
+{
+  "n_observations": 13425,
+  "n_observed_regions": 397,
+  "n_root_regions": 400,
+  "n_views": 187,
+  "n_gaussians": 905012,
+  "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+  "observation_sha256": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+  "source": "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/waldo_kitchen",
+  "model": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen",
+  "frozen_nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/sai_nag.pt",
+  "export_level": 3,
+  "seed": 1234
+}

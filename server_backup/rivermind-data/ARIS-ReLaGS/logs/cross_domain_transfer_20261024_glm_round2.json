@@ -1,0 +1,47 @@
+{
+  "role": "reviewer",
+  "model": "glm-5.3-prime",
+  "status": "ok",
+  "content": "## 裁决前的排除\n\n**A类排除**：Mask-Adapter与OpenInsGaussian已覆盖\"改变mask-conditioned readout/跨视角attention融合\"，MVFM进一步覆盖\"几何先验进attention\"。在此方向找未被覆盖的patch交互假设，空间已被三面合围；剩余差异（如具体readout算子形状）属工程增量，不足以构成问题级新颖性。\n\n**C类排除**：粒度/组合语义问题本身有价值，但现有证据链不允许把它立为研究问题——query分布未标定（真实用户查询的粒度分布无准确来源），\"组合语义失败\"至今只有属性embedding塌缩这类间接推断，且PCA-Seg/Search3D/ReLaGS已在关系任务上占位。立题所需的\"失败模式确实存在且频率可观\"这一前提，当前未被任何可引用证据支持，会退化成先造方法再找失败例。**停止，不是诊断**。\n\n## 选择B类，但收窄为一个具体问题\n\n### 提出的问题\n\n在开放词汇三维分割中，2D逐视角的语义logit场之间存在**视角间一致性耦合与可见性耦合的联合推理**，目前所有近邻都把它们拆开处理：LPOSS在2D侧传播后平均、PEARL解单帧内(λL+I)F=λy、AG2aussian在已提好的特征上做图Laplacian传播、PairGS/SFS把几何图和语义读出串行。问题陈述为：\n\n> **当多视角2D开放词汇logit在遮挡边界上互相矛盾（同一点被不同视角赋予冲突标签，或同一实例在不同视角logit幅度系统性漂移）时，是否存在一个显式利用\"可见性互斥＋视角间logit耦合\"的3D联合推断结构，其性能增益无法被\"先平均/先传播再后处理\"解释？**\n\n### 具体未被覆盖的假设\n\n设场景表示为G（Gaussian或其他带投影的基元集合，非新），每高斯基元i有标签分布yᵢ∈Δᴷ，视角v有可见性指示Vᵢᵥ∈{0,1}。假设的推断目标是：\n\nmin_y Σᵥ Σ_{i∈visible(v)} Wᵢᵥ · D(yᵢ ‖ softmax(lᵥ,ᵢ)) + λ Σ_{(i,j)∈E_view} Vᵢ·Vⱼ·Ψ(yᵢ,yⱼ) + μ R(y)\n\n其中lᵥ,ᵢ是视角v渲染到基元i的2D logit（可微，y真正出现在数据项里，修正上轮DeepSeek方案变量不进目标的缺陷）。关键差异点有三，逐一对应近邻空隙：\n\n1. **D项按视角而非按基元聚合**：LPOSS/PEARL先在单视角或特征层消解再聚合，本问题要求让\"冲突视角对\"在解y中显式仲裁，而不是把冲突平均掉。近邻中无人做跨视角的logit级联合推断——AG2aussian传播的是特征不是视角logit，Mask-Clustering的view consensus是mask级投票而非可微的按视角KL项。\n2. **E_view仅连接被共同可见的基元对，Ψ惩罚\"同视角下共视但logit不一致\"的邻居**：可见性矩阵进入耦合结构本身，这不是给旧图换名——PairGS的稀疏关系图不携带语义监督信号，Mask-Clustering的图节点是mask而非基元标签分布。\n3. 优化变量是y而非embedding，避免\"先提特征再优化特征\"范式（AG2aussian/SFS路径）。\n\n**为什么不是换名**：若把Ψ取成普通Laplacian、Vᵢᵥ恒为1、D在基元侧求和，则退化为AG2aussian已有结构——这正是可证伪边界。问题的可研究性恰在于：遮挡边界冲突仲裁是否产生增量，是显式假设而非自动成立。\n\n### 最小直接验证（诊断级，无GPU授权）\n\n不做端到端训练，做**归因诊断**：在3D-OVS或ScanNet OpenLapse等单一口径基准上，取一个现成方法（如SFS或AG2aussian）的输出，统计遮挡边界带内（深度不连续±δ）跨视角logit冲突的频率与现有\"平均后错误\"的相关性。若冲突导致的错误占总误差比例很低（比如该类边界误差在总体中不占主导），则问题的前提失效，停止；若占主导且方向系统性（非噪声），才值得进入B类推断结构的实现研究。此验证只用已有输出的离线统计与已发布代码前向，不训练、不建图。\n\n### 最可能反例\n\n1. 冲突主要来自CLIP文本端（同义query的logit整体偏移）而非视角几何——此时任何跨视角耦合结构都修不动，问题错位到C类且C类前提同样未证。\n2. Mask-Clustering式的mask级投票在遮挡边界已隐性完成仲裁——需检查其失败案例是否集中在本文所设冲突带；若是，增量归零。\n3. EviSplat/PEARL若在其实验中已含按视角的消融（如\"逐视角优化vs聚合优化\"对照），则空隙不存在——立题前必须核对，当前摘录未显示该对照存在。\n\n## 裁决\n\n**继续，仅B类收窄后的遮挡边界视角仲裁问题，先做上述离线归因诊断**；A、C两类当前新颖性与前提均不足，停止。若诊断显示冲突误差非主导，或核对发现近邻已有逐视角消融，则整体降级为停止。本裁决不授权任何训练、建图、特征提取或扫描运行；顾问认可不替代原文级查新（特别是EviSplat与Mask-Clustering的消融表）与最终指标验证。",
+  "usage": {
+    "prompt_tokens": 1388,
+    "total_tokens": 2728,
+    "completion_tokens": 1340,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 29
+    }
+  },
+  "finish_reason": "stop",
+  "raw_response": {
+    "id": "chatcmpl-086a5fb0-91ea-92c3-82c4-af9e27224ebe",
+    "object": "chat.completion",
+    "created": 1792815449,
+    "model": "glm-5.3-prime",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "reasoning_content": "Need to pick one problem among A/B/C or declare insufficient novelty. Provide hypothesis, minimal validation, likely counterexample. ≤1500字.",
+          "content": "## 裁决前的排除\n\n**A类排除**：Mask-Adapter与OpenInsGaussian已覆盖\"改变mask-conditioned readout/跨视角attention融合\"，MVFM进一步覆盖\"几何先验进attention\"。在此方向找未被覆盖的patch交互假设，空间已被三面合围；剩余差异（如具体readout算子形状）属工程增量，不足以构成问题级新颖性。\n\n**C类排除**：粒度/组合语义问题本身有价值，但现有证据链不允许把它立为研究问题——query分布未标定（真实用户查询的粒度分布无准确来源），\"组合语义失败\"至今只有属性embedding塌缩这类间接推断，且PCA-Seg/Search3D/ReLaGS已在关系任务上占位。立题所需的\"失败模式确实存在且频率可观\"这一前提，当前未被任何可引用证据支持，会退化成先造方法再找失败例。**停止，不是诊断**。\n\n## 选择B类，但收窄为一个具体问题\n\n### 提出的问题\n\n在开放词汇三维分割中，2D逐视角的语义logit场之间存在**视角间一致性耦合与可见性耦合的联合推理**，目前所有近邻都把它们拆开处理：LPOSS在2D侧传播后平均、PEARL解单帧内(λL+I)F=λy、AG2aussian在已提好的特征上做图Laplacian传播、PairGS/SFS把几何图和语义读出串行。问题陈述为：\n\n> **当多视角2D开放词汇logit在遮挡边界上互相矛盾（同一点被不同视角赋予冲突标签，或同一实例在不同视角logit幅度系统性漂移）时，是否存在一个显式利用\"可见性互斥＋视角间logit耦合\"的3D联合推断结构，其性能增益无法被\"先平均/先传播再后处理\"解释？**\n\n### 具体未被覆盖的假设\n\n设场景表示为G（Gaussian或其他带投影的基元集合，非新），每高斯基元i有标签分布yᵢ∈Δᴷ，视角v有可见性指示Vᵢᵥ∈{0,1}。假设的推断目标是：\n\nmin_y Σᵥ Σ_{i∈visible(v)} Wᵢᵥ · D(yᵢ ‖ softmax(lᵥ,ᵢ)) + λ Σ_{(i,j)∈E_view} Vᵢ·Vⱼ·Ψ(yᵢ,yⱼ) + μ R(y)\n\n其中lᵥ,ᵢ是视角v渲染到基元i的2D logit（可微，y真正出现在数据项里，修正上轮DeepSeek方案变量不进目标的缺陷）。关键差异点有三，逐一对应近邻空隙：\n\n1. **D项按视角而非按基元聚合**：LPOSS/PEARL先在单视角或特征层消解再聚合，本问题要求让\"冲突视角对\"在解y中显式仲裁，而不是把冲突平均掉。近邻中无人做跨视角的logit级联合推断——AG2aussian传播的是特征不是视角logit，Mask-Clustering的view consensus是mask级投票而非可微的按视角KL项。\n2. **E_view仅连接被共同可见的基元对，Ψ惩罚\"同视角下共视但logit不一致\"的邻居**：可见性矩阵进入耦合结构本身，这不是给旧图换名——PairGS的稀疏关系图不携带语义监督信号，Mask-Clustering的图节点是mask而非基元标签分布。\n3. 优化变量是y而非embedding，避免\"先提特征再优化特征\"范式（AG2aussian/SFS路径）。\n\n**为什么不是换名**：若把Ψ取成普通Laplacian、Vᵢᵥ恒为1、D在基元侧求和，则退化为AG2aussian已有结构——这正是可证伪边界。问题的可研究性恰在于：遮挡边界冲突仲裁是否产生增量，是显式假设而非自动成立。\n\n### 最小直接验证（诊断级，无GPU授权）\n\n不做端到端训练，做**归因诊断**：在3D-OVS或ScanNet OpenLapse等单一口径基准上，取一个现成方法（如SFS或AG2aussian）的输出，统计遮挡边界带内（深度不连续±δ）跨视角logit冲突的频率与现有\"平均后错误\"的相关性。若冲突导致的错误占总误差比例很低（比如该类边界误差在总体中不占主导），则问题的前提失效，停止；若占主导且方向系统性（非噪声），才值得进入B类推断结构的实现研究。此验证只用已有输出的离线统计与已发布代码前向，不训练、不建图。\n\n### 最可能反例\n\n1. 冲突主要来自CLIP文本端（同义query的logit整体偏移）而非视角几何——此时任何跨视角耦合结构都修不动，问题错位到C类且C类前提同样未证。\n2. Mask-Clustering式的mask级投票在遮挡边界已隐性完成仲裁——需检查其失败案例是否集中在本文所设冲突带；若是，增量归零。\n3. EviSplat/PEARL若在其实验中已含按视角的消融（如\"逐视角优化vs聚合优化\"对照），则空隙不存在——立题前必须核对，当前摘录未显示该对照存在。\n\n## 裁决\n\n**继续，仅B类收窄后的遮挡边界视角仲裁问题，先做上述离线归因诊断**；A、C两类当前新颖性与前提均不足，停止。若诊断显示冲突误差非主导，或核对发现近邻已有逐视角消融，则整体降级为停止。本裁决不授权任何训练、建图、特征提取或扫描运行；顾问认可不替代原文级查新（特别是EviSplat与Mask-Clustering的消融表）与最终指标验证。"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1388,
+      "total_tokens": 2728,
+      "completion_tokens": 1340,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 29
+      }
+    }
+  }
+}

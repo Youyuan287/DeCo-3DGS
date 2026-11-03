@@ -1,0 +1,24 @@
+{
+  "banks": [
+    {
+      "level": 1,
+      "path": "/root/rivermind-data/ARIS-ReLaGS/runs/view_consensus_capture_20261025/bank_l1.npy",
+      "sha256": "0323f91840ffa76c26d4dec1e71bcb1944c3fe6701c235a1d0542c7679055018",
+      "valid_observations": 181911
+    },
+    {
+      "level": 2,
+      "path": "/root/rivermind-data/ARIS-ReLaGS/runs/view_consensus_capture_20261025/bank_l2.npy",
+      "sha256": "063404413154c669fd6de173be8c06d6c09948ddc93294a8b564ccd78f7fda46",
+      "valid_observations": 37499
+    },
+    {
+      "level": 3,
+      "path": "/root/rivermind-data/ARIS-ReLaGS/runs/view_consensus_capture_20261025/bank_l3.npy",
+      "sha256": "8457637298318e3eed92362658179266960f2eb8a553c65edd62d476987df40f",
+      "valid_observations": 16896
+    }
+  ],
+  "seconds": 205.84380350261927,
+  "peak_allocated_mib": 1441.44580078125
+}

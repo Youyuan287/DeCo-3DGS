@@ -1,0 +1,3 @@
+scene,image,prompt,cat,n_masks,best_label,iou_best,rank_dataset,rank_maskfull,rank_bbox
+teatime,frame_00002,bear nose,recall_fail,33,300,0.06468486686889113,33,11,7
+teatime,frame_00002,stuffed bear,found,33,300,0.9733213093819733,14,1,1

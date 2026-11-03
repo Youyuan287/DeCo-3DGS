@@ -1,0 +1,28 @@
+{
+  "scene": "waldo_kitchen",
+  "arm": "fixed_prior",
+  "bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.npz",
+  "observation": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/observations_level3.npz",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/sai_nag.pt",
+  "members": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.members.json",
+  "sha256": {
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc",
+    "EVAL": "5c219d953688f0dbe933884c532597e055e670600c8cdae844aa67df188a44b6"
+  },
+  "protocol": {
+    "M2": "semantic",
+    "center": "image",
+    "text": "canon",
+    "renorm": 0,
+    "sel": "gap",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "temperature": 0.08,
+    "coefficient": 0.25,
+    "weight_mode": "normalized_priors"
+  }
+}

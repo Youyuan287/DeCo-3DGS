@@ -1,0 +1,282 @@
+{
+  "scene": "scene0062_00",
+  "num_gaussians": 789225,
+  "root_count": 92,
+  "class_count": 19,
+  "gt_present": 6,
+  "metrics": {
+    "off": {
+      "num_classes": 19,
+      "present": 6,
+      "mIoU": 0.6701999771954896,
+      "mAcc": 0.7908092422588139,
+      "OA": 0.8266436071496834,
+      "per_class": {
+        "wall": {
+          "iou": 0.8865582122760911,
+          "acc": 0.907690783935027,
+          "gt": 363474,
+          "inter": 329922,
+          "union": 372138
+        },
+        "floor": {
+          "iou": 0.9355635106776942,
+          "acc": 0.9547573199920816,
+          "gt": 111134,
+          "inter": 106106,
+          "union": 113414
+        },
+        "door": {
+          "iou": 0.7381808801822846,
+          "acc": 0.976382281024319,
+          "gt": 52757,
+          "inter": 51511,
+          "union": 69781
+        },
+        "counter": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 71136,
+          "inter": 0,
+          "union": 71136
+        },
+        "toilet": {
+          "iou": 0.9390126050420168,
+          "acc": 0.9736423639096434,
+          "gt": 45907,
+          "inter": 44697,
+          "union": 47600
+        },
+        "sink": {
+          "iou": 0.5218846549948507,
+          "acc": 0.9323827046918123,
+          "gt": 4348,
+          "inter": 4054,
+          "union": 7768
+        }
+      }
+    },
+    "m1_fixed": {
+      "num_classes": 19,
+      "present": 6,
+      "mIoU": 0.6701999771954896,
+      "mAcc": 0.7908092422588139,
+      "OA": 0.8266436071496834,
+      "per_class": {
+        "wall": {
+          "iou": 0.8865582122760911,
+          "acc": 0.907690783935027,
+          "gt": 363474,
+          "inter": 329922,
+          "union": 372138
+        },
+        "floor": {
+          "iou": 0.9355635106776942,
+          "acc": 0.9547573199920816,
+          "gt": 111134,
+          "inter": 106106,
+          "union": 113414
+        },
+        "door": {
+          "iou": 0.7381808801822846,
+          "acc": 0.976382281024319,
+          "gt": 52757,
+          "inter": 51511,
+          "union": 69781
+        },
+        "counter": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 71136,
+          "inter": 0,
+          "union": 71136
+        },
+        "toilet": {
+          "iou": 0.9390126050420168,
+          "acc": 0.9736423639096434,
+          "gt": 45907,
+          "inter": 44697,
+          "union": 47600
+        },
+        "sink": {
+          "iou": 0.5218846549948507,
+          "acc": 0.9323827046918123,
+          "gt": 4348,
+          "inter": 4054,
+          "union": 7768
+        }
+      }
+    },
+    "m1_m2_fixed": {
+      "num_classes": 19,
+      "present": 6,
+      "mIoU": 0.6701999771954896,
+      "mAcc": 0.7908092422588139,
+      "OA": 0.8266436071496834,
+      "per_class": {
+        "wall": {
+          "iou": 0.8865582122760911,
+          "acc": 0.907690783935027,
+          "gt": 363474,
+          "inter": 329922,
+          "union": 372138
+        },
+        "floor": {
+          "iou": 0.9355635106776942,
+          "acc": 0.9547573199920816,
+          "gt": 111134,
+          "inter": 106106,
+          "union": 113414
+        },
+        "door": {
+          "iou": 0.7381808801822846,
+          "acc": 0.976382281024319,
+          "gt": 52757,
+          "inter": 51511,
+          "union": 69781
+        },
+        "counter": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 71136,
+          "inter": 0,
+          "union": 71136
+        },
+        "toilet": {
+          "iou": 0.9390126050420168,
+          "acc": 0.9736423639096434,
+          "gt": 45907,
+          "inter": 44697,
+          "union": 47600
+        },
+        "sink": {
+          "iou": 0.5218846549948507,
+          "acc": 0.9323827046918123,
+          "gt": 4348,
+          "inter": 4054,
+          "union": 7768
+        }
+      }
+    },
+    "m1_m3_adaptive": {
+      "num_classes": 19,
+      "present": 6,
+      "mIoU": 0.6701999771954896,
+      "mAcc": 0.7908092422588139,
+      "OA": 0.8266436071496834,
+      "per_class": {
+        "wall": {
+          "iou": 0.8865582122760911,
+          "acc": 0.907690783935027,
+          "gt": 363474,
+          "inter": 329922,
+          "union": 372138
+        },
+        "floor": {
+          "iou": 0.9355635106776942,
+          "acc": 0.9547573199920816,
+          "gt": 111134,
+          "inter": 106106,
+          "union": 113414
+        },
+        "door": {
+          "iou": 0.7381808801822846,
+          "acc": 0.976382281024319,
+          "gt": 52757,
+          "inter": 51511,
+          "union": 69781
+        },
+        "counter": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 71136,
+          "inter": 0,
+          "union": 71136
+        },
+        "toilet": {
+          "iou": 0.9390126050420168,
+          "acc": 0.9736423639096434,
+          "gt": 45907,
+          "inter": 44697,
+          "union": 47600
+        },
+        "sink": {
+          "iou": 0.5218846549948507,
+          "acc": 0.9323827046918123,
+          "gt": 4348,
+          "inter": 4054,
+          "union": 7768
+        }
+      }
+    },
+    "m1_m2_m3_adaptive": {
+      "num_classes": 19,
+      "present": 6,
+      "mIoU": 0.6701999771954896,
+      "mAcc": 0.7908092422588139,
+      "OA": 0.8266436071496834,
+      "per_class": {
+        "wall": {
+          "iou": 0.8865582122760911,
+          "acc": 0.907690783935027,
+          "gt": 363474,
+          "inter": 329922,
+          "union": 372138
+        },
+        "floor": {
+          "iou": 0.9355635106776942,
+          "acc": 0.9547573199920816,
+          "gt": 111134,
+          "inter": 106106,
+          "union": 113414
+        },
+        "door": {
+          "iou": 0.7381808801822846,
+          "acc": 0.976382281024319,
+          "gt": 52757,
+          "inter": 51511,
+          "union": 69781
+        },
+        "counter": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 71136,
+          "inter": 0,
+          "union": 71136
+        },
+        "toilet": {
+          "iou": 0.9390126050420168,
+          "acc": 0.9736423639096434,
+          "gt": 45907,
+          "inter": 44697,
+          "union": 47600
+        },
+        "sink": {
+          "iou": 0.5218846549948507,
+          "acc": 0.9323827046918123,
+          "gt": 4348,
+          "inter": 4054,
+          "union": 7768
+        }
+      }
+    }
+  },
+  "original_deco_parity": false,
+  "c1": "on_mean_subtract",
+  "c2": "one_word",
+  "protocol": "ScanNet 19-class argmax, nearest-GT-point per Gaussian; C1/C2 factorial with M1 debiased bank, M2 reliability on/off, M3 fixed/adaptive weights, T=.08 coefficient=.25",
+  "nearest_gt": {
+    "mean": 0.049211975625202305,
+    "median": 0.030601899044878176,
+    "p95": 0.15958953250291744
+  },
+  "hashes": {
+    "/root/rivermind-data/output/scannet/scene0062_00/sai_nag_3.0.pt": "8c87c20cd04132dea312d7f312e4e6c0d3bd72d9fda3575f62f014e15b2ec56a",
+    "/root/rivermind-data/output/scannet/scene0062_00/point_cloud/iteration_0/point_cloud.ply": "25410d6000a02e416328cf060579796fc2978cd7f4008e986b05ee83bb527387",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m1m2m3_20261029/B1.npz": "731ec297a35ca5147ed22322a3377f4269b2fcdd1cc4f6e28c1df60f611a5fd2",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m1m2m3_20261029/B1.members.json": "007031fe1d2045b761cdd37072e309fcc8ff9b018cd755a160a6faa5b8bad143",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m1m2m3_20261029/observations_level3.npz": "dca850b09913e3e7b928cd0bfe40b65830416ae25ffe730f07311a50f0edd1fc",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m1m2m3_20261029/scene0062_00_vh_clean_2.labels.ply": "a52e318cd4c3b53a9dece4c54ac800f1263287ec26232c764d417e65bd9249cc",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/c1c2_ablation_20261029/c1_on_c2_off/scene0062_00/text_bank.npz": "c2f6a5a5ac80a4f9492ec726df91ff96c2d4161e6ef4b3c73a829e9a41b57f5c"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "metric_recalculation": "all three arms pass at 1e-12",
+  "per_class_TP_FP_FN": "57 class-arm records pass",
+  "mask_xor_vs_sha": "1425 comparisons pass",
+  "classes": 19,
+  "test_views": 25,
+  "readout_nonnegative": true,
+  "original_baseline_parity": true,
+  "local_bank_sha_verified": true
+}

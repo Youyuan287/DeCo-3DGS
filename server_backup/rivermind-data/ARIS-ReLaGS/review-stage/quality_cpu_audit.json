@@ -1,0 +1,784 @@
+{
+  "status": "CPU_AUDIT_COMPLETE",
+  "rows": [
+    {
+      "query": "bag",
+      "original": [
+        [
+          2,
+          264
+        ],
+        [
+          2,
+          349
+        ],
+        [
+          2,
+          107
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          264
+        ],
+        [
+          2,
+          349
+        ],
+        [
+          3,
+          91
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "d478d0ee4b6b32b6b4b6935e28a9848580e8309400ec791a48ff0708ed7167b5",
+      "quality_union_sha256": "bbea676bc21c9229da3b1369d7cdfee852b35c9c920e0dd9c4b6fd843545e22d",
+      "original_gaussians": 242,
+      "quality_gaussians": 2614,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "green apple",
+      "original": [
+        [
+          3,
+          24
+        ],
+        [
+          3,
+          18
+        ],
+        [
+          3,
+          139
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          24
+        ],
+        [
+          3,
+          18
+        ],
+        [
+          3,
+          43
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "a0de4b627d9884796721cbbad2bf01e57e5906fbbdebf62138214a1cad6096b6",
+      "quality_union_sha256": "b1a36366a1c202c9658ee18cfe3acd54c969308fe81cb8e80bbebaa3606de3a2",
+      "original_gaussians": 6069,
+      "quality_gaussians": 7797,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "green toy chair",
+      "original": [
+        [
+          3,
+          18
+        ],
+        [
+          3,
+          59
+        ],
+        [
+          3,
+          48
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          18
+        ],
+        [
+          3,
+          59
+        ],
+        [
+          3,
+          48
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "72576ebc9ea2808dc2677b2a86fb1fba58793eb9e672e6e8adb4bacae680198d",
+      "quality_union_sha256": "72576ebc9ea2808dc2677b2a86fb1fba58793eb9e672e6e8adb4bacae680198d",
+      "original_gaussians": 5031,
+      "quality_gaussians": 5031,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "jake",
+      "original": [
+        [
+          2,
+          36
+        ],
+        [
+          2,
+          199
+        ],
+        [
+          2,
+          426
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          36
+        ],
+        [
+          3,
+          51
+        ],
+        [
+          3,
+          67
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "c1a32af8fd745c311ad69a916807ba42de03437bb128753e8d7fd618ec6ee729",
+      "quality_union_sha256": "a786bd9a05563b1417ad7e8ef8e856b9939a4297649e268761cce26c6f27e36d",
+      "original_gaussians": 1731,
+      "quality_gaussians": 4661,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "miffy",
+      "original": [
+        [
+          3,
+          68
+        ],
+        [
+          3,
+          134
+        ],
+        [
+          2,
+          11
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          11
+        ],
+        [
+          3,
+          68
+        ],
+        [
+          3,
+          134
+        ]
+      ],
+      "original_top1_kept": false,
+      "original_union_sha256": "c25414cf449249fed1b57a9d80bb255335fc02dc05a3c96e5d1a685e6edc9fe3",
+      "quality_union_sha256": "c25414cf449249fed1b57a9d80bb255335fc02dc05a3c96e5d1a685e6edc9fe3",
+      "original_gaussians": 12232,
+      "quality_gaussians": 12232,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "old camera",
+      "original": [
+        [
+          3,
+          8
+        ],
+        [
+          3,
+          19
+        ],
+        [
+          2,
+          43
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          8
+        ],
+        [
+          3,
+          19
+        ],
+        [
+          2,
+          43
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "0db4d9d2961f20537f3934c0cdd80550fab3ecd8fe42fdd14eabb643a355a708",
+      "quality_union_sha256": "0db4d9d2961f20537f3934c0cdd80550fab3ecd8fe42fdd14eabb643a355a708",
+      "original_gaussians": 2017,
+      "quality_gaussians": 2017,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "pikachu",
+      "original": [
+        [
+          2,
+          36
+        ],
+        [
+          2,
+          64
+        ],
+        [
+          2,
+          75
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          36
+        ],
+        [
+          2,
+          64
+        ],
+        [
+          2,
+          75
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "acb7297ce61b2ec31961429a1d567c9297bf004d7280b5eecb970118f8e67979",
+      "quality_union_sha256": "acb7297ce61b2ec31961429a1d567c9297bf004d7280b5eecb970118f8e67979",
+      "original_gaussians": 4632,
+      "quality_gaussians": 4632,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "pink ice cream",
+      "original": [
+        [
+          2,
+          90
+        ],
+        [
+          2,
+          17
+        ],
+        [
+          2,
+          22
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          90
+        ],
+        [
+          2,
+          17
+        ],
+        [
+          2,
+          22
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "22ba31b36e9297573fc20642187f52add14715dbfc6753ada8bc6cf86af5baed",
+      "quality_union_sha256": "22ba31b36e9297573fc20642187f52add14715dbfc6753ada8bc6cf86af5baed",
+      "original_gaussians": 4528,
+      "quality_gaussians": 4528,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "pirate hat",
+      "original": [
+        [
+          2,
+          75
+        ],
+        [
+          3,
+          91
+        ],
+        [
+          2,
+          130
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          75
+        ],
+        [
+          3,
+          91
+        ],
+        [
+          2,
+          70
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "12baec9ef8401ed343ff5ece5f4a750a3ffd0924072837763ef75e974618463f",
+      "quality_union_sha256": "36cf1528c60b0e68ffc615477f4412fa3568837c1ed038e005ae9afd6ab8b2ca",
+      "original_gaussians": 4288,
+      "quality_gaussians": 4532,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "porcelain hand",
+      "original": [
+        [
+          3,
+          77
+        ],
+        [
+          2,
+          111
+        ],
+        [
+          2,
+          130
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          77
+        ],
+        [
+          2,
+          67
+        ],
+        [
+          2,
+          68
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "27eade71e7e4a7c99fffeee0a24dee2078a501cb8b37680546e6767afa2360ec",
+      "quality_union_sha256": "a39ad7aa696e09f797824fd21d4f228c6c8e83bb4a26b17561aeed5cb54834b2",
+      "original_gaussians": 434,
+      "quality_gaussians": 1893,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "pumpkin",
+      "original": [
+        [
+          2,
+          31
+        ],
+        [
+          2,
+          36
+        ],
+        [
+          3,
+          47
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          31
+        ],
+        [
+          2,
+          36
+        ],
+        [
+          3,
+          47
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "b5dd68d3951e6b9f6cab071ef756e3abb1075d9e0e11caa9e47863f8011881a4",
+      "quality_union_sha256": "b5dd68d3951e6b9f6cab071ef756e3abb1075d9e0e11caa9e47863f8011881a4",
+      "original_gaussians": 4750,
+      "quality_gaussians": 4750,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "red apple",
+      "original": [
+        [
+          3,
+          43
+        ],
+        [
+          2,
+          69
+        ],
+        [
+          3,
+          24
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          43
+        ],
+        [
+          2,
+          69
+        ],
+        [
+          3,
+          24
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "6c56aa6034c041ecd97bccd5f9857c1634a3ee5423bce104fd010e28064d3b58",
+      "quality_union_sha256": "6c56aa6034c041ecd97bccd5f9857c1634a3ee5423bce104fd010e28064d3b58",
+      "original_gaussians": 5793,
+      "quality_gaussians": 5793,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "red toy chair",
+      "original": [
+        [
+          3,
+          48
+        ],
+        [
+          3,
+          59
+        ],
+        [
+          2,
+          111
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          48
+        ],
+        [
+          3,
+          59
+        ],
+        [
+          3,
+          18
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "6b95058af3050450f50e4432b90e4b81e56ed5a1a9d7959488bcd701b24280a8",
+      "quality_union_sha256": "72576ebc9ea2808dc2677b2a86fb1fba58793eb9e672e6e8adb4bacae680198d",
+      "original_gaussians": 1974,
+      "quality_gaussians": 5031,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "rubber duck with buoy",
+      "original": [
+        [
+          2,
+          75
+        ],
+        [
+          3,
+          51
+        ],
+        [
+          3,
+          68
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          75
+        ],
+        [
+          3,
+          51
+        ],
+        [
+          2,
+          19
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "56e16fbc97feefa797469266ef309752f767696643971797b714466e7332f572",
+      "quality_union_sha256": "d012c0672ae08c1696e3867a97a16a7054bc9be61301cb6687e6a3aeb80332ea",
+      "original_gaussians": 4104,
+      "quality_gaussians": 5702,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "rubber duck with hat",
+      "original": [
+        [
+          2,
+          75
+        ],
+        [
+          3,
+          51
+        ],
+        [
+          2,
+          64
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          75
+        ],
+        [
+          2,
+          64
+        ],
+        [
+          3,
+          51
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "7f9647c6b3dcbf1ac2f7aa7cb98280e55b04cade0bc6e7449683a036cb6651e9",
+      "quality_union_sha256": "7f9647c6b3dcbf1ac2f7aa7cb98280e55b04cade0bc6e7449683a036cb6651e9",
+      "original_gaussians": 5425,
+      "quality_gaussians": 5425,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "rubics cube",
+      "original": [
+        [
+          2,
+          63
+        ],
+        [
+          3,
+          133
+        ],
+        [
+          3,
+          39
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          63
+        ],
+        [
+          3,
+          39
+        ],
+        [
+          3,
+          133
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "66642f71e43b7fe83f5c8ff544c6f31d25af35934b79c5104afd4d447f899c80",
+      "quality_union_sha256": "66642f71e43b7fe83f5c8ff544c6f31d25af35934b79c5104afd4d447f899c80",
+      "original_gaussians": 1907,
+      "quality_gaussians": 1907,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "spatula",
+      "original": [
+        [
+          3,
+          30
+        ],
+        [
+          2,
+          206
+        ],
+        [
+          2,
+          88
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          30
+        ],
+        [
+          2,
+          88
+        ],
+        [
+          2,
+          206
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "527978b2a0b56a43189cdd0e719e2e6240780db1b61ad73ec55b8c2d0f3d87c7",
+      "quality_union_sha256": "527978b2a0b56a43189cdd0e719e2e6240780db1b61ad73ec55b8c2d0f3d87c7",
+      "original_gaussians": 3092,
+      "quality_gaussians": 3092,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "tesla door handle",
+      "original": [
+        [
+          2,
+          115
+        ],
+        [
+          2,
+          132
+        ],
+        [
+          2,
+          38
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          115
+        ],
+        [
+          2,
+          135
+        ],
+        [
+          2,
+          38
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "b53048a41ad726898e065e9894a8737dd8880d313daa0f5bce9c487875e6a6cb",
+      "quality_union_sha256": "b31c932b4d1cf934632fb15a48703b6b4a47afe8ad6966db60903515a6a7b859",
+      "original_gaussians": 1003,
+      "quality_gaussians": 3382,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "toy cat statue",
+      "original": [
+        [
+          3,
+          49
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          68
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          49
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          28
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "3fcbef5088ef042c9ba8f89e42036381684b2d566c16b70ce63f9796efa2c9e8",
+      "quality_union_sha256": "e23e4b718bd9b6b4fc6dfd528eb8ef3c335982bd1b0bb0bdfdbe5eb7372cdbb8",
+      "original_gaussians": 1208,
+      "quality_gaussians": 3807,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "toy elephant",
+      "original": [
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          28
+        ],
+        [
+          3,
+          68
+        ]
+      ],
+      "quality": [
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          28
+        ],
+        [
+          3,
+          47
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "b7325dfd5a898e0017ce813f028cbe0c46f7feebfe772bd46c94dada90268f95",
+      "quality_union_sha256": "382eeb4a6e23dc86d18152231fc4798db5be42839a4413ae6ee6e1c90368b07a",
+      "original_gaussians": 3667,
+      "quality_gaussians": 4754,
+      "whole_part_metadata": "unavailable; no legality claim"
+    },
+    {
+      "query": "waldo",
+      "original": [
+        [
+          2,
+          56
+        ],
+        [
+          3,
+          33
+        ],
+        [
+          3,
+          37
+        ]
+      ],
+      "quality": [
+        [
+          2,
+          56
+        ],
+        [
+          3,
+          37
+        ],
+        [
+          3,
+          33
+        ]
+      ],
+      "original_top1_kept": true,
+      "original_union_sha256": "341617bd1d3defa6dcf44de1f20f416ee3e4dc6bb7997c3ee2951c0fa1c6640b",
+      "quality_union_sha256": "341617bd1d3defa6dcf44de1f20f416ee3e4dc6bb7997c3ee2951c0fa1c6640b",
+      "original_gaussians": 2750,
+      "quality_gaussians": 2750,
+      "whole_part_metadata": "unavailable; no legality claim"
+    }
+  ],
+  "gt_used": false,
+  "gpu_used": false
+}

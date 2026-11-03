@@ -1,0 +1,28 @@
+{
+  "scene": "ramen",
+  "arm": "fixed_prior",
+  "bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+  "observation": "/root/rivermind-data/repro/deco-b123/official_nag_export_20261028/observations_level3.npz",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen/sai_nag.pt",
+  "members": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.members.json",
+  "sha256": {
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12",
+    "EVAL": "5c219d953688f0dbe933884c532597e055e670600c8cdae844aa67df188a44b6"
+  },
+  "protocol": {
+    "M2": "semantic",
+    "center": "image",
+    "text": "canon",
+    "renorm": 0,
+    "sel": "gap",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "temperature": 0.08,
+    "coefficient": 0.25,
+    "weight_mode": "normalized_priors"
+  }
+}

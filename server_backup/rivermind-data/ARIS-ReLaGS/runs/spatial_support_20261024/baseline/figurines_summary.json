@@ -1,0 +1,36 @@
+{
+  "scene": "figurines",
+  "miou": 0.7312689967392746,
+  "biou": 0.7165976428571428,
+  "flat_miou": 0.7312690357142857,
+  "view_mean": 0.7312689967392745,
+  "n_queries": 28,
+  "n_views": 4,
+  "per_prompt": {
+    "green apple": 0.9388701803101566,
+    "green toy chair": 0.826565290715899,
+    "old camera": 0.4714722517044181,
+    "porcelain hand": 0.8821707876717073,
+    "red apple": 0.9543059208785674,
+    "red toy chair": 0.9079369892504106,
+    "rubber duck with red hat": 0.1375615566437629
+  },
+  "per_prompt_biou": {
+    "green apple": 0.9131605,
+    "green toy chair": 0.8084965000000001,
+    "old camera": 0.44204550000000004,
+    "porcelain hand": 0.87786125,
+    "red apple": 0.9322822500000001,
+    "red toy chair": 0.8963220000000001,
+    "rubber duck with red hat": 0.1460155
+  },
+  "alignment": [],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "remove_small": true,
+    "threshold": 0.5,
+    "nag": "sai_nag_3.0.pt"
+  }
+}

@@ -1,0 +1,19 @@
+scene,image,prompt,gt_area,n_cands,best_iou_topN,best_rank,best_recall_topN
+ramen,frame_00006,napkin,5528,57,0.47359123829712063,2,0.48498552821997104
+ramen,frame_00006,onion segments,2767,60,0.0,-1,0.0
+ramen,frame_00024,onion segments,18208,60,0.0,-1,0.0
+ramen,frame_00024,corn,1837,58,0.0,-1,0.0
+ramen,frame_00060,egg,23826,67,0.48376108998732575,2,0.5126332577856123
+ramen,frame_00060,corn,1412,58,0.0,-1,0.0
+ramen,frame_00060,onion segments,10296,60,0.0,-1,0.0
+ramen,frame_00065,corn,1199,58,0.0,-1,0.0
+ramen,frame_00065,onion segments,8624,60,0.0,-1,0.0
+ramen,frame_00081,bowl,51295,61,0.4610343160947318,1,0.46489911297397407
+ramen,frame_00081,napkin,3992,57,0.2767402376910017,2,0.28582164328657317
+ramen,frame_00081,onion segments,2032,60,0.0,-1,0.0
+ramen,frame_00119,corn,775,58,0.0,-1,0.0
+ramen,frame_00119,onion segments,10026,60,0.0,-1,0.0
+ramen,frame_00128,corn,723,58,0.020454545454545454,4,0.024896265560165973
+ramen,frame_00128,onion segments,4870,60,0.0,-1,0.0
+ramen,frame_00128,hand,9381,57,0.32586774227788984,12,0.32725722204455815
+ramen,frame_00128,napkin,2891,57,0.0013836042891732965,15,0.013144240747146317

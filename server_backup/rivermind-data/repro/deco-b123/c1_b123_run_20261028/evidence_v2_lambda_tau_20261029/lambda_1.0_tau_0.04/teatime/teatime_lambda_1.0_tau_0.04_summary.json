@@ -1,0 +1,40 @@
+{
+  "scene": "teatime",
+  "miou": 0.6018617995897367,
+  "flat_miou": 0.590526,
+  "n_queries": 59,
+  "per_image": [
+    0.6021982065395114,
+    0.5245424118527645,
+    0.5513046398840116,
+    0.5398363650117288,
+    0.7719810892130692,
+    0.6213080850373348
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse",
+    "evidence_v2": "semantic",
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/teatime/B1.npz",
+    "evidence_temperature": 0.04,
+    "correction_coefficient": 1.0
+  },
+  "main_miou": 0.785208966101695,
+  "main_flat_miou": 0.785208966101695,
+  "improved_queries": 3,
+  "degraded_queries": 21,
+  "unchanged_queries": 35,
+  "total_iou_gain": 0.008371999999999935,
+  "total_iou_loss": 11.494667,
+  "triggered_queries": 59
+}

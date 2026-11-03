@@ -1,0 +1,15 @@
+{
+  "scene": "teatime",
+  "best_global": {
+    "scene": "teatime",
+    "topk": 3,
+    "level_until": 3,
+    "filter_small": 25,
+    "remove_small": 1,
+    "miou_grand": 0.8224737140329924,
+    "n": 59
+  },
+  "oracle": 0.8266235415288397,
+  "n_queries": 59,
+  "n_configs": 20
+}

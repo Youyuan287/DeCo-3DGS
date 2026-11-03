@@ -1,0 +1,214 @@
+scene,image,prompt,variant,rank,iou_best
+ramen,frame_00006,chopsticks,raw,1,0.7830395206821062
+ramen,frame_00006,chopsticks,cdot,1,0.7830395206821062
+ramen,frame_00006,chopsticks,ccos,1,0.7830395206821062
+ramen,frame_00024,chopsticks,raw,1,0.9540433426089889
+ramen,frame_00024,chopsticks,cdot,1,0.9540433426089889
+ramen,frame_00024,chopsticks,ccos,1,0.9540433426089889
+ramen,frame_00060,chopsticks,raw,1,0.9405714285714286
+ramen,frame_00060,chopsticks,cdot,1,0.9405714285714286
+ramen,frame_00060,chopsticks,ccos,1,0.9405714285714286
+ramen,frame_00065,chopsticks,raw,1,0.48924681980415485
+ramen,frame_00065,chopsticks,cdot,1,0.48924681980415485
+ramen,frame_00065,chopsticks,ccos,1,0.48924681980415485
+ramen,frame_00081,chopsticks,raw,1,0.9740418758418024
+ramen,frame_00081,chopsticks,cdot,1,0.9740418758418024
+ramen,frame_00081,chopsticks,ccos,1,0.9740418758418024
+ramen,frame_00119,chopsticks,raw,3,0.5023128679562657
+ramen,frame_00119,chopsticks,cdot,3,0.5023128679562657
+ramen,frame_00119,chopsticks,ccos,3,0.5023128679562657
+ramen,frame_00128,chopsticks,raw,15,9.958010389524173e-05
+ramen,frame_00128,chopsticks,cdot,15,9.958010389524173e-05
+ramen,frame_00128,chopsticks,ccos,15,9.958010389524173e-05
+ramen,frame_00006,egg,raw,1,0.18514365053935705
+ramen,frame_00006,egg,cdot,1,0.18514365053935705
+ramen,frame_00006,egg,ccos,2,0.18514365053935705
+ramen,frame_00024,egg,raw,2,0.5189202735116171
+ramen,frame_00024,egg,cdot,2,0.5189202735116171
+ramen,frame_00024,egg,ccos,2,0.5189202735116171
+ramen,frame_00060,egg,raw,1,0.17175220269081576
+ramen,frame_00060,egg,cdot,1,0.17175220269081576
+ramen,frame_00060,egg,ccos,1,0.17175220269081576
+ramen,frame_00065,egg,raw,9,0.14855306181462286
+ramen,frame_00065,egg,cdot,9,0.14855306181462286
+ramen,frame_00065,egg,ccos,9,0.14855306181462286
+ramen,frame_00081,egg,raw,8,0.0
+ramen,frame_00081,egg,cdot,8,0.0
+ramen,frame_00081,egg,ccos,9,0.0
+ramen,frame_00119,egg,raw,1,0.5952501667778519
+ramen,frame_00119,egg,cdot,1,0.5952501667778519
+ramen,frame_00119,egg,ccos,1,0.5952501667778519
+ramen,frame_00128,egg,raw,1,0.19937042151332882
+ramen,frame_00128,egg,cdot,1,0.19937042151332882
+ramen,frame_00128,egg,ccos,1,0.19937042151332882
+ramen,frame_00006,nori,raw,1,0.9196944979979238
+ramen,frame_00006,nori,cdot,1,0.9196944979979238
+ramen,frame_00006,nori,ccos,1,0.9196944979979238
+ramen,frame_00024,nori,raw,2,0.9871912537442891
+ramen,frame_00024,nori,cdot,2,0.9871912537442891
+ramen,frame_00024,nori,ccos,2,0.9871912537442891
+ramen,frame_00065,nori,raw,12,0.0025192216612755325
+ramen,frame_00065,nori,cdot,12,0.0025192216612755325
+ramen,frame_00065,nori,ccos,12,0.0025192216612755325
+ramen,frame_00081,nori,raw,15,0.0
+ramen,frame_00081,nori,cdot,15,0.0
+ramen,frame_00081,nori,ccos,15,0.0
+ramen,frame_00119,nori,raw,1,0.9898478803801368
+ramen,frame_00119,nori,cdot,1,0.9898478803801368
+ramen,frame_00119,nori,ccos,1,0.9898478803801368
+ramen,frame_00128,nori,raw,1,0.9875768188726624
+ramen,frame_00128,nori,cdot,1,0.9875768188726624
+ramen,frame_00128,nori,ccos,1,0.9875768188726624
+ramen,frame_00006,bowl,raw,1,0.9494403847932661
+ramen,frame_00006,bowl,cdot,1,0.9494403847932661
+ramen,frame_00006,bowl,ccos,1,0.9494403847932661
+ramen,frame_00024,bowl,raw,3,0.9682302133664001
+ramen,frame_00024,bowl,cdot,3,0.9682302133664001
+ramen,frame_00024,bowl,ccos,3,0.9682302133664001
+ramen,frame_00065,bowl,raw,1,0.950593325092707
+ramen,frame_00065,bowl,cdot,1,0.950593325092707
+ramen,frame_00065,bowl,ccos,1,0.950593325092707
+ramen,frame_00081,bowl,raw,1,0.44267707082833135
+ramen,frame_00081,bowl,cdot,1,0.44267707082833135
+ramen,frame_00081,bowl,ccos,1,0.44267707082833135
+ramen,frame_00128,bowl,raw,5,0.6525192387687188
+ramen,frame_00128,bowl,cdot,5,0.6525192387687188
+ramen,frame_00128,bowl,ccos,5,0.6525192387687188
+ramen,frame_00006,napkin,raw,1,0.5905667144906743
+ramen,frame_00006,napkin,cdot,1,0.5905667144906743
+ramen,frame_00006,napkin,ccos,1,0.5905667144906743
+ramen,frame_00060,napkin,raw,7,0.5958224081548479
+ramen,frame_00060,napkin,cdot,7,0.5958224081548479
+ramen,frame_00060,napkin,ccos,7,0.5958224081548479
+ramen,frame_00065,napkin,raw,2,0.46981530827896717
+ramen,frame_00065,napkin,cdot,2,0.46981530827896717
+ramen,frame_00065,napkin,ccos,3,0.46981530827896717
+ramen,frame_00081,napkin,raw,7,0.5083170254403131
+ramen,frame_00081,napkin,cdot,7,0.5083170254403131
+ramen,frame_00081,napkin,ccos,7,0.5083170254403131
+ramen,frame_00128,napkin,raw,2,0.7778993435448578
+ramen,frame_00128,napkin,cdot,2,0.7778993435448578
+ramen,frame_00128,napkin,ccos,2,0.7778993435448578
+ramen,frame_00006,sake cup,raw,1,0.9729483785572468
+ramen,frame_00006,sake cup,cdot,1,0.9729483785572468
+ramen,frame_00006,sake cup,ccos,2,0.9729483785572468
+ramen,frame_00060,sake cup,raw,6,0.44124466703765536
+ramen,frame_00060,sake cup,cdot,6,0.44124466703765536
+ramen,frame_00060,sake cup,ccos,6,0.44124466703765536
+ramen,frame_00065,sake cup,raw,1,0.9822670375521557
+ramen,frame_00065,sake cup,cdot,1,0.9822670375521557
+ramen,frame_00065,sake cup,ccos,1,0.9822670375521557
+ramen,frame_00081,sake cup,raw,1,0.6840939299955694
+ramen,frame_00081,sake cup,cdot,1,0.6840939299955694
+ramen,frame_00081,sake cup,ccos,1,0.6840939299955694
+ramen,frame_00119,sake cup,raw,1,0.9857646597884289
+ramen,frame_00119,sake cup,cdot,1,0.9857646597884289
+ramen,frame_00119,sake cup,ccos,1,0.9857646597884289
+ramen,frame_00128,sake cup,raw,2,0.786644565474781
+ramen,frame_00128,sake cup,cdot,2,0.786644565474781
+ramen,frame_00128,sake cup,ccos,3,0.786644565474781
+ramen,frame_00006,wavy noodles,raw,1,0.1262649186981016
+ramen,frame_00006,wavy noodles,cdot,1,0.1262649186981016
+ramen,frame_00006,wavy noodles,ccos,1,0.1262649186981016
+ramen,frame_00024,wavy noodles,raw,4,0.0006305501550102464
+ramen,frame_00024,wavy noodles,cdot,4,0.0006305501550102464
+ramen,frame_00024,wavy noodles,ccos,4,0.0006305501550102464
+ramen,frame_00060,wavy noodles,raw,1,0.1338895882035605
+ramen,frame_00060,wavy noodles,cdot,1,0.1338895882035605
+ramen,frame_00060,wavy noodles,ccos,1,0.1338895882035605
+ramen,frame_00065,wavy noodles,raw,1,0.10801254253118954
+ramen,frame_00065,wavy noodles,cdot,1,0.10801254253118954
+ramen,frame_00065,wavy noodles,ccos,1,0.10801254253118954
+ramen,frame_00081,wavy noodles,raw,19,0.0
+ramen,frame_00081,wavy noodles,cdot,19,0.0
+ramen,frame_00081,wavy noodles,ccos,19,0.0
+ramen,frame_00119,wavy noodles,raw,15,0.0
+ramen,frame_00119,wavy noodles,cdot,15,0.0
+ramen,frame_00119,wavy noodles,ccos,15,0.0
+ramen,frame_00128,wavy noodles,raw,3,0.1938937908114307
+ramen,frame_00128,wavy noodles,cdot,3,0.1938937908114307
+ramen,frame_00128,wavy noodles,ccos,3,0.1938937908114307
+ramen,frame_00006,kamaboko,raw,1,0.0750153665250274
+ramen,frame_00006,kamaboko,cdot,1,0.0750153665250274
+ramen,frame_00006,kamaboko,ccos,1,0.0750153665250274
+ramen,frame_00024,kamaboko,raw,1,0.003143343612701966
+ramen,frame_00024,kamaboko,cdot,1,0.003143343612701966
+ramen,frame_00024,kamaboko,ccos,1,0.003143343612701966
+ramen,frame_00060,kamaboko,raw,1,0.07055371728050636
+ramen,frame_00060,kamaboko,cdot,1,0.07055371728050636
+ramen,frame_00060,kamaboko,ccos,2,0.07055371728050636
+ramen,frame_00065,kamaboko,raw,6,0.061358631581288785
+ramen,frame_00065,kamaboko,cdot,6,0.061358631581288785
+ramen,frame_00065,kamaboko,ccos,6,0.061358631581288785
+ramen,frame_00081,kamaboko,raw,6,0.0
+ramen,frame_00081,kamaboko,cdot,6,0.0
+ramen,frame_00081,kamaboko,ccos,7,0.0
+ramen,frame_00119,kamaboko,raw,1,0.9550525980235894
+ramen,frame_00119,kamaboko,cdot,1,0.9550525980235894
+ramen,frame_00119,kamaboko,ccos,1,0.9550525980235894
+ramen,frame_00128,kamaboko,raw,2,0.06116741170688324
+ramen,frame_00128,kamaboko,cdot,2,0.06116741170688324
+ramen,frame_00128,kamaboko,ccos,3,0.06116741170688324
+ramen,frame_00006,plate,raw,2,0.9741843683301149
+ramen,frame_00006,plate,cdot,2,0.9741843683301149
+ramen,frame_00006,plate,ccos,3,0.9741843683301149
+ramen,frame_00065,plate,raw,6,0.0012996277696551042
+ramen,frame_00065,plate,cdot,6,0.0012996277696551042
+ramen,frame_00065,plate,ccos,6,0.0012996277696551042
+ramen,frame_00081,plate,raw,1,0.7490793537657401
+ramen,frame_00081,plate,cdot,1,0.7490793537657401
+ramen,frame_00081,plate,ccos,2,0.7490793537657401
+ramen,frame_00128,plate,raw,1,0.7928495532841472
+ramen,frame_00128,plate,cdot,1,0.7928495532841472
+ramen,frame_00128,plate,ccos,1,0.7928495532841472
+ramen,frame_00006,onion segments,raw,17,0.07294280984674534
+ramen,frame_00006,onion segments,cdot,17,0.07294280984674534
+ramen,frame_00006,onion segments,ccos,14,0.07294280984674534
+ramen,frame_00024,onion segments,raw,4,0.9426413881748072
+ramen,frame_00024,onion segments,cdot,4,0.9426413881748072
+ramen,frame_00024,onion segments,ccos,4,0.9426413881748072
+ramen,frame_00060,onion segments,raw,1,0.11212148767845777
+ramen,frame_00060,onion segments,cdot,1,0.11212148767845777
+ramen,frame_00060,onion segments,ccos,1,0.11212148767845777
+ramen,frame_00065,onion segments,raw,12,0.09444105070250458
+ramen,frame_00065,onion segments,cdot,12,0.09444105070250458
+ramen,frame_00065,onion segments,ccos,11,0.09444105070250458
+ramen,frame_00081,onion segments,raw,19,0.0
+ramen,frame_00081,onion segments,cdot,19,0.0
+ramen,frame_00081,onion segments,ccos,19,0.0
+ramen,frame_00119,onion segments,raw,17,0.0
+ramen,frame_00119,onion segments,cdot,17,0.0
+ramen,frame_00119,onion segments,ccos,17,0.0
+ramen,frame_00128,onion segments,raw,16,0.05697735650342285
+ramen,frame_00128,onion segments,cdot,16,0.05697735650342285
+ramen,frame_00128,onion segments,ccos,16,0.05697735650342285
+ramen,frame_00024,corn,raw,2,0.0
+ramen,frame_00024,corn,cdot,2,0.0
+ramen,frame_00024,corn,ccos,2,0.0
+ramen,frame_00060,corn,raw,9,0.00970055133148355
+ramen,frame_00060,corn,cdot,9,0.00970055133148355
+ramen,frame_00060,corn,ccos,8,0.00970055133148355
+ramen,frame_00065,corn,raw,12,0.013334964521654025
+ramen,frame_00065,corn,cdot,12,0.013334964521654025
+ramen,frame_00065,corn,ccos,12,0.013334964521654025
+ramen,frame_00119,corn,raw,17,0.0
+ramen,frame_00119,corn,cdot,17,0.0
+ramen,frame_00119,corn,ccos,17,0.0
+ramen,frame_00128,corn,raw,16,0.006540757092633472
+ramen,frame_00128,corn,cdot,16,0.006540757092633472
+ramen,frame_00128,corn,ccos,16,0.006540757092633472
+ramen,frame_00081,glass of water,raw,1,0.9868713840676457
+ramen,frame_00081,glass of water,cdot,1,0.9868713840676457
+ramen,frame_00081,glass of water,ccos,1,0.9868713840676457
+ramen,frame_00128,glass of water,raw,1,0.9927354277280481
+ramen,frame_00128,glass of water,cdot,1,0.9927354277280481
+ramen,frame_00128,glass of water,ccos,1,0.9927354277280481
+ramen,frame_00081,spoon,raw,2,0.9378328008519702
+ramen,frame_00081,spoon,cdot,2,0.9378328008519702
+ramen,frame_00081,spoon,ccos,2,0.9378328008519702
+ramen,frame_00128,spoon,raw,7,9.763479704166565e-05
+ramen,frame_00128,spoon,cdot,7,9.763479704166565e-05
+ramen,frame_00128,spoon,ccos,6,9.763479704166565e-05
+ramen,frame_00128,hand,raw,1,0.1658613126972523
+ramen,frame_00128,hand,cdot,1,0.1658613126972523
+ramen,frame_00128,hand,ccos,1,0.1658613126972523

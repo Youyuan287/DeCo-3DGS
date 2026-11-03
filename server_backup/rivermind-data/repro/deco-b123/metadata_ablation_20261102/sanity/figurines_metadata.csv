@@ -1,0 +1,2 @@
+scene,image,prompt,family,g_A,g_S,g_J,g_S0,g_J0,A_iou,S_iou,J_iou,S0_iou,J0_iou,baseline_error,old_S_error,old_J_error
+figurines,frame_00041,old camera,rank2,1,1,1,1,1,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.0,0.0,0.0

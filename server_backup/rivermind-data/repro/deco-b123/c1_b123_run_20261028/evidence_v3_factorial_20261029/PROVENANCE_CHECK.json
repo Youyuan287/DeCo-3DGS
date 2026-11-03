@@ -1,0 +1,182 @@
+[
+  {
+    "scene": "figurines",
+    "arm": "all_absolute_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "BANK": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "MEMBERS": "15073ab45b454d2b8c65ecbb48c1f5e4d4cdfffd897f6342d7789748d7d98ec3"
+  },
+  {
+    "scene": "figurines",
+    "arm": "selected_absolute",
+    "same_nag_obs_bank_members": true,
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "BANK": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "MEMBERS": "15073ab45b454d2b8c65ecbb48c1f5e4d4cdfffd897f6342d7789748d7d98ec3"
+  },
+  {
+    "scene": "figurines",
+    "arm": "all_relative",
+    "same_nag_obs_bank_members": true,
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "BANK": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "MEMBERS": "15073ab45b454d2b8c65ecbb48c1f5e4d4cdfffd897f6342d7789748d7d98ec3"
+  },
+  {
+    "scene": "figurines",
+    "arm": "selected_relative_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "BANK": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "MEMBERS": "15073ab45b454d2b8c65ecbb48c1f5e4d4cdfffd897f6342d7789748d7d98ec3"
+  },
+  {
+    "scene": "figurines",
+    "arm": "raw_vs_debiased_M1",
+    "same_nag_obs_bank_members": true,
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+    "BANK": "9ba2b3164d37956d8441c3a46ec5493ec85b1c4b77f48ec095a4dab491d9c1e1",
+    "MEMBERS": "774780917a1405cd73ba10dd2bdad9a870e84c5d26b8ba566faf3c9e355745a8"
+  },
+  {
+    "scene": "ramen",
+    "arm": "all_absolute_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12"
+  },
+  {
+    "scene": "ramen",
+    "arm": "selected_absolute",
+    "same_nag_obs_bank_members": true,
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12"
+  },
+  {
+    "scene": "ramen",
+    "arm": "all_relative",
+    "same_nag_obs_bank_members": true,
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12"
+  },
+  {
+    "scene": "ramen",
+    "arm": "selected_relative_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12"
+  },
+  {
+    "scene": "ramen",
+    "arm": "raw_vs_debiased_M1",
+    "same_nag_obs_bank_members": true,
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232",
+    "BANK": "11557c16de89e0eb15887ec7db86c6ef24353bd20ccee51954bd0962060a8364",
+    "MEMBERS": "b5ec87bf5b12f400e7f762758e765f5a80ccf485eacdbf4419237f8348eb2ca4"
+  },
+  {
+    "scene": "teatime",
+    "arm": "all_absolute_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "BANK": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "MEMBERS": "aa51811d2d15161bf7c52cd89466f4dd4ac8b92ecd360b5eabd973973c5c43f7"
+  },
+  {
+    "scene": "teatime",
+    "arm": "selected_absolute",
+    "same_nag_obs_bank_members": true,
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "BANK": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "MEMBERS": "aa51811d2d15161bf7c52cd89466f4dd4ac8b92ecd360b5eabd973973c5c43f7"
+  },
+  {
+    "scene": "teatime",
+    "arm": "all_relative",
+    "same_nag_obs_bank_members": true,
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "BANK": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "MEMBERS": "aa51811d2d15161bf7c52cd89466f4dd4ac8b92ecd360b5eabd973973c5c43f7"
+  },
+  {
+    "scene": "teatime",
+    "arm": "selected_relative_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "BANK": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "MEMBERS": "aa51811d2d15161bf7c52cd89466f4dd4ac8b92ecd360b5eabd973973c5c43f7"
+  },
+  {
+    "scene": "teatime",
+    "arm": "raw_vs_debiased_M1",
+    "same_nag_obs_bank_members": true,
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "BANK": "89f6a4be04a795c959d473436e39cf6e15c8826608f02b9e5ed4f8af48585000",
+    "MEMBERS": "f4edb62b55ef5387d26a8af91ae67c11323eea99ce1ef609184a77a29a1f97f3"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "all_absolute_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "selected_absolute",
+    "same_nag_obs_bank_members": true,
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "all_relative",
+    "same_nag_obs_bank_members": true,
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "selected_relative_existing",
+    "same_nag_obs_bank_members": true,
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "raw_vs_debiased_M1",
+    "same_nag_obs_bank_members": true,
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+    "BANK": "e60df0a238e9d7b82d5c8d8f2b16efc5b7ea801bbe79ce5298ea9c351106e181",
+    "MEMBERS": "7640ae7418740c05e43a9d09ce49b7ab9d22f2a26a96b129ed53866e3eca34ef"
+  }
+]

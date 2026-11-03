@@ -1,0 +1,19 @@
+scene,view,image,prompt,iou,biou,pred_px,gt_px,n_candidates
+ramen,0,test_0.jpg,chopsticks,0.885734,nan,-1,1368,4
+ramen,0,test_0.jpg,egg,0.158594,nan,-1,23691,7
+ramen,0,test_0.jpg,glass of water,0.965517,nan,-1,34133,5
+ramen,0,test_0.jpg,pork belly,0.0,nan,-1,36559,2
+ramen,0,test_0.jpg,wavy noodles in bowl,0.157794,nan,-1,21517,5
+ramen,0,test_0.jpg,yellow bowl,0.679599,nan,-1,109674,8
+ramen,1,test_1.jpg,chopsticks,0.619883,nan,-1,168,4
+ramen,1,test_1.jpg,egg,0.176284,nan,-1,37426,7
+ramen,1,test_1.jpg,glass of water,0.83019,nan,-1,8769,5
+ramen,1,test_1.jpg,pork belly,0.0,nan,-1,53405,2
+ramen,1,test_1.jpg,wavy noodles in bowl,0.155184,nan,-1,32021,5
+ramen,1,test_1.jpg,yellow bowl,0.677036,nan,-1,156388,8
+ramen,2,test_2.jpg,chopsticks,0.796451,nan,-1,7142,4
+ramen,2,test_2.jpg,egg,0.111877,nan,-1,19727,7
+ramen,2,test_2.jpg,glass of water,0.763097,nan,-1,59558,5
+ramen,2,test_2.jpg,pork belly,0.0,nan,-1,26781,2
+ramen,2,test_2.jpg,wavy noodles in bowl,0.130333,nan,-1,19178,5
+ramen,2,test_2.jpg,yellow bowl,0.32597,nan,-1,65302,8

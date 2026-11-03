@@ -1,0 +1,15 @@
+{
+  "scene": "figurines",
+  "best_global": {
+    "scene": "figurines",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "remove_small": 1,
+    "miou_grand": 0.6278339593685536,
+    "n": 56
+  },
+  "oracle": 0.6519561224966338,
+  "n_queries": 56,
+  "n_configs": 4
+}

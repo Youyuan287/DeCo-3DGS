@@ -1,0 +1,460 @@
+{
+  "scene": "figurines",
+  "summary": {
+    "main": 0.6328714011730666,
+    "mask": 0.6323160545423179,
+    "audit": 0.6323160545423179,
+    "n": 56,
+    "fires": 3
+  },
+  "rows": [
+    {
+      "image": "frame_00041",
+      "prompt": "old camera",
+      "main": 0.3131532400707509,
+      "mask": 0.3131532400707509,
+      "audit": 0.3131532400707509,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "toy elephant",
+      "main": 0.9104181266059332,
+      "mask": 0.9104181266059332,
+      "audit": 0.9104181266059332,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "waldo",
+      "main": 0.7301066447908121,
+      "mask": 0.7301066447908121,
+      "audit": 0.7301066447908121,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "tesla door handle",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "porcelain hand",
+      "main": 0.0536663124335813,
+      "mask": 0.0536663124335813,
+      "audit": 0.0536663124335813,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "rubber duck with hat",
+      "main": 0.41888880902752823,
+      "mask": 0.41888880902752823,
+      "audit": 0.41888880902752823,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "rubber duck with buoy",
+      "main": 0.7780763030628695,
+      "mask": 0.7780763030628695,
+      "audit": 0.7780763030628695,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "pink ice cream",
+      "main": 0.9548825710754018,
+      "mask": 0.9548825710754018,
+      "audit": 0.9548825710754018,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "red toy chair",
+      "main": 0.8254234579737936,
+      "mask": 0.8254234579737936,
+      "audit": 0.8254234579737936,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "green apple",
+      "main": 0.9581382907583256,
+      "mask": 0.9581382907583256,
+      "audit": 0.9581382907583256,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "pikachu",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "red apple",
+      "main": 0.9548008490448245,
+      "mask": 0.9548008490448245,
+      "audit": 0.9548008490448245,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "spatula",
+      "main": 0.5543885065797416,
+      "mask": 0.5543885065797416,
+      "audit": 0.5543885065797416,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "jake",
+      "main": 0.44228103755527687,
+      "mask": 0.44228103755527687,
+      "audit": 0.44228103755527687,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "toy cat statue",
+      "main": 0.7214941022280472,
+      "mask": 0.7214941022280472,
+      "audit": 0.7214941022280472,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "pirate hat",
+      "main": 0.9156433529097704,
+      "mask": 0.9156433529097704,
+      "audit": 0.9156433529097704,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00041",
+      "prompt": "miffy",
+      "main": 0.3623445825932504,
+      "mask": 0.007619769444453843,
+      "audit": 0.007619769444453843,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "rubics cube",
+      "main": 0.8924953095684803,
+      "mask": 0.8924953095684803,
+      "audit": 0.8924953095684803,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "green apple",
+      "main": 0.9587755630339114,
+      "mask": 0.9587755630339114,
+      "audit": 0.9587755630339114,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "green toy chair",
+      "main": 0.71541079241614,
+      "mask": 0.71541079241614,
+      "audit": 0.71541079241614,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "jake",
+      "main": 0.4231137724550898,
+      "mask": 0.4231137724550898,
+      "audit": 0.4231137724550898,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "old camera",
+      "main": 0.5850946275410871,
+      "mask": 0.5850946275410871,
+      "audit": 0.5850946275410871,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "pink ice cream",
+      "main": 0.7688640132669984,
+      "mask": 0.7688640132669984,
+      "audit": 0.7688640132669984,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "pumpkin",
+      "main": 0.0,
+      "mask": 0.7498214370744251,
+      "audit": 0.7498214370744251,
+      "cert": 0.5366666666666666
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "red apple",
+      "main": 0.9806599057277532,
+      "mask": 0.9806599057277532,
+      "audit": 0.9806599057277532,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "rubber duck with hat",
+      "main": 0.28970223325062033,
+      "mask": 0.28970223325062033,
+      "audit": 0.28970223325062033,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "tesla door handle",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "spatula",
+      "main": 0.7649442755825735,
+      "mask": 0.7649442755825735,
+      "audit": 0.7649442755825735,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "rubber duck with buoy",
+      "main": 0.8113024966131217,
+      "mask": 0.8113024966131217,
+      "audit": 0.8113024966131217,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00105",
+      "prompt": "pirate hat",
+      "main": 0.8202866593164277,
+      "mask": 0.8202866593164277,
+      "audit": 0.8202866593164277,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "rubber duck with hat",
+      "main": 0.8668716547090308,
+      "mask": 0.8668716547090308,
+      "audit": 0.8668716547090308,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "rubics cube",
+      "main": 0.7822898128673893,
+      "mask": 0.7822898128673893,
+      "audit": 0.7822898128673893,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "toy elephant",
+      "main": 0.9334151290642254,
+      "mask": 0.9334151290642254,
+      "audit": 0.9334151290642254,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "green apple",
+      "main": 0.9125429810136044,
+      "mask": 0.9125429810136044,
+      "audit": 0.9125429810136044,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "jake",
+      "main": 0.8986627854088965,
+      "mask": 0.8986627854088965,
+      "audit": 0.8986627854088965,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "toy cat statue",
+      "main": 0.853225806451613,
+      "mask": 0.853225806451613,
+      "audit": 0.853225806451613,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "pikachu",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "porcelain hand",
+      "main": 0.032355555555555554,
+      "mask": 0.032355555555555554,
+      "audit": 0.032355555555555554,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "red apple",
+      "main": 0.8789707750952986,
+      "mask": 0.8789707750952986,
+      "audit": 0.8789707750952986,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "waldo",
+      "main": 0.4449950445986125,
+      "mask": 0.4449950445986125,
+      "audit": 0.4449950445986125,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00152",
+      "prompt": "pirate hat",
+      "main": 0.9458058435438266,
+      "mask": 0.9458058435438266,
+      "audit": 0.9458058435438266,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "toy elephant",
+      "main": 0.8818110544884359,
+      "mask": 0.8818110544884359,
+      "audit": 0.8818110544884359,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "pink ice cream",
+      "main": 0.9425455729166666,
+      "mask": 0.9425455729166666,
+      "audit": 0.9425455729166666,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "porcelain hand",
+      "main": 0.13408393039918118,
+      "mask": 0.13408393039918118,
+      "audit": 0.13408393039918118,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "green apple",
+      "main": 0.9602317619173031,
+      "mask": 0.9602317619173031,
+      "audit": 0.9602317619173031,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "green toy chair",
+      "main": 0.9319156991418476,
+      "mask": 0.9319156991418476,
+      "audit": 0.9319156991418476,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "old camera",
+      "main": 0.32345235784979626,
+      "mask": 0.32345235784979626,
+      "audit": 0.32345235784979626,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "rubics cube",
+      "main": 0.868421052631579,
+      "mask": 0.868421052631579,
+      "audit": 0.868421052631579,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "spatula",
+      "main": 0.7343374808993669,
+      "mask": 0.7343374808993669,
+      "audit": 0.7343374808993669,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "toy cat statue",
+      "main": 0.8039412157648631,
+      "mask": 0.8039412157648631,
+      "audit": 0.8039412157648631,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "waldo",
+      "main": 0.5217530390275112,
+      "mask": 0.5217530390275112,
+      "audit": 0.5217530390275112,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "rubber duck with buoy",
+      "main": 0.6362265415549598,
+      "mask": 0.6362265415549598,
+      "audit": 0.6362265415549598,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "pirate hat",
+      "main": 0.9130205587770164,
+      "mask": 0.9130205587770164,
+      "audit": 0.9130205587770164,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "miffy",
+      "main": 0.5893223819301848,
+      "mask": 0.0038154850356519237,
+      "audit": 0.0038154850356519237,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "bag",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00195",
+      "prompt": "rubber duck with hat",
+      "main": 0.46414785355012284,
+      "mask": 0.46414785355012284,
+      "audit": 0.46414785355012284,
+      "cert": 0.0
+    }
+  ]
+}

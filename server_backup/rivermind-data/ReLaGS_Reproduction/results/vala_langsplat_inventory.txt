@@ -1,0 +1,5 @@
+=== 登记清空前清单 ===
+ramen: _f=131 _s=131 size=1.5G sample_sha256=56d089e20437fe90bc053bea316e173239cd1bf21711f7beee4a63c782311c93
+teatime: _f=177 _s=177 size=2.0G sample_sha256=c161e06b8f07e2997f1ca12f45040b6d367c42e60299a0fbca385f1831b7e649
+waldo_kitchen: _f=187 _s=187 size=2.1G sample_sha256=373355890896652f90cb54087d0b5d823c9226180408c8313f5128c2f60170a9
+note: figurines/langsplat 于 2026-10-23 00:53 被其他会话删除，此处无记录

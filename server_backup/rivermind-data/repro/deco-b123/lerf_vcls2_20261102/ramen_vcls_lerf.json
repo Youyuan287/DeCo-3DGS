@@ -1,0 +1,580 @@
+{
+  "scene": "ramen",
+  "summary": {
+    "main": 0.5114937943613442,
+    "mask": 0.5120027315687629,
+    "audit": 0.5120027315687629,
+    "n": 71,
+    "fires": 2
+  },
+  "rows": [
+    {
+      "image": "frame_00006",
+      "prompt": "chopsticks",
+      "main": 0.8816315993287724,
+      "mask": 0.8816315993287724,
+      "audit": 0.8816315993287724,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "egg",
+      "main": 0.9276482157909525,
+      "mask": 0.9276482157909525,
+      "audit": 0.9276482157909525,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "nori",
+      "main": 0.6734475374732334,
+      "mask": 0.6734475374732334,
+      "audit": 0.6734475374732334,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "bowl",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "napkin",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "sake cup",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "wavy noodles",
+      "main": 0.8053159654990318,
+      "mask": 0.8053159654990318,
+      "audit": 0.8053159654990318,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "kamaboko",
+      "main": 0.8063380281690141,
+      "mask": 0.8063380281690141,
+      "audit": 0.8063380281690141,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "plate",
+      "main": 0.8346523459581685,
+      "mask": 0.8346523459581685,
+      "audit": 0.8346523459581685,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00006",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "bowl",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "chopsticks",
+      "main": 0.8251413035701509,
+      "mask": 0.8251413035701509,
+      "audit": 0.8251413035701509,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "egg",
+      "main": 0.9218364763110548,
+      "mask": 0.9218364763110548,
+      "audit": 0.9218364763110548,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "nori",
+      "main": 0.8165755467196819,
+      "mask": 0.8165755467196819,
+      "audit": 0.8165755467196819,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "wavy noodles",
+      "main": 0.815790379781703,
+      "mask": 0.815790379781703,
+      "audit": 0.815790379781703,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "kamaboko",
+      "main": 0.9024144869215291,
+      "mask": 0.9024144869215291,
+      "audit": 0.9024144869215291,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00024",
+      "prompt": "corn",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "chopsticks",
+      "main": 0.8551747772446882,
+      "mask": 0.8551747772446882,
+      "audit": 0.8551747772446882,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "egg",
+      "main": 0.9122854387656703,
+      "mask": 0.9122854387656703,
+      "audit": 0.9122854387656703,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "sake cup",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "napkin",
+      "main": 0.9809993650173399,
+      "mask": 0.9809993650173399,
+      "audit": 0.9809993650173399,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "wavy noodles",
+      "main": 0.830027560656034,
+      "mask": 0.830027560656034,
+      "audit": 0.830027560656034,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "kamaboko",
+      "main": 0.8845651080945198,
+      "mask": 0.8845651080945198,
+      "audit": 0.8845651080945198,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "corn",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00060",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "bowl",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "egg",
+      "main": 0.9394373255064786,
+      "mask": 0.9394373255064786,
+      "audit": 0.9394373255064786,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "chopsticks",
+      "main": 0.8900834403080873,
+      "mask": 0.8900834403080873,
+      "audit": 0.8900834403080873,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "sake cup",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "wavy noodles",
+      "main": 0.8305886475122635,
+      "mask": 0.8305886475122635,
+      "audit": 0.8305886475122635,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "nori",
+      "main": 0.5717181566252694,
+      "mask": 0.5717181566252694,
+      "audit": 0.5717181566252694,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "napkin",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "kamaboko",
+      "main": 0.9041505451987337,
+      "mask": 0.9041505451987337,
+      "audit": 0.9041505451987337,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "plate",
+      "main": 0.9299302240176276,
+      "mask": 0.9299302240176276,
+      "audit": 0.9299302240176276,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "corn",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00065",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "bowl",
+      "main": 0.4610343160947318,
+      "mask": 0.4610343160947318,
+      "audit": 0.4610343160947318,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "chopsticks",
+      "main": 0.86039274600279,
+      "mask": 0.86039274600279,
+      "audit": 0.86039274600279,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "sake cup",
+      "main": 0.07488059053408598,
+      "mask": 0.07488059053408598,
+      "audit": 0.07488059053408598,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "nori",
+      "main": 0.8875633647139536,
+      "mask": 0.8875633647139536,
+      "audit": 0.8875633647139536,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "egg",
+      "main": 0.921677614957049,
+      "mask": 0.921677614957049,
+      "audit": 0.921677614957049,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "wavy noodles",
+      "main": 0.8513593967056956,
+      "mask": 0.8513593967056956,
+      "audit": 0.8513593967056956,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "glass of water",
+      "main": 0.7264495399445012,
+      "mask": 0.7273656542056075,
+      "audit": 0.7273656542056075,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "kamaboko",
+      "main": 0.9047619047619048,
+      "mask": 0.9047619047619048,
+      "audit": 0.9047619047619048,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "spoon",
+      "main": 0.3952743074416078,
+      "mask": 0.3952743074416078,
+      "audit": 0.3952743074416078,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "napkin",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "plate",
+      "main": 0.5856630824372759,
+      "mask": 0.5856630824372759,
+      "audit": 0.5856630824372759,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00081",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "nori",
+      "main": 0.8678052223006352,
+      "mask": 0.8678052223006352,
+      "audit": 0.8678052223006352,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "egg",
+      "main": 0.8931613705972435,
+      "mask": 0.8931613705972435,
+      "audit": 0.8931613705972435,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "sake cup",
+      "main": 0.1439305045611113,
+      "mask": 0.1439305045611113,
+      "audit": 0.1439305045611113,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "chopsticks",
+      "main": 0.8470070422535211,
+      "mask": 0.8470070422535211,
+      "audit": 0.8470070422535211,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "wavy noodles",
+      "main": 0.7417504796845679,
+      "mask": 0.7417504796845679,
+      "audit": 0.7417504796845679,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "kamaboko",
+      "main": 0.8771957714013194,
+      "mask": 0.8771957714013194,
+      "audit": 0.8771957714013194,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "corn",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00119",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "glass of water",
+      "main": 0.7348227663246534,
+      "mask": 0.7836298126803871,
+      "audit": 0.7836298126803871,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "nori",
+      "main": 0.8646308287673857,
+      "mask": 0.8646308287673857,
+      "audit": 0.8646308287673857,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "egg",
+      "main": 0.9051525387378693,
+      "mask": 0.9051525387378693,
+      "audit": 0.9051525387378693,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "sake cup",
+      "main": 0.03284789018941296,
+      "mask": 0.03284789018941296,
+      "audit": 0.03284789018941296,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "bowl",
+      "main": 0.31160090423345665,
+      "mask": 0.31160090423345665,
+      "audit": 0.31160090423345665,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "chopsticks",
+      "main": 0.8774849745723532,
+      "mask": 0.8774849745723532,
+      "audit": 0.8774849745723532,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "wavy noodles",
+      "main": 0.5041425156367685,
+      "mask": 0.5041425156367685,
+      "audit": 0.5041425156367685,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "spoon",
+      "main": 0.27615831466965285,
+      "mask": 0.27615831466965285,
+      "audit": 0.27615831466965285,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "corn",
+      "main": 0.020454545454545454,
+      "mask": 0.020454545454545454,
+      "audit": 0.020454545454545454,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "onion segments",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 1.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "hand",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "plate",
+      "main": 0.6229763432179567,
+      "mask": 0.6229763432179567,
+      "audit": 0.6229763432179567,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "kamaboko",
+      "main": 0.8949805519540656,
+      "mask": 0.8949805519540656,
+      "audit": 0.8949805519540656,
+      "cert": 0.0
+    },
+    {
+      "image": "frame_00128",
+      "prompt": "napkin",
+      "main": 0.0,
+      "mask": 0.0,
+      "audit": 0.0,
+      "cert": 0.0
+    }
+  ]
+}

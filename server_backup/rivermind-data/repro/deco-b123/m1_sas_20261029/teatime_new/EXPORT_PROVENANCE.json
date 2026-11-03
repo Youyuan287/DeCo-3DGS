@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "scene": "teatime",
+  "n_observations": 20088,
+  "nag_sha256": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+  "observation_sha256": "1750e94e8bb43e4e26b6eacf5519d96e8c9a02aff1fd74c267e6a16f1dc90d15",
+  "sidecar_sha256": "4227982bb4902ab89eae51494103793f73929d0441bd3a9f0615a665d03634b2",
+  "n_gaussians": 958840,
+  "n_views": 177,
+  "root_regions": 1232
+}

@@ -1,0 +1,2 @@
+scene,image,prompt,family,n,g_A,g_D,g_E,A_iou,B_iou,C_iou,D_iou,E_iou,baseline_error,control_set_equal,AC_set_changed,AD_set_changed,pairs,raw_correct_pairs,margin_correct_pairs,canon_hurts_pairs,canon_helps_pairs
+figurines,frame_00041,old camera,rank2,5,1,1,1,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.3131532400707509,0.0,1,0,0,3,3,3,0,0

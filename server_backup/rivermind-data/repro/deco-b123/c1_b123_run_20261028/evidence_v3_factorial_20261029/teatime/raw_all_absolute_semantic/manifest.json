@@ -1,0 +1,27 @@
+{
+  "arm": "raw_all_absolute_semantic",
+  "bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v3_factorial_20261029/generated_raw/teatime/B1_raw.npz",
+  "members": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v3_factorial_20261029/generated_raw/teatime/B1_raw.members.json",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime/sai_nag.pt",
+  "observation": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/teatime/observations_level3.npz",
+  "protocol": {
+    "M2": "semantic",
+    "center": "image",
+    "coefficient": 0.25,
+    "filter_small": 50,
+    "level_until": 3,
+    "renorm": 0,
+    "sel": "gap",
+    "temperature": 0.08,
+    "text": "canon",
+    "topk": 5
+  },
+  "scene": "teatime",
+  "sha256": {
+    "BANK": "89f6a4be04a795c959d473436e39cf6e15c8826608f02b9e5ed4f8af48585000",
+    "EVAL": "c1e1a020bcb738c6d076ee2014da5a8d99af4fc47c7e39356420790724039506",
+    "MEMBERS": "f4edb62b55ef5387d26a8af91ae67c11323eea99ce1ef609184a77a29a1f97f3",
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e"
+  }
+}

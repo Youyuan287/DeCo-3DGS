@@ -1,0 +1,1098 @@
+scene,image,prompt,rank,pred,iou,cat
+figurines,frame_00041,old camera,1,0.7966564172651814,0.3131532400707509,rank2
+figurines,frame_00041,old camera,2,0.2003555948173963,0.6113835517324544,rank2
+figurines,frame_00041,old camera,3,0.0016548491352496946,0.0,rank2
+figurines,frame_00041,old camera,4,-0.00848305915662351,0.0,rank2
+figurines,frame_00041,old camera,5,-0.0013139982853701273,0.0,rank2
+figurines,frame_00041,toy elephant,1,0.8521975147426775,0.9104181266059332,found
+figurines,frame_00041,toy elephant,2,0.10930146772335067,0.0,found
+figurines,frame_00041,toy elephant,3,0.14966906500881388,0.0,found
+figurines,frame_00041,toy elephant,4,0.16494947915897887,0.0,found
+figurines,frame_00041,toy elephant,5,0.2676350623120383,0.0,found
+figurines,frame_00041,waldo,1,0.6935915212527821,0.7301066447908121,found
+figurines,frame_00041,waldo,2,-0.01086374781448212,0.0,found
+figurines,frame_00041,waldo,3,-0.013580635981837568,0.0,found
+figurines,frame_00041,waldo,4,-0.01898913714914686,0.0,found
+figurines,frame_00041,waldo,5,-0.01591443296010284,0.0,found
+figurines,frame_00041,tesla door handle,1,0.010453800335334391,0.0,recall_fail
+figurines,frame_00041,tesla door handle,2,-0.022127432358958588,0.0,recall_fail
+figurines,frame_00041,tesla door handle,3,-0.014400064415473403,0.0,recall_fail
+figurines,frame_00041,tesla door handle,4,-0.001729853712271334,0.0,recall_fail
+figurines,frame_00041,tesla door handle,5,-0.02689742653543664,0.0,recall_fail
+figurines,frame_00041,tesla door handle,6,0.0007319740023789337,0.0,recall_fail
+figurines,frame_00041,porcelain hand,1,0.21012558152156596,0.0536663124335813,recall_fail
+figurines,frame_00041,porcelain hand,2,0.22814251197399935,0.0,recall_fail
+figurines,frame_00041,porcelain hand,3,0.04156469930657762,0.0,recall_fail
+figurines,frame_00041,porcelain hand,4,0.043874590287807734,0.0,recall_fail
+figurines,frame_00041,porcelain hand,5,0.010328905498783255,0.0,recall_fail
+figurines,frame_00041,porcelain hand,6,0.03178204402534219,0.0,recall_fail
+figurines,frame_00041,rubber duck with hat,1,0.47416636953905056,0.2818361303060217,deep
+figurines,frame_00041,rubber duck with hat,2,0.15974259109696357,0.0,deep
+figurines,frame_00041,rubber duck with hat,3,0.1516544032550975,0.6107413010590015,deep
+figurines,frame_00041,rubber duck with hat,4,0.02420921093233847,0.0,deep
+figurines,frame_00041,rubber duck with hat,5,0.010950652067118153,0.0,deep
+figurines,frame_00041,rubber duck with hat,6,0.031144481616205782,0.0,deep
+figurines,frame_00041,rubber duck with hat,7,0.07575512723853856,0.0,deep
+figurines,frame_00041,rubber duck with buoy,1,0.4919589284604113,0.0,rank2
+figurines,frame_00041,rubber duck with buoy,2,0.7231171782081054,0.9586864406779662,rank2
+figurines,frame_00041,rubber duck with buoy,3,0.04996878245560133,0.0,rank2
+figurines,frame_00041,rubber duck with buoy,4,-0.001898673476469892,0.0,rank2
+figurines,frame_00041,rubber duck with buoy,5,0.050381349869346066,0.0,rank2
+figurines,frame_00041,pink ice cream,1,0.8018297176521828,0.9548825710754018,found
+figurines,frame_00041,pink ice cream,2,0.13497591793287653,0.0,found
+figurines,frame_00041,pink ice cream,3,0.08782192485007953,0.0,found
+figurines,frame_00041,pink ice cream,4,-0.02621566354662285,0.0,found
+figurines,frame_00041,pink ice cream,5,0.23803813318990175,0.0,found
+figurines,frame_00041,red toy chair,1,0.8971172812370632,0.8254234579737936,found
+figurines,frame_00041,red toy chair,2,-0.0738901841485166,0.0,found
+figurines,frame_00041,red toy chair,3,0.0384085450678725,0.0,found
+figurines,frame_00041,red toy chair,4,-0.03957829964191808,0.0,found
+figurines,frame_00041,red toy chair,5,0.10138317220731875,0.0,found
+figurines,frame_00041,green apple,1,0.8293936967844904,0.9581382907583256,found
+figurines,frame_00041,green apple,2,0.13602731703922968,0.0,found
+figurines,frame_00041,green apple,3,-0.022606278696273834,0.0,found
+figurines,frame_00041,green apple,4,0.15442230971466392,0.0,found
+figurines,frame_00041,green apple,5,0.09011458688792395,0.0006231084208652305,found
+figurines,frame_00041,pikachu,1,0.8675481966081358,0.0,deep
+figurines,frame_00041,pikachu,2,0.1511328098528654,0.0,deep
+figurines,frame_00041,pikachu,3,0.09442405149256541,0.0,deep
+figurines,frame_00041,pikachu,4,0.20364407731524817,0.0,deep
+figurines,frame_00041,pikachu,5,0.005138743400434443,0.0,deep
+figurines,frame_00041,pikachu,6,0.006754419169329046,0.0,deep
+figurines,frame_00041,pikachu,7,0.15577403369836482,0.928322387091543,deep
+figurines,frame_00041,red apple,1,0.8970753659480477,0.9548008490448245,found
+figurines,frame_00041,red apple,2,0.216315118039337,0.0,found
+figurines,frame_00041,red apple,3,0.07619519586617994,0.0,found
+figurines,frame_00041,red apple,4,0.08782192485007953,0.0,found
+figurines,frame_00041,red apple,5,0.013860541921598128,0.0,found
+figurines,frame_00041,spatula,1,0.8281071298074658,0.5543885065797416,found
+figurines,frame_00041,spatula,2,-0.00014503350195195622,0.0,found
+figurines,frame_00041,spatula,3,-0.007422618724225629,0.0,found
+figurines,frame_00041,spatula,4,-0.004106320293089244,0.0,found
+figurines,frame_00041,spatula,5,-0.010301903602658063,0.0,found
+figurines,frame_00041,jake,1,0.6825058406037768,0.8491952857685972,found
+figurines,frame_00041,jake,2,0.13852639836997005,0.0,found
+figurines,frame_00041,jake,3,-0.010558829917379347,0.0,found
+figurines,frame_00041,jake,4,0.011874209562898235,0.0,found
+figurines,frame_00041,jake,5,-0.022739735411412568,0.0,found
+figurines,frame_00041,toy cat statue,1,0.6492777973482048,0.7214941022280472,found
+figurines,frame_00041,toy cat statue,2,0.17363270138955614,0.0,found
+figurines,frame_00041,toy cat statue,3,0.14698766607709124,0.01524390243902439,found
+figurines,frame_00041,toy cat statue,4,0.09844965119466163,0.0,found
+figurines,frame_00041,toy cat statue,5,0.15569976289074194,0.0,found
+figurines,frame_00041,pirate hat,1,0.39422070455011793,0.9156433529097704,found
+figurines,frame_00041,pirate hat,2,0.25298268097822946,0.0,found
+figurines,frame_00041,pirate hat,3,0.009428768490914795,0.0,found
+figurines,frame_00041,pirate hat,4,0.02222222229924471,0.0,found
+figurines,frame_00041,pirate hat,5,0.017984935499097878,0.0,found
+figurines,frame_00041,pirate hat,6,0.02678681655971877,0.0,found
+figurines,frame_00041,pirate hat,7,0.024333611073860093,0.0,found
+figurines,frame_00041,pirate hat,8,0.008676403250037235,0.0,found
+figurines,frame_00041,pirate hat,9,-0.004345394785098005,0.0,found
+figurines,frame_00041,pirate hat,10,0.051781499016612303,0.01257071024512885,found
+figurines,frame_00041,pirate hat,11,-0.020954994257996785,0.0,found
+figurines,frame_00041,miffy,1,0.6029062031957235,0.00485202015246306,rank2
+figurines,frame_00041,miffy,2,0.11585070240638588,0.3623445825932504,rank2
+figurines,frame_00041,miffy,3,0.03205829413298034,0.0,rank2
+figurines,frame_00041,miffy,4,-0.016082565695459378,0.0,rank2
+figurines,frame_00041,miffy,5,0.008780112894618062,0.0,rank2
+figurines,frame_00105,rubics cube,1,0.9190276111891847,0.8924953095684803,found
+figurines,frame_00105,rubics cube,2,0.013496940757521541,0.0,found
+figurines,frame_00105,rubics cube,3,0.013496940757521541,0.0,found
+figurines,frame_00105,rubics cube,4,0.02238220983020196,0.0,found
+figurines,frame_00105,rubics cube,5,-0.0016229368249793667,0.0,found
+figurines,frame_00105,green apple,1,0.824648575280276,0.9587755630339114,found
+figurines,frame_00105,green apple,2,0.12021950940581702,0.0,found
+figurines,frame_00105,green apple,3,-0.022606278696273834,0.0,found
+figurines,frame_00105,green apple,4,0.17733073948501557,0.0,found
+figurines,frame_00105,green apple,5,0.2286111139614178,0.0,found
+figurines,frame_00105,green toy chair,1,0.8187914058800279,0.71541079241614,found
+figurines,frame_00105,green toy chair,2,-0.07184382105912951,0.0,found
+figurines,frame_00105,green toy chair,3,0.07733015663073843,0.0,found
+figurines,frame_00105,green toy chair,4,-0.017640939289144692,0.0,found
+figurines,frame_00105,green toy chair,5,0.05945729472842016,0.0,found
+figurines,frame_00105,jake,1,0.6779582607897976,0.850300842358604,found
+figurines,frame_00105,jake,2,0.0735889914376045,0.0,found
+figurines,frame_00105,jake,3,-0.010558829917379347,0.0,found
+figurines,frame_00105,jake,4,0.011776070111288516,0.0,found
+figurines,frame_00105,jake,5,-0.08190167712048156,0.0,found
+figurines,frame_00105,old camera,1,0.8505303118792005,0.5850946275410871,found
+figurines,frame_00105,old camera,2,0.2369669916158063,0.3750222887914126,found
+figurines,frame_00105,old camera,3,0.0016548491352496946,0.0,found
+figurines,frame_00105,old camera,4,-0.00848305915662351,0.0,found
+figurines,frame_00105,old camera,5,-0.0013139982853701273,0.0,found
+figurines,frame_00105,pink ice cream,1,0.8018297176521828,0.7688640132669984,found
+figurines,frame_00105,pink ice cream,2,0.06058005900159175,0.0,found
+figurines,frame_00105,pink ice cream,3,0.05061445125607815,0.0,found
+figurines,frame_00105,pink ice cream,4,-0.02621566354662285,0.0,found
+figurines,frame_00105,pink ice cream,5,0.26782801181033183,0.0,found
+figurines,frame_00105,pumpkin,1,0.9179465841814893,0.0,deep
+figurines,frame_00105,pumpkin,2,0.5154002063642863,0.0,deep
+figurines,frame_00105,pumpkin,3,0.7980498768398245,0.9135447939781578,deep
+figurines,frame_00105,pumpkin,4,0.1543803416996225,0.0,deep
+figurines,frame_00105,pumpkin,5,-0.0054751456999931,0.0,deep
+figurines,frame_00105,pumpkin,6,-0.005418256791521705,0.0,deep
+figurines,frame_00105,red apple,1,0.9269368679271669,0.9806599057277532,found
+figurines,frame_00105,red apple,2,0.18224722105055763,0.0,found
+figurines,frame_00105,red apple,3,0.14601812758491975,0.0,found
+figurines,frame_00105,red apple,4,0.03578127299673871,0.0,found
+figurines,frame_00105,red apple,5,0.09375231073056496,0.0,found
+figurines,frame_00105,rubber duck with hat,1,0.39870371782264763,0.3290909090909091,deep
+figurines,frame_00105,rubber duck with hat,2,0.08523870604210255,0.0,deep
+figurines,frame_00105,rubber duck with hat,3,0.02424386627514492,0.5085585585585586,deep
+figurines,frame_00105,rubber duck with hat,4,0.02963310886169776,0.0,deep
+figurines,frame_00105,rubber duck with hat,5,0.023777317640310484,0.0,deep
+figurines,frame_00105,rubber duck with hat,6,0.017061158795880233,0.0,deep
+figurines,frame_00105,rubber duck with hat,7,0.06573852937687887,0.0,deep
+figurines,frame_00105,tesla door handle,1,0.010453800335334391,0.0,recall_fail
+figurines,frame_00105,tesla door handle,2,0.311270774198714,0.0,recall_fail
+figurines,frame_00105,tesla door handle,3,-0.014400064415473403,0.0,recall_fail
+figurines,frame_00105,tesla door handle,4,-0.001729853712271334,0.0,recall_fail
+figurines,frame_00105,tesla door handle,5,-0.02689742653543664,0.0,recall_fail
+figurines,frame_00105,tesla door handle,6,-0.03465826752411065,0.0,recall_fail
+figurines,frame_00105,spatula,1,0.5873930873315686,0.7649442755825735,found
+figurines,frame_00105,spatula,2,-0.00014503350195195622,0.0,found
+figurines,frame_00105,spatula,3,-0.007422618724225629,0.0,found
+figurines,frame_00105,spatula,4,-0.004106320293089244,0.0,found
+figurines,frame_00105,spatula,5,-0.010301903602658063,0.0,found
+figurines,frame_00105,rubber duck with buoy,1,0.41649627674400846,0.0,rank2
+figurines,frame_00105,rubber duck with buoy,2,0.6737817548808854,0.9494903737259344,rank2
+figurines,frame_00105,rubber duck with buoy,3,0.03588545963527567,0.0,rank2
+figurines,frame_00105,rubber duck with buoy,4,0.000335339903839968,0.0,rank2
+figurines,frame_00105,rubber duck with buoy,5,0.05352329958904542,0.0,rank2
+figurines,frame_00105,pirate hat,1,0.34990152334233987,0.8202866593164277,found
+figurines,frame_00105,pirate hat,2,0.2724854214603501,0.0,found
+figurines,frame_00105,pirate hat,3,0.009428768490914795,0.0,found
+figurines,frame_00105,pirate hat,4,0.2759855331626979,0.0,found
+figurines,frame_00105,pirate hat,5,0.1096472936775669,0.0,found
+figurines,frame_00105,pirate hat,6,0.02273221888595503,0.0,found
+figurines,frame_00105,pirate hat,7,0.002784237112573497,0.0,found
+figurines,frame_00105,pirate hat,8,0.029052589354411913,0.0,found
+figurines,frame_00105,pirate hat,9,0.15551057150329414,0.0,found
+figurines,frame_00105,pirate hat,10,0.023996286735776296,0.04164576016056196,found
+figurines,frame_00105,pirate hat,11,-0.020954994257996785,0.0,found
+figurines,frame_00152,rubber duck with hat,1,0.47233118864525947,0.24613511868533172,deep
+figurines,frame_00152,rubber duck with hat,2,0.032307149930708025,0.0,deep
+figurines,frame_00152,rubber duck with hat,3,0.12450667599282444,0.6356881572930956,deep
+figurines,frame_00152,rubber duck with hat,4,0.03772759539438049,0.0,deep
+figurines,frame_00152,rubber duck with hat,5,0.0027306145801195346,0.0,deep
+figurines,frame_00152,rubber duck with hat,6,0.017061158795880233,0.0,deep
+figurines,frame_00152,rubber duck with hat,7,0.2046887349899087,0.0,deep
+figurines,frame_00152,rubics cube,1,0.949197407750574,0.7822898128673893,found
+figurines,frame_00152,rubics cube,2,0.013496940757521541,0.0,found
+figurines,frame_00152,rubics cube,3,0.013496940757521541,0.0,found
+figurines,frame_00152,rubics cube,4,0.02238220983020196,0.0,found
+figurines,frame_00152,rubics cube,5,-0.0016229368249793667,0.0,found
+figurines,frame_00152,toy elephant,1,0.8627815680944045,0.9334151290642254,found
+figurines,frame_00152,toy elephant,2,0.15887547786992942,0.0,found
+figurines,frame_00152,toy elephant,3,0.15325079020480134,0.0,found
+figurines,frame_00152,toy elephant,4,0.1508661563386533,0.0,found
+figurines,frame_00152,toy elephant,5,0.17860721110196734,0.0,found
+figurines,frame_00152,green apple,1,0.8010058873065543,0.9125429810136044,found
+figurines,frame_00152,green apple,2,0.10982616738218161,0.0,found
+figurines,frame_00152,green apple,3,-0.022606278696273834,0.0,found
+figurines,frame_00152,green apple,4,0.06589718157118472,0.0,found
+figurines,frame_00152,green apple,5,0.09065955166784027,0.02423735896364396,found
+figurines,frame_00152,jake,1,0.7222957527008907,0.8986627854088965,found
+figurines,frame_00152,jake,2,0.009811049222981125,0.0,found
+figurines,frame_00152,jake,3,-0.010558829917379347,0.0,found
+figurines,frame_00152,jake,4,0.011874209562898235,0.0,found
+figurines,frame_00152,jake,5,-0.022739735411412568,0.0,found
+figurines,frame_00152,toy cat statue,1,0.9465403453736035,0.853225806451613,found
+figurines,frame_00152,toy cat statue,2,0.20074330399836518,0.0,found
+figurines,frame_00152,toy cat statue,3,0.20032744095155006,0.0,found
+figurines,frame_00152,toy cat statue,4,0.07690027723337499,0.0,found
+figurines,frame_00152,toy cat statue,5,0.16517825849386494,0.0,found
+figurines,frame_00152,pikachu,1,0.8815276292736007,0.0,deep
+figurines,frame_00152,pikachu,2,0.14747689162113595,0.0,deep
+figurines,frame_00152,pikachu,3,0.09258887059877428,0.0,deep
+figurines,frame_00152,pikachu,4,0.1069239559384604,0.0,deep
+figurines,frame_00152,pikachu,5,0.005138743400434443,0.0,deep
+figurines,frame_00152,pikachu,6,0.006754419169329046,0.0,deep
+figurines,frame_00152,pikachu,7,0.13703496093731024,0.9029455816275587,deep
+figurines,frame_00152,porcelain hand,1,0.21012558152156596,0.032355555555555554,recall_fail
+figurines,frame_00152,porcelain hand,2,0.139114660763928,0.0,recall_fail
+figurines,frame_00152,porcelain hand,3,0.05781411385001176,0.0,recall_fail
+figurines,frame_00152,porcelain hand,4,0.027340318924817697,0.0,recall_fail
+figurines,frame_00152,porcelain hand,5,0.006274307825019529,0.0,recall_fail
+figurines,frame_00152,porcelain hand,6,0.006601808935839995,0.0,recall_fail
+figurines,frame_00152,red apple,1,0.8343659330130399,0.8789707750952986,found
+figurines,frame_00152,red apple,2,0.22118597683911134,0.0,found
+figurines,frame_00152,red apple,3,0.03670968473702667,0.0,found
+figurines,frame_00152,red apple,4,0.059588894192519205,0.0,found
+figurines,frame_00152,red apple,5,0.06841967026787549,0.0,found
+figurines,frame_00152,waldo,1,0.6935915212527821,0.4449950445986125,found
+figurines,frame_00152,waldo,2,-0.01086374781448212,0.0,found
+figurines,frame_00152,waldo,3,-0.013580635981837568,0.0,found
+figurines,frame_00152,waldo,4,-0.01898913714914686,0.0,found
+figurines,frame_00152,waldo,5,-0.01591443296010284,0.0,found
+figurines,frame_00152,pirate hat,1,0.39238552365632684,0.9458058435438266,found
+figurines,frame_00152,pirate hat,2,0.17468489587634045,0.0,found
+figurines,frame_00152,pirate hat,3,0.009428768490914795,0.0,found
+figurines,frame_00152,pirate hat,4,0.02222222229924471,0.0,found
+figurines,frame_00152,pirate hat,5,0.049401031872423146,0.0,found
+figurines,frame_00152,pirate hat,6,0.046714313103558766,0.0,found
+figurines,frame_00152,pirate hat,7,0.024333611073860093,0.0,found
+figurines,frame_00152,pirate hat,8,0.04403020787502337,0.0,found
+figurines,frame_00152,pirate hat,9,-0.004443534236707725,0.0,found
+figurines,frame_00152,pirate hat,10,0.046229467201568654,0.00012195121951219512,found
+figurines,frame_00152,pirate hat,11,-0.020954994257996785,0.0,found
+figurines,frame_00195,toy elephant,1,0.8308838312075357,0.8818110544884359,found
+figurines,frame_00195,toy elephant,2,0.09551648207894133,0.0,found
+figurines,frame_00195,toy elephant,3,0.14966906500881388,0.0,found
+figurines,frame_00195,toy elephant,4,0.16058382765965426,0.0,found
+figurines,frame_00195,toy elephant,5,0.22618837916281964,0.0,found
+figurines,frame_00195,pink ice cream,1,0.7841314188394563,0.9425455729166666,found
+figurines,frame_00195,pink ice cream,2,0.008033070553457504,0.0,found
+figurines,frame_00195,pink ice cream,3,0.06246141370010525,0.0,found
+figurines,frame_00195,pink ice cream,4,-0.02621566354662285,0.0,found
+figurines,frame_00195,pink ice cream,5,0.12102487907503821,0.0,found
+figurines,frame_00195,porcelain hand,1,0.3509503323928121,0.13408393039918118,recall_fail
+figurines,frame_00195,porcelain hand,2,0.1857585671556148,0.0,recall_fail
+figurines,frame_00195,porcelain hand,3,0.04156469930657762,0.0,recall_fail
+figurines,frame_00195,porcelain hand,4,0.0370579902458187,0.0,recall_fail
+figurines,frame_00195,porcelain hand,5,0.006274307825019529,0.0,recall_fail
+figurines,frame_00195,porcelain hand,6,0.04412302512905756,0.0,recall_fail
+figurines,frame_00195,green apple,1,0.8293936967844904,0.9602317619173031,found
+figurines,frame_00195,green apple,2,0.1333895168933304,0.0,found
+figurines,frame_00195,green apple,3,-0.022606278696273834,0.0,found
+figurines,frame_00195,green apple,4,0.04964618231397857,0.0,found
+figurines,frame_00195,green apple,5,0.22584897385774325,8.975854950184004e-05,found
+figurines,frame_00195,green toy chair,1,0.8271904985900261,0.9319156991418476,found
+figurines,frame_00195,green toy chair,2,-0.07184382105912951,0.0,found
+figurines,frame_00195,green toy chair,3,0.11019969991199818,0.0,found
+figurines,frame_00195,green toy chair,4,-0.017640939289144692,0.0,found
+figurines,frame_00195,green toy chair,5,0.07203527359588346,0.0,found
+figurines,frame_00195,old camera,1,0.7769905647308126,0.32345235784979626,rank2
+figurines,frame_00195,old camera,2,0.2584354925826755,0.6198461538461538,rank2
+figurines,frame_00195,old camera,3,0.0016548491352496946,0.0,rank2
+figurines,frame_00195,old camera,4,-0.00848305915662351,0.0,rank2
+figurines,frame_00195,old camera,5,-0.0013139982853701273,0.0,rank2
+figurines,frame_00195,rubics cube,1,0.9250588319276662,0.868421052631579,found
+figurines,frame_00195,rubics cube,2,0.013496940757521541,0.0,found
+figurines,frame_00195,rubics cube,3,0.013496940757521541,0.0,found
+figurines,frame_00195,rubics cube,4,0.02238220983020196,0.0,found
+figurines,frame_00195,rubics cube,5,-0.0016229368249793667,0.0,found
+figurines,frame_00195,spatula,1,0.8281071298074658,0.7343374808993669,found
+figurines,frame_00195,spatula,2,-0.00014503350195195622,0.0,found
+figurines,frame_00195,spatula,3,-0.007422618724225629,0.0,found
+figurines,frame_00195,spatula,4,-0.004106320293089244,0.0,found
+figurines,frame_00195,spatula,5,-0.010301903602658063,0.0,found
+figurines,frame_00195,toy cat statue,1,0.9305448959226313,0.8039412157648631,found
+figurines,frame_00195,toy cat statue,2,0.11922692606272677,0.0,found
+figurines,frame_00195,toy cat statue,3,0.1527813680550611,0.0,found
+figurines,frame_00195,toy cat statue,4,0.0916330511526726,0.0,found
+figurines,frame_00195,toy cat statue,5,0.15569976289074194,0.0,found
+figurines,frame_00195,waldo,1,0.5439119747498778,0.5217530390275112,found
+figurines,frame_00195,waldo,2,-0.01086374781448212,0.0,found
+figurines,frame_00195,waldo,3,-0.013580635981837568,0.0,found
+figurines,frame_00195,waldo,4,-0.01898913714914686,0.0,found
+figurines,frame_00195,waldo,5,-0.01591443296010284,0.0,found
+figurines,frame_00195,rubber duck with buoy,1,0.4919589284604113,0.0,rank2
+figurines,frame_00195,rubber duck with buoy,2,0.6737817548808854,0.9014719848053181,rank2
+figurines,frame_00195,rubber duck with buoy,3,0.04560313095627675,0.0,rank2
+figurines,frame_00195,rubber duck with buoy,4,-0.004863170610101643,0.0,rank2
+figurines,frame_00195,rubber duck with buoy,5,0.04122449987144084,0.007176668193617346,rank2
+figurines,frame_00195,pirate hat,1,0.39422070455011793,0.9130205587770164,found
+figurines,frame_00195,pirate hat,2,0.268301317706822,0.0,found
+figurines,frame_00195,pirate hat,3,0.0018868511968179224,0.0,found
+figurines,frame_00195,pirate hat,4,0.02212408284763499,0.0,found
+figurines,frame_00195,pirate hat,5,0.1242584462377426,0.0,found
+figurines,frame_00195,pirate hat,6,0.02678681655971877,0.0,found
+figurines,frame_00195,pirate hat,7,0.09085315968986458,0.0,found
+figurines,frame_00195,pirate hat,8,0.029052589354411913,0.0,found
+figurines,frame_00195,pirate hat,9,-0.004443534236707725,0.0,found
+figurines,frame_00195,pirate hat,10,0.08014174927141625,0.0015677491601343784,found
+figurines,frame_00195,pirate hat,11,-0.020954994257996785,0.0,found
+figurines,frame_00195,miffy,1,0.6029062031957235,0.0015135987386677178,rank2
+figurines,frame_00195,miffy,2,0.11148505090706132,0.5893223819301848,rank2
+figurines,frame_00195,miffy,3,0.06434711424296469,0.0,rank2
+figurines,frame_00195,miffy,4,-0.016082565695459378,0.0,rank2
+figurines,frame_00195,miffy,5,0.008780112894618062,0.0,rank2
+figurines,frame_00195,bag,1,-0.013723560057003738,0.0,deep
+figurines,frame_00195,bag,2,0.001705485179061276,0.0,deep
+figurines,frame_00195,bag,3,-0.004013363392766763,0.0,deep
+figurines,frame_00195,bag,4,0.0153021144570651,0.0,deep
+figurines,frame_00195,bag,5,0.010534086783064302,0.0,deep
+figurines,frame_00195,bag,6,0.0055926854515318475,0.0,deep
+figurines,frame_00195,bag,7,-0.027864691024687818,0.0,deep
+figurines,frame_00195,bag,8,0.13321158750543624,0.878075365929617,deep
+figurines,frame_00195,bag,9,-0.014361986691499946,0.0,deep
+figurines,frame_00195,rubber duck with hat,1,0.47416636953905056,0.40598885793871864,deep
+figurines,frame_00195,rubber duck with hat,2,0.08523870604210255,0.0,deep
+figurines,frame_00195,rubber duck with hat,3,0.12982614760140848,0.46621334466638337,deep
+figurines,frame_00195,rubber duck with hat,4,0.02420921093233847,0.0,deep
+figurines,frame_00195,rubber duck with hat,5,0.023777317640310484,0.0,deep
+figurines,frame_00195,rubber duck with hat,6,0.026778830116881185,0.0,deep
+figurines,frame_00195,rubber duck with hat,7,0.06054001886293732,0.0,deep
+ramen,frame_00006,chopsticks,1,0.80253412916783,0.8816315993287724,found
+ramen,frame_00006,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00006,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00006,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00006,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00006,egg,1,0.5266997207894479,0.3454364231809768,rank2
+ramen,frame_00006,egg,2,0.31424455734665313,0.5877267573696145,rank2
+ramen,frame_00006,egg,3,0.008545363781861092,0.0,rank2
+ramen,frame_00006,egg,4,0.03618986857187051,0.0,rank2
+ramen,frame_00006,egg,5,0.06479481344266864,0.0002746382169641914,rank2
+ramen,frame_00006,egg,6,0.051091269976385946,0.0,rank2
+ramen,frame_00006,nori,1,0.43218512652890273,0.0,rank2
+ramen,frame_00006,nori,2,0.4793041625788928,0.8196375372393248,rank2
+ramen,frame_00006,nori,3,0.17344653121372422,0.0,rank2
+ramen,frame_00006,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00006,nori,5,-0.015416334824811972,0.0,rank2
+ramen,frame_00006,bowl,1,0.11754362306082097,0.0,deep
+ramen,frame_00006,bowl,2,0.02759867397660149,0.0,deep
+ramen,frame_00006,bowl,3,0.21443647346560415,0.7266463470952249,deep
+ramen,frame_00006,bowl,4,0.18212483536267504,0.08917149663309136,deep
+ramen,frame_00006,bowl,5,0.12962095117636635,0.009270782605558862,deep
+ramen,frame_00006,napkin,1,0.21254297573729888,0.0,rank2
+ramen,frame_00006,napkin,2,-0.032330728071505194,0.47359123829712063,rank2
+ramen,frame_00006,napkin,3,0.03143887637973656,0.0,rank2
+ramen,frame_00006,napkin,4,0.16679380454145354,0.0,rank2
+ramen,frame_00006,napkin,5,0.05136219922764532,0.0,rank2
+ramen,frame_00006,sake cup,1,0.10784959498886354,0.0,deep
+ramen,frame_00006,sake cup,2,0.31478438149660676,0.0,deep
+ramen,frame_00006,sake cup,3,-0.013922491243162754,0.0,deep
+ramen,frame_00006,sake cup,4,0.00644310898373559,0.0,deep
+ramen,frame_00006,sake cup,5,0.045562488121332026,0.9640872856107577,deep
+ramen,frame_00006,wavy noodles,1,0.17757618193969624,0.0,rank2
+ramen,frame_00006,wavy noodles,2,0.17575254487920114,0.8053159654990318,rank2
+ramen,frame_00006,wavy noodles,3,0.13144851170541855,0.0,rank2
+ramen,frame_00006,wavy noodles,4,0.04897978338016931,0.0,rank2
+ramen,frame_00006,wavy noodles,5,0.07183806513336459,0.0,rank2
+ramen,frame_00006,kamaboko,1,0.547499180758513,0.8063380281690141,found
+ramen,frame_00006,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00006,kamaboko,3,0.03709917722776842,0.0,found
+ramen,frame_00006,kamaboko,4,0.020610663778912994,0.0,found
+ramen,frame_00006,kamaboko,5,-0.009358522049895944,0.0,found
+ramen,frame_00006,plate,1,0.14762045213625422,0.0,rank2
+ramen,frame_00006,plate,2,0.28502541822624755,0.779538356060029,rank2
+ramen,frame_00006,plate,3,-0.017170573415712508,0.044045479330331,rank2
+ramen,frame_00006,plate,4,0.017145119251205165,0.0,rank2
+ramen,frame_00006,plate,5,0.06337959633025597,0.0017894778701236728,rank2
+ramen,frame_00006,onion segments,1,0.5707935142787373,0.0,recall_fail
+ramen,frame_00006,onion segments,2,0.21389439488532888,0.0,recall_fail
+ramen,frame_00006,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00006,onion segments,4,-0.023023001570287176,0.0,recall_fail
+ramen,frame_00006,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00024,bowl,1,0.11754362306082097,0.0,deep
+ramen,frame_00024,bowl,2,0.02759867397660149,0.0,deep
+ramen,frame_00024,bowl,3,0.21443647346560415,0.9401364010736696,deep
+ramen,frame_00024,bowl,4,0.08315289702210761,0.0,deep
+ramen,frame_00024,bowl,5,0.059504541669385215,0.0,deep
+ramen,frame_00024,chopsticks,1,0.8149369416928917,0.8251413035701509,found
+ramen,frame_00024,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00024,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00024,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00024,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00024,egg,1,0.5466297214050118,0.45710961463878996,rank2
+ramen,frame_00024,egg,2,0.41870086242780885,0.5000170050675101,rank2
+ramen,frame_00024,egg,3,0.008545363781861092,0.0,rank2
+ramen,frame_00024,egg,4,0.0043188057630153725,0.0,rank2
+ramen,frame_00024,egg,5,0.06479481344266864,0.0,rank2
+ramen,frame_00024,egg,6,0.01922020716753076,0.0,rank2
+ramen,frame_00024,nori,1,0.43218512652890273,0.0017955675708391757,rank2
+ramen,frame_00024,nori,2,0.4871677143829161,0.976575177453235,rank2
+ramen,frame_00024,nori,3,0.26746764165684883,0.0005624533037835478,rank2
+ramen,frame_00024,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00024,nori,5,-0.015416334824811972,0.0,rank2
+ramen,frame_00024,wavy noodles,1,0.17757618193969624,0.0,rank2
+ramen,frame_00024,wavy noodles,2,0.24396080760987776,0.815790379781703,rank2
+ramen,frame_00024,wavy noodles,3,0.11204140659999672,0.0,rank2
+ramen,frame_00024,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00024,wavy noodles,5,0.03594417106691575,0.0,rank2
+ramen,frame_00024,kamaboko,1,0.546605187202894,0.9024144869215291,found
+ramen,frame_00024,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00024,kamaboko,3,0.06489720626995515,0.0,found
+ramen,frame_00024,kamaboko,4,0.0013206770071704783,0.0,found
+ramen,frame_00024,kamaboko,5,-0.009358522049895944,0.0,found
+ramen,frame_00024,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00024,onion segments,2,-0.06447937667304332,0.0,recall_fail
+ramen,frame_00024,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00024,onion segments,4,-0.023023001570287176,0.0,recall_fail
+ramen,frame_00024,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00024,corn,1,0.06484276524791388,0.0,recall_fail
+ramen,frame_00024,corn,2,0.20176525450385419,0.0,recall_fail
+ramen,frame_00024,corn,3,-0.037193769373212685,0.0,recall_fail
+ramen,frame_00024,corn,4,-0.01782610458534474,0.0,recall_fail
+ramen,frame_00024,corn,5,0.1833900323839879,0.0,recall_fail
+ramen,frame_00024,corn,6,0.09317065425623851,0.0,recall_fail
+ramen,frame_00060,chopsticks,1,0.8149369416928917,0.8551747772446882,found
+ramen,frame_00060,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00060,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00060,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00060,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00060,egg,1,0.5471458428260022,0.46731799043453376,rank2
+ramen,frame_00060,egg,2,0.34686145669583074,0.48376108998732575,rank2
+ramen,frame_00060,egg,3,0.008545363781861092,0.0,rank2
+ramen,frame_00060,egg,4,0.0043188057630153725,0.0,rank2
+ramen,frame_00060,egg,5,0.06479481344266864,0.0,rank2
+ramen,frame_00060,egg,6,0.01922020716753076,0.0,rank2
+ramen,frame_00060,sake cup,1,0.10784959498886354,0.0,deep
+ramen,frame_00060,sake cup,2,0.0945421714477433,0.0,deep
+ramen,frame_00060,sake cup,3,-0.013922491243162754,0.0,deep
+ramen,frame_00060,sake cup,4,-0.022959848371459944,0.0,deep
+ramen,frame_00060,sake cup,5,0.023560908790978403,0.9448532925547166,deep
+ramen,frame_00060,napkin,1,0.5168865589314651,0.9809993650173399,found
+ramen,frame_00060,napkin,2,-0.032330728071505194,0.0,found
+ramen,frame_00060,napkin,3,0.03143887637973656,0.0,found
+ramen,frame_00060,napkin,4,0.05800333290081559,0.0,found
+ramen,frame_00060,napkin,5,0.05136219922764532,0.0,found
+ramen,frame_00060,wavy noodles,1,0.17757618193969624,0.0,rank2
+ramen,frame_00060,wavy noodles,2,0.24396080760987776,0.830027560656034,rank2
+ramen,frame_00060,wavy noodles,3,0.11204140659999672,0.0,rank2
+ramen,frame_00060,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00060,wavy noodles,5,0.03594417106691575,0.0,rank2
+ramen,frame_00060,kamaboko,1,0.5456262332014676,0.8845651080945198,found
+ramen,frame_00060,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00060,kamaboko,3,0.06489720626995515,0.0,found
+ramen,frame_00060,kamaboko,4,0.020610663778912994,0.0,found
+ramen,frame_00060,kamaboko,5,-0.009358522049895944,0.0,found
+ramen,frame_00060,corn,1,0.06484276524791388,0.0,recall_fail
+ramen,frame_00060,corn,2,0.18483648427611557,0.0,recall_fail
+ramen,frame_00060,corn,3,-0.037193769373212685,0.0,recall_fail
+ramen,frame_00060,corn,4,-0.01782610458534474,0.0,recall_fail
+ramen,frame_00060,corn,5,0.1833900323839879,0.0,recall_fail
+ramen,frame_00060,corn,6,0.09317065425623851,0.0,recall_fail
+ramen,frame_00060,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00060,onion segments,2,-0.06447937667304332,0.0,recall_fail
+ramen,frame_00060,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00060,onion segments,4,-0.023023001570287176,0.0,recall_fail
+ramen,frame_00060,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00065,bowl,1,0.11754362306082097,0.0,deep
+ramen,frame_00065,bowl,2,0.02759867397660149,0.0,deep
+ramen,frame_00065,bowl,3,0.21443647346560415,0.8528937358563243,deep
+ramen,frame_00065,bowl,4,0.08315289702210761,0.0,deep
+ramen,frame_00065,bowl,5,0.059504541669385215,0.0,deep
+ramen,frame_00065,egg,1,0.5316483399682216,0.3779967642300338,rank2
+ramen,frame_00065,egg,2,0.31424455734665313,0.5834674469641551,rank2
+ramen,frame_00065,egg,3,0.008545363781861092,0.0,rank2
+ramen,frame_00065,egg,4,0.0043188057630153725,0.0,rank2
+ramen,frame_00065,egg,5,0.06479481344266864,0.00035662517543657825,rank2
+ramen,frame_00065,egg,6,0.01922020716753076,0.0,rank2
+ramen,frame_00065,chopsticks,1,0.80253412916783,0.8900834403080873,found
+ramen,frame_00065,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00065,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00065,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00065,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00065,sake cup,1,0.10784959498886354,0.0,deep
+ramen,frame_00065,sake cup,2,0.31478438149660676,0.0,deep
+ramen,frame_00065,sake cup,3,-0.013922491243162754,0.0,deep
+ramen,frame_00065,sake cup,4,-0.022959848371459944,0.0,deep
+ramen,frame_00065,sake cup,5,0.045562488121332026,0.9582384206529992,deep
+ramen,frame_00065,wavy noodles,1,0.17757618193969624,0.0,rank2
+ramen,frame_00065,wavy noodles,2,0.17928818408576905,0.8305886475122635,rank2
+ramen,frame_00065,wavy noodles,3,0.11204140659999672,0.0,rank2
+ramen,frame_00065,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00065,wavy noodles,5,0.03594417106691575,0.0,rank2
+ramen,frame_00065,nori,1,0.43218512652890273,0.0015538290788013318,rank2
+ramen,frame_00065,nori,2,0.45841993266188064,0.801578966428856,rank2
+ramen,frame_00065,nori,3,0.18466656882336271,0.0009525226968298854,rank2
+ramen,frame_00065,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00065,nori,5,-0.015416334824811972,0.0,rank2
+ramen,frame_00065,napkin,1,0.4300318232672252,0.0,rank2
+ramen,frame_00065,napkin,2,-0.032330728071505194,0.5786107656777403,rank2
+ramen,frame_00065,napkin,3,0.03143887637973656,0.0,rank2
+ramen,frame_00065,napkin,4,0.16679380454145354,0.0,rank2
+ramen,frame_00065,napkin,5,0.05136219922764532,0.0,rank2
+ramen,frame_00065,kamaboko,1,0.5456262332014676,0.9041505451987337,found
+ramen,frame_00065,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00065,kamaboko,3,0.03709917722776842,0.0,found
+ramen,frame_00065,kamaboko,4,0.020610663778912994,0.0,found
+ramen,frame_00065,kamaboko,5,-0.009358522049895944,0.0,found
+ramen,frame_00065,plate,1,0.14762045213625422,0.0,rank2
+ramen,frame_00065,plate,2,0.28502541822624755,0.9293671195984821,rank2
+ramen,frame_00065,plate,3,-0.029907263529487783,0.0,rank2
+ramen,frame_00065,plate,4,0.017145119251205165,0.0,rank2
+ramen,frame_00065,plate,5,-0.033336135380343725,0.0,rank2
+ramen,frame_00065,corn,1,0.06484276524791388,0.0,recall_fail
+ramen,frame_00065,corn,2,-0.01032701532430775,0.0,recall_fail
+ramen,frame_00065,corn,3,-0.037193769373212685,0.0,recall_fail
+ramen,frame_00065,corn,4,-0.01782610458534474,0.0,recall_fail
+ramen,frame_00065,corn,5,0.1833900323839879,0.0,recall_fail
+ramen,frame_00065,corn,6,0.09317065425623851,0.0,recall_fail
+ramen,frame_00065,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00065,onion segments,2,0.21389439488532888,0.0,recall_fail
+ramen,frame_00065,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00065,onion segments,4,-0.023023001570287176,0.0,recall_fail
+ramen,frame_00065,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00081,bowl,1,0.48871476798432706,0.4610343160947318,found
+ramen,frame_00081,bowl,2,0.131700256609331,0.016028692947375103,found
+ramen,frame_00081,bowl,3,0.16504820959502686,0.3997927739509181,found
+ramen,frame_00081,bowl,4,0.17717621618390145,0.04678920518711788,found
+ramen,frame_00081,bowl,5,0.059504541669385215,0.0,found
+ramen,frame_00081,chopsticks,1,0.7999555602561015,0.86039274600279,found
+ramen,frame_00081,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00081,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00081,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00081,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00081,sake cup,1,0.4679181682234066,0.0,deep
+ramen,frame_00081,sake cup,2,0.24085921024872087,0.0,deep
+ramen,frame_00081,sake cup,3,0.11244999586660262,0.2977125593439793,deep
+ramen,frame_00081,sake cup,4,-0.022959848371459944,0.0,deep
+ramen,frame_00081,sake cup,5,0.026139477702706998,0.6751891468823376,deep
+ramen,frame_00081,nori,1,0.43218512652890273,8.545182653279214e-05,rank2
+ramen,frame_00081,nori,2,0.45841993266188064,0.9734498473888865,rank2
+ramen,frame_00081,nori,3,0.17344653121372422,0.0,rank2
+ramen,frame_00081,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00081,nori,5,-0.017984503208846713,0.0,rank2
+ramen,frame_00081,egg,1,0.5266997207894479,0.6005630828787613,found
+ramen,frame_00081,egg,2,0.2996359112022211,0.3584379358437936,found
+ramen,frame_00081,egg,3,0.057626260619310476,0.0,found
+ramen,frame_00081,egg,4,0.0043188057630153725,0.0,found
+ramen,frame_00081,egg,5,0.027603355229706802,0.0,found
+ramen,frame_00081,egg,6,0.048144393359593585,0.0,found
+ramen,frame_00081,wavy noodles,1,0.3510182189891807,0.0,rank2
+ramen,frame_00081,wavy noodles,2,0.17575254487920114,0.8561165436040711,rank2
+ramen,frame_00081,wavy noodles,3,0.12837284008369046,0.0,rank2
+ramen,frame_00081,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00081,wavy noodles,5,0.07145025192256134,0.0,rank2
+ramen,frame_00081,glass of water,1,0.7717900254167926,0.7264495399445012,found
+ramen,frame_00081,glass of water,2,-0.02315132967167182,0.0,found
+ramen,frame_00081,glass of water,3,0.015859128017840927,0.0,found
+ramen,frame_00081,glass of water,4,-0.04274890720888751,0.0,found
+ramen,frame_00081,glass of water,5,-0.004993510700237102,0.0,found
+ramen,frame_00081,kamaboko,1,0.4548073926525753,0.9047619047619048,found
+ramen,frame_00081,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00081,kamaboko,3,0.03709917722776842,0.0,found
+ramen,frame_00081,kamaboko,4,0.020610663778912994,0.0,found
+ramen,frame_00081,kamaboko,5,-0.014829970260683514,0.0,found
+ramen,frame_00081,spoon,1,0.29499626094199727,0.0012561236025624921,rank2
+ramen,frame_00081,spoon,2,0.20457297706668512,0.7630581297388374,rank2
+ramen,frame_00081,spoon,3,0.0353428898733118,0.0,rank2
+ramen,frame_00081,spoon,4,2.6280990881939623e-05,0.0,rank2
+ramen,frame_00081,spoon,5,0.011060751512236962,0.0,rank2
+ramen,frame_00081,spoon,6,0.04085013966684559,0.0,rank2
+ramen,frame_00081,spoon,7,0.002831425450608187,0.0,rank2
+ramen,frame_00081,napkin,1,0.21254297573729888,0.0,recall_fail
+ramen,frame_00081,napkin,2,-0.02834559979757265,0.2767402376910017,recall_fail
+ramen,frame_00081,napkin,3,0.02919054831673405,0.21875,recall_fail
+ramen,frame_00081,napkin,4,0.038752235889429935,0.0,recall_fail
+ramen,frame_00081,napkin,5,0.05136219922764532,0.004938852304797742,recall_fail
+ramen,frame_00081,plate,1,0.14762045213625422,0.0,rank2
+ramen,frame_00081,plate,2,0.25612487000445733,0.5856798761254803,rank2
+ramen,frame_00081,plate,3,-0.029907263529487783,0.0,rank2
+ramen,frame_00081,plate,4,0.017145119251205165,0.0,rank2
+ramen,frame_00081,plate,5,0.07106399473332654,0.04855296018804172,rank2
+ramen,frame_00081,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00081,onion segments,2,0.129571975349489,0.0,recall_fail
+ramen,frame_00081,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00081,onion segments,4,-0.023023001570287176,0.0,recall_fail
+ramen,frame_00081,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00119,nori,1,0.43218512652890273,0.0001191262630091294,rank2
+ramen,frame_00119,nori,2,0.4871677143829161,0.9677324513046675,rank2
+ramen,frame_00119,nori,3,0.1811309296167948,0.00020382808556897153,rank2
+ramen,frame_00119,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00119,nori,5,-0.015416334824811972,0.0,rank2
+ramen,frame_00119,egg,1,0.618513269448245,0.5771505787568202,found
+ramen,frame_00119,egg,2,0.41870086242780885,0.3675988283303708,found
+ramen,frame_00119,egg,3,0.008545363781861092,0.0,found
+ramen,frame_00119,egg,4,0.0043188057630153725,0.0,found
+ramen,frame_00119,egg,5,0.06479481344266864,0.0,found
+ramen,frame_00119,egg,6,0.016652038783496016,0.0,found
+ramen,frame_00119,sake cup,1,0.10784959498886354,0.0,deep
+ramen,frame_00119,sake cup,2,0.35399086857902057,0.0,deep
+ramen,frame_00119,sake cup,3,0.1213059354146522,0.9285714285714286,deep
+ramen,frame_00119,sake cup,4,0.062052733401741514,0.0,deep
+ramen,frame_00119,sake cup,5,0.026012785781515488,0.0,deep
+ramen,frame_00119,chopsticks,1,0.80253412916783,0.8470070422535211,found
+ramen,frame_00119,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00119,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00119,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00119,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00119,wavy noodles,1,0.42781598597966214,0.0,rank2
+ramen,frame_00119,wavy noodles,2,0.2860088811956617,0.7898825695489143,rank2
+ramen,frame_00119,wavy noodles,3,0.11204140659999672,0.0,rank2
+ramen,frame_00119,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00119,wavy noodles,5,0.033376002682881004,0.0,rank2
+ramen,frame_00119,kamaboko,1,0.546605187202894,0.8771957714013194,found
+ramen,frame_00119,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00119,kamaboko,3,0.027819206323549724,0.0,found
+ramen,frame_00119,kamaboko,4,0.0013206770071704783,0.0,found
+ramen,frame_00119,kamaboko,5,-0.014829970260683514,0.0,found
+ramen,frame_00119,corn,1,0.06484276524791388,0.0,recall_fail
+ramen,frame_00119,corn,2,0.20176525450385419,0.0,recall_fail
+ramen,frame_00119,corn,3,0.1393374043686047,0.0,recall_fail
+ramen,frame_00119,corn,4,-0.01782610458534474,0.0,recall_fail
+ramen,frame_00119,corn,5,0.1833900323839879,0.0,recall_fail
+ramen,frame_00119,corn,6,0.09317065425623851,0.0,recall_fail
+ramen,frame_00119,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00119,onion segments,2,-0.06447937667304332,0.0,recall_fail
+ramen,frame_00119,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00119,onion segments,4,-0.020454833186252408,0.0,recall_fail
+ramen,frame_00119,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00128,glass of water,1,0.8484070603972877,0.7348227663246534,found
+ramen,frame_00128,glass of water,2,-0.02315132967167182,0.0,found
+ramen,frame_00128,glass of water,3,0.015859128017840927,0.0,found
+ramen,frame_00128,glass of water,4,-0.040149795907469414,0.023521969174143086,found
+ramen,frame_00128,glass of water,5,-0.004993510700237102,0.0,found
+ramen,frame_00128,nori,1,0.43218512652890273,0.0,rank2
+ramen,frame_00128,nori,2,0.4871677143829161,0.9544030482641829,rank2
+ramen,frame_00128,nori,3,0.17344653121372422,0.00017944730230888862,rank2
+ramen,frame_00128,nori,4,0.007095070915542985,0.0,rank2
+ramen,frame_00128,nori,5,-0.015416334824811972,0.0,rank2
+ramen,frame_00128,egg,1,0.5471458428260022,0.6041902604756512,found
+ramen,frame_00128,egg,2,0.31424455734665313,0.3448352503194977,found
+ramen,frame_00128,egg,3,0.008545363781861092,0.0,found
+ramen,frame_00128,egg,4,0.0043188057630153725,0.0,found
+ramen,frame_00128,egg,5,0.06479481344266864,0.0,found
+ramen,frame_00128,egg,6,0.12817293901726162,0.0,found
+ramen,frame_00128,sake cup,1,0.4679181682234066,0.0,deep
+ramen,frame_00128,sake cup,2,0.35399086857902057,0.0,deep
+ramen,frame_00128,sake cup,3,0.11244999586660262,0.19953070003910833,deep
+ramen,frame_00128,sake cup,4,0.06416491411862854,0.0,deep
+ramen,frame_00128,sake cup,5,0.023560908790978403,0.7690011481056257,deep
+ramen,frame_00128,bowl,1,0.48871476798432706,0.31160090423345665,deep
+ramen,frame_00128,bowl,2,0.1311841351883406,0.007471661136226979,deep
+ramen,frame_00128,bowl,3,0.21443647346560415,0.6167685695260003,deep
+ramen,frame_00128,bowl,4,0.08315289702210761,0.0,deep
+ramen,frame_00128,bowl,5,0.059504541669385215,0.0,deep
+ramen,frame_00128,chopsticks,1,0.8144741091124558,0.8774849745723532,found
+ramen,frame_00128,chopsticks,2,-0.017892986514311638,0.0,found
+ramen,frame_00128,chopsticks,3,0.020009840038539967,0.0,found
+ramen,frame_00128,chopsticks,4,-0.0059141065097011135,0.0,found
+ramen,frame_00128,chopsticks,5,-0.027221405501525343,0.0,found
+ramen,frame_00128,wavy noodles,1,0.5335939884267596,0.0,rank2
+ramen,frame_00128,wavy noodles,2,0.24391666529862263,0.8121439122177675,rank2
+ramen,frame_00128,wavy noodles,3,0.11204140659999672,0.0,rank2
+ramen,frame_00128,wavy noodles,4,0.015055891877972809,0.0,rank2
+ramen,frame_00128,wavy noodles,5,0.15844416802303396,0.0,rank2
+ramen,frame_00128,spoon,1,0.3598892207871756,0.000603536725209729,rank2
+ramen,frame_00128,spoon,2,0.31636087729517826,0.5932734410388042,rank2
+ramen,frame_00128,spoon,3,0.0353428898733118,0.0,rank2
+ramen,frame_00128,spoon,4,2.6280990881939623e-05,0.0,rank2
+ramen,frame_00128,spoon,5,0.01362891989627171,0.0,rank2
+ramen,frame_00128,spoon,6,0.04085013966684559,0.0,rank2
+ramen,frame_00128,spoon,7,0.03373507173954721,0.0,rank2
+ramen,frame_00128,corn,1,0.06484276524791388,0.0,recall_fail
+ramen,frame_00128,corn,2,-0.01032701532430775,0.020454545454545454,recall_fail
+ramen,frame_00128,corn,3,0.1393374043686047,0.0,recall_fail
+ramen,frame_00128,corn,4,-0.01782610458534474,0.0,recall_fail
+ramen,frame_00128,corn,5,0.1833900323839879,0.0,recall_fail
+ramen,frame_00128,corn,6,0.11377356545446432,0.0,recall_fail
+ramen,frame_00128,onion segments,1,0.29138675644103684,0.0,recall_fail
+ramen,frame_00128,onion segments,2,0.1936060865611931,0.0,recall_fail
+ramen,frame_00128,onion segments,3,-0.016028053536867377,0.0,recall_fail
+ramen,frame_00128,onion segments,4,-0.020454833186252408,0.0,recall_fail
+ramen,frame_00128,onion segments,5,0.008261087197994697,0.0,recall_fail
+ramen,frame_00128,hand,1,0.12181218384790841,0.0,recall_fail
+ramen,frame_00128,hand,2,0.012279933257026063,0.0,recall_fail
+ramen,frame_00128,hand,3,-0.05307287334361679,0.0,recall_fail
+ramen,frame_00128,hand,4,-0.05307287334361679,0.0,recall_fail
+ramen,frame_00128,hand,5,0.00841129986976958,0.0,recall_fail
+ramen,frame_00128,hand,6,0.03489025585164061,0.0,recall_fail
+ramen,frame_00128,hand,7,-0.025305454888624304,0.0,recall_fail
+ramen,frame_00128,plate,1,0.14762045213625422,0.0,rank2
+ramen,frame_00128,plate,2,0.28502541822624755,0.6229330949875301,rank2
+ramen,frame_00128,plate,3,-0.029907263529487783,0.0,rank2
+ramen,frame_00128,plate,4,0.017145119251205165,0.0,rank2
+ramen,frame_00128,plate,5,0.1511008171339639,0.07189905362776025,rank2
+ramen,frame_00128,kamaboko,1,0.5456262332014676,0.8949805519540656,found
+ramen,frame_00128,kamaboko,2,0.0007614896126114393,0.0,found
+ramen,frame_00128,kamaboko,3,0.03709917722776842,0.0,found
+ramen,frame_00128,kamaboko,4,0.020610663778912994,0.0,found
+ramen,frame_00128,kamaboko,5,-0.011926690433930699,0.0,found
+ramen,frame_00128,napkin,1,0.21254297573729888,0.0,recall_fail
+ramen,frame_00128,napkin,2,-0.03486308972479103,0.0,recall_fail
+ramen,frame_00128,napkin,3,0.02887070799570182,0.0,recall_fail
+ramen,frame_00128,napkin,4,0.038752235889429935,0.0,recall_fail
+ramen,frame_00128,napkin,5,0.05136219922764532,0.0,recall_fail
+teatime,frame_00002,stuffed bear,1,1.0162337172980387,0.9252748382454044,found
+teatime,frame_00002,stuffed bear,2,0.1529008177275776,0.0,found
+teatime,frame_00002,stuffed bear,3,0.05613897765751463,0.0,found
+teatime,frame_00002,stuffed bear,4,0.0005624917589226596,0.0,found
+teatime,frame_00002,coffee mug,1,0.7583572199043855,0.8723764387271497,found
+teatime,frame_00002,coffee mug,2,-0.007151549888282876,0.0,found
+teatime,frame_00002,coffee mug,3,-0.0005446562792355068,0.0,found
+teatime,frame_00002,bag of cookies,1,0.8250297724021025,0.9653824678950307,found
+teatime,frame_00002,bag of cookies,2,0.12225381357460344,0.0,found
+teatime,frame_00002,bag of cookies,3,0.05762503748076048,0.0,found
+teatime,frame_00002,bag of cookies,4,0.002409526292099449,0.0,found
+teatime,frame_00002,bag of cookies,5,0.00017052171969291017,0.0,found
+teatime,frame_00002,sheep,1,0.975932516669527,0.9617403209857762,found
+teatime,frame_00002,sheep,2,0.020626638222679423,0.0,found
+teatime,frame_00002,sheep,3,-0.16827972794255727,0.0,found
+teatime,frame_00002,sheep,4,-0.05295649614662008,0.0,found
+teatime,frame_00002,sheep,5,0.001009343000301221,0.0,found
+teatime,frame_00002,apple,1,0.650654664225191,0.9686046511627907,found
+teatime,frame_00002,apple,2,0.019873399631425495,0.0,found
+teatime,frame_00002,apple,3,-0.017441644203595185,0.0,found
+teatime,frame_00002,apple,4,-0.013146064552026307,0.0,found
+teatime,frame_00002,apple,5,-0.003528450592956243,0.0,found
+teatime,frame_00002,paper napkin,1,0.5751429819591626,0.9354838709677419,found
+teatime,frame_00002,paper napkin,2,0.1441285252051628,0.0,found
+teatime,frame_00002,paper napkin,3,0.03758097120350617,0.0,found
+teatime,frame_00002,paper napkin,4,-0.00347863884196221,0.0,found
+teatime,frame_00002,paper napkin,5,0.005342080505500754,0.0,found
+teatime,frame_00002,plate,1,0.4330920823745324,0.9165332723530757,found
+teatime,frame_00002,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00002,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00002,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00002,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00002,tea in a glass,1,0.7927897719615592,0.7592859199539304,found
+teatime,frame_00002,tea in a glass,2,0.08421376926090998,0.0,found
+teatime,frame_00002,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00002,bear nose,1,0.3524544990410386,0.001987927856290888,recall_fail
+teatime,frame_00002,bear nose,2,0.2327023038729943,0.0,recall_fail
+teatime,frame_00002,bear nose,3,0.6828764737155937,0.0,recall_fail
+teatime,frame_00002,bear nose,4,0.012894784420013985,0.0,recall_fail
+teatime,frame_00002,bear nose,5,-0.03466893270404317,0.0,recall_fail
+teatime,frame_00002,bear nose,6,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00002,bear nose,7,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00002,three cookies,1,0.5401231902372925,0.5312701482914249,found
+teatime,frame_00002,three cookies,2,0.3539457421790663,0.39285714285714285,found
+teatime,frame_00002,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00002,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00002,three cookies,5,0.012337744418085108,0.0,found
+teatime,frame_00002,coffee,1,0.7949394291707265,0.8301830183018302,found
+teatime,frame_00002,coffee,2,-0.03471702915406106,0.0,found
+teatime,frame_00002,coffee,3,-0.0810659051079392,0.0,found
+teatime,frame_00002,coffee,4,-0.007361695544113164,0.0,found
+teatime,frame_00002,coffee,5,0.004850408361835186,0.0,found
+teatime,frame_00025,stuffed bear,1,1.0162337172980387,0.9835499841475014,found
+teatime,frame_00025,stuffed bear,2,0.1529008177275776,0.0,found
+teatime,frame_00025,stuffed bear,3,0.05613897765751463,0.0,found
+teatime,frame_00025,stuffed bear,4,0.0005624917589226596,0.0,found
+teatime,frame_00025,sheep,1,0.975932516669527,0.9710134072354131,found
+teatime,frame_00025,sheep,2,0.020626638222679423,0.0,found
+teatime,frame_00025,sheep,3,-0.16738049009694367,0.0,found
+teatime,frame_00025,sheep,4,-0.05295649614662008,0.0,found
+teatime,frame_00025,sheep,5,0.001009343000301221,0.0,found
+teatime,frame_00025,bag of cookies,1,0.8250297724021025,0.9578398863098058,found
+teatime,frame_00025,bag of cookies,2,0.08636272843064091,0.0,found
+teatime,frame_00025,bag of cookies,3,0.06250359425461409,0.0,found
+teatime,frame_00025,bag of cookies,4,0.002409526292099449,0.0,found
+teatime,frame_00025,bag of cookies,5,0.00017052171969291017,0.0,found
+teatime,frame_00025,tea in a glass,1,0.7717031674928995,0.8616161616161616,found
+teatime,frame_00025,tea in a glass,2,0.08421376926090998,0.0,found
+teatime,frame_00025,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00025,coffee mug,1,0.7583572199043855,0.8998296422487223,found
+teatime,frame_00025,coffee mug,2,-0.007151549888282876,0.0,found
+teatime,frame_00025,coffee mug,3,-0.0005446562792355068,0.0,found
+teatime,frame_00025,plate,1,0.455019644859187,0.9477567298105682,found
+teatime,frame_00025,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00025,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00025,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00025,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00025,three cookies,1,0.5470391035243608,0.5158987670343933,found
+teatime,frame_00025,three cookies,2,0.36086165546613463,0.41124260355029585,found
+teatime,frame_00025,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00025,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00025,three cookies,5,0.012337744418085108,0.0,found
+teatime,frame_00025,hooves,1,0.017715654620173073,0.0,recall_fail
+teatime,frame_00025,hooves,2,0.019154522085925232,0.0,recall_fail
+teatime,frame_00025,hooves,3,0.015891049944249717,0.0,recall_fail
+teatime,frame_00025,hooves,4,-0.02671612599464647,0.0,recall_fail
+teatime,frame_00025,hooves,5,-0.038675613769238046,0.0,recall_fail
+teatime,frame_00025,paper napkin,1,0.47560101846801983,0.8051529790660226,found
+teatime,frame_00025,paper napkin,2,0.13952286750652784,0.0,found
+teatime,frame_00025,paper napkin,3,0.04244845525650285,0.0,found
+teatime,frame_00025,paper napkin,4,-0.00347863884196221,0.0,found
+teatime,frame_00025,paper napkin,5,0.005342080505500754,0.0,found
+teatime,frame_00025,coffee,1,0.7949394291707265,0.9240467404674046,found
+teatime,frame_00025,coffee,2,-0.03471702915406106,0.0,found
+teatime,frame_00025,coffee,3,-0.08162879126008257,0.0,found
+teatime,frame_00025,coffee,4,-0.007361695544113164,0.0,found
+teatime,frame_00025,coffee,5,0.004850408361835186,0.0,found
+teatime,frame_00025,bear nose,1,0.3049146145835858,0.0025833535157826753,recall_fail
+teatime,frame_00025,bear nose,2,0.2478222635469429,0.0,recall_fail
+teatime,frame_00025,bear nose,3,0.6389180544802141,0.0,recall_fail
+teatime,frame_00025,bear nose,4,0.012894784420013985,0.0,recall_fail
+teatime,frame_00025,bear nose,5,-0.08326222191462293,0.0,recall_fail
+teatime,frame_00025,bear nose,6,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00025,bear nose,7,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00043,tea in a glass,1,0.8990398137269905,0.7990758986206428,found
+teatime,frame_00043,tea in a glass,2,0.06860759268620757,0.0,found
+teatime,frame_00043,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00043,hooves,1,0.017715654620173073,0.0,recall_fail
+teatime,frame_00043,hooves,2,0.019154522085925232,0.0,recall_fail
+teatime,frame_00043,hooves,3,0.015891049944249717,0.0,recall_fail
+teatime,frame_00043,hooves,4,-0.02671612599464647,0.0,recall_fail
+teatime,frame_00043,hooves,5,-0.038675613769238046,0.0,recall_fail
+teatime,frame_00043,stuffed bear,1,1.0162337172980387,0.9829385168296171,found
+teatime,frame_00043,stuffed bear,2,0.1529008177275776,0.0,found
+teatime,frame_00043,stuffed bear,3,0.05613897765751463,0.0,found
+teatime,frame_00043,stuffed bear,4,0.0005624917589226596,0.0,found
+teatime,frame_00043,bag of cookies,1,0.9565600761102121,0.9078622392974753,found
+teatime,frame_00043,bag of cookies,2,0.18453084686815974,0.0,found
+teatime,frame_00043,bag of cookies,3,0.092855371567719,0.0,found
+teatime,frame_00043,bag of cookies,4,0.0055740480073007215,0.0,found
+teatime,frame_00043,bag of cookies,5,0.00017052171969291017,0.0,found
+teatime,frame_00043,paper napkin,1,0.5840636407170634,0.8588386268848252,found
+teatime,frame_00043,paper napkin,2,0.15478405755793706,0.0,found
+teatime,frame_00043,paper napkin,3,0.03758097120350617,0.0,found
+teatime,frame_00043,paper napkin,4,-0.00347863884196221,0.0,found
+teatime,frame_00043,paper napkin,5,0.005342080505500754,0.0,found
+teatime,frame_00043,plate,1,0.579089663061569,0.948884600102174,found
+teatime,frame_00043,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00043,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00043,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00043,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00043,apple,1,0.8962103535456459,0.8833811635794417,found
+teatime,frame_00043,apple,2,0.2025710990258032,0.0,found
+teatime,frame_00043,apple,3,-0.017441644203595185,0.0,found
+teatime,frame_00043,apple,4,-0.013146064552026307,0.0,found
+teatime,frame_00043,apple,5,-0.003528450592956243,0.0,found
+teatime,frame_00043,coffee mug,1,0.8241745884403886,0.8638141246836899,found
+teatime,frame_00043,coffee mug,2,-0.007151549888282876,0.0,found
+teatime,frame_00043,coffee mug,3,-0.0005446562792355068,0.0,found
+teatime,frame_00043,coffee,1,0.8885525565542549,0.9438978438350429,found
+teatime,frame_00043,coffee,2,-0.031552507438859796,0.0,found
+teatime,frame_00043,coffee,3,0.0067950572216301805,0.0,found
+teatime,frame_00043,coffee,4,-0.007361695544113164,0.0,found
+teatime,frame_00043,coffee,5,0.004850408361835186,0.0,found
+teatime,frame_00043,three cookies,1,0.8029811057541435,0.4955786236063053,found
+teatime,frame_00043,three cookies,2,0.5889832421251555,0.4283061284331932,found
+teatime,frame_00043,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00043,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00043,three cookies,5,0.012337744418085108,0.0,found
+teatime,frame_00107,stuffed bear,1,1.0162337172980387,0.9785822300404283,found
+teatime,frame_00107,stuffed bear,2,0.11152780806910013,0.0,found
+teatime,frame_00107,stuffed bear,3,0.05613897765751463,0.0,found
+teatime,frame_00107,stuffed bear,4,0.0005624917589226596,0.0,found
+teatime,frame_00107,sheep,1,0.9351761270540571,0.9578553871364195,found
+teatime,frame_00107,sheep,2,0.020626638222679423,0.0,found
+teatime,frame_00107,sheep,3,-0.08664092473810826,0.0,found
+teatime,frame_00107,sheep,4,-0.05295649614662008,0.0,found
+teatime,frame_00107,sheep,5,0.001009343000301221,0.0,found
+teatime,frame_00107,apple,1,0.650654664225191,0.9519119351100811,found
+teatime,frame_00107,apple,2,0.07431693845041824,0.0,found
+teatime,frame_00107,apple,3,-0.017441644203595185,0.0,found
+teatime,frame_00107,apple,4,-0.013146064552026307,0.0,found
+teatime,frame_00107,apple,5,-0.003528450592956243,0.0,found
+teatime,frame_00107,bag of cookies,1,0.8417719624654325,0.9444224944027394,found
+teatime,frame_00107,bag of cookies,2,0.12713237034845704,0.0,found
+teatime,frame_00107,bag of cookies,3,0.05762503748076048,0.0,found
+teatime,frame_00107,bag of cookies,4,0.0055740480073007215,0.0,found
+teatime,frame_00107,bag of cookies,5,0.00017052171969291017,0.0,found
+teatime,frame_00107,coffee mug,1,0.7780082882469792,0.8805076628352491,found
+teatime,frame_00107,coffee mug,2,-0.007151549888282876,0.0,found
+teatime,frame_00107,coffee mug,3,-0.0005446562792355068,0.0,found
+teatime,frame_00107,tea in a glass,1,0.7927897719615592,0.7477220956719818,found
+teatime,frame_00107,tea in a glass,2,0.10023058198416832,0.0,found
+teatime,frame_00107,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00107,bear nose,1,0.3291510863996247,0.002066704675028506,recall_fail
+teatime,frame_00107,bear nose,2,0.2478222635469429,0.0,recall_fail
+teatime,frame_00107,bear nose,3,0.6828764737155937,0.0,recall_fail
+teatime,frame_00107,bear nose,4,0.012894784420013985,0.0,recall_fail
+teatime,frame_00107,bear nose,5,-0.04756276838132553,0.0,recall_fail
+teatime,frame_00107,bear nose,6,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00107,bear nose,7,-0.0012540303906303269,0.0,recall_fail
+teatime,frame_00107,plate,1,0.45067252801526214,0.8940677966101694,found
+teatime,frame_00107,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00107,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00107,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00107,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00107,three cookies,1,0.5470391035243608,0.5084594835262689,found
+teatime,frame_00107,three cookies,2,0.3539457421790663,0.3988283010365029,found
+teatime,frame_00107,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00107,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00107,three cookies,5,0.012337744418085108,0.0,found
+teatime,frame_00107,dall-e brand,1,0.6649822541076217,0.615569823434992,found
+teatime,frame_00107,dall-e brand,2,-0.011385474234450329,0.0,found
+teatime,frame_00107,dall-e brand,3,-0.00917102438163356,0.0,found
+teatime,frame_00107,dall-e brand,4,0.04402930296677732,0.0,found
+teatime,frame_00107,dall-e brand,5,-0.003315170365845742,0.0,found
+teatime,frame_00107,paper napkin,1,0.6026985562992926,0.9192108619008327,found
+teatime,frame_00107,paper napkin,2,0.15478405755793706,0.0,found
+teatime,frame_00107,paper napkin,3,0.03758097120350617,0.0,found
+teatime,frame_00107,paper napkin,4,-0.00347863884196221,0.0,found
+teatime,frame_00107,paper napkin,5,0.005342080505500754,0.0,found
+teatime,frame_00129,tea in a glass,1,0.8899135957390639,0.7744129910028528,found
+teatime,frame_00129,tea in a glass,2,0.09627635270825802,0.0,found
+teatime,frame_00129,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00129,apple,1,0.9388500188408612,0.9841750378423008,found
+teatime,frame_00129,apple,2,0.1190070278185274,0.0,found
+teatime,frame_00129,apple,3,-0.017441644203595185,0.0,found
+teatime,frame_00129,apple,4,-0.013146064552026307,0.0,found
+teatime,frame_00129,apple,5,-0.003528450592956243,0.0,found
+teatime,frame_00129,yellow pouf,1,0.6143293446500854,0.9552943159314036,found
+teatime,frame_00129,yellow pouf,2,0.0009975878696636283,0.0,found
+teatime,frame_00129,yellow pouf,3,0.008548865636363914,0.0,found
+teatime,frame_00129,yellow pouf,4,0.028315271848618425,0.0,found
+teatime,frame_00129,sheep,1,0.975932516669527,0.9613815853618902,found
+teatime,frame_00129,sheep,2,0.020626638222679423,0.0,found
+teatime,frame_00129,sheep,3,-0.020541288679940723,0.0,found
+teatime,frame_00129,sheep,4,-0.05295649614662008,0.0,found
+teatime,frame_00129,sheep,5,0.001009343000301221,0.0,found
+teatime,frame_00129,three cookies,1,0.7886915467897696,0.9240963855421687,found
+teatime,frame_00129,three cookies,2,0.06266771697347936,0.0,found
+teatime,frame_00129,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00129,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00129,three cookies,5,0.012337744418085108,0.0,found
+teatime,frame_00129,plate,1,0.47531440064237357,0.9546049188906331,found
+teatime,frame_00129,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00129,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00129,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00129,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00129,dall-e brand,1,0.6549424160776062,0.6908965381201302,found
+teatime,frame_00129,dall-e brand,2,-0.011385474234450329,0.0,found
+teatime,frame_00129,dall-e brand,3,-0.00917102438163356,0.0,found
+teatime,frame_00129,dall-e brand,4,0.04402930296677732,0.0,found
+teatime,frame_00129,dall-e brand,5,-0.003315170365845742,0.0,found
+teatime,frame_00140,tea in a glass,1,0.9351478435485238,0.8366836415616904,found
+teatime,frame_00140,tea in a glass,2,0.07796400430180349,0.0,found
+teatime,frame_00140,tea in a glass,3,0.012337744418085108,0.0,found
+teatime,frame_00140,paper napkin,1,0.7006179909649187,0.9236034274245426,found
+teatime,frame_00140,paper napkin,2,0.40922033141419173,0.0,found
+teatime,frame_00140,paper napkin,3,0.03758097120350617,0.0,found
+teatime,frame_00140,paper napkin,4,-0.00347863884196221,0.0,found
+teatime,frame_00140,paper napkin,5,0.005342080505500754,0.0,found
+teatime,frame_00140,apple,1,0.9388500188408612,0.9767697594501719,found
+teatime,frame_00140,apple,2,0.1869909071773245,0.0,found
+teatime,frame_00140,apple,3,-0.017441644203595185,0.0,found
+teatime,frame_00140,apple,4,-0.013146064552026307,0.0,found
+teatime,frame_00140,apple,5,-0.003528450592956243,0.0,found
+teatime,frame_00140,stuffed bear,1,1.0162337172980387,0.9802560542958507,found
+teatime,frame_00140,stuffed bear,2,0.07292838559355404,0.0,found
+teatime,frame_00140,stuffed bear,3,0.05613897765751463,0.0,found
+teatime,frame_00140,stuffed bear,4,0.0005624917589226596,0.0,found
+teatime,frame_00140,bag of cookies,1,0.9518779512259044,0.9782434810430332,found
+teatime,frame_00140,bag of cookies,2,0.18453084686815974,0.0,found
+teatime,frame_00140,bag of cookies,3,0.09046377488811452,0.0,found
+teatime,frame_00140,bag of cookies,4,-0.012704663362641231,0.0,found
+teatime,frame_00140,bag of cookies,5,0.00017052171969291017,0.0,found
+teatime,frame_00140,plate,1,0.5635094712130905,0.9553619858970678,found
+teatime,frame_00140,plate,2,0.0053110336188964095,0.0,found
+teatime,frame_00140,plate,3,0.032844602563502585,0.0,found
+teatime,frame_00140,plate,4,0.032844602563502585,0.0,found
+teatime,frame_00140,plate,5,0.0076127369352501,0.0,found
+teatime,frame_00140,coffee mug,1,0.8473559086433367,0.8718175629680055,found
+teatime,frame_00140,coffee mug,2,-0.007151549888282876,0.0,found
+teatime,frame_00140,coffee mug,3,-0.0005446562792355068,0.0,found
+teatime,frame_00140,coffee,1,0.9076318169965403,0.8350496728858735,found
+teatime,frame_00140,coffee,2,-0.06162949514196544,0.0,found
+teatime,frame_00140,coffee,3,-0.008785134626848311,0.0,found
+teatime,frame_00140,coffee,4,-0.007361695544113164,0.0,found
+teatime,frame_00140,coffee,5,0.004850408361835186,0.0,found
+teatime,frame_00140,three cookies,1,0.8029811057541435,0.5558909242298085,found
+teatime,frame_00140,three cookies,2,0.5700127573008903,0.385,found
+teatime,frame_00140,three cookies,3,0.03956490777968952,0.0,found
+teatime,frame_00140,three cookies,4,0.024228314579900313,0.0,found
+teatime,frame_00140,three cookies,5,0.012337744418085108,0.0,found
+waldo_kitchen,frame_00053,knife,1,0.3205743673032043,0.43992413466097674,found
+waldo_kitchen,frame_00053,knife,2,0.10884053466232411,0.2370645227788085,found
+waldo_kitchen,frame_00053,knife,3,0.021188680310685642,0.0,found
+waldo_kitchen,frame_00053,knife,4,0.057548949052475325,0.0036830474586972534,found
+waldo_kitchen,frame_00053,knife,5,0.009646311442236483,0.0,found
+waldo_kitchen,frame_00053,yellow desk,1,0.5783996262202513,0.9392028692080754,found
+waldo_kitchen,frame_00053,yellow desk,2,-0.05535686543214183,0.010251123901153967,found
+waldo_kitchen,frame_00053,yellow desk,3,-0.04188670749297274,0.0,found
+waldo_kitchen,frame_00053,yellow desk,4,-0.026818830331513787,0.0,found
+waldo_kitchen,frame_00053,yellow desk,5,0.006717627311142478,0.0,found
+waldo_kitchen,frame_00053,yellow desk,6,-0.00924352079401553,0.0,found
+waldo_kitchen,frame_00053,yellow desk,7,-0.021290829594996705,0.0,found
+waldo_kitchen,frame_00053,yellow desk,8,-0.05905802820720418,0.0,found
+waldo_kitchen,frame_00053,toaster,1,0.8378371620456381,0.9427267067856402,found
+waldo_kitchen,frame_00053,toaster,2,0.4205681990683032,0.000153225394555391,found
+waldo_kitchen,frame_00053,toaster,3,0.00929645629492572,0.0,found
+waldo_kitchen,frame_00053,toaster,4,0.011182014168152194,0.0,found
+waldo_kitchen,frame_00053,toaster,5,0.05714128878365351,0.0,found
+waldo_kitchen,frame_00053,Stainless steel pots,1,0.8169841723992127,0.46193147109457433,found
+waldo_kitchen,frame_00053,Stainless steel pots,2,0.029332868502026977,0.0,found
+waldo_kitchen,frame_00053,Stainless steel pots,3,0.018512244697728157,0.0,found
+waldo_kitchen,frame_00053,Stainless steel pots,4,-0.0027891306165365335,0.0,found
+waldo_kitchen,frame_00053,Stainless steel pots,5,0.05182273493463756,0.0,found
+waldo_kitchen,frame_00053,pour-over vessel,1,0.26233124580366285,0.8662987583092938,found
+waldo_kitchen,frame_00053,pour-over vessel,2,0.027802217265430328,0.0,found
+waldo_kitchen,frame_00053,pour-over vessel,3,0.018504743753912888,0.0,found
+waldo_kitchen,frame_00053,pour-over vessel,4,0.004635357026059278,0.0,found
+waldo_kitchen,frame_00053,pour-over vessel,5,0.018282069726389318,0.0,found
+waldo_kitchen,frame_00053,ottolenghi,1,0.03790270625825833,0.0,deep
+waldo_kitchen,frame_00053,ottolenghi,2,-0.03378322353643795,0.0,deep
+waldo_kitchen,frame_00053,ottolenghi,3,0.01014699504192214,0.0,deep
+waldo_kitchen,frame_00053,ottolenghi,4,0.0262259074100351,0.9756693830034925,deep
+waldo_kitchen,frame_00053,ottolenghi,5,0.022657135074981585,0.0,deep
+waldo_kitchen,frame_00066,plastic ladle,1,0.3958426830990293,0.8406504065040651,found
+waldo_kitchen,frame_00066,plastic ladle,2,0.0819190377687798,0.0,found
+waldo_kitchen,frame_00066,plastic ladle,3,0.07250685898502306,0.0,found
+waldo_kitchen,frame_00066,plastic ladle,4,0.01155888267107407,0.0,found
+waldo_kitchen,frame_00066,plastic ladle,5,0.058383249572391625,0.0,found
+waldo_kitchen,frame_00066,refrigerator,1,0.44502935773478275,0.982255552823539,found
+waldo_kitchen,frame_00066,refrigerator,2,0.0086277648918579,0.0,found
+waldo_kitchen,frame_00066,refrigerator,3,-0.06541358892229272,0.0,found
+waldo_kitchen,frame_00066,refrigerator,4,0.027736723500436065,0.0,found
+waldo_kitchen,frame_00066,refrigerator,5,0.006857211479298575,0.0,found
+waldo_kitchen,frame_00066,pot,1,0.008376957453063216,0.0,rank2
+waldo_kitchen,frame_00066,pot,2,0.4457463412363289,0.9500097924010967,rank2
+waldo_kitchen,frame_00066,pot,3,0.017526745032142278,0.0,rank2
+waldo_kitchen,frame_00066,pot,4,0.03282799171316565,0.0,rank2
+waldo_kitchen,frame_00066,pot,5,0.04743712397042796,0.0,rank2
+waldo_kitchen,frame_00066,spatula,1,0.3135555384873261,0.903440187646599,found
+waldo_kitchen,frame_00066,spatula,2,0.10963843240278251,0.0,found
+waldo_kitchen,frame_00066,spatula,3,0.18900611729667366,0.0,found
+waldo_kitchen,frame_00066,spatula,4,0.5199980058880586,0.0,found
+waldo_kitchen,frame_00066,spatula,5,0.08882514097401006,0.0,found
+waldo_kitchen,frame_00089,knife,1,0.33173447017382157,0.2582074805928017,recall_fail
+waldo_kitchen,frame_00089,knife,2,0.26512034451889327,0.13775872264931993,recall_fail
+waldo_kitchen,frame_00089,knife,3,0.16161345318962383,0.1637341439176945,recall_fail
+waldo_kitchen,frame_00089,knife,4,0.057548949052475325,0.003349182141682366,recall_fail
+waldo_kitchen,frame_00089,knife,5,0.2955223085821892,0.2562162162162162,recall_fail
+waldo_kitchen,frame_00089,ketchup,1,0.1544010111774093,0.0,rank2
+waldo_kitchen,frame_00089,ketchup,2,0.251575429023982,0.8271687962340283,rank2
+waldo_kitchen,frame_00089,ketchup,3,0.0058388150929096095,0.0,rank2
+waldo_kitchen,frame_00089,ketchup,4,0.012293584600449818,0.0,rank2
+waldo_kitchen,frame_00089,ketchup,5,0.031549539233316146,0.011603375527426161,rank2
+waldo_kitchen,frame_00089,ketchup,6,0.0467130456746869,0.002851033499643621,rank2
+waldo_kitchen,frame_00089,ketchup,7,0.016875673480146763,0.0,rank2
+waldo_kitchen,frame_00089,cabinet,1,-0.05048486389334661,0.0,recall_fail
+waldo_kitchen,frame_00089,cabinet,2,0.0491088794408198,0.0,recall_fail
+waldo_kitchen,frame_00089,cabinet,3,0.020625428382963155,0.0,recall_fail
+waldo_kitchen,frame_00089,cabinet,4,-0.01626165546487067,0.0,recall_fail
+waldo_kitchen,frame_00089,cabinet,5,-0.005666913147081432,0.0,recall_fail
+waldo_kitchen,frame_00140,plate,1,0.37498960862174396,0.0,rank2
+waldo_kitchen,frame_00140,plate,2,0.6089816153263071,0.8609185980077999,rank2
+waldo_kitchen,frame_00140,plate,3,0.00395872342836941,0.0,rank2
+waldo_kitchen,frame_00140,plate,4,0.046181069344908836,0.0,rank2
+waldo_kitchen,frame_00140,plate,5,0.02623497036240303,0.0,rank2
+waldo_kitchen,frame_00140,plate,6,0.020004813471296994,0.0,rank2
+waldo_kitchen,frame_00140,plate,7,0.050037136842438254,0.0,rank2
+waldo_kitchen,frame_00140,dark cup,1,0.3084741816988451,0.15370339685169843,rank2
+waldo_kitchen,frame_00140,dark cup,2,0.30116172829150717,0.6997882543438999,rank2
+waldo_kitchen,frame_00140,dark cup,3,0.36207106890537377,0.0007434181855469251,rank2
+waldo_kitchen,frame_00140,dark cup,4,0.03639244152239336,0.0,rank2
+waldo_kitchen,frame_00140,dark cup,5,-0.025944627140976503,0.0,rank2
+waldo_kitchen,frame_00140,dark cup,6,0.0254054273661419,0.0,rank2
+waldo_kitchen,frame_00140,frog cup,1,0.38112946762266914,0.8127796788628586,found
+waldo_kitchen,frame_00140,frog cup,2,0.008887837273171509,3.6364958725771846e-05,found
+waldo_kitchen,frame_00140,frog cup,3,0.1706719685334511,0.0,found
+waldo_kitchen,frame_00140,frog cup,4,0.015797071771813595,0.0,found
+waldo_kitchen,frame_00140,frog cup,5,0.011339803742953512,0.0,found
+waldo_kitchen,frame_00140,spoon,1,0.050675429931332235,0.0,recall_fail
+waldo_kitchen,frame_00140,spoon,2,0.07901417251725036,0.0,recall_fail
+waldo_kitchen,frame_00140,spoon,3,-0.053196629701760145,0.0,recall_fail
+waldo_kitchen,frame_00140,spoon,4,-0.047891108049479256,0.0,recall_fail
+waldo_kitchen,frame_00140,spoon,5,-0.035792222481354545,0.0,recall_fail
+waldo_kitchen,frame_00140,spoon,6,0.22434426039006558,0.0,recall_fail
+waldo_kitchen,frame_00140,sink,1,0.4765109507543688,0.8674132223907646,found
+waldo_kitchen,frame_00140,sink,2,0.015924548869614277,0.0,found
+waldo_kitchen,frame_00140,sink,3,0.04101923542076815,0.0,found
+waldo_kitchen,frame_00140,sink,4,0.040129907086050035,0.0,found
+waldo_kitchen,frame_00140,sink,5,0.25926286574834234,0.0,found
+waldo_kitchen,frame_00140,sink,6,0.05272414362072184,0.0,found
+waldo_kitchen,frame_00154,plate,1,0.5055101458226386,0.8975876729382473,found
+waldo_kitchen,frame_00154,plate,2,0.5424937646652371,0.0,found
+waldo_kitchen,frame_00154,plate,3,0.00395872342836941,0.0,found
+waldo_kitchen,frame_00154,plate,4,0.046181069344908836,0.0,found
+waldo_kitchen,frame_00154,plate,5,0.02623497036240303,0.0,found
+waldo_kitchen,frame_00154,plate,6,0.0036140315267675725,0.0,found
+waldo_kitchen,frame_00154,plate,7,-0.012698787659016593,0.0,found
+waldo_kitchen,frame_00154,knife,1,0.011904722692071894,0.0,recall_fail
+waldo_kitchen,frame_00154,knife,2,0.04577810818612954,0.0,recall_fail
+waldo_kitchen,frame_00154,knife,3,0.021188680310685642,0.0,recall_fail
+waldo_kitchen,frame_00154,knife,4,0.057548949052475325,0.0,recall_fail
+waldo_kitchen,frame_00154,knife,5,0.009646311442236483,0.0,recall_fail
+waldo_kitchen,frame_00154,red cup,1,0.39357355259784793,0.8237810970766827,found
+waldo_kitchen,frame_00154,red cup,2,0.06177448697115141,0.0,found
+waldo_kitchen,frame_00154,red cup,3,0.002087618960077505,0.0,found
+waldo_kitchen,frame_00154,red cup,4,-0.005747532129625564,0.0,found
+waldo_kitchen,frame_00154,red cup,5,0.020557809672402356,0.0,found
+waldo_kitchen,frame_00154,red cup,6,0.01917533509435545,0.0,found
+waldo_kitchen,frame_00154,red cup,7,0.02881871161061537,0.0,found
+waldo_kitchen,frame_00154,sink,1,0.4765109507543688,0.810503764017292,found
+waldo_kitchen,frame_00154,sink,2,0.24569092801830086,0.006646106563937295,found
+waldo_kitchen,frame_00154,sink,3,0.28191446945271975,0.007559570612970497,found
+waldo_kitchen,frame_00154,sink,4,0.040129907086050035,6.415479268378745e-05,found
+waldo_kitchen,frame_00154,sink,5,0.07996256411307388,0.0,found
+waldo_kitchen,frame_00154,sink,6,0.05272414362072184,0.0,found

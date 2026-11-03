@@ -1,0 +1,50 @@
+{
+  "case_group": "target_purity_gt50",
+  "scene": "ramen",
+  "image": "frame_00128",
+  "query": "glass of water",
+  "region_id": 6,
+  "mode_id": 1,
+  "recover_gain": 0.2728826701641083,
+  "precision": 0.5320448877805486,
+  "recall": 0.0821477388676048,
+  "iou": 0.0766123240448147,
+  "single_score": 0.3005264699459076,
+  "m1_slot_score": 0.5734091401100159,
+  "m1_prior": 0.0179150700569152,
+  "region_px": 8020,
+  "intersection_px": 4267,
+  "figure": "ramen_6_frame_00128_glass_of_water.png",
+  "rgb_available": true,
+  "gt_available": true,
+  "root_mask_available": true,
+  "mode_support_available": [
+    {
+      "mode_id": 0,
+      "visible_gaussian_count": 7409,
+      "projection_max": 0.9999003410339355,
+      "projection_positive_px": 23196,
+      "projection_positive_px_at_0.5": 11087,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": 0.0
+    },
+    {
+      "mode_id": 1,
+      "visible_gaussian_count": 7186,
+      "projection_max": 0.9999003410339355,
+      "projection_positive_px": 23196,
+      "projection_positive_px_at_0.5": 11087,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": 0.0
+    },
+    {
+      "mode_id": 2,
+      "visible_gaussian_count": 3162,
+      "projection_max": 0.9998998641967773,
+      "projection_positive_px": 20959,
+      "projection_positive_px_at_0.5": 4949,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": 0.0
+    }
+  ]
+}

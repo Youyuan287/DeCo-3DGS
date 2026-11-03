@@ -1,0 +1,377 @@
+{
+  "anchor": "matched historical gateE /root/rivermind-data/repro/deco-b123/gatee_20261031",
+  "anchor_column": "gatee_iou",
+  "n": 208,
+  "matching_A_baseline_error_max": 0.0,
+  "gateE": {
+    "image_then_scene_macro": 0.6760106935634101,
+    "query_mean": 0.6694501293373114,
+    "scene_query_mean": 0.6743962399196175,
+    "scene_means": {
+      "figurines": 0.6128506542604384,
+      "ramen": 0.609205781447919,
+      "teatime": 0.8223287813265999,
+      "waldo_kitchen": 0.6596575572186832
+    },
+    "image_means": {
+      "figurines": {
+        "frame_00041": 0.5601971277394489,
+        "frame_00105": 0.6423724478683349,
+        "frame_00152": 0.6601840442645347,
+        "frame_00195": 0.5886489971694349
+      },
+      "ramen": {
+        "frame_00006": 0.6598408449915275,
+        "frame_00024": 0.6527368242972237,
+        "frame_00060": 0.6759881927916211,
+        "frame_00065": 0.6490550474375316,
+        "frame_00081": 0.5812258642860156,
+        "frame_00119": 0.6302412063251064,
+        "frame_00128": 0.4153524900064077
+      },
+      "teatime": {
+        "frame_00002": 0.8234995178477201,
+        "frame_00025": 0.7019593504433094,
+        "frame_00043": 0.8105503772718595,
+        "frame_00107": 0.7994575475130795,
+        "frame_00129": 0.8921231103844828,
+        "frame_00140": 0.9063827844991486
+      },
+      "waldo_kitchen": {
+        "frame_00053": 0.7709588871770089,
+        "frame_00066": 0.919088984843825,
+        "frame_00089": 0.36179209227561,
+        "frame_00140": 0.6251174670891981,
+        "frame_00154": 0.6213303547077746
+      }
+    },
+    "scenes_present": [
+      "figurines",
+      "ramen",
+      "teatime",
+      "waldo_kitchen"
+    ]
+  },
+  "J0_minus_gateE": {
+    "first": "J0_iou",
+    "second": "gateE_iou",
+    "delta_image_then_scene_macro": -0.03312644542389078,
+    "delta_query_mean": -0.039606456760872474,
+    "ci95_image_cluster_bootstrap": [
+      -0.04546356386041218,
+      -0.019991497213018
+    ],
+    "wins": 9,
+    "losses": 29,
+    "ties": 170,
+    "bootstrap_replicates": 2000,
+    "seed": 20261102,
+    "unit": "image clusters within scene, equal scene weighting"
+  },
+  "nonzero_cases": [
+    {
+      "scene": "figurines",
+      "image": "frame_00041",
+      "prompt": "porcelain hand",
+      "J0_iou": 0.0536663124335813,
+      "gateE_iou": 0.013449630468073773,
+      "delta": 0.040216681965507525
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00041",
+      "prompt": "pikachu",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.4061945646774995,
+      "delta": -0.4061945646774995
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00041",
+      "prompt": "miffy",
+      "J0_iou": 0.007619769444453843,
+      "gateE_iou": 0.00485202015246306,
+      "delta": 0.002767749291990783
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00152",
+      "prompt": "pikachu",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.5625855418688566,
+      "delta": -0.5625855418688566
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00152",
+      "prompt": "porcelain hand",
+      "J0_iou": 0.032355555555555554,
+      "gateE_iou": 0.013613583663699604,
+      "delta": 0.01874197189185595
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00195",
+      "prompt": "porcelain hand",
+      "J0_iou": 0.13408393039918118,
+      "gateE_iou": 0.009771015141344075,
+      "delta": 0.12431291525783711
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00195",
+      "prompt": "miffy",
+      "J0_iou": 0.0038154850356519237,
+      "gateE_iou": 0.0015135987386677178,
+      "delta": 0.002301886296984206
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00195",
+      "prompt": "bag",
+      "J0_iou": 0.878075365929617,
+      "gateE_iou": 0.6834323112350018,
+      "delta": 0.19464305469461518
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00006",
+      "prompt": "bowl",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.7266463470952249,
+      "delta": -0.7266463470952249
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00006",
+      "prompt": "napkin",
+      "J0_iou": 0.47267277856135403,
+      "gateE_iou": 0.033755114888259365,
+      "delta": 0.43891766367309465
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00006",
+      "prompt": "sake cup",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.9640872856107577,
+      "delta": -0.9640872856107577
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00024",
+      "prompt": "bowl",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.9401364010736696,
+      "delta": -0.9401364010736696
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00060",
+      "prompt": "sake cup",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.9448532925547166,
+      "delta": -0.9448532925547166
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00060",
+      "prompt": "napkin",
+      "J0_iou": 0.8521724372029871,
+      "gateE_iou": 0.9809993650173399,
+      "delta": -0.1288269278143528
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00065",
+      "prompt": "bowl",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.8528937358563243,
+      "delta": -0.8528937358563243
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00065",
+      "prompt": "sake cup",
+      "J0_iou": 0.0,
+      "gateE_iou": 0.9582384206529992,
+      "delta": -0.9582384206529992
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00081",
+      "prompt": "sake cup",
+      "J0_iou": 0.07488059053408598,
+      "gateE_iou": 0.310798824768557,
+      "delta": -0.23591823423447106
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00119",
+      "prompt": "sake cup",
+      "J0_iou": 0.1439305045611113,
+      "gateE_iou": 0.8295157068062827,
+      "delta": -0.6855852022451714
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00128",
+      "prompt": "sake cup",
+      "J0_iou": 0.03284789018941296,
+      "gateE_iou": 0.3268642000934046,
+      "delta": -0.29401630990399164
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00128",
+      "prompt": "wavy noodles",
+      "J0_iou": 0.4056225957738315,
+      "gateE_iou": 0.0,
+      "delta": 0.4056225957738315
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "bag of cookies",
+      "J0_iou": 0.7611151870873074,
+      "gateE_iou": 0.9653824678950307,
+      "delta": -0.20426728080772327
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "paper napkin",
+      "J0_iou": 0.8233148295003965,
+      "gateE_iou": 0.9354838709677419,
+      "delta": -0.11216904146734541
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "bear nose",
+      "J0_iou": 0.0009256921652781284,
+      "gateE_iou": 0.0009993368037575065,
+      "delta": -7.364463847937808e-05
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "coffee",
+      "J0_iou": 0.7840748087276849,
+      "gateE_iou": 0.8301830183018302,
+      "delta": -0.0461082095741453
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00025",
+      "prompt": "bag of cookies",
+      "J0_iou": 0.6574897030132235,
+      "gateE_iou": 0.9578398863098058,
+      "delta": -0.30035018329658225
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00025",
+      "prompt": "coffee",
+      "J0_iou": 0.9002396644697424,
+      "gateE_iou": 0.9240467404674046,
+      "delta": -0.023807075997662297
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00025",
+      "prompt": "bear nose",
+      "J0_iou": 0.0011749299325639175,
+      "gateE_iou": 0.0014121592797987673,
+      "delta": -0.00023722934723484986
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00043",
+      "prompt": "bag of cookies",
+      "J0_iou": 0.6807974276527331,
+      "gateE_iou": 0.9078622392974753,
+      "delta": -0.22706481164474224
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00043",
+      "prompt": "paper napkin",
+      "J0_iou": 0.7373978514369663,
+      "gateE_iou": 0.8588386268848252,
+      "delta": -0.1214407754478588
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00043",
+      "prompt": "coffee",
+      "J0_iou": 0.875194099378882,
+      "gateE_iou": 0.9438978438350429,
+      "delta": -0.0687037444561609
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00107",
+      "prompt": "bag of cookies",
+      "J0_iou": 0.743185822365012,
+      "gateE_iou": 0.9444224944027394,
+      "delta": -0.20123667203772744
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00107",
+      "prompt": "bear nose",
+      "J0_iou": 0.0007197949825325614,
+      "gateE_iou": 0.0007989420904733043,
+      "delta": -7.914710794074283e-05
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00107",
+      "prompt": "paper napkin",
+      "J0_iou": 0.8348548848616978,
+      "gateE_iou": 0.9192108619008327,
+      "delta": -0.08435597703913489
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00129",
+      "prompt": "three cookies",
+      "J0_iou": 0.9263052208835342,
+      "gateE_iou": 0.9240963855421687,
+      "delta": 0.0022088353413655115
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00140",
+      "prompt": "bag of cookies",
+      "J0_iou": 0.7137646269222913,
+      "gateE_iou": 0.9782434810430332,
+      "delta": -0.2644788541207419
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00140",
+      "prompt": "coffee",
+      "J0_iou": 0.7326464496255776,
+      "gateE_iou": 0.8350496728858735,
+      "delta": -0.10240322326029594
+    },
+    {
+      "scene": "waldo_kitchen",
+      "image": "frame_00140",
+      "prompt": "plate",
+      "J0_iou": 0.8095393814818276,
+      "gateE_iou": 0.8202882772005397,
+      "delta": -0.01074889571871207
+    },
+    {
+      "scene": "waldo_kitchen",
+      "image": "frame_00154",
+      "prompt": "plate",
+      "J0_iou": 0.8398523066103049,
+      "gateE_iou": 0.840221637508337,
+      "delta": -0.0003693308980321497
+    }
+  ]
+}

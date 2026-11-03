@@ -1,0 +1,209 @@
+scene,image,prompt,main_vs_semantic_set_equal,semantic_vs_reliable_set_equal,main_vs_semantic_gaussian_equal,main_vs_semantic_gaussian_added,main_vs_semantic_gaussian_removed,main_vs_semantic_mask_xor,semantic_vs_reliable_mask_equal,semantic_vs_reliable_iou_equal,main_vs_semantic_iou_equal
+figurines,frame_00041,old camera,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,toy elephant,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,waldo,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,tesla door handle,False,True,False,21,2445,467,True,True,False
+figurines,frame_00041,porcelain hand,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,rubber duck with hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,rubber duck with buoy,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,pink ice cream,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,red toy chair,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,green apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,pikachu,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,red apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,spatula,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,jake,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,toy cat statue,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,pirate hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00041,miffy,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,rubics cube,False,True,False,18,0,1,True,True,False
+figurines,frame_00105,green apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,green toy chair,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,jake,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,old camera,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,pink ice cream,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,pumpkin,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,red apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,rubber duck with hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,tesla door handle,False,True,False,21,2445,9055,True,True,False
+figurines,frame_00105,spatula,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,rubber duck with buoy,True,True,True,0,0,0,True,True,True
+figurines,frame_00105,pirate hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,rubber duck with hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,rubics cube,False,True,False,18,0,831,True,True,False
+figurines,frame_00152,toy elephant,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,green apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,jake,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,toy cat statue,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,pikachu,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,porcelain hand,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,red apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,waldo,True,True,True,0,0,0,True,True,True
+figurines,frame_00152,pirate hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,toy elephant,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,pink ice cream,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,porcelain hand,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,green apple,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,green toy chair,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,old camera,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,rubics cube,False,True,False,18,0,150,True,True,False
+figurines,frame_00195,spatula,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,toy cat statue,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,waldo,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,rubber duck with buoy,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,pirate hat,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,miffy,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,bag,True,True,True,0,0,0,True,True,True
+figurines,frame_00195,rubber duck with hat,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,nori,False,True,False,0,2881,3498,True,True,False
+ramen,frame_00006,bowl,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,napkin,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,plate,True,True,True,0,0,0,True,True,True
+ramen,frame_00006,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,bowl,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,nori,False,True,False,0,2881,20299,True,True,False
+ramen,frame_00024,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00024,corn,False,True,False,14024,0,167693,True,True,True
+ramen,frame_00060,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,napkin,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00060,corn,False,True,False,14024,0,106519,True,True,True
+ramen,frame_00060,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,bowl,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,nori,False,True,False,0,2881,11274,True,True,False
+ramen,frame_00065,napkin,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,plate,True,True,True,0,0,0,True,True,True
+ramen,frame_00065,corn,False,True,False,14024,0,73624,True,True,True
+ramen,frame_00065,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,bowl,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,nori,False,True,False,0,2881,2282,True,True,False
+ramen,frame_00081,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,glass of water,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,spoon,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,napkin,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,plate,True,True,True,0,0,0,True,True,True
+ramen,frame_00081,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,nori,False,True,False,0,2881,10878,True,True,False
+ramen,frame_00119,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00119,corn,False,True,False,14024,0,171946,True,True,True
+ramen,frame_00119,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,glass of water,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,nori,False,True,False,0,2881,4877,True,True,False
+ramen,frame_00128,egg,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,sake cup,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,bowl,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,chopsticks,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,wavy noodles,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,spoon,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,corn,False,True,False,14024,0,57472,True,True,False
+ramen,frame_00128,onion segments,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,hand,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,plate,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,kamaboko,True,True,True,0,0,0,True,True,True
+ramen,frame_00128,napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,stuffed bear,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,coffee mug,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,bag of cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,sheep,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,apple,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,paper napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,bear nose,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,three cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00002,coffee,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,stuffed bear,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,sheep,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,bag of cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,coffee mug,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,three cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,hooves,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,paper napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,coffee,True,True,True,0,0,0,True,True,True
+teatime,frame_00025,bear nose,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,hooves,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,stuffed bear,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,bag of cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,paper napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,apple,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,coffee mug,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,coffee,True,True,True,0,0,0,True,True,True
+teatime,frame_00043,three cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,stuffed bear,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,sheep,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,apple,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,bag of cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,coffee mug,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,bear nose,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,three cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,dall-e brand,True,True,True,0,0,0,True,True,True
+teatime,frame_00107,paper napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,apple,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,yellow pouf,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,sheep,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,three cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00129,dall-e brand,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,tea in a glass,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,paper napkin,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,apple,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,stuffed bear,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,bag of cookies,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,plate,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,coffee mug,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,coffee,True,True,True,0,0,0,True,True,True
+teatime,frame_00140,three cookies,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00053,knife,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00053,yellow desk,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00053,toaster,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00053,Stainless steel pots,False,True,False,86,0,0,True,True,True
+waldo_kitchen,frame_00053,pour-over vessel,False,True,False,0,9652,0,True,True,True
+waldo_kitchen,frame_00053,ottolenghi,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00066,plastic ladle,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00066,refrigerator,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00066,pot,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00066,spatula,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00089,knife,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00089,ketchup,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00089,cabinet,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00140,plate,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00140,dark cup,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00140,frog cup,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00140,spoon,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00140,sink,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00154,plate,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00154,knife,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00154,red cup,True,True,True,0,0,0,True,True,True
+waldo_kitchen,frame_00154,sink,True,True,True,0,0,0,True,True,True

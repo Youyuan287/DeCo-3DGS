@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "scene": "figurines",
+  "n_observations": 16811,
+  "nag_sha256": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+  "observation_sha256": "d8811c3aa58ccd59115586bdcfe99aaacd340051a6c5d0b0bda4bf6b3a8cd854",
+  "sidecar_sha256": "8f498e088637070cc2b01c9039c60d144145ebb9bbee6527141cb0dc4d4db43b",
+  "n_gaussians": 234534,
+  "n_views": 299,
+  "root_regions": 177
+}

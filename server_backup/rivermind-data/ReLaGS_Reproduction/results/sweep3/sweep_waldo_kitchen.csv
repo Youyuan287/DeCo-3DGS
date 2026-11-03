@@ -1,0 +1,5 @@
+scene,topk,level_until,filter_small,remove_small,miou_grand,n
+waldo_kitchen,10,3,50,1,0.6137555525553628,22
+waldo_kitchen,5,3,50,1,0.6137486471540098,22
+waldo_kitchen,3,3,50,1,0.5790587159077114,22
+waldo_kitchen,1,3,50,1,0.03821138211382114,22

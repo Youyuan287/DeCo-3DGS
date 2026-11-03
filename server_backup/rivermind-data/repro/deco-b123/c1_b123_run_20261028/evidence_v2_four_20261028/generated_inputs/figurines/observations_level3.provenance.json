@@ -1,0 +1,14 @@
+{
+  "n_observations": 16800,
+  "n_observed_regions": 177,
+  "n_root_regions": 177,
+  "n_views": 299,
+  "n_gaussians": 234534,
+  "nag_sha256": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+  "observation_sha256": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844",
+  "source": "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/figurines",
+  "model": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines",
+  "frozen_nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/sai_nag.pt",
+  "export_level": 3,
+  "seed": 1234
+}

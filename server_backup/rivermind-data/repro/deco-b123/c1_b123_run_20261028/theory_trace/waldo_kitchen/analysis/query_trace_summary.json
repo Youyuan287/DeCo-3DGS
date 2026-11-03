@@ -1,0 +1,10 @@
+{
+  "('waldo_kitchen', 'none')": {
+    "n_query_region": 7146,
+    "n_multimode": 7056,
+    "n_query_prefers_minority": 5242,
+    "mean_slot_spread_multimode": 0.10083267925298707,
+    "mean_abs_fixed_minus_native": 0.025373470322811533,
+    "mean_abs_adaptive_minus_fixed": 0.011609493958376182
+  }
+}

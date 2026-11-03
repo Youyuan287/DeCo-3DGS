@@ -1,0 +1,7 @@
+scene,image,query,region_id,mode_id,root_precision,projection_max,projection_px_at_0.5,projection_GT_intersection_at_0.5,projection_precision_at_0.5
+ramen,frame_00128,glass of water,35,1,0.0595673663,0.0,0,0,
+ramen,frame_00128,glass of water,6,1,0.5320448878,0.999900341,11087,0,0.0
+ramen,frame_00128,glass of water,145,1,0.0,0.0,0,0,
+waldo_kitchen,frame_00154,red cup,39,2,0.0923267327,0.999900043,13581,12948,0.9533907665
+waldo_kitchen,frame_00154,sink,31,1,0.9833550617,0.0,0,0,
+waldo_kitchen,frame_00053,yellow desk,101,2,0.0,0.0,0,0,

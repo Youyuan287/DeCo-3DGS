@@ -1,0 +1,26 @@
+{
+  "scene": "figurines",
+  "miou": 0.5811105520670238,
+  "flat_miou": 0.5754978571428572,
+  "n_queries": 56,
+  "per_image": [
+    0.5309853350576396,
+    0.6416928440852888,
+    0.6043346423412524,
+    0.5474293867839144
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse"
+  }
+}

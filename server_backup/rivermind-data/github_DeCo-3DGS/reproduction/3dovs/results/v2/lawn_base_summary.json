@@ -1,0 +1,27 @@
+{
+  "scene": "lawn",
+  "miou": 0.7318270509640058,
+  "flat_miou": 0.7318270333333333,
+  "n_queries": 30,
+  "per_view": [
+    0.7235182193164849,
+    0.7413425871938917,
+    0.732378512009416,
+    0.7298509197217076,
+    0.7320450165785292
+  ],
+  "mode": "prompt",
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 0,
+    "text_agg": "lse",
+    "cand_mode": "gap2",
+    "cand_margin": 0.02
+  }
+}

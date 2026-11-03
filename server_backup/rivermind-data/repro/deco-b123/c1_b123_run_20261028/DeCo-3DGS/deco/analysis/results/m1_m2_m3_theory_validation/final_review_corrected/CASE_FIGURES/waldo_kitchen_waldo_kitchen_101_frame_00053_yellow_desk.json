@@ -1,0 +1,50 @@
+{
+  "case_group": "visible_background",
+  "scene": "waldo_kitchen",
+  "image": "frame_00053",
+  "query": "yellow desk",
+  "region_id": 101,
+  "mode_id": 2,
+  "recover_gain": 0.3778465092182159,
+  "precision": 0.0,
+  "recall": 0.0,
+  "iou": 0.0,
+  "single_score": 0.2009524405002594,
+  "m1_slot_score": 0.5787989497184753,
+  "m1_prior": 1.4925149116606916e-05,
+  "region_px": 251,
+  "intersection_px": 0,
+  "figure": "waldo_kitchen_101_frame_00053_yellow_desk.png",
+  "rgb_available": true,
+  "gt_available": true,
+  "root_mask_available": true,
+  "mode_support_available": [
+    {
+      "mode_id": 0,
+      "visible_gaussian_count": 1015,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    },
+    {
+      "mode_id": 1,
+      "visible_gaussian_count": 662,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    },
+    {
+      "mode_id": 2,
+      "visible_gaussian_count": 29,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    }
+  ]
+}

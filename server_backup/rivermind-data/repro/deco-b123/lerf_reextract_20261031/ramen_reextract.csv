@@ -1,0 +1,5 @@
+scene,image,prompt,cat,n_masks,best_label,iou_best,rank_dataset,rank_maskfull,rank_bbox
+ramen,frame_00006,bowl,deep,18,185,0.9494403847932661,18,1,1
+ramen,frame_00006,chopsticks,found,18,193,0.7830395206821062,8,1,1
+ramen,frame_00006,egg,rank2,18,188,0.18514365053935705,8,1,2
+ramen,frame_00006,onion segments,recall_fail,18,188,0.07294280984674534,5,1,18

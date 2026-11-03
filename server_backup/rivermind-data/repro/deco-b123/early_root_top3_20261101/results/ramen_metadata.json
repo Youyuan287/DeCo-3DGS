@@ -1,0 +1,11 @@
+{
+  "scene": "ramen",
+  "elapsed_seconds": 10.091245651245117,
+  "obs_features": [
+    8469,
+    512
+  ],
+  "eligible_roots": 171,
+  "observations_sha256": "feeb6de4876398b7bef4b7476456cdd450c70ab1bb36d4100bf27a4ae1cdf3bc",
+  "original_script_sha256": "74b76c8490f3c203aee28c0c0ca547e0ab20e870ce0d8f8c581034366c0e4618"
+}

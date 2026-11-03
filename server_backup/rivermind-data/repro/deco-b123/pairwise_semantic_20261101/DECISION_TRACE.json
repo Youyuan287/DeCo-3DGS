@@ -1,0 +1,566 @@
+{
+  "query_units": 67,
+  "all_S_J_sets_equal": true,
+  "score_absolute_difference_mean": 0.04224977076942382,
+  "score_absolute_difference_max": 0.11310059622785085,
+  "cutoff_eligible_queries": 67,
+  "perturbation_span_below_S_cutoff_gap_queries": 61,
+  "median_S_cutoff_gap": 0.32410993345060435,
+  "coef_norms_J": {
+    "figurines": {
+      "scalar_coef_l2": 1.3344146360999483,
+      "interaction_coef_l2": 0.4731163291421164
+    },
+    "ramen": {
+      "scalar_coef_l2": 1.3465934837350526,
+      "interaction_coef_l2": 0.5145599696379118
+    },
+    "teatime": {
+      "scalar_coef_l2": 1.2939934802946667,
+      "interaction_coef_l2": 0.48453121114000347
+    },
+    "waldo_kitchen": {
+      "scalar_coef_l2": 1.3473299538521055,
+      "interaction_coef_l2": 0.5158903351318588
+    }
+  },
+  "records": [
+    {
+      "scene": "figurines",
+      "prompt": "bag",
+      "g": 7,
+      "S_cutoff_gap": 0.07004111126762269,
+      "J_minus_S_score_span": 0.07265324495743619,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "green apple",
+      "g": 1,
+      "S_cutoff_gap": 1.0505420969820976,
+      "J_minus_S_score_span": 0.09818850185393946,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "green toy chair",
+      "g": 1,
+      "S_cutoff_gap": 1.0565582011792447,
+      "J_minus_S_score_span": 0.043922509144920685,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "jake",
+      "g": 1,
+      "S_cutoff_gap": 0.16702091693276833,
+      "J_minus_S_score_span": 0.06330743750703371,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "miffy",
+      "g": 2,
+      "S_cutoff_gap": 0.07184538100775306,
+      "J_minus_S_score_span": 0.09899546533943604,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "old camera",
+      "g": 1,
+      "S_cutoff_gap": 0.6045386827408867,
+      "J_minus_S_score_span": 0.026671724213486847,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "pikachu",
+      "g": 4,
+      "S_cutoff_gap": 0.1911236903296556,
+      "J_minus_S_score_span": 0.07214972073489045,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "pink ice cream",
+      "g": 1,
+      "S_cutoff_gap": 0.7823066666451637,
+      "J_minus_S_score_span": 0.04181780330598972,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "pirate hat",
+      "g": 10,
+      "S_cutoff_gap": 0.5157571278053763,
+      "J_minus_S_score_span": 0.032313507337774716,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "porcelain hand",
+      "g": 1,
+      "S_cutoff_gap": 0.6699593504179582,
+      "J_minus_S_score_span": 0.05462583487464401,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "pumpkin",
+      "g": 3,
+      "S_cutoff_gap": 0.25642690262362056,
+      "J_minus_S_score_span": 0.016261087696235244,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "red apple",
+      "g": 1,
+      "S_cutoff_gap": 0.6717103841684704,
+      "J_minus_S_score_span": 0.10514683681873604,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "red toy chair",
+      "g": 1,
+      "S_cutoff_gap": 0.9958094040847514,
+      "J_minus_S_score_span": 0.0913102681830722,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "rubber duck with buoy",
+      "g": 2,
+      "S_cutoff_gap": 0.9599504455903265,
+      "J_minus_S_score_span": 0.06382503405755235,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "rubber duck with hat",
+      "g": 3,
+      "S_cutoff_gap": 0.8976630547845135,
+      "J_minus_S_score_span": 0.06552288601056322,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "rubics cube",
+      "g": 1,
+      "S_cutoff_gap": 1.4655070648010013,
+      "J_minus_S_score_span": 0.022059788218885323,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "spatula",
+      "g": 1,
+      "S_cutoff_gap": 0.3014181508917595,
+      "J_minus_S_score_span": 0.05322172981529505,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "tesla door handle",
+      "g": 2,
+      "S_cutoff_gap": 0.14945752734720497,
+      "J_minus_S_score_span": 0.034337524623712756,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "toy cat statue",
+      "g": 1,
+      "S_cutoff_gap": 0.32410993345060435,
+      "J_minus_S_score_span": 0.0356878377375649,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "toy elephant",
+      "g": 1,
+      "S_cutoff_gap": 0.6732367936296808,
+      "J_minus_S_score_span": 0.05418776621467791,
+      "same_selected_set": true
+    },
+    {
+      "scene": "figurines",
+      "prompt": "waldo",
+      "g": 1,
+      "S_cutoff_gap": 1.1649945991985915,
+      "J_minus_S_score_span": 0.038077826822650485,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "bowl",
+      "g": 1,
+      "S_cutoff_gap": 0.2787517413289118,
+      "J_minus_S_score_span": 0.0623247278790755,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "chopsticks",
+      "g": 2,
+      "S_cutoff_gap": 0.29918609967651344,
+      "J_minus_S_score_span": 0.03695988509750059,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "corn",
+      "g": 4,
+      "S_cutoff_gap": 0.003295814101477168,
+      "J_minus_S_score_span": 0.0468331092213663,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "egg",
+      "g": 2,
+      "S_cutoff_gap": 0.5762451611235129,
+      "J_minus_S_score_span": 0.020463294200223858,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "glass of water",
+      "g": 1,
+      "S_cutoff_gap": 0.3008796303519903,
+      "J_minus_S_score_span": 0.02034973124006756,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "hand",
+      "g": 2,
+      "S_cutoff_gap": 0.011698059373761671,
+      "J_minus_S_score_span": 0.0689923128759824,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "kamaboko",
+      "g": 1,
+      "S_cutoff_gap": 0.2946661248019007,
+      "J_minus_S_score_span": 0.021757428270213097,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "napkin",
+      "g": 2,
+      "S_cutoff_gap": 0.30079156691382236,
+      "J_minus_S_score_span": 0.029640647069361536,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "nori",
+      "g": 3,
+      "S_cutoff_gap": 0.5786233862266352,
+      "J_minus_S_score_span": 0.03964545142190401,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "onion segments",
+      "g": 2,
+      "S_cutoff_gap": 0.2228627812392565,
+      "J_minus_S_score_span": 0.017759817751884288,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "plate",
+      "g": 2,
+      "S_cutoff_gap": 0.3580962546181319,
+      "J_minus_S_score_span": 0.032551520123858424,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "sake cup",
+      "g": 3,
+      "S_cutoff_gap": 0.0959602874132428,
+      "J_minus_S_score_span": 0.021034196595695942,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "spoon",
+      "g": 2,
+      "S_cutoff_gap": 0.3022815877055094,
+      "J_minus_S_score_span": 0.02153204233612449,
+      "same_selected_set": true
+    },
+    {
+      "scene": "ramen",
+      "prompt": "wavy noodles",
+      "g": 2,
+      "S_cutoff_gap": 0.6332749075626469,
+      "J_minus_S_score_span": 0.044353064153133115,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "apple",
+      "g": 1,
+      "S_cutoff_gap": 0.3195201012975786,
+      "J_minus_S_score_span": 0.0313178681187829,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "bag of cookies",
+      "g": 3,
+      "S_cutoff_gap": 0.5574214555817956,
+      "J_minus_S_score_span": 0.07049534370420174,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "bear nose",
+      "g": 3,
+      "S_cutoff_gap": 0.9487023541772563,
+      "J_minus_S_score_span": 0.047838814356383264,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "coffee",
+      "g": 2,
+      "S_cutoff_gap": 0.3398196607812696,
+      "J_minus_S_score_span": 0.035090581028708545,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "coffee mug",
+      "g": 1,
+      "S_cutoff_gap": 1.6034498239027886,
+      "J_minus_S_score_span": 0.11349759580963736,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "dall-e brand",
+      "g": 1,
+      "S_cutoff_gap": 1.1880832825501701,
+      "J_minus_S_score_span": 0.04794008964162977,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "hooves",
+      "g": 1,
+      "S_cutoff_gap": 0.017648977097399765,
+      "J_minus_S_score_span": 0.018397031364518313,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "paper napkin",
+      "g": 3,
+      "S_cutoff_gap": 0.508508056511829,
+      "J_minus_S_score_span": 0.06546531670702094,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "plate",
+      "g": 4,
+      "S_cutoff_gap": 0.14965386770195277,
+      "J_minus_S_score_span": 0.0759136424189788,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "sheep",
+      "g": 1,
+      "S_cutoff_gap": 0.7252471745884552,
+      "J_minus_S_score_span": 0.0798898085811457,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "stuffed bear",
+      "g": 1,
+      "S_cutoff_gap": 0.9153812839415902,
+      "J_minus_S_score_span": 0.06684570547219737,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "tea in a glass",
+      "g": 1,
+      "S_cutoff_gap": 0.9949298594643223,
+      "J_minus_S_score_span": 0.047214513163245764,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "three cookies",
+      "g": 2,
+      "S_cutoff_gap": 1.357230169965422,
+      "J_minus_S_score_span": 0.08277123588282342,
+      "same_selected_set": true
+    },
+    {
+      "scene": "teatime",
+      "prompt": "yellow pouf",
+      "g": 1,
+      "S_cutoff_gap": 1.3144693064665582,
+      "J_minus_S_score_span": 0.05921068185940026,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "Stainless steel pots",
+      "g": 2,
+      "S_cutoff_gap": 0.5236522248703177,
+      "J_minus_S_score_span": 0.04598251908501472,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "cabinet",
+      "g": 4,
+      "S_cutoff_gap": 0.08362702386482379,
+      "J_minus_S_score_span": 0.03800725706913477,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "dark cup",
+      "g": 3,
+      "S_cutoff_gap": 0.12737442175324576,
+      "J_minus_S_score_span": 0.08100521187675236,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "frog cup",
+      "g": 2,
+      "S_cutoff_gap": 0.4401148293046133,
+      "J_minus_S_score_span": 0.06570757949037898,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "ketchup",
+      "g": 2,
+      "S_cutoff_gap": 0.16277109209472274,
+      "J_minus_S_score_span": 0.033557191430622746,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "knife",
+      "g": 1,
+      "S_cutoff_gap": 0.21997697620536583,
+      "J_minus_S_score_span": 0.020268675271035708,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "ottolenghi",
+      "g": 4,
+      "S_cutoff_gap": 0.18899790714237086,
+      "J_minus_S_score_span": 0.050324954527134924,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "plastic ladle",
+      "g": 1,
+      "S_cutoff_gap": 0.09174602297349477,
+      "J_minus_S_score_span": 0.03987709875159151,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "plate",
+      "g": 4,
+      "S_cutoff_gap": 0.10183506305973711,
+      "J_minus_S_score_span": 0.03251583014748993,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "pot",
+      "g": 3,
+      "S_cutoff_gap": 0.05694932265773467,
+      "J_minus_S_score_span": 0.014988543442421953,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "pour-over vessel",
+      "g": 4,
+      "S_cutoff_gap": 0.06414117746372461,
+      "J_minus_S_score_span": 0.05708643083612941,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "red cup",
+      "g": 6,
+      "S_cutoff_gap": 0.2593293030772439,
+      "J_minus_S_score_span": 0.0897292913911425,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "refrigerator",
+      "g": 1,
+      "S_cutoff_gap": 0.8411089755024492,
+      "J_minus_S_score_span": 0.0629837079845843,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "sink",
+      "g": 4,
+      "S_cutoff_gap": 0.13451016149248574,
+      "J_minus_S_score_span": 0.021504934893010974,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "spatula",
+      "g": 1,
+      "S_cutoff_gap": 0.15850479023088626,
+      "J_minus_S_score_span": 0.010337386464796428,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "spoon",
+      "g": 1,
+      "S_cutoff_gap": 0.06990287249238714,
+      "J_minus_S_score_span": 0.07392372908930023,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "toaster",
+      "g": 1,
+      "S_cutoff_gap": 0.3293828428827492,
+      "J_minus_S_score_span": 0.03753905931984747,
+      "same_selected_set": true
+    },
+    {
+      "scene": "waldo_kitchen",
+      "prompt": "yellow desk",
+      "g": 1,
+      "S_cutoff_gap": 0.43072027025579507,
+      "J_minus_S_score_span": 0.06659715974437552,
+      "same_selected_set": true
+    }
+  ],
+  "interpretation": "Nonzero interaction and score changes need not change top-g selection; deterministic fixed-model diagnostic, not a new method or a significance test."
+}

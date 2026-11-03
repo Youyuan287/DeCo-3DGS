@@ -1,0 +1,33 @@
+{
+  "scene": "waldo_kitchen",
+  "miou": 0.5186204922398099,
+  "flat_miou": 0.5312291363636364,
+  "n_queries": 22,
+  "per_image": [
+    0.5271910643093974,
+    0.5039004246271983,
+    0.3588604751596156,
+    0.619110324766875,
+    0.5840401723359633
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "control_k1": 1,
+    "b1": 0,
+    "b2": 0,
+    "b3": 0,
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/K0.npz",
+    "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse"
+  }
+}

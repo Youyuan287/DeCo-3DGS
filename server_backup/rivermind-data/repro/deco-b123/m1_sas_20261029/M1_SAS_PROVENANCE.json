@@ -1,0 +1,16 @@
+{
+  "status": "blocked",
+  "reason": "missing historical trace-label/beta sidecar and random encoding seed; original observations cannot be numerically reconstructed",
+  "gpu_evaluation": false,
+  "nag_rebuilt": false,
+  "bank_rebuilt": false,
+  "production_inputs_modified": false,
+  "required_next_artifacts": [
+    "per-view trace labels",
+    "per-view trace confidence",
+    "seg_min and seg_max",
+    "beta_raw and beta_kept per observation",
+    "feature level and view-order manifest",
+    "original random seed or saved encoding matrices"
+  ]
+}

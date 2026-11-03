@@ -1,0 +1,55 @@
+scene,level,prompt,n_sel,margin,spread,score
+waldo_kitchen,1,Stainless steel pots,127,0.23035,0.10816,0.65327
+waldo_kitchen,1,dark cup,941,0.26205,0.41204,0.65389
+waldo_kitchen,1,refrigerator,99,0.24057,0.16414,0.67356
+waldo_kitchen,1,frog cup,750,0.453,0.02833,0.83868
+waldo_kitchen,1,pot,409,0.15453,0.2974,0.66611
+waldo_kitchen,1,spatula,3454,0.14395,0.9676,0.67036
+waldo_kitchen,1,plate,741,0.16967,0.12326,0.6841
+waldo_kitchen,1,spoon,286,0.18854,0.09269,0.71081
+waldo_kitchen,1,toaster,583,0.16504,0.9424,0.61515
+waldo_kitchen,1,ottolenghi,135,0.29034,0.03186,0.60214
+waldo_kitchen,1,plastic ladle,867,0.21089,0.42883,0.70675
+waldo_kitchen,1,sink,1323,0.22679,0.14255,0.72979
+waldo_kitchen,1,ketchup,1323,0.22681,0.70695,0.62032
+waldo_kitchen,1,cabinet,250,0.17233,0.63364,0.62633
+waldo_kitchen,1,red cup,746,0.40689,0.04573,0.74163
+waldo_kitchen,1,pour-over vessel,223,0.20878,0.06283,0.596
+waldo_kitchen,1,knife,1105,0.19215,1.01674,0.7281
+waldo_kitchen,1,yellow desk,1789,0.29211,0.83354,0.61037
+waldo_kitchen,2,Stainless steel pots,972,0.24448,0.06765,0.66825
+waldo_kitchen,2,dark cup,787,0.30265,0.04639,0.67572
+waldo_kitchen,2,refrigerator,1498,0.27532,0.21894,0.7347
+waldo_kitchen,2,frog cup,880,0.45541,0.03294,0.82582
+waldo_kitchen,2,pot,3928,0.14129,0.49797,0.63561
+waldo_kitchen,2,spatula,1451,0.20867,0.63346,0.71891
+waldo_kitchen,2,plate,803,0.19265,0.19737,0.67527
+waldo_kitchen,2,spoon,908,0.16646,0.77104,0.68498
+waldo_kitchen,2,toaster,405,0.25914,0.08079,0.72332
+waldo_kitchen,2,ottolenghi,73,0.32277,0.02887,0.64458
+waldo_kitchen,2,plastic ladle,1676,0.23549,0.52345,0.70533
+waldo_kitchen,2,sink,2700,0.22235,0.19299,0.72901
+waldo_kitchen,2,ketchup,1192,0.22358,0.68618,0.60696
+waldo_kitchen,2,cabinet,3912,0.22748,0.72772,0.67615
+waldo_kitchen,2,red cup,973,0.42189,0.04357,0.74161
+waldo_kitchen,2,pour-over vessel,157,0.28023,0.45096,0.67312
+waldo_kitchen,2,knife,2581,0.23857,0.14006,0.72321
+waldo_kitchen,2,yellow desk,1374,0.31499,0.87757,0.64724
+waldo_kitchen,3,Stainless steel pots,1960,0.23377,0.09659,0.65776
+waldo_kitchen,3,dark cup,791,0.37847,0.04343,0.73229
+waldo_kitchen,3,refrigerator,6611,0.33106,0.20539,0.79972
+waldo_kitchen,3,frog cup,907,0.4656,0.0336,0.83546
+waldo_kitchen,3,pot,5442,0.14318,0.30684,0.63273
+waldo_kitchen,3,spatula,1129,0.23272,0.67549,0.73352
+waldo_kitchen,3,plate,718,0.20213,0.12433,0.6561
+waldo_kitchen,3,spoon,509,0.20546,0.15658,0.71745
+waldo_kitchen,3,toaster,451,0.26648,0.08296,0.72415
+waldo_kitchen,3,ottolenghi,190,0.33219,0.03527,0.65457
+waldo_kitchen,3,plastic ladle,769,0.28727,0.1868,0.75091
+waldo_kitchen,3,sink,3276,0.22601,0.20193,0.73955
+waldo_kitchen,3,ketchup,638,0.26164,0.04607,0.63933
+waldo_kitchen,3,cabinet,7715,0.22639,0.90663,0.68066
+waldo_kitchen,3,red cup,1073,0.42247,0.05108,0.73945
+waldo_kitchen,3,pour-over vessel,999,0.25431,0.08467,0.63344
+waldo_kitchen,3,knife,2553,0.26872,0.1355,0.72504
+waldo_kitchen,3,yellow desk,606,0.35351,0.50847,0.7038

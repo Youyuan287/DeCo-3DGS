@@ -1,0 +1,27 @@
+{
+  "scene": "room",
+  "miou": 0.7811823803662188,
+  "flat_miou": 0.7811824333333334,
+  "n_queries": 30,
+  "per_view": [
+    0.7861882030387058,
+    0.7727994463103721,
+    0.7821554763432506,
+    0.7856223958937867,
+    0.7791463802449791
+  ],
+  "mode": "prompt",
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "renorm": 0,
+    "text_agg": "lse",
+    "cand_mode": "gap2",
+    "cand_margin": 0.02
+  }
+}

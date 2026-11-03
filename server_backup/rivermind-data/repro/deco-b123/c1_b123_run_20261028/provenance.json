@@ -1,0 +1,773 @@
+{
+  "root": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028",
+  "protocol": {
+    "text": "canon",
+    "renorm": 0,
+    "sel": "gap",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "evidence_temperature": 0.08
+  },
+  "scenes": {
+    "ramen": {
+      "A0": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.5114937943613442,
+          "flat_miou": 0.5045762253521128,
+          "n_queries": 71,
+          "per_image": [
+            0.4929033692219173,
+            0.5352197741630149,
+            0.5578815312222816,
+            0.46053712174258726,
+            0.5557547386327997,
+            0.5463562988497999,
+            0.4318037266970086
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": null,
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A1": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.5180756071656566,
+          "flat_miou": 0.5116503661971832,
+          "n_queries": 71,
+          "per_image": [
+            0.5346592480882387,
+            0.5352197741630149,
+            0.5417781652454874,
+            0.4844066695730476,
+            0.561566011433143,
+            0.54454305604446,
+            0.4243563256122048
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": null,
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "K0_off": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.4714007047875867,
+          "flat_miou": 0.45925053521126763,
+          "n_queries": 71,
+          "per_image": [
+            0.4094381346261004,
+            0.5352197741630149,
+            0.5578815312222816,
+            0.3759980104682575,
+            0.49399498716176066,
+            0.5463562988497999,
+            0.38091619702189217
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 1,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/K0.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "844c4b04aa2494d64baab9b67ca2fdaa438c8e84cad6bbcfa76c74847b32a8c1",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "K0_on": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.4943002333019581,
+          "flat_miou": 0.4832182112676056,
+          "n_queries": 71,
+          "per_image": [
+            0.47132268405136823,
+            0.5555593088417538,
+            0.5417781652454874,
+            0.4208847382558505,
+            0.5244883509329679,
+            0.5586638070016363,
+            0.38740457878464307
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 1,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/K0.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "844c4b04aa2494d64baab9b67ca2fdaa438c8e84cad6bbcfa76c74847b32a8c1",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A2": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.4714007047875867,
+          "flat_miou": 0.45925053521126763,
+          "n_queries": 71,
+          "per_image": [
+            0.4094381346261004,
+            0.5352197741630149,
+            0.5578815312222816,
+            0.3759980104682575,
+            0.49399498716176066,
+            0.5463562988497999,
+            0.38091619702189217
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A3": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.4943002333019581,
+          "flat_miou": 0.4832182112676056,
+          "n_queries": 71,
+          "per_image": [
+            0.47132268405136823,
+            0.5555593088417538,
+            0.5417781652454874,
+            0.4208847382558505,
+            0.5244883509329679,
+            0.5586638070016363,
+            0.38740457878464307
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A4": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.4738815344944171,
+          "flat_miou": 0.459858,
+          "n_queries": 71,
+          "per_image": [
+            0.4155052632774877,
+            0.5552417478856297,
+            0.5578815312222816,
+            0.3887695521453367,
+            0.4694052331262705,
+            0.5574319191265054,
+            0.37293549467740783
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 1,
+            "b3": 1,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B2.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "68f1b7ad3eee33670539caba1d49c853cc6bbef587f3bf4e4b0ec80235bdc81e",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A5": {
+        "summary": {
+          "scene": "ramen",
+          "miou": 0.49215593387118456,
+          "flat_miou": 0.4812195492957747,
+          "n_queries": 71,
+          "per_image": [
+            0.46277254113362315,
+            0.5552417478856297,
+            0.5417781652454874,
+            0.4126902912866285,
+            0.5244102142024628,
+            0.5574319191265054,
+            0.3907666582179545
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 1,
+            "b3": 1,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B2.npz",
+            "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "68f1b7ad3eee33670539caba1d49c853cc6bbef587f3bf4e4b0ec80235bdc81e",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      }
+    },
+    "waldo_kitchen": {
+      "A0": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.6062208659118095,
+          "flat_miou": 0.613748590909091,
+          "n_queries": 22,
+          "per_image": [
+            0.6105398765086893,
+            0.919088984843825,
+            0.36179209227561,
+            0.5187652584102579,
+            0.6209181175206648
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": null,
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A1": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.6592091348450333,
+          "flat_miou": 0.6812397727272729,
+          "n_queries": 22,
+          "per_image": [
+            0.7709588871770089,
+            0.919088984843825,
+            0.36179209227561,
+            0.6229676879454557,
+            0.6212380219832666
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": null,
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "K0_off": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5726819181036038,
+          "flat_miou": 0.580354590909091,
+          "n_queries": 22,
+          "per_image": [
+            0.5278908239198631,
+            0.730074990843177,
+            0.3628522589468785,
+            0.6212319064722787,
+            0.6213596103358215
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 1,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/K0.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "ab45de3e74192c9fdad03c0027ddcb800a499fe9b9b92d29b5be7965a71a6ce6",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "K0_on": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5186204922398099,
+          "flat_miou": 0.5312291363636364,
+          "n_queries": 22,
+          "per_image": [
+            0.5271910643093974,
+            0.5039004246271983,
+            0.3588604751596156,
+            0.619110324766875,
+            0.5840401723359633
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 1,
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/K0.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "ab45de3e74192c9fdad03c0027ddcb800a499fe9b9b92d29b5be7965a71a6ce6",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A2": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5726067967588673,
+          "flat_miou": 0.5802303636363637,
+          "n_queries": 22,
+          "per_image": [
+            0.5278908239198631,
+            0.7309295062145373,
+            0.3628522589468785,
+            0.6200017843772361,
+            0.6213596103358215
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A3": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5173670620945179,
+          "flat_miou": 0.5299113181818182,
+          "n_queries": 22,
+          "per_image": [
+            0.5272257865946431,
+            0.4936067678282294,
+            0.3628522589468785,
+            0.619110324766875,
+            0.5840401723359633
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A4": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5645707656033405,
+          "flat_miou": 0.5747994090909091,
+          "n_queries": 22,
+          "per_image": [
+            0.6104176199278221,
+            0.7405985241002705,
+            0.36294332233382703,
+            0.49627809098146985,
+            0.612616270673313
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 1,
+            "b3": 1,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B2.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "none",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "1c07ec101b9dfbb43f09d701fe0297779e7e92ba9d15aab0aa43225f4bf20ff2",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      },
+      "A5": {
+        "summary": {
+          "scene": "waldo_kitchen",
+          "miou": 0.5301804116396169,
+          "flat_miou": 0.5435005454545455,
+          "n_queries": 22,
+          "per_image": [
+            0.527272960856366,
+            0.5032757857139624,
+            0.36294332233382703,
+            0.6618008022662385,
+            0.5956091870276906
+          ],
+          "protocol": {
+            "topk": 5,
+            "level_until": 3,
+            "filter_small": 50,
+            "control_k1": 0,
+            "b1": 1,
+            "b2": 1,
+            "b3": 1,
+            "evidence_bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B2.npz",
+            "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+            "center": "image",
+            "text": "canon",
+            "tau": 0.02,
+            "norm": "none",
+            "text_center": "none",
+            "sel": "gap",
+            "ratio": 0.7,
+            "renorm": 0,
+            "text_agg": "lse"
+          }
+        },
+        "bank_sha256": "1c07ec101b9dfbb43f09d701fe0297779e7e92ba9d15aab0aa43225f4bf20ff2",
+        "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+        "protocol": {
+          "text": "canon",
+          "renorm": 0,
+          "sel": "gap",
+          "topk": 5,
+          "level_until": 3,
+          "filter_small": 50,
+          "evidence_temperature": 0.08
+        }
+      }
+    }
+  },
+  "code_commit": "fbbb7f9c1a971f71d971db9e76aba5ce77336f07",
+  "generator_sha256": "62838a541af68e32dbb9f88c7a450b74d2f720928047fe39db06bbac6266662f",
+  "generated_evaluator_sha256": "ca873060a65ebaae744ee2509dd38a4aba8fd509a3f2b7cbb11d68a4afd50621"
+}

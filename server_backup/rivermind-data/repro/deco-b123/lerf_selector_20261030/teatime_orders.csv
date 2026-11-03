@@ -1,0 +1,60 @@
+scene,image,prompt,order
+teatime,frame_00002,apple,1 4 2 3 5
+teatime,frame_00002,bag of cookies,1 3 2 4 5
+teatime,frame_00002,bear nose,3 1 2 5 4 7 6
+teatime,frame_00002,coffee,1 4 3 2 5
+teatime,frame_00002,coffee mug,1 3 2
+teatime,frame_00002,paper napkin,1 2 3 5 4
+teatime,frame_00002,plate,1 3 4 2 5
+teatime,frame_00002,sheep,1 5 2 4 3
+teatime,frame_00002,stuffed bear,1 2 3 4
+teatime,frame_00002,tea in a glass,1 2 3
+teatime,frame_00002,three cookies,2 1 3 4 5
+teatime,frame_00025,bag of cookies,1 3 2 4 5
+teatime,frame_00025,bear nose,3 1 2 5 4 6 7
+teatime,frame_00025,coffee,1 4 2 5 3
+teatime,frame_00025,coffee mug,1 3 2
+teatime,frame_00025,hooves,1 5 4 2 3
+teatime,frame_00025,paper napkin,1 2 3 5 4
+teatime,frame_00025,plate,1 3 4 2 5
+teatime,frame_00025,sheep,1 5 2 4 3
+teatime,frame_00025,stuffed bear,1 2 3 4
+teatime,frame_00025,tea in a glass,1 2 3
+teatime,frame_00025,three cookies,2 1 3 4 5
+teatime,frame_00043,apple,1 2 4 3 5
+teatime,frame_00043,bag of cookies,1 2 3 4 5
+teatime,frame_00043,coffee,1 4 2 5 3
+teatime,frame_00043,coffee mug,1 3 2
+teatime,frame_00043,hooves,1 5 4 2 3
+teatime,frame_00043,paper napkin,1 2 3 5 4
+teatime,frame_00043,plate,1 3 4 2 5
+teatime,frame_00043,stuffed bear,1 2 3 4
+teatime,frame_00043,tea in a glass,1 2 3
+teatime,frame_00043,three cookies,2 1 3 4 5
+teatime,frame_00107,apple,1 2 4 3 5
+teatime,frame_00107,bag of cookies,1 3 2 4 5
+teatime,frame_00107,bear nose,3 1 2 5 4 7 6
+teatime,frame_00107,coffee mug,1 3 2
+teatime,frame_00107,dall-e brand,1 5 2 3 4
+teatime,frame_00107,paper napkin,1 2 3 5 4
+teatime,frame_00107,plate,1 3 4 2 5
+teatime,frame_00107,sheep,1 5 2 4 3
+teatime,frame_00107,stuffed bear,1 2 3 4
+teatime,frame_00107,tea in a glass,1 2 3
+teatime,frame_00107,three cookies,2 1 3 4 5
+teatime,frame_00129,apple,1 2 4 3 5
+teatime,frame_00129,dall-e brand,1 5 2 3 4
+teatime,frame_00129,plate,1 3 4 2 5
+teatime,frame_00129,sheep,1 5 2 4 3
+teatime,frame_00129,tea in a glass,1 2 3
+teatime,frame_00129,three cookies,1 2 3 4 5
+teatime,frame_00129,yellow pouf,1 4 3 2
+teatime,frame_00140,apple,1 2 4 3 5
+teatime,frame_00140,bag of cookies,1 2 3 4 5
+teatime,frame_00140,coffee,1 4 2 5 3
+teatime,frame_00140,coffee mug,1 3 2
+teatime,frame_00140,paper napkin,1 2 3 5 4
+teatime,frame_00140,plate,1 3 4 2 5
+teatime,frame_00140,stuffed bear,1 2 3 4
+teatime,frame_00140,tea in a glass,1 2 3
+teatime,frame_00140,three cookies,2 1 3 4 5

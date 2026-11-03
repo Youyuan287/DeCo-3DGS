@@ -1,0 +1,41 @@
+{
+  "obs_sha256": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8",
+  "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+  "bank_shas": {
+    "k0": "ab45de3e74192c9fdad03c0027ddcb800a499fe9b9b92d29b5be7965a71a6ce6",
+    "b1": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "b2": "1c07ec101b9dfbb43f09d701fe0297779e7e92ba9d15aab0aa43225f4bf20ff2"
+  },
+  "regions": 397,
+  "regions_multimode": 392,
+  "observations": 13425,
+  "b1_omitted_total": 0,
+  "b2_rofa_actual_removed": 185,
+  "mean_mode_pair_cos": {
+    "count": 392,
+    "min": 0.49341363617332173,
+    "mean": 0.7685671432210787,
+    "median": 0.7771086514058607,
+    "p10": 0.6595118882703795
+  },
+  "b1_weighted_vs_k0": {
+    "count": 397,
+    "min": 0.846805741985243,
+    "mean": 0.9704630708760071,
+    "median": 0.9789187900938726,
+    "p10": 0.9275634162155622
+  },
+  "b1_direction_vs_k0": {
+    "count": 397,
+    "min": 0.9995420566221481,
+    "mean": 0.9999855123970638,
+    "median": 0.9999981684863797,
+    "p10": 0.9999660106287931
+  },
+  "reconstruction_pass": true,
+  "limitations": [
+    "CLIP mode direction is not proof of semantic correctness",
+    "Queries and GT not used: this file tests evidence preservation, not retrieval",
+    "B2 mode members are compared to B1 by region/slot, require same grouping configuration"
+  ]
+}

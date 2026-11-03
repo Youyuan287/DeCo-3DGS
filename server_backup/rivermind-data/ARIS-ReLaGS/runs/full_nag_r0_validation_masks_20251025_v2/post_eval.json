@@ -1,0 +1,907 @@
+{
+  "status": "POST_MATERIALIZATION_EVAL_ONLY",
+  "gt_used": true,
+  "selection_or_masks_modified": false,
+  "summary": {
+    "A": 0.08928571428571429,
+    "B": 0.0
+  },
+  "rows": [
+    {
+      "query_index": 0,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7172,
+      "gt_px": 0
+    },
+    {
+      "query_index": 0,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7172,
+      "gt_px": 0
+    },
+    {
+      "query_index": 1,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 6840,
+      "gt_px": 0
+    },
+    {
+      "query_index": 1,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 2,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 295546,
+      "gt_px": 0
+    },
+    {
+      "query_index": 2,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 816,
+      "gt_px": 0
+    },
+    {
+      "query_index": 3,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 3962,
+      "gt_px": 0
+    },
+    {
+      "query_index": 3,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 3962,
+      "gt_px": 0
+    },
+    {
+      "query_index": 4,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 19875,
+      "gt_px": 0
+    },
+    {
+      "query_index": 4,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 20720,
+      "gt_px": 0
+    },
+    {
+      "query_index": 5,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 4650,
+      "gt_px": 0
+    },
+    {
+      "query_index": 5,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 4702,
+      "gt_px": 0
+    },
+    {
+      "query_index": 6,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 27561,
+      "gt_px": 0
+    },
+    {
+      "query_index": 6,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 2565,
+      "gt_px": 0
+    },
+    {
+      "query_index": 7,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 204,
+      "gt_px": 0
+    },
+    {
+      "query_index": 7,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 204,
+      "gt_px": 0
+    },
+    {
+      "query_index": 8,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7733,
+      "gt_px": 0
+    },
+    {
+      "query_index": 8,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7733,
+      "gt_px": 0
+    },
+    {
+      "query_index": 9,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 20775,
+      "gt_px": 0
+    },
+    {
+      "query_index": 9,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 20775,
+      "gt_px": 0
+    },
+    {
+      "query_index": 10,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 9013,
+      "gt_px": 0
+    },
+    {
+      "query_index": 10,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 13703,
+      "gt_px": 0
+    },
+    {
+      "query_index": 11,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 13703,
+      "gt_px": 0
+    },
+    {
+      "query_index": 11,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 13703,
+      "gt_px": 0
+    },
+    {
+      "query_index": 12,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 6568,
+      "gt_px": 0
+    },
+    {
+      "query_index": 12,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 6568,
+      "gt_px": 0
+    },
+    {
+      "query_index": 13,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 1.0,
+      "pred_px": 0,
+      "gt_px": 0
+    },
+    {
+      "query_index": 13,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 14,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 1142,
+      "gt_px": 0
+    },
+    {
+      "query_index": 14,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 1142,
+      "gt_px": 0
+    },
+    {
+      "query_index": 15,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7888,
+      "gt_px": 0
+    },
+    {
+      "query_index": 15,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 7888,
+      "gt_px": 0
+    },
+    {
+      "query_index": 16,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 2806,
+      "gt_px": 0
+    },
+    {
+      "query_index": 16,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 2806,
+      "gt_px": 0
+    },
+    {
+      "query_index": 17,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 15055,
+      "gt_px": 0
+    },
+    {
+      "query_index": 17,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 15055,
+      "gt_px": 0
+    },
+    {
+      "query_index": 18,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 7620,
+      "gt_px": 0
+    },
+    {
+      "query_index": 18,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 7620,
+      "gt_px": 0
+    },
+    {
+      "query_index": 19,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 3650,
+      "gt_px": 0
+    },
+    {
+      "query_index": 19,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 20,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 34989,
+      "gt_px": 0
+    },
+    {
+      "query_index": 20,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 34989,
+      "gt_px": 0
+    },
+    {
+      "query_index": 21,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 3713,
+      "gt_px": 0
+    },
+    {
+      "query_index": 21,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 4550,
+      "gt_px": 0
+    },
+    {
+      "query_index": 22,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 1.0,
+      "pred_px": 0,
+      "gt_px": 0
+    },
+    {
+      "query_index": 22,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 25409,
+      "gt_px": 0
+    },
+    {
+      "query_index": 23,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 87199,
+      "gt_px": 0
+    },
+    {
+      "query_index": 23,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 87199,
+      "gt_px": 0
+    },
+    {
+      "query_index": 24,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 34399,
+      "gt_px": 0
+    },
+    {
+      "query_index": 24,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 34399,
+      "gt_px": 0
+    },
+    {
+      "query_index": 25,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 4947,
+      "gt_px": 0
+    },
+    {
+      "query_index": 25,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 6144,
+      "gt_px": 0
+    },
+    {
+      "query_index": 26,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 6144,
+      "gt_px": 0
+    },
+    {
+      "query_index": 26,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 6144,
+      "gt_px": 0
+    },
+    {
+      "query_index": 27,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 5134,
+      "gt_px": 0
+    },
+    {
+      "query_index": 27,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 5134,
+      "gt_px": 0
+    },
+    {
+      "query_index": 28,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 1578,
+      "gt_px": 0
+    },
+    {
+      "query_index": 28,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 1578,
+      "gt_px": 0
+    },
+    {
+      "query_index": 29,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 1.0,
+      "pred_px": 0,
+      "gt_px": 0
+    },
+    {
+      "query_index": 29,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 30,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 6096,
+      "gt_px": 0
+    },
+    {
+      "query_index": 30,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 6096,
+      "gt_px": 0
+    },
+    {
+      "query_index": 31,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 10069,
+      "gt_px": 0
+    },
+    {
+      "query_index": 31,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 32,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 17530,
+      "gt_px": 0
+    },
+    {
+      "query_index": 32,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 18433,
+      "gt_px": 0
+    },
+    {
+      "query_index": 33,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 1.0,
+      "pred_px": 0,
+      "gt_px": 0
+    },
+    {
+      "query_index": 33,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 1617,
+      "gt_px": 0
+    },
+    {
+      "query_index": 34,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 182,
+      "gt_px": 0
+    },
+    {
+      "query_index": 34,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 182,
+      "gt_px": 0
+    },
+    {
+      "query_index": 35,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 2905,
+      "gt_px": 0
+    },
+    {
+      "query_index": 35,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 2905,
+      "gt_px": 0
+    },
+    {
+      "query_index": 36,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 8205,
+      "gt_px": 0
+    },
+    {
+      "query_index": 36,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 8205,
+      "gt_px": 0
+    },
+    {
+      "query_index": 37,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 15760,
+      "gt_px": 0
+    },
+    {
+      "query_index": 37,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 15760,
+      "gt_px": 0
+    },
+    {
+      "query_index": 38,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 5853,
+      "gt_px": 0
+    },
+    {
+      "query_index": 38,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 5853,
+      "gt_px": 0
+    },
+    {
+      "query_index": 39,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 19942,
+      "gt_px": 0
+    },
+    {
+      "query_index": 39,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 19942,
+      "gt_px": 0
+    },
+    {
+      "query_index": 40,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 2694,
+      "gt_px": 0
+    },
+    {
+      "query_index": 40,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 2694,
+      "gt_px": 0
+    },
+    {
+      "query_index": 41,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 1.0,
+      "pred_px": 0,
+      "gt_px": 0
+    },
+    {
+      "query_index": 41,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 717808,
+      "gt_px": 0
+    },
+    {
+      "query_index": 42,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7352,
+      "gt_px": 0
+    },
+    {
+      "query_index": 42,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7352,
+      "gt_px": 0
+    },
+    {
+      "query_index": 43,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 29912,
+      "gt_px": 0
+    },
+    {
+      "query_index": 43,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 29912,
+      "gt_px": 0
+    },
+    {
+      "query_index": 44,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 253697,
+      "gt_px": 0
+    },
+    {
+      "query_index": 44,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 574,
+      "gt_px": 0
+    },
+    {
+      "query_index": 45,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7977,
+      "gt_px": 0
+    },
+    {
+      "query_index": 45,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7977,
+      "gt_px": 0
+    },
+    {
+      "query_index": 46,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 5878,
+      "gt_px": 0
+    },
+    {
+      "query_index": 46,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 5962,
+      "gt_px": 0
+    },
+    {
+      "query_index": 47,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 62329,
+      "gt_px": 0
+    },
+    {
+      "query_index": 47,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 3451,
+      "gt_px": 0
+    },
+    {
+      "query_index": 48,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 262,
+      "gt_px": 0
+    },
+    {
+      "query_index": 48,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 262,
+      "gt_px": 0
+    },
+    {
+      "query_index": 49,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 5586,
+      "gt_px": 0
+    },
+    {
+      "query_index": 49,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 8216,
+      "gt_px": 0
+    },
+    {
+      "query_index": 50,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 8216,
+      "gt_px": 0
+    },
+    {
+      "query_index": 50,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 8216,
+      "gt_px": 0
+    },
+    {
+      "query_index": 51,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 6567,
+      "gt_px": 0
+    },
+    {
+      "query_index": 51,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 6567,
+      "gt_px": 0
+    },
+    {
+      "query_index": 52,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7076,
+      "gt_px": 0
+    },
+    {
+      "query_index": 52,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 7076,
+      "gt_px": 0
+    },
+    {
+      "query_index": 53,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 2417,
+      "gt_px": 0
+    },
+    {
+      "query_index": 53,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 2417,
+      "gt_px": 0
+    },
+    {
+      "query_index": 54,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 4574,
+      "gt_px": 0
+    },
+    {
+      "query_index": 54,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 4574,
+      "gt_px": 0
+    },
+    {
+      "query_index": 55,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 1657,
+      "gt_px": 0
+    },
+    {
+      "query_index": 55,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 1657,
+      "gt_px": 0
+    }
+  ]
+}

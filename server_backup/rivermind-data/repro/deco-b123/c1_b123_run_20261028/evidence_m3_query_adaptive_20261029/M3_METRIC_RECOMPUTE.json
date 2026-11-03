@@ -1,0 +1,134 @@
+[
+  {
+    "scene": "figurines",
+    "arm": "off",
+    "scene_csv": 0.5858689758124229,
+    "flat_csv": 0.5803943214285714,
+    "scene_summary": 0.5858689558051238,
+    "flat_summary": 0.5803943214285715,
+    "queries": 56,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\figurines\\off\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\figurines\\off\\figurines_deco_summary.json"
+  },
+  {
+    "scene": "figurines",
+    "arm": "fixed",
+    "scene_csv": 0.5938105032085561,
+    "flat_csv": 0.5879269285714286,
+    "scene_summary": 0.5938104815635056,
+    "flat_summary": 0.5879269285714287,
+    "queries": 56,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\figurines\\fixed_prior\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\figurines\\fixed_prior\\figurines_fixed_prior_summary.json"
+  },
+  {
+    "scene": "figurines",
+    "arm": "adaptive",
+    "scene_csv": 0.5938105032085561,
+    "flat_csv": 0.5879269285714286,
+    "scene_summary": 0.5938104815635056,
+    "flat_summary": 0.5879269285714287,
+    "queries": 56,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\figurines\\semantic_audit\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\figurines\\semantic_audit\\figurines_semantic_audit_summary.json"
+  },
+  {
+    "scene": "ramen",
+    "arm": "off",
+    "scene_csv": 0.5180756176097712,
+    "flat_csv": 0.5116503661971831,
+    "scene_summary": 0.5180756071656566,
+    "flat_summary": 0.5116503661971832,
+    "queries": 71,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\ramen\\off\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\ramen\\off\\ramen_off_summary.json"
+  },
+  {
+    "scene": "ramen",
+    "arm": "fixed",
+    "scene_csv": 0.5179281992424243,
+    "flat_csv": 0.5114468873239436,
+    "scene_summary": 0.5179281845879901,
+    "flat_summary": 0.5114468873239437,
+    "queries": 71,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\ramen\\fixed_prior\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\ramen\\fixed_prior\\ramen_fixed_prior_summary.json"
+  },
+  {
+    "scene": "ramen",
+    "arm": "adaptive",
+    "scene_csv": 0.5295874301948053,
+    "flat_csv": 0.5228731408450704,
+    "scene_summary": 0.5295874317511974,
+    "flat_summary": 0.5228731408450705,
+    "queries": 71,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\ramen\\semantic_audit\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\ramen\\semantic_audit\\ramen_semantic_audit_summary.json"
+  },
+  {
+    "scene": "teatime",
+    "arm": "off",
+    "scene_csv": 0.7938962091149591,
+    "flat_csv": 0.7852089661016949,
+    "scene_summary": 0.7938961278877702,
+    "flat_summary": 0.785208966101695,
+    "queries": 59,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\teatime\\off\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\teatime\\off\\teatime_deco_summary.json"
+  },
+  {
+    "scene": "teatime",
+    "arm": "fixed",
+    "scene_csv": 0.7938962091149591,
+    "flat_csv": 0.7852089661016949,
+    "scene_summary": 0.7938961278877702,
+    "flat_summary": 0.785208966101695,
+    "queries": 59,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\teatime\\fixed_prior\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\teatime\\fixed_prior\\teatime_fixed_prior_summary.json"
+  },
+  {
+    "scene": "teatime",
+    "arm": "adaptive",
+    "scene_csv": 0.7938962091149591,
+    "flat_csv": 0.7852089661016949,
+    "scene_summary": 0.7938961278877702,
+    "flat_summary": 0.785208966101695,
+    "queries": 59,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\teatime\\semantic_audit\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\teatime\\semantic_audit\\teatime_semantic_audit_summary.json"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "off",
+    "scene_csv": 0.6592090866666667,
+    "flat_csv": 0.6812397727272728,
+    "scene_summary": 0.6592091348450333,
+    "flat_summary": 0.6812397727272729,
+    "queries": 22,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\waldo_kitchen\\off\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\M1_M2_M3_V2_FOUR_SCENES\\waldo_kitchen\\off\\waldo_kitchen_off_summary.json"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "fixed",
+    "scene_csv": 0.6592090866666667,
+    "flat_csv": 0.6812397727272728,
+    "scene_summary": 0.6592091348450333,
+    "flat_summary": 0.6812397727272729,
+    "queries": 22,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\waldo_kitchen\\fixed_prior\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\m3_query_adaptive_ablation\\remote_runs\\waldo_kitchen\\fixed_prior\\waldo_kitchen_fixed_prior_summary.json"
+  },
+  {
+    "scene": "waldo_kitchen",
+    "arm": "adaptive",
+    "scene_csv": 0.6592090866666667,
+    "flat_csv": 0.6812397727272728,
+    "scene_summary": 0.6592091348450333,
+    "flat_summary": 0.6812397727272729,
+    "queries": 22,
+    "csv": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\waldo_kitchen\\semantic_audit\\per_query.csv",
+    "summary": "C:\\Users\\TYY\\Documents\\ChatGPT\\ZCY-4090\\deco\\analysis\\results\\v3_relative_evidence\\waldo_kitchen\\semantic_audit\\waldo_kitchen_semantic_audit_summary.json"
+  }
+]

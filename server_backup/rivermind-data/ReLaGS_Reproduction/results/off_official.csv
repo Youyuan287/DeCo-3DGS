@@ -1,0 +1,153 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+ramen,frame_00006,chopsticks,0.881632,7536,7041,2
+ramen,frame_00006,egg,0.927648,6754,6967,2
+ramen,frame_00006,nori,6e-05,3499,13298,2
+ramen,frame_00006,bowl,0.0,0,53296,1
+ramen,frame_00006,napkin,0.0,11,5528,1
+ramen,frame_00006,sake cup,0.0,0,11994,1
+ramen,frame_00006,wavy noodles,0.805316,5493,4763,2
+ramen,frame_00006,kamaboko,0.806338,2323,2807,1
+ramen,frame_00006,plate,0.0,0,49037,1
+ramen,frame_00006,onion segments,0.0,42763,2767,1
+ramen,frame_00024,bowl,0.0,0,161092,1
+ramen,frame_00024,chopsticks,0.825141,13897,11613,2
+ramen,frame_00024,egg,0.921836,29840,27842,2
+ramen,frame_00024,nori,0.003444,20638,99105,2
+ramen,frame_00024,wavy noodles,0.81579,27649,25087,2
+ramen,frame_00024,kamaboko,0.902414,11738,12845,1
+ramen,frame_00024,onion segments,0.0,0,18208,1
+ramen,frame_00024,corn,0.0,341,1837,1
+ramen,frame_00060,chopsticks,0.855175,14235,12832,2
+ramen,frame_00060,egg,0.912285,25750,23826,2
+ramen,frame_00060,sake cup,0.0,0,9953,1
+ramen,frame_00060,napkin,0.980999,20333,20224,1
+ramen,frame_00060,wavy noodles,0.830028,21554,18950,2
+ramen,frame_00060,kamaboko,0.884565,8927,9815,1
+ramen,frame_00060,corn,0.0,264,1412,1
+ramen,frame_00060,onion segments,0.0,0,10296,1
+ramen,frame_00065,bowl,0.0,0,80805,1
+ramen,frame_00065,egg,0.939437,13735,13357,2
+ramen,frame_00065,chopsticks,0.890083,6110,5669,2
+ramen,frame_00065,sake cup,0.0,0,11492,1
+ramen,frame_00065,wavy noodles,0.830589,11164,9734,2
+ramen,frame_00065,nori,0.004145,11428,22489,2
+ramen,frame_00065,napkin,0.0,6749,5392,1
+ramen,frame_00065,kamaboko,0.904151,5310,5517,1
+ramen,frame_00065,plate,0.0,0,39853,1
+ramen,frame_00065,corn,0.0,58,1199,1
+ramen,frame_00065,onion segments,0.0,38952,8624,1
+ramen,frame_00081,bowl,0.461034,24277,51295,1
+ramen,frame_00081,chopsticks,0.860393,9272,8065,2
+ramen,frame_00081,sake cup,0.0,24277,11283,1
+ramen,frame_00081,nori,0.000195,2308,23392,2
+ramen,frame_00081,egg,0.921678,5879,5530,2
+ramen,frame_00081,wavy noodles,0.851359,5015,4314,2
+ramen,frame_00081,glass of water,0.72645,10198,13444,1
+ramen,frame_00081,kamaboko,0.904762,1946,1974,1
+ramen,frame_00081,spoon,0.395274,18287,7400,2
+ramen,frame_00081,napkin,0.0,0,3992,1
+ramen,frame_00081,plate,0.0,0,33483,1
+ramen,frame_00081,onion segments,0.0,12127,2032,1
+ramen,frame_00119,nori,0.000601,11053,92254,2
+ramen,frame_00119,egg,0.893161,41648,37471,2
+ramen,frame_00119,sake cup,0.0,0,7634,1
+ramen,frame_00119,chopsticks,0.847007,5577,4914,2
+ramen,frame_00119,wavy noodles,0.74175,45737,36869,2
+ramen,frame_00119,kamaboko,0.877196,11264,12353,1
+ramen,frame_00119,corn,0.0,311,775,1
+ramen,frame_00119,onion segments,0.0,0,10026,1
+ramen,frame_00128,glass of water,0.734823,39529,51943,1
+ramen,frame_00128,nori,0.000796,4966,45324,2
+ramen,frame_00128,egg,0.905153,18496,17037,2
+ramen,frame_00128,sake cup,0.0,25347,12655,1
+ramen,frame_00128,bowl,0.311601,25347,76769,1
+ramen,frame_00128,chopsticks,0.877485,10402,9903,2
+ramen,frame_00128,wavy noodles,0.504143,29363,16569,2
+ramen,frame_00128,spoon,0.276158,53213,19722,2
+ramen,frame_00128,corn,0.020455,175,723,1
+ramen,frame_00128,onion segments,0.0,17508,4870,1
+ramen,frame_00128,hand,0.0,0,9381,4
+ramen,frame_00128,plate,0.0,0,62461,1
+ramen,frame_00128,kamaboko,0.894981,5004,5227,1
+ramen,frame_00128,napkin,0.0,0,2891,1
+teatime,frame_00002,stuffed bear,0.925275,147899,151745,1
+teatime,frame_00002,coffee mug,0.872376,2799,2732,1
+teatime,frame_00002,bag of cookies,0.965382,5360,5200,1
+teatime,frame_00002,sheep,0.96174,65580,63375,1
+teatime,frame_00002,apple,0.968605,1667,1719,1
+teatime,frame_00002,paper napkin,0.935484,5390,5350,1
+teatime,frame_00002,plate,0.916533,4211,4170,1
+teatime,frame_00002,tea in a glass,0.759286,2727,3383,1
+teatime,frame_00002,bear nose,0.000926,109034,9906,3
+teatime,frame_00002,three cookies,0.922631,1442,1540,2
+teatime,frame_00002,coffee,0.784075,3376,2920,2
+teatime,frame_00025,stuffed bear,0.98355,81754,80909,1
+teatime,frame_00025,sheep,0.971013,93444,90761,1
+teatime,frame_00025,bag of cookies,0.95784,6288,6111,1
+teatime,frame_00025,tea in a glass,0.861616,2647,2882,1
+teatime,frame_00025,coffee mug,0.89983,2865,2711,1
+teatime,frame_00025,plate,0.947757,9777,9759,1
+teatime,frame_00025,three cookies,0.922853,2893,3039,2
+teatime,frame_00025,hooves,0.0,0,4678,1
+teatime,frame_00025,paper napkin,0.805153,1751,1612,1
+teatime,frame_00025,coffee,0.90024,3282,3061,2
+teatime,frame_00025,bear nose,0.001175,74164,7639,3
+teatime,frame_00043,tea in a glass,0.799076,11903,14574,1
+teatime,frame_00043,hooves,0.0,0,55160,1
+teatime,frame_00043,stuffed bear,0.982939,51579,51046,1
+teatime,frame_00043,bag of cookies,0.907862,29019,26599,1
+teatime,frame_00043,paper napkin,0.858839,9228,8154,1
+teatime,frame_00043,plate,0.948885,34642,34025,1
+teatime,frame_00043,apple,0.883381,3591,3628,1
+teatime,frame_00043,coffee mug,0.863814,8501,7703,1
+teatime,frame_00043,coffee,0.875194,10146,9176,2
+teatime,frame_00043,three cookies,0.916811,9723,10231,2
+teatime,frame_00107,stuffed bear,0.978582,161955,158605,1
+teatime,frame_00107,sheep,0.957855,38878,37588,1
+teatime,frame_00107,apple,0.951912,1670,1699,1
+teatime,frame_00107,bag of cookies,0.944422,7550,7214,1
+teatime,frame_00107,coffee mug,0.880508,4031,3822,1
+teatime,frame_00107,tea in a glass,0.747722,2758,3380,1
+teatime,frame_00107,bear nose,0.00072,138340,22933,3
+teatime,frame_00107,plate,0.894068,6592,6818,1
+teatime,frame_00107,three cookies,0.903384,2056,2219,2
+teatime,frame_00107,dall-e brand,0.61557,3375,2664,1
+teatime,frame_00107,paper napkin,0.919211,12905,12680,1
+teatime,frame_00129,tea in a glass,0.774413,10796,13462,1
+teatime,frame_00129,apple,0.984175,7194,7225,1
+teatime,frame_00129,yellow pouf,0.955294,23297,23108,1
+teatime,frame_00129,sheep,0.961382,122829,118570,1
+teatime,frame_00129,three cookies,0.926305,4905,4688,2
+teatime,frame_00129,plate,0.954667,15133,14748,1
+teatime,frame_00129,dall-e brand,0.690897,9702,7442,1
+teatime,frame_00140,tea in a glass,0.836684,28268,33406,1
+teatime,frame_00140,paper napkin,0.923603,38320,36437,1
+teatime,frame_00140,apple,0.97677,7213,7168,1
+teatime,frame_00140,stuffed bear,0.980256,129626,127134,1
+teatime,frame_00140,bag of cookies,0.978243,24956,24508,1
+teatime,frame_00140,plate,0.955362,31060,30223,1
+teatime,frame_00140,coffee mug,0.871818,13206,14291,1
+teatime,frame_00140,coffee,0.732646,17479,15145,2
+teatime,frame_00140,three cookies,0.929341,9265,9357,2
+waldo_kitchen,frame_00053,knife,0.439924,5681,9503,1
+waldo_kitchen,frame_00053,yellow desk,0.939203,67731,66361,1
+waldo_kitchen,frame_00053,toaster,0.952188,9639,9184,1
+waldo_kitchen,frame_00053,Stainless steel pots,0.461931,15778,10547,1
+waldo_kitchen,frame_00053,pour-over vessel,0.869992,7139,7705,2
+waldo_kitchen,frame_00053,ottolenghi,0.0,0,16909,1
+waldo_kitchen,frame_00066,plastic ladle,0.84065,3234,3558,1
+waldo_kitchen,frame_00066,refrigerator,0.982256,73067,72046,1
+waldo_kitchen,frame_00066,pot,0.95001,20370,19457,1
+waldo_kitchen,frame_00066,spatula,0.90344,2407,2462,1
+waldo_kitchen,frame_00089,knife,0.258207,11136,33436,1
+waldo_kitchen,frame_00089,ketchup,0.827169,2657,2777,2
+waldo_kitchen,frame_00089,cabinet,0.0,0,87629,2
+waldo_kitchen,frame_00140,plate,0.0,1994,36726,1
+waldo_kitchen,frame_00140,dark cup,0.153703,4731,30082,1
+waldo_kitchen,frame_00140,frog cup,0.777977,30059,26598,2
+waldo_kitchen,frame_00140,spoon,0.0,0,4013,1
+waldo_kitchen,frame_00140,sink,0.852364,489401,426369,1
+waldo_kitchen,frame_00154,plate,0.897588,121104,121254,1
+waldo_kitchen,frame_00154,knife,0.0,0,4580,1
+waldo_kitchen,frame_00154,red cup,0.823781,33417,37767,2
+waldo_kitchen,frame_00154,sink,0.808907,482477,467619,1

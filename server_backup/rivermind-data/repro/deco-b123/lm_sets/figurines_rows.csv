@@ -1,0 +1,29 @@
+scene,view,image,prompt,iou,biou,pred_px,gt_px,n_candidates
+figurines,0,test_0.jpg,green apple,0.92044,nan,-1,13438,1
+figurines,0,test_0.jpg,green toy chair,0.863751,nan,-1,9117,1
+figurines,0,test_0.jpg,old camera,0.516174,nan,-1,26428,1
+figurines,0,test_0.jpg,porcelain hand,0.849629,nan,-1,7104,1
+figurines,0,test_0.jpg,red apple,0.939205,nan,-1,5334,1
+figurines,0,test_0.jpg,red toy chair,0.926728,nan,-1,10606,1
+figurines,0,test_0.jpg,rubber duck with red hat,0.120504,nan,-1,3363,4
+figurines,1,test_1.jpg,green apple,0.952283,nan,-1,7896,1
+figurines,1,test_1.jpg,green toy chair,0.901995,nan,-1,15586,1
+figurines,1,test_1.jpg,old camera,0.345493,nan,-1,11658,1
+figurines,1,test_1.jpg,porcelain hand,0.936831,nan,-1,4540,1
+figurines,1,test_1.jpg,red apple,0.947441,nan,-1,6294,1
+figurines,1,test_1.jpg,red toy chair,0.914224,nan,-1,17496,1
+figurines,1,test_1.jpg,rubber duck with red hat,0.178054,nan,-1,5076,4
+figurines,2,test_2.jpg,green apple,0.947997,nan,-1,5812,1
+figurines,2,test_2.jpg,green toy chair,0.826185,nan,-1,8482,1
+figurines,2,test_2.jpg,old camera,0.54921,nan,-1,13416,1
+figurines,2,test_2.jpg,porcelain hand,0.870092,nan,-1,1536,1
+figurines,2,test_2.jpg,red apple,0.966276,nan,-1,10572,1
+figurines,2,test_2.jpg,red toy chair,0.942248,nan,-1,8845,1
+figurines,2,test_2.jpg,rubber duck with red hat,0.100296,nan,-1,1494,4
+figurines,3,test_3.jpg,green apple,0.934761,nan,-1,2866,1
+figurines,3,test_3.jpg,green toy chair,0.71433,nan,-1,7117,1
+figurines,3,test_3.jpg,old camera,0.475012,nan,-1,19890,1
+figurines,3,test_3.jpg,porcelain hand,0.872131,nan,-1,562,1
+figurines,3,test_3.jpg,red apple,0.964302,nan,-1,16583,1
+figurines,3,test_3.jpg,red toy chair,0.848549,nan,-1,7970,1
+figurines,3,test_3.jpg,rubber duck with red hat,0.151392,nan,-1,1627,4

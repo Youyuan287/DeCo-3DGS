@@ -1,0 +1,82 @@
+{
+  "scene0000_00": {
+    "n_gaussians": 1012438,
+    "n_gt": 81369,
+    "nearest_mean": 0.10110376069685492,
+    "nearest_p95": 0.3529028385022801,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0000_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0000_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0062_00": {
+    "n_gaussians": 789225,
+    "n_gt": 51610,
+    "nearest_mean": 0.049211975625202305,
+    "nearest_p95": 0.15958953250291744,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0062_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0062_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0070_00": {
+    "n_gaussians": 634033,
+    "n_gt": 109380,
+    "nearest_mean": 0.11546540368633258,
+    "nearest_p95": 0.5320236056551347,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0070_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0070_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0097_00": {
+    "n_gaussians": 354050,
+    "n_gt": 72007,
+    "nearest_mean": 0.032448575799846724,
+    "nearest_p95": 0.09839808613209977,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0097_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0097_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0140_00": {
+    "n_gaussians": 688209,
+    "n_gt": 372941,
+    "nearest_mean": 0.05574409444122566,
+    "nearest_p95": 0.21384767365774698,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0140_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0140_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0200_00": {
+    "n_gaussians": 409230,
+    "n_gt": 83291,
+    "nearest_mean": 0.06808304826589733,
+    "nearest_p95": 0.2050901715098662,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0200_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0200_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0347_00": {
+    "n_gaussians": 891760,
+    "n_gt": 67984,
+    "nearest_mean": 0.03932910507231609,
+    "nearest_p95": 0.11488594204482461,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0347_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0347_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0400_00": {
+    "n_gaussians": 579055,
+    "n_gt": 155959,
+    "nearest_mean": 0.05647968039277187,
+    "nearest_p95": 0.1901811919931835,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0400_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0400_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0590_00": {
+    "n_gaussians": 539978,
+    "n_gt": 222957,
+    "nearest_mean": 0.06131689926299427,
+    "nearest_p95": 0.23511936423452984,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0590_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0590_00/point_cloud/iteration_0/point_cloud.ply"
+  },
+  "scene0645_00": {
+    "n_gaussians": 824339,
+    "n_gt": 352477,
+    "nearest_mean": 0.09031571326925762,
+    "nearest_p95": 0.3187378059667686,
+    "gt": "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/gt/scene0645_00_vh_clean_2.labels.ply",
+    "model": "/root/rivermind-data/output/scannet/scene0645_00/point_cloud/iteration_0/point_cloud.ply"
+  }
+}

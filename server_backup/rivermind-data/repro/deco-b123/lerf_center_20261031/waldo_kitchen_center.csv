@@ -1,0 +1,67 @@
+scene,image,prompt,variant,rank,iou_best
+waldo_kitchen,frame_00053,knife,raw,2,0.4958132719279883
+waldo_kitchen,frame_00053,knife,cdot,2,0.4958132719279883
+waldo_kitchen,frame_00053,knife,ccos,3,0.4958132719279883
+waldo_kitchen,frame_00089,knife,raw,1,0.2788364499851588
+waldo_kitchen,frame_00089,knife,cdot,1,0.2788364499851588
+waldo_kitchen,frame_00089,knife,ccos,3,0.2788364499851588
+waldo_kitchen,frame_00154,knife,raw,1,0.5410406059853471
+waldo_kitchen,frame_00154,knife,cdot,1,0.5410406059853471
+waldo_kitchen,frame_00154,knife,ccos,2,0.5410406059853471
+waldo_kitchen,frame_00053,yellow desk,raw,1,0.5089032278078516
+waldo_kitchen,frame_00053,yellow desk,cdot,1,0.5089032278078516
+waldo_kitchen,frame_00053,yellow desk,ccos,1,0.5089032278078516
+waldo_kitchen,frame_00053,toaster,raw,1,0.9876449550233012
+waldo_kitchen,frame_00053,toaster,cdot,1,0.9876449550233012
+waldo_kitchen,frame_00053,toaster,ccos,1,0.9876449550233012
+waldo_kitchen,frame_00053,Stainless steel pots,raw,1,0.4662912132976106
+waldo_kitchen,frame_00053,Stainless steel pots,cdot,1,0.4662912132976106
+waldo_kitchen,frame_00053,Stainless steel pots,ccos,1,0.4662912132976106
+waldo_kitchen,frame_00053,pour-over vessel,raw,1,0.8570133402409015
+waldo_kitchen,frame_00053,pour-over vessel,cdot,1,0.8570133402409015
+waldo_kitchen,frame_00053,pour-over vessel,ccos,1,0.8570133402409015
+waldo_kitchen,frame_00053,ottolenghi,raw,2,0.9413434785077508
+waldo_kitchen,frame_00053,ottolenghi,cdot,2,0.9413434785077508
+waldo_kitchen,frame_00053,ottolenghi,ccos,2,0.9413434785077508
+waldo_kitchen,frame_00066,plastic ladle,raw,1,0.6378111273792094
+waldo_kitchen,frame_00066,plastic ladle,cdot,1,0.6378111273792094
+waldo_kitchen,frame_00066,plastic ladle,ccos,1,0.6378111273792094
+waldo_kitchen,frame_00066,refrigerator,raw,5,0.9647014904736886
+waldo_kitchen,frame_00066,refrigerator,cdot,5,0.9647014904736886
+waldo_kitchen,frame_00066,refrigerator,ccos,5,0.9647014904736886
+waldo_kitchen,frame_00066,pot,raw,1,0.9645439935717155
+waldo_kitchen,frame_00066,pot,cdot,1,0.9645439935717155
+waldo_kitchen,frame_00066,pot,ccos,1,0.9645439935717155
+waldo_kitchen,frame_00066,spatula,raw,1,0.23679935012185216
+waldo_kitchen,frame_00066,spatula,cdot,1,0.23679935012185216
+waldo_kitchen,frame_00066,spatula,ccos,1,0.23679935012185216
+waldo_kitchen,frame_00089,ketchup,raw,1,0.8915145005370569
+waldo_kitchen,frame_00089,ketchup,cdot,1,0.8915145005370569
+waldo_kitchen,frame_00089,ketchup,ccos,1,0.8915145005370569
+waldo_kitchen,frame_00089,cabinet,raw,5,0.9877537573698979
+waldo_kitchen,frame_00089,cabinet,cdot,5,0.9877537573698979
+waldo_kitchen,frame_00089,cabinet,ccos,5,0.9877537573698979
+waldo_kitchen,frame_00140,plate,raw,2,0.9584979167793951
+waldo_kitchen,frame_00140,plate,cdot,2,0.9584979167793951
+waldo_kitchen,frame_00140,plate,ccos,2,0.9584979167793951
+waldo_kitchen,frame_00154,plate,raw,2,0.748046232833405
+waldo_kitchen,frame_00154,plate,cdot,2,0.748046232833405
+waldo_kitchen,frame_00154,plate,ccos,2,0.748046232833405
+waldo_kitchen,frame_00140,dark cup,raw,1,0.9322208359326263
+waldo_kitchen,frame_00140,dark cup,cdot,1,0.9322208359326263
+waldo_kitchen,frame_00140,dark cup,ccos,1,0.9322208359326263
+waldo_kitchen,frame_00140,frog cup,raw,1,0.9605764205181812
+waldo_kitchen,frame_00140,frog cup,cdot,1,0.9605764205181812
+waldo_kitchen,frame_00140,frog cup,ccos,1,0.9605764205181812
+waldo_kitchen,frame_00140,spoon,raw,13,0.024558798332286254
+waldo_kitchen,frame_00140,spoon,cdot,13,0.024558798332286254
+waldo_kitchen,frame_00140,spoon,ccos,12,0.024558798332286254
+waldo_kitchen,frame_00140,sink,raw,1,0.9662819828329705
+waldo_kitchen,frame_00140,sink,cdot,1,0.9662819828329705
+waldo_kitchen,frame_00140,sink,ccos,1,0.9662819828329705
+waldo_kitchen,frame_00154,sink,raw,1,0.9322766455329107
+waldo_kitchen,frame_00154,sink,cdot,1,0.9322766455329107
+waldo_kitchen,frame_00154,sink,ccos,1,0.9322766455329107
+waldo_kitchen,frame_00154,red cup,raw,1,0.228425200359023
+waldo_kitchen,frame_00154,red cup,cdot,1,0.228425200359023
+waldo_kitchen,frame_00154,red cup,ccos,1,0.228425200359023

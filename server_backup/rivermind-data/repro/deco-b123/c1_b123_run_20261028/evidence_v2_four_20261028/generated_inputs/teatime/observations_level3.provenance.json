@@ -1,0 +1,14 @@
+{
+  "n_observations": 20096,
+  "n_observed_regions": 1225,
+  "n_root_regions": 1232,
+  "n_views": 177,
+  "n_gaussians": 958840,
+  "nag_sha256": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+  "observation_sha256": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+  "source": "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/teatime",
+  "model": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime",
+  "frozen_nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime/sai_nag.pt",
+  "export_level": 3,
+  "seed": 1234
+}

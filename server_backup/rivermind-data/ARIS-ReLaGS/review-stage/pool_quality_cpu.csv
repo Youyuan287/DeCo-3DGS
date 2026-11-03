@@ -1,0 +1,125 @@
+scene,query,level,candidate_id,raw_score
+figurines,old camera,3,8,0.5855990052223206
+figurines,old camera,3,19,0.48719722032546997
+figurines,old camera,3,103,0.43794021010398865
+figurines,old camera,3,38,0.42856165766716003
+figurines,old camera,2,43,0.44049346446990967
+figurines,toy elephant,3,14,0.587986409664154
+figurines,toy elephant,3,28,0.4454663097858429
+figurines,toy elephant,3,68,0.40165093541145325
+figurines,toy elephant,3,77,0.39486315846443176
+figurines,toy elephant,3,47,0.38231971859931946
+figurines,waldo,2,56,0.5774943232536316
+figurines,waldo,3,33,0.43555834889411926
+figurines,waldo,3,37,0.433816522359848
+figurines,waldo,3,120,0.4266708195209503
+figurines,waldo,3,39,0.40737003087997437
+figurines,tesla door handle,2,132,0.4918801188468933
+figurines,tesla door handle,3,161,0.46258851885795593
+figurines,tesla door handle,2,38,0.4843624532222748
+figurines,tesla door handle,2,21,0.4475024342536926
+figurines,tesla door handle,2,135,0.4637233316898346
+figurines,tesla door handle,2,115,0.4979325532913208
+figurines,porcelain hand,3,77,0.5955104827880859
+figurines,porcelain hand,2,67,0.4559271037578583
+figurines,porcelain hand,2,68,0.4438176155090332
+figurines,porcelain hand,2,82,0.4536525309085846
+figurines,porcelain hand,2,89,0.4349029064178467
+figurines,porcelain hand,2,70,0.4513401389122009
+figurines,porcelain hand,2,130,0.4562627971172333
+figurines,porcelain hand,2,111,0.4574982821941376
+figurines,porcelain hand,2,198,0.4228665232658386
+figurines,porcelain hand,2,105,0.43771541118621826
+figurines,rubber duck with hat,3,51,0.712017297744751
+figurines,rubber duck with hat,2,64,0.7027770280838013
+figurines,rubber duck with hat,2,75,0.7428797483444214
+figurines,rubber duck with hat,3,49,0.4514399766921997
+figurines,rubber duck with hat,2,111,0.4355664551258087
+figurines,rubber duck with hat,2,19,0.42149025201797485
+figurines,rubber duck with buoy,3,51,0.6291050910949707
+figurines,rubber duck with buoy,2,75,0.6396176218986511
+figurines,rubber duck with buoy,3,68,0.37327587604522705
+figurines,rubber duck with buoy,3,49,0.3425601124763489
+figurines,rubber duck with buoy,2,19,0.3346482217311859
+figurines,pink ice cream,2,90,0.6077383160591125
+figurines,pink ice cream,2,17,0.4183174669742584
+figurines,pink ice cream,3,41,0.3341621458530426
+figurines,pink ice cream,2,22,0.33988797664642334
+figurines,pink ice cream,3,43,0.3312160074710846
+figurines,red toy chair,3,48,0.6615933775901794
+figurines,red toy chair,3,59,0.4663620889186859
+figurines,red toy chair,3,18,0.3878819942474365
+figurines,red toy chair,2,111,0.39190974831581116
+figurines,red toy chair,3,66,0.3852841556072235
+figurines,green apple,3,24,0.7046892642974854
+figurines,green apple,3,18,0.4701657295227051
+figurines,green apple,3,139,0.4202170968055725
+figurines,green apple,3,43,0.41755104064941406
+figurines,green apple,3,10,0.40207383036613464
+figurines,pikachu,2,36,0.5116159915924072
+figurines,pikachu,3,51,0.4841204881668091
+figurines,pikachu,2,64,0.4998385012149811
+figurines,pikachu,2,75,0.4985610246658325
+figurines,pikachu,3,102,0.44392409920692444
+figurines,pikachu,3,12,0.43430233001708984
+figurines,red apple,3,43,0.631168007850647
+figurines,red apple,3,24,0.4494308531284332
+figurines,red apple,2,69,0.47979292273521423
+figurines,red apple,2,22,0.37514472007751465
+figurines,red apple,2,111,0.3488672375679016
+figurines,spatula,3,30,0.5676143765449524
+figurines,spatula,3,41,0.5187443494796753
+figurines,spatula,2,88,0.5456825494766235
+figurines,spatula,2,94,0.5043346285820007
+figurines,spatula,2,178,0.52220219373703
+figurines,spatula,2,206,0.5496309995651245
+figurines,spatula,3,102,0.49138838052749634
+figurines,spatula,3,34,0.49086374044418335
+figurines,jake,2,36,0.5522704720497131
+figurines,jake,2,199,0.5487759709358215
+figurines,jake,2,426,0.5467868447303772
+figurines,jake,3,67,0.5418028831481934
+figurines,jake,3,51,0.5384216904640198
+figurines,jake,3,73,0.5303214192390442
+figurines,jake,3,94,0.5244901180267334
+figurines,toy cat statue,3,49,0.5033935904502869
+figurines,toy cat statue,3,14,0.459629625082016
+figurines,toy cat statue,3,68,0.42047473788261414
+figurines,toy cat statue,3,28,0.4103410243988037
+figurines,toy cat statue,3,77,0.3960803747177124
+figurines,pirate hat,3,91,0.44600385427474976
+figurines,pirate hat,3,129,0.4006474018096924
+figurines,pirate hat,2,70,0.4267768859863281
+figurines,pirate hat,2,130,0.43435701727867126
+figurines,pirate hat,2,64,0.41305306553840637
+figurines,pirate hat,2,75,0.469789057970047
+figurines,pirate hat,3,105,0.3833965063095093
+figurines,miffy,3,68,0.40530523657798767
+figurines,miffy,3,134,0.3991354703903198
+figurines,miffy,3,140,0.38863304257392883
+figurines,miffy,2,11,0.38885122537612915
+figurines,miffy,3,147,0.38746196031570435
+figurines,rubics cube,2,63,0.5719881057739258
+figurines,rubics cube,3,133,0.4433298408985138
+figurines,rubics cube,3,39,0.4424394965171814
+figurines,rubics cube,3,140,0.4391595423221588
+figurines,green toy chair,3,18,0.6439523696899414
+figurines,green toy chair,3,59,0.45224425196647644
+figurines,green toy chair,3,48,0.40663719177246094
+figurines,green toy chair,3,66,0.36575573682785034
+figurines,green toy chair,3,40,0.3619452118873596
+figurines,pumpkin,2,31,0.45717236399650574
+figurines,pumpkin,3,47,0.43707436323165894
+figurines,pumpkin,2,36,0.45195531845092773
+figurines,pumpkin,3,43,0.4227922558784485
+figurines,pumpkin,3,102,0.4165123403072357
+figurines,bag,3,91,0.4932945966720581
+figurines,bag,2,201,0.5068780183792114
+figurines,bag,2,259,0.5099068284034729
+figurines,bag,2,264,0.5579057335853577
+figurines,bag,2,107,0.5219656229019165
+figurines,bag,2,298,0.48024091124534607
+figurines,bag,2,349,0.5553262829780579
+figurines,bag,2,362,0.5160267949104309
+figurines,bag,2,17,0.45458751916885376
+figurines,bag,3,4,0.44859570264816284

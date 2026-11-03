@@ -1,0 +1,19 @@
+{
+  "base_url": "https://maas.qianwenaiapi.com/compatible-mode/v1",
+  "allowed_host": "maas.qianwenaiapi.com",
+  "timeout_seconds": 60,
+  "max_tokens": 4096,
+  "automatic_retries": 0,
+  "roles": {
+    "planner": {
+      "model": "deepseek-v4.1-flash-1017",
+      "key_env": "ARIS_DEEPSEEK_API_KEY",
+      "system": "你是研究方法规划者。先阅读研究审计与原始证据索引，区分事实、推断和假设。最多比较三条路线，只推荐一个有明确新增信息、算法对象和失败判据的改动。不要重复高oracle发现，不要将历史最好值当目标，不要把开发集增益当盲推理。你没有代码执行权限，不能授权GPU或修改当前ReLaGS。当前基线尚未跑通，等待用户通知。用中文给出具体函数接口、配对对照和停止条件。"
+    },
+    "reviewer": {
+      "model": "glm-5.3-prime",
+      "key_env": "ARIS_GLM_API_KEY",
+      "system": "你是独立研究审查者，不负责实现。检查规划者是否重复旧方法、混用baseline/候选/统计口径、GT触发、场景专用规则或挑选结果。重点提出能区分新机制与简单可见性/输出补洞的最小反例。缺证据明确写缺失，不编造结果，不以评分代替实验。最多提出必须修复的三项问题。当前ReLaGS尚未跑通，不能假设64.01是当前已验收基线。你不能授权执行、修复服务器或GPU实验。用中文回答。"
+    }
+  }
+}

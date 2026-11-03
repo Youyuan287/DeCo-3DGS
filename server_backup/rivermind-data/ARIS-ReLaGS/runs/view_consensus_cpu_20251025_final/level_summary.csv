@@ -1,0 +1,4 @@
+level,nodes,views,valid_projection_rate,entropy_median,split_half_tv_median,split_half_icc_median,delta_r2_median,delta_auc_median,precision_lift_median,proxy
+1,2102,299,0.24601987595823693,0.8672588749828748,0.5,0.3739992483051626,,,,center projection into existing seg_map; no occlusion visibility
+2,467,299,0.1894609440461782,0.8580327320196734,0.48484848484848486,0.5779023931404659,0.0813266404870534,0.2505353319057816,1.789272030651341,center projection into existing seg_map; no occlusion visibility
+3,179,299,0.2151491937744063,0.8445412464587144,0.43118998212376813,0.41584272077734447,0.021737446893883294,0.25139664804469275,2.124494949494949,center projection into existing seg_map; no occlusion visibility

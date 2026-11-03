@@ -1,0 +1,423 @@
+[
+  {
+    "prompt": "old camera",
+    "pool": [
+      [
+        3,
+        8,
+        8,
+        0.5855990052223206,
+        2557
+      ],
+      [
+        3,
+        19,
+        19,
+        0.48719722032546997,
+        3106
+      ],
+      [
+        3,
+        103,
+        103,
+        0.43794021010398865,
+        1866
+      ],
+      [
+        3,
+        38,
+        38,
+        0.42856165766716003,
+        1672
+      ],
+      [
+        2,
+        33,
+        43,
+        0.44049346446990967,
+        1719
+      ]
+    ],
+    "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+    "supports": [
+      {
+        "view": "frame_00001",
+        "feature_id": 100,
+        "perm_mask_id": 89,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.6306659579277039,
+        "real_pixels": 195,
+        "perm_pixels": 226
+      },
+      {
+        "view": "frame_00044",
+        "feature_id": 180,
+        "perm_mask_id": 183,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.6852396130561829,
+        "real_pixels": 86,
+        "perm_pixels": 119
+      },
+      {
+        "view": "frame_00086",
+        "feature_id": 18,
+        "perm_mask_id": 16,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.6554463505744934,
+        "real_pixels": 1551,
+        "perm_pixels": 1235
+      },
+      {
+        "view": "frame_00129",
+        "feature_id": 164,
+        "perm_mask_id": 72,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.4271993339061737,
+        "real_pixels": 22,
+        "perm_pixels": 33
+      },
+      {
+        "view": "frame_00172",
+        "feature_id": 313,
+        "perm_mask_id": 363,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.5460821390151978,
+        "real_pixels": 1269,
+        "perm_pixels": 1093
+      },
+      {
+        "view": "frame_00215",
+        "feature_id": 110,
+        "perm_mask_id": 133,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.4920290410518646,
+        "real_pixels": 176,
+        "perm_pixels": 246
+      },
+      {
+        "view": "frame_00257",
+        "feature_id": 89,
+        "perm_mask_id": 118,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.4931992292404175,
+        "real_pixels": 408,
+        "perm_pixels": 387
+      },
+      {
+        "view": "frame_00301",
+        "feature_id": 219,
+        "perm_mask_id": 135,
+        "id_changed": true,
+        "mask_changed": true,
+        "feature_score": 0.5023471713066101,
+        "real_pixels": 0,
+        "perm_pixels": 1
+      }
+    ],
+    "evidence": [
+      {
+        "node": [
+          3,
+          8
+        ],
+        "visibility": 0.625,
+        "spatial": 0.2980195499439976,
+        "permutation": 0.08054938867684672,
+        "per_view_visible": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false
+        ],
+        "per_view_real_iou": [
+          0.47783251231527096,
+          0.3652173913043478,
+          0.7706146926536732,
+          0.0,
+          0.7704918032786885,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "per_view_perm_iou": [
+          0.0,
+          0.5152838427947598,
+          0.129111266620014,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "node": [
+          3,
+          19
+        ],
+        "visibility": 0.75,
+        "spatial": 0.0005083131636569913,
+        "permutation": 0.05292145593869732,
+        "per_view_visible": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          true
+        ],
+        "per_view_real_iou": [
+          0.0,
+          0.0017825311942959,
+          0.0022839741149600305,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "per_view_perm_iou": [
+          0.42337164750957856,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "node": [
+          3,
+          103
+        ],
+        "visibility": 0.0,
+        "spatial": 0.0,
+        "permutation": 0.0,
+        "per_view_visible": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "per_view_real_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "per_view_perm_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "node": [
+          3,
+          38
+        ],
+        "visibility": 0.0,
+        "spatial": 0.0,
+        "permutation": 0.0,
+        "per_view_visible": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "per_view_real_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "per_view_perm_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "node": [
+          2,
+          43
+        ],
+        "visibility": 0.25,
+        "spatial": 0.0,
+        "permutation": 0.0,
+        "per_view_visible": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          false
+        ],
+        "per_view_real_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "per_view_perm_iou": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "all_unobserved": false,
+    "modes": {
+      "baseline": {
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+        "scores": [
+          0.5855990052223206,
+          0.48719722032546997,
+          0.43794021010398865,
+          0.42856165766716003,
+          0.44049346446990967
+        ],
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ]
+        ],
+        "gaussian_count": 2557,
+        "gaussian_union_sha256": "73d5de0346c846a6b690509660f6321f7aa6e8afe6da46ca481054163e3d5664"
+      },
+      "visibility": {
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+        "scores": [
+          0.36599937826395035,
+          0.3653979152441025,
+          0.0,
+          0.0,
+          0.11012336611747742
+        ],
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ],
+          [
+            3,
+            19,
+            19,
+            0.48719722032546997,
+            3106
+          ]
+        ],
+        "gaussian_count": 5663,
+        "gaussian_union_sha256": "b602f0a33dd4477cbcfdaa4f099020a6f0831e8bba59b1ba2f6ed002b7f841da"
+      },
+      "spatial": {
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+        "scores": [
+          0.17451995198400866,
+          0.00024764876038853187,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ]
+        ],
+        "gaussian_count": 2557,
+        "gaussian_union_sha256": "73d5de0346c846a6b690509660f6321f7aa6e8afe6da46ca481054163e3d5664"
+      },
+      "permutation": {
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+        "scores": [
+          0.047169641880427486,
+          0.025783186228910168,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ],
+          [
+            3,
+            19,
+            19,
+            0.48719722032546997,
+            3106
+          ]
+        ],
+        "gaussian_count": 5663,
+        "gaussian_union_sha256": "b602f0a33dd4477cbcfdaa4f099020a6f0831e8bba59b1ba2f6ed002b7f841da"
+      }
+    }
+  }
+]

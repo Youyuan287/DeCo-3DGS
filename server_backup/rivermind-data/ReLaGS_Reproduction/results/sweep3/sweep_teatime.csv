@@ -1,0 +1,5 @@
+scene,topk,level_until,filter_small,remove_small,miou_grand,n
+teatime,3,3,50,1,0.8224737140329924,59
+teatime,5,3,50,1,0.80217883603456,59
+teatime,10,3,50,1,0.80217883603456,59
+teatime,1,3,50,1,0.0821067572852982,59

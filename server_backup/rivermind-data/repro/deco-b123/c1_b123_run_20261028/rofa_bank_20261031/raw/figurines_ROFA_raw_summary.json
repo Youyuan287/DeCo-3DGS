@@ -1,0 +1,39 @@
+{
+  "scene": "figurines",
+  "miou": 0.5922937715225001,
+  "flat_miou": 0.5886517500000001,
+  "n_queries": 56,
+  "per_image": [
+    0.547170021798389,
+    0.6372088730655108,
+    0.5982627804318522,
+    0.5865334107942479
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "none",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse",
+    "evidence_v2": "semantic",
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/rofa_bank_20261031/banks/figurines/B1_raw.npz",
+    "evidence_temperature": 0.08,
+    "correction_coefficient": 0.25,
+    "evidence_aggregation": "softmax"
+  },
+  "main_miou": 0.627834,
+  "main_flat_miou": 0.627834,
+  "improved_queries": 5,
+  "degraded_queries": 6,
+  "unchanged_queries": 45,
+  "total_iou_gain": 1.4663969999999997,
+  "total_iou_loss": 3.660603,
+  "triggered_queries": 56
+}

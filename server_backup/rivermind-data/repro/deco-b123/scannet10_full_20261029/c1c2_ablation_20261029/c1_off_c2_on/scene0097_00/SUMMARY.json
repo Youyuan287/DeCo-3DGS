@@ -1,0 +1,317 @@
+{
+  "scene": "scene0097_00",
+  "num_gaussians": 354050,
+  "root_count": 85,
+  "class_count": 19,
+  "gt_present": 7,
+  "metrics": {
+    "off": {
+      "num_classes": 19,
+      "present": 7,
+      "mIoU": 0.4619342013632375,
+      "mAcc": 0.6244302639141672,
+      "OA": 0.6292577852693078,
+      "per_class": {
+        "wall": {
+          "iou": 0.4771709725815407,
+          "acc": 0.5459103686885068,
+          "gt": 73992,
+          "inter": 40393,
+          "union": 84651
+        },
+        "floor": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 11030,
+          "inter": 0,
+          "union": 11030
+        },
+        "cabinet": {
+          "iou": 0.5919700099091463,
+          "acc": 0.5940266679445556,
+          "gt": 83471,
+          "inter": 49584,
+          "union": 83761
+        },
+        "door": {
+          "iou": 0.3697313053903477,
+          "acc": 0.7541596739391033,
+          "gt": 20855,
+          "inter": 15728,
+          "union": 42539
+        },
+        "counter": {
+          "iou": 0.3537838890488206,
+          "acc": 0.6226010251519848,
+          "gt": 33556,
+          "inter": 20892,
+          "union": 59053
+        },
+        "refrigerator": {
+          "iou": 0.8456200968591577,
+          "acc": 0.8902206320810973,
+          "gt": 33540,
+          "inter": 29858,
+          "union": 35309
+        },
+        "sink": {
+          "iou": 0.5952631357536494,
+          "acc": 0.9640934795939224,
+          "gt": 14677,
+          "inter": 14150,
+          "union": 23771
+        }
+      }
+    },
+    "m1_fixed": {
+      "num_classes": 19,
+      "present": 7,
+      "mIoU": 0.4619342013632375,
+      "mAcc": 0.6244302639141672,
+      "OA": 0.6292577852693078,
+      "per_class": {
+        "wall": {
+          "iou": 0.4771709725815407,
+          "acc": 0.5459103686885068,
+          "gt": 73992,
+          "inter": 40393,
+          "union": 84651
+        },
+        "floor": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 11030,
+          "inter": 0,
+          "union": 11030
+        },
+        "cabinet": {
+          "iou": 0.5919700099091463,
+          "acc": 0.5940266679445556,
+          "gt": 83471,
+          "inter": 49584,
+          "union": 83761
+        },
+        "door": {
+          "iou": 0.3697313053903477,
+          "acc": 0.7541596739391033,
+          "gt": 20855,
+          "inter": 15728,
+          "union": 42539
+        },
+        "counter": {
+          "iou": 0.3537838890488206,
+          "acc": 0.6226010251519848,
+          "gt": 33556,
+          "inter": 20892,
+          "union": 59053
+        },
+        "refrigerator": {
+          "iou": 0.8456200968591577,
+          "acc": 0.8902206320810973,
+          "gt": 33540,
+          "inter": 29858,
+          "union": 35309
+        },
+        "sink": {
+          "iou": 0.5952631357536494,
+          "acc": 0.9640934795939224,
+          "gt": 14677,
+          "inter": 14150,
+          "union": 23771
+        }
+      }
+    },
+    "m1_m2_fixed": {
+      "num_classes": 19,
+      "present": 7,
+      "mIoU": 0.4619342013632375,
+      "mAcc": 0.6244302639141672,
+      "OA": 0.6292577852693078,
+      "per_class": {
+        "wall": {
+          "iou": 0.4771709725815407,
+          "acc": 0.5459103686885068,
+          "gt": 73992,
+          "inter": 40393,
+          "union": 84651
+        },
+        "floor": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 11030,
+          "inter": 0,
+          "union": 11030
+        },
+        "cabinet": {
+          "iou": 0.5919700099091463,
+          "acc": 0.5940266679445556,
+          "gt": 83471,
+          "inter": 49584,
+          "union": 83761
+        },
+        "door": {
+          "iou": 0.3697313053903477,
+          "acc": 0.7541596739391033,
+          "gt": 20855,
+          "inter": 15728,
+          "union": 42539
+        },
+        "counter": {
+          "iou": 0.3537838890488206,
+          "acc": 0.6226010251519848,
+          "gt": 33556,
+          "inter": 20892,
+          "union": 59053
+        },
+        "refrigerator": {
+          "iou": 0.8456200968591577,
+          "acc": 0.8902206320810973,
+          "gt": 33540,
+          "inter": 29858,
+          "union": 35309
+        },
+        "sink": {
+          "iou": 0.5952631357536494,
+          "acc": 0.9640934795939224,
+          "gt": 14677,
+          "inter": 14150,
+          "union": 23771
+        }
+      }
+    },
+    "m1_m3_adaptive": {
+      "num_classes": 19,
+      "present": 7,
+      "mIoU": 0.46192297847081626,
+      "mAcc": 0.6244302639141672,
+      "OA": 0.6292577852693078,
+      "per_class": {
+        "wall": {
+          "iou": 0.47859571795874356,
+          "acc": 0.5459103686885068,
+          "gt": 73992,
+          "inter": 40393,
+          "union": 84399
+        },
+        "floor": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 11030,
+          "inter": 0,
+          "union": 11030
+        },
+        "cabinet": {
+          "iou": 0.5919700099091463,
+          "acc": 0.5940266679445556,
+          "gt": 83471,
+          "inter": 49584,
+          "union": 83761
+        },
+        "door": {
+          "iou": 0.3697313053903477,
+          "acc": 0.7541596739391033,
+          "gt": 20855,
+          "inter": 15728,
+          "union": 42539
+        },
+        "counter": {
+          "iou": 0.35228058342466906,
+          "acc": 0.6226010251519848,
+          "gt": 33556,
+          "inter": 20892,
+          "union": 59305
+        },
+        "refrigerator": {
+          "iou": 0.8456200968591577,
+          "acc": 0.8902206320810973,
+          "gt": 33540,
+          "inter": 29858,
+          "union": 35309
+        },
+        "sink": {
+          "iou": 0.5952631357536494,
+          "acc": 0.9640934795939224,
+          "gt": 14677,
+          "inter": 14150,
+          "union": 23771
+        }
+      }
+    },
+    "m1_m2_m3_adaptive": {
+      "num_classes": 19,
+      "present": 7,
+      "mIoU": 0.46192297847081626,
+      "mAcc": 0.6244302639141672,
+      "OA": 0.6292577852693078,
+      "per_class": {
+        "wall": {
+          "iou": 0.47859571795874356,
+          "acc": 0.5459103686885068,
+          "gt": 73992,
+          "inter": 40393,
+          "union": 84399
+        },
+        "floor": {
+          "iou": 0.0,
+          "acc": 0.0,
+          "gt": 11030,
+          "inter": 0,
+          "union": 11030
+        },
+        "cabinet": {
+          "iou": 0.5919700099091463,
+          "acc": 0.5940266679445556,
+          "gt": 83471,
+          "inter": 49584,
+          "union": 83761
+        },
+        "door": {
+          "iou": 0.3697313053903477,
+          "acc": 0.7541596739391033,
+          "gt": 20855,
+          "inter": 15728,
+          "union": 42539
+        },
+        "counter": {
+          "iou": 0.35228058342466906,
+          "acc": 0.6226010251519848,
+          "gt": 33556,
+          "inter": 20892,
+          "union": 59305
+        },
+        "refrigerator": {
+          "iou": 0.8456200968591577,
+          "acc": 0.8902206320810973,
+          "gt": 33540,
+          "inter": 29858,
+          "union": 35309
+        },
+        "sink": {
+          "iou": 0.5952631357536494,
+          "acc": 0.9640934795939224,
+          "gt": 14677,
+          "inter": 14150,
+          "union": 23771
+        }
+      }
+    }
+  },
+  "original_deco_parity": false,
+  "c1": "off_raw",
+  "c2": "both_lse",
+  "protocol": "ScanNet 19-class argmax, nearest-GT-point per Gaussian; C1/C2 factorial with M1 debiased bank, M2 reliability on/off, M3 fixed/adaptive weights, T=.08 coefficient=.25",
+  "nearest_gt": {
+    "mean": 0.032448575799846724,
+    "median": 0.018595579428393114,
+    "p95": 0.09839808613209977
+  },
+  "hashes": {
+    "/root/rivermind-data/output/scannet/scene0097_00/sai_nag_3.0.pt": "746e399647ef390064acdac8166900affcda55dbcdf45bd9c1830205dcd72263",
+    "/root/rivermind-data/output/scannet/scene0097_00/point_cloud/iteration_0/point_cloud.ply": "e28601dffb9aeeaa6e33885265541d967467e4d9c7d4c9088d19c79b1db7a3e3",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/scene0097_00/B1.npz": "2f9859c7e817686e58daf305cb82439961724c95fc222c77619b054300bb3aa1",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/scene0097_00/B1.members.json": "153002ef9360e230237da0cb004153f1a566a74414a6d1017e1e218027563db1",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/scene0097_00/observations_level3.npz": "9fdefbf028a9437eea60f5fa7cfcacaa8b7303ba294bc2a2f7506a22df95043d",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/scene0097_00/scene0097_00_vh_clean_2.labels.ply": "3a0aa4656034dcba2458c569e9e7773e6c07c2e061cd8045c6decd57a797d319",
+    "/root/rivermind-data/repro/deco-b123/scannet10_full_20261029/c1c2_ablation_20261029/c1_off_c2_on/scene0097_00/text_bank.npz": "1f5d6aa9e8b0561f4c064f2f13abc460cb9ca0a721ff266018f726f4e8cf5676"
+  }
+}

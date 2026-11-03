@@ -1,0 +1,57 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+figurines,frame_00041,old camera,0.921376,11700,12371,3
+figurines,frame_00041,toy elephant,0.485491,17025,8469,3
+figurines,frame_00041,waldo,0.029778,107384,3521,3
+figurines,frame_00041,tesla door handle,0.552986,4075,6872,3
+figurines,frame_00041,porcelain hand,0.068683,13696,3762,3
+figurines,frame_00041,rubber duck with hat,0.376399,14864,6038,3
+figurines,frame_00041,rubber duck with buoy,0.476724,14864,7532,3
+figurines,frame_00041,pink ice cream,0.037385,123831,4839,3
+figurines,frame_00041,red toy chair,0.48044,39566,24919,3
+figurines,frame_00041,green apple,0.211999,33373,7435,3
+figurines,frame_00041,pikachu,0.0,19917,12082,3
+figurines,frame_00041,red apple,0.210618,36066,7923,3
+figurines,frame_00041,spatula,0.454124,7180,6307,3
+figurines,frame_00041,jake,0.844712,6812,7752,3
+figurines,frame_00041,toy cat statue,0.073675,16440,1485,3
+figurines,frame_00041,pirate hat,0.0,27601,1835,3
+figurines,frame_00041,miffy,0.007411,303889,2252,3
+figurines,frame_00105,rubics cube,0.918965,5134,4954,3
+figurines,frame_00105,green apple,0.256521,57523,15124,3
+figurines,frame_00105,green toy chair,0.37907,16280,10023,3
+figurines,frame_00105,jake,0.836543,3591,4038,3
+figurines,frame_00105,old camera,0.925367,58825,55382,3
+figurines,frame_00105,pink ice cream,0.11114,33181,4820,3
+figurines,frame_00105,pumpkin,0.725003,86713,63207,3
+figurines,frame_00105,red apple,0.578508,58842,34934,3
+figurines,frame_00105,rubber duck with hat,0.306394,6266,2172,3
+figurines,frame_00105,tesla door handle,0.553756,8220,10582,3
+figurines,frame_00105,spatula,0.623034,1293,1906,3
+figurines,frame_00105,rubber duck with buoy,0.654222,6266,4412,3
+figurines,frame_00105,pirate hat,0.0,0,899,3
+figurines,frame_00152,rubber duck with hat,0.899587,7438,8188,3
+figurines,frame_00152,rubics cube,0.899323,17517,18120,3
+figurines,frame_00152,toy elephant,0.662347,30798,21029,3
+figurines,frame_00152,green apple,0.319521,18438,6559,3
+figurines,frame_00152,jake,0.882107,9887,10803,3
+figurines,frame_00152,toy cat statue,0.155891,36694,6786,3
+figurines,frame_00152,pikachu,0.0,17325,19530,3
+figurines,frame_00152,porcelain hand,0.020701,13950,5625,3
+figurines,frame_00152,red apple,0.126638,21669,3010,3
+figurines,frame_00152,waldo,0.08187,48892,6054,3
+figurines,frame_00152,pirate hat,0.0,0,2080,3
+figurines,frame_00195,toy elephant,0.480094,10030,5027,3
+figurines,frame_00195,pink ice cream,0.092827,62413,6057,3
+figurines,frame_00195,porcelain hand,0.037437,28917,1954,3
+figurines,frame_00195,green apple,0.194174,37283,7526,3
+figurines,frame_00195,green toy chair,0.511711,56002,31322,3
+figurines,frame_00195,old camera,0.891965,21152,19302,3
+figurines,frame_00195,rubics cube,0.913729,6982,6860,3
+figurines,frame_00195,spatula,0.694633,6436,8814,3
+figurines,frame_00195,toy cat statue,0.202499,11743,2984,3
+figurines,frame_00195,waldo,0.059017,50787,3100,3
+figurines,frame_00195,rubber duck with buoy,0.415909,8744,4179,3
+figurines,frame_00195,pirate hat,0.0,62435,1873,3
+figurines,frame_00195,miffy,0.003548,272839,974,3
+figurines,frame_00195,bag,0.681443,7543,6112,3
+figurines,frame_00195,rubber duck with hat,0.458031,8744,4301,3

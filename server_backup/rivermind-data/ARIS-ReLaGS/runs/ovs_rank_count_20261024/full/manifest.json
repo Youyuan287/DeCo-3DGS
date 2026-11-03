@@ -1,0 +1,95 @@
+{
+  "dataset": "LERF-OVS",
+  "scene": "figurines",
+  "baseline_origin": "author_released_PT_not_self_generated",
+  "prior": "/root/rivermind-data/ARIS-ReLaGS/runs/ovs_support_20261024/full",
+  "query_by_image": {
+    "frame_00041": [
+      "old camera",
+      "toy elephant",
+      "waldo",
+      "tesla door handle",
+      "porcelain hand",
+      "rubber duck with hat",
+      "rubber duck with buoy",
+      "pink ice cream",
+      "red toy chair",
+      "green apple",
+      "pikachu",
+      "red apple",
+      "spatula",
+      "jake",
+      "toy cat statue",
+      "pirate hat",
+      "miffy"
+    ],
+    "frame_00105": [
+      "rubics cube",
+      "green apple",
+      "green toy chair",
+      "jake",
+      "old camera",
+      "pink ice cream",
+      "pumpkin",
+      "red apple",
+      "rubber duck with hat",
+      "tesla door handle",
+      "spatula",
+      "rubber duck with buoy",
+      "pirate hat"
+    ],
+    "frame_00152": [
+      "rubber duck with hat",
+      "rubics cube",
+      "toy elephant",
+      "green apple",
+      "jake",
+      "toy cat statue",
+      "pikachu",
+      "porcelain hand",
+      "red apple",
+      "waldo",
+      "pirate hat"
+    ],
+    "frame_00195": [
+      "toy elephant",
+      "pink ice cream",
+      "porcelain hand",
+      "green apple",
+      "green toy chair",
+      "old camera",
+      "rubics cube",
+      "spatula",
+      "toy cat statue",
+      "waldo",
+      "rubber duck with buoy",
+      "pirate hat",
+      "miffy",
+      "bag",
+      "rubber duck with hat"
+    ]
+  },
+  "old_inputs_verified": true,
+  "threshold": 0.5,
+  "new_modes": [
+    "rank1_count0",
+    "rank0_count1"
+  ],
+  "scores_recomputed": false,
+  "baseline_gpu_rerun": false,
+  "input_sha256": {
+    "/root/rivermind-data/ARIS-ReLaGS/runs/ovs_support_20261024/full/manifest.json": "d462f36c373c682fda66a9812607d62acc48dcb715102f2ab814882474e97fa6",
+    "/root/rivermind-data/ARIS-ReLaGS/runs/ovs_support_20261024/full/query_diagnostics.json": "8a9c7abb4adab40e3d90b280bdfd39c5b62d6aa7511e230ad8da6cd0b12471e6",
+    "/root/rivermind-data/ARIS-ReLaGS/runs/ovs_support_20261024/full/per_query.csv": "1d28f55a96bc4777c3073eaab99faf6544b204fd42ebdd1c1350b96cb434f750"
+  },
+  "source_sha256": {
+    "/root/rivermind-data/ARIS-ReLaGS/experiments/rank_count_20261024/run_rank_count.py": "639628f2441da0f35b3f302519f818014273a5d3601a8e8e725751f3d17c0187",
+    "/root/rivermind-data/ARIS-ReLaGS/experiments/rank_count_20261024/rank_count_ops.py": "ce7cfbc1806a0e2b3c60854d1b3ef154a426f931565defcd5a057eb1f5387ea3"
+  },
+  "environment": {
+    "CUDA_VISIBLE_DEVICES": "0",
+    "RELAGS_REPO": "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS",
+    "PYTHONPATH": "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/ext:/root/rivermind-data/ReLaGS_Reproduction/ReLaGS:/root/rivermind-data/ReLaGS_Reproduction/ext:/root/rivermind-data/ReLaGS_Reproduction:/root/rivermind-data/ARIS-ReLaGS/scripts",
+    "HF_HUB_OFFLINE": "1"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "case_group": "target_purity_gt50",
+  "scene": "waldo_kitchen",
+  "image": "frame_00154",
+  "query": "sink",
+  "region_id": 31,
+  "mode_id": 1,
+  "recover_gain": 0.138235867023468,
+  "precision": 0.9833550616984508,
+  "recall": 0.069359884863532,
+  "iou": 0.0692785495804924,
+  "single_score": 0.5368586778640747,
+  "m1_slot_score": 0.6750945448875427,
+  "m1_prior": 0.0235289819538593,
+  "region_px": 32983,
+  "intersection_px": 32434,
+  "figure": "waldo_kitchen_31_frame_00154_sink.png",
+  "rgb_available": true,
+  "gt_available": true,
+  "root_mask_available": true,
+  "mode_support_available": [
+    {
+      "mode_id": 0,
+      "visible_gaussian_count": 5176,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    },
+    {
+      "mode_id": 1,
+      "visible_gaussian_count": 32,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    },
+    {
+      "mode_id": 2,
+      "visible_gaussian_count": 2,
+      "projection_max": 0.0,
+      "projection_positive_px": 0,
+      "projection_positive_px_at_0.5": 0,
+      "projection_gt_intersection_at_0.5": 0,
+      "projection_precision_at_0.5": null
+    }
+  ]
+}

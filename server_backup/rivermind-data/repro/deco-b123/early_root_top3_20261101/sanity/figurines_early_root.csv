@@ -1,0 +1,2 @@
+scene,image,prompt,A_iou,B_iou,A_pool_oracle,B_pool_oracle,A_pool_n,B_pool_n,root_changed,B_obs_roots,B_fallback_slots,baseline_error,family
+figurines,frame_00041,old camera,0.3131532400707509,0.9199744429358677,0.6113835517324544,0.6113835517324544,5,5,1,135,0,0.0,rank2

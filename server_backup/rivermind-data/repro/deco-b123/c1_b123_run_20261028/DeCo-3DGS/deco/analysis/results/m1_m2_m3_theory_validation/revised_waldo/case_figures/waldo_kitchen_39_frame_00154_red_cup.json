@@ -1,0 +1,50 @@
+{
+  "case_group": "target_low_purity",
+  "scene": "waldo_kitchen",
+  "image": "frame_00154",
+  "query": "red cup",
+  "region_id": 39,
+  "mode_id": 2,
+  "recover_gain": 0.3239592611789703,
+  "precision": 0.0923267326732673,
+  "recall": 0.0098763470754891,
+  "iou": 0.0090022686682434,
+  "single_score": 0.2699298560619354,
+  "m1_slot_score": 0.5938891172409058,
+  "m1_prior": 0.0021104295738041,
+  "region_px": 4040,
+  "intersection_px": 373,
+  "figure": "waldo_kitchen_39_frame_00154_red_cup.png",
+  "rgb_available": true,
+  "gt_available": true,
+  "root_mask_available": true,
+  "mode_support_available": [
+    {
+      "mode_id": 0,
+      "visible_gaussian_count": 7574,
+      "projection_max": 0.9999004006385803,
+      "projection_positive_px": 87731,
+      "projection_positive_px_at_0.5": 43822,
+      "projection_gt_intersection_at_0.5": 34289,
+      "projection_precision_at_0.5": 0.7824608644060062
+    },
+    {
+      "mode_id": 1,
+      "visible_gaussian_count": 5398,
+      "projection_max": 0.9999004006385803,
+      "projection_positive_px": 73375,
+      "projection_positive_px_at_0.5": 34651,
+      "projection_gt_intersection_at_0.5": 25879,
+      "projection_precision_at_0.5": 0.7468471328388792
+    },
+    {
+      "mode_id": 2,
+      "visible_gaussian_count": 2418,
+      "projection_max": 0.9999000430107117,
+      "projection_positive_px": 73655,
+      "projection_positive_px_at_0.5": 13581,
+      "projection_gt_intersection_at_0.5": 12948,
+      "projection_precision_at_0.5": 0.9533907665120389
+    }
+  ]
+}

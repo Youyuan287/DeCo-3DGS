@@ -1,0 +1,4 @@
+1908dc76615f23dd0ad9f8e65d14c02de355bcfd61dc3afc2bac4b755a77c79c  /root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/point_cloud/iteration_0/point_cloud.ply
+e7d2fb7a725b882efe3c8f4cc9f0f64fc5cbe5a36866f0d8bee353fbd9b68276  /root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen/point_cloud/iteration_0/point_cloud.ply
+b052255e78922c00769b3fd5b016c5ae2ee3277941395a090dcb87feca6a2c6e  /root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime/point_cloud/iteration_0/point_cloud.ply
+f3177dfc7f65b2310786acc0d5cff8a425ef2e43c6a129c4e5439df260dba7c3  /root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/point_cloud/iteration_0/point_cloud.ply

@@ -1,0 +1,16 @@
+{
+  "frozen_inputs_unchanged": true,
+  "train_feature_files_unchanged": 438,
+  "summary_hashes_match": true,
+  "code_sha256": {
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/deco_ops.py": "082ab0001ed4d251ac8844d8339c1983008a49038f0fa44b1785bee7ddf0d8b9",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/evidence_readout_v2.py": "44c5673c17df3e99841e41d0228da2b0ece9eaa17808a268c136ca85a7fa0554",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/build_bank_b123.py": "1531eff8f862f7a455e6166ce26ec3c04e9a6083fd1afaaed378659558f50a88",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/scannet_m3_evaluate.py": "99206e9db4af0461df156040dfc87939db29e361c048e2a417b2cda25cf52cc1",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/evidence_modes.py": "c3fe2f5b0da733419c04b7005d5df21473d6060eb397e9909822f4d4478e8f69",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/eval_scannet_3d.py": "69f9a397ec89c9cbf629f2ecd5c5d9769474ff3539d3fca7a4e3c5cf26f54543",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/evidence_readout_weight_ablation.py": "ec6beecc4ace9c4191e4b9b36ae8581cce1931cb9742f9710f90caf3222bc6a7",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/score_scannet.py": "84504b96a1c3bb5819b44258833d4f87f206194af2cea55b61460d1c0d55fbff",
+    "/root/rivermind-data/repro/deco-b123/scannet0062_m3_weights_20261029/code/merge_proj.py": "2b2d78e397e62f6b19960b4f5e62c6300eb124ec744790559ba196e1a0542c3a"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "figurines": {
+    "candidate_records": 122,
+    "prompts": 21,
+    "dim": 512,
+    "max_dot_error": 2.2351741790771484e-08,
+    "feature_norm_min": 0.22488591074943542,
+    "feature_norm_max": 0.8343219757080078
+  },
+  "ramen": {
+    "candidate_records": 76,
+    "prompts": 14,
+    "dim": 512,
+    "max_dot_error": 1.4901161193847656e-08,
+    "feature_norm_min": 0.32049596309661865,
+    "feature_norm_max": 0.7025923728942871
+  },
+  "teatime": {
+    "candidate_records": 66,
+    "prompts": 14,
+    "dim": 512,
+    "max_dot_error": 2.9802322387695312e-08,
+    "feature_norm_min": 0.3930799067020416,
+    "feature_norm_max": 0.8951789736747742
+  },
+  "waldo_kitchen": {
+    "candidate_records": 102,
+    "prompts": 18,
+    "dim": 512,
+    "max_dot_error": 1.4901161193847656e-08,
+    "feature_norm_min": 0.2978123426437378,
+    "feature_norm_max": 0.7471697926521301
+  }
+}

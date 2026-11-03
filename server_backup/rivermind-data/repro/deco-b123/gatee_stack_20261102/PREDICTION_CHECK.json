@@ -1,0 +1,104 @@
+{
+  "status": "PREDICTIONS_ONLY_NOT_RENDERED",
+  "created_at": "2026-11-02T06:30:39.783184+00:00",
+  "query_views": 208,
+  "scene_prompt_units": 67,
+  "scene_counts": {
+    "figurines": 56,
+    "ramen": 71,
+    "teatime": 59,
+    "waldo_kitchen": 22
+  },
+  "original_gateE_reconstruction": {
+    "main_length_error": 0,
+    "c_length_error": 0,
+    "mask_length_error": 0,
+    "gatee_length_error": 0,
+    "e_c_absolute_error": 0.0,
+    "e_m_absolute_error": 0.0
+  },
+  "view_dependent_scene_prompts": {
+    "A": [],
+    "C": [
+      [
+        "figurines",
+        "tesla door handle"
+      ],
+      [
+        "ramen",
+        "bowl"
+      ],
+      [
+        "ramen",
+        "napkin"
+      ],
+      [
+        "ramen",
+        "sake cup"
+      ],
+      [
+        "ramen",
+        "wavy noodles"
+      ],
+      [
+        "ramen",
+        "onion segments"
+      ],
+      [
+        "teatime",
+        "paper napkin"
+      ],
+      [
+        "teatime",
+        "plate"
+      ],
+      [
+        "teatime",
+        "three cookies"
+      ]
+    ],
+    "M": [],
+    "E": [
+      [
+        "ramen",
+        "bowl"
+      ],
+      [
+        "ramen",
+        "napkin"
+      ],
+      [
+        "ramen",
+        "sake cup"
+      ],
+      [
+        "ramen",
+        "wavy noodles"
+      ],
+      [
+        "ramen",
+        "onion segments"
+      ],
+      [
+        "teatime",
+        "paper napkin"
+      ],
+      [
+        "teatime",
+        "plate"
+      ],
+      [
+        "teatime",
+        "three cookies"
+      ]
+    ]
+  },
+  "route_counts": {
+    "EJ_uses_J": 12,
+    "EJ0_uses_J0": 11
+  },
+  "prediction_selection_uses_GT_IoU_or_family": false,
+  "training_performed": false,
+  "new_masks_or_image_encoding": false,
+  "scope": "208逐view重构；moduleC允许view-dependent选择；本文件不证明渲染IoU复现或指标改善。"
+}

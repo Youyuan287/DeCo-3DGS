@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "description": "ARIS项目约束清单；由本包桥接脚本和项目指令读取，不是虚构的ARIS官方统一配置格式。",
+  "project": "ReLaGS方法凝练与指标改进",
+  "language": "zh-CN",
+  "remote": {
+    "host": "fj01-ssh.gpuhome.cc",
+    "port": 30253,
+    "user": "root",
+    "local_identity_file": "C:/Users/TYY/.ssh/id_ed25519",
+    "workspace": "/root/rivermind-data/ARIS-ReLaGS",
+    "active_repository_candidate": "/root/rivermind-data/ReLaGS-1023",
+    "active_repository_confirmed_by_user": false,
+    "historical_reproduction": "/root/rivermind-data/ReLaGS_Reproduction",
+    "data_mount": "/root/rivermind-data"
+  },
+  "baseline": {
+    "status": "WAITING_FOR_USER_RELAGS_READY",
+    "accepted": false,
+    "user_will_notify_when_ready": true,
+    "historical_reference_miou_percent": 64.01,
+    "historical_reference_is_current_baseline": false,
+    "historical_reference_provenance": "ReLaGS_Reproduction/ref/relags_hf官方PT；不是当前实例端到端跑通的验收",
+    "acceptance_requires": ["用户通知当前ReLaGS跑通", "确认当前工作目录和环境", "记录实际命令、源码/模型/输入哈希", "用相同query与评测权重复核当前基线", "区分官方PT、自生成PT与历史输出"]
+  },
+  "evaluation": {
+    "status": "REFERENCE_ONLY_UNTIL_BASELINE_ACCEPTED",
+    "dataset": "LERF-OVS",
+    "scenes": ["figurines", "ramen", "teatime", "waldo_kitchen"],
+    "aggregation": "query_mean_within_image_then_image_mean_within_scene_then_four_scene_macro",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "remove_small": true,
+    "render_mask_threshold": 0.5,
+    "reference_protocol_is_active_protocol": false,
+    "protocol_changes_require_new_baseline": true,
+    "report_separately": ["overall_mIoU", "scene_mIoU", "paired_query_delta", "empty_mask_transitions", "both_nonempty_contribution_and_conditional_mean", "leave_one_query_out_including_kamaboko", "candidate_set_and_NAG_hashes", "wall_time_and_peak_memory"]
+  },
+  "research": {
+    "goal": "凝练一个可证伪的实质方法，在跑通并验收后的ReLaGS上验证最终分割收益，而不是对齐历史最好数字。",
+    "initial_hypothesis": "冻结候选后，查询对应的空间支持能否为正确范围选择提供超越语义分数及可见性的判别信息",
+    "initial_hypothesis_is_mandatory_answer": false,
+    "max_competing_routes": 3,
+    "max_active_hypotheses": 1,
+    "max_review_rounds": 2,
+    "max_small_variants_before_review": 2,
+    "query_allowed_only_at_inference": true,
+    "do_not_repeat": ["仅重复证明高oracle", "全局扩大Top-k或统一NMS5", "仅跨层分数校准", "局部语义竞争惩罚", "B0整体/Alpha部件专家假说", "将FCE/BSHRINK/HCONS默认整套迁入ReLaGS"],
+    "claim_gate": "预先冻结规则；最终分割收益必须超越匹配基线和简单工程控制；开发集和留出集分开；不得仅以审稿模型评分或中间指标通过。"
+  },
+  "execution": {
+    "mode": "CONFIGURATION_ONLY_WAITING_FOR_USER",
+    "gpu_launch_authorized": false,
+    "auto_proceed": false,
+    "auto_gpu_pilot": false,
+    "auto_repair_relags": false,
+    "auto_train_or_extract_features": false,
+    "auto_parameter_sweep": false,
+    "auto_write_paper": false,
+    "max_concurrent_gpu_jobs": 1,
+    "disk_reserve_data_gib": 10,
+    "disk_reserve_system_gib": 5,
+    "suggested_new_artifact_limit_gib": 4,
+    "resume_requires_user_instruction": true,
+    "screen_name_when_future_launch_is_authorized": "aris-relags",
+    "only_executor_may_modify_code": true,
+    "remote_model_responses_are_advice_not_execution_authorization": true,
+    "preserve_models_datasets_results_and_dirty_changes": true
+  }
+}

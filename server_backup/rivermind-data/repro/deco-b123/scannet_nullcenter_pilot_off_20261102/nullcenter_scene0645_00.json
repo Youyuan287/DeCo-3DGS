@@ -1,0 +1,184 @@
+{
+  "scene": "scene0645_00",
+  "n_root": 275,
+  "n_auditable": 262,
+  "variants": {
+    "audit_maj": {
+      "macro": 0.0008597837128232619,
+      "fires": 97,
+      "net_corrected": -228539,
+      "fire_precision": 0.0,
+      "good": 0,
+      "bad": 56,
+      "ties": 41
+    },
+    "audit95": {
+      "macro": 0.006292400294124029,
+      "fires": 72,
+      "net_corrected": -226005,
+      "fire_precision": 0.0,
+      "good": 0,
+      "bad": 50,
+      "ties": 22
+    },
+    "cal95": {
+      "macro": 0.2780886302938533,
+      "fires": 32,
+      "net_corrected": -12453,
+      "fire_precision": 0.09375,
+      "good": 3,
+      "bad": 8,
+      "ties": 21
+    },
+    "cal_maj": {
+      "macro": 0.014759030205701473,
+      "fires": 257,
+      "net_corrected": -211039,
+      "fire_precision": 0.08949416342412451,
+      "good": 23,
+      "bad": 58,
+      "ties": 176
+    },
+    "plac95_q0.1": {
+      "macro": 0.27728754181690407,
+      "fires": 37,
+      "net_corrected": -11319,
+      "fire_precision": 0.08108108108108109,
+      "good": 3,
+      "bad": 7,
+      "ties": 27
+    },
+    "plac95_q0.25": {
+      "macro": 0.28240024527887386,
+      "fires": 31,
+      "net_corrected": -12455,
+      "fire_precision": 0.06451612903225806,
+      "good": 2,
+      "bad": 8,
+      "ties": 21
+    },
+    "placmaj_q0.25": {
+      "macro": 0.014168787827607086,
+      "fires": 257,
+      "net_corrected": -218203,
+      "fire_precision": 0.06614785992217899,
+      "good": 17,
+      "bad": 58,
+      "ties": 182
+    },
+    "plac_gate95_q0.25": {
+      "macro": 0.3287566907938938,
+      "fires": 21,
+      "net_corrected": 692,
+      "fire_precision": 0.09523809523809523,
+      "good": 2,
+      "bad": 5,
+      "ties": 14
+    },
+    "plac95_q0.5": {
+      "macro": 0.2825884330318911,
+      "fires": 32,
+      "net_corrected": -12453,
+      "fire_precision": 0.09375,
+      "good": 3,
+      "bad": 8,
+      "ties": 21
+    },
+    "incb95_q0.25": {
+      "macro": 0.27941000749629036,
+      "fires": 36,
+      "net_corrected": -15357,
+      "fire_precision": 0.05555555555555555,
+      "good": 2,
+      "bad": 9,
+      "ties": 25
+    },
+    "resid95_q0.25": {
+      "macro": 0.2477251199020684,
+      "fires": 49,
+      "net_corrected": -25357,
+      "fire_precision": 0.10204081632653061,
+      "good": 5,
+      "bad": 12,
+      "ties": 32
+    },
+    "witness_top1_mean": {
+      "macro": 0.0008608046035899369,
+      "fires": 97,
+      "net_corrected": -228539,
+      "fire_precision": 0.0,
+      "good": 0,
+      "bad": 56,
+      "ties": 41
+    },
+    "witness_top1_max": {
+      "macro": 0.005189132841950175,
+      "fires": 248,
+      "net_corrected": -222144,
+      "fire_precision": 0.04032258064516129,
+      "good": 10,
+      "bad": 56,
+      "ties": 182
+    },
+    "witness_top1_top3": {
+      "macro": 0.034495940671156966,
+      "fires": 238,
+      "net_corrected": -177495,
+      "fire_precision": 0.06722689075630252,
+      "good": 16,
+      "bad": 56,
+      "ties": 166
+    },
+    "witness_top1_wmean": {
+      "macro": 0.0010056923547522084,
+      "fires": 106,
+      "net_corrected": -228362,
+      "fire_precision": 0.02830188679245283,
+      "good": 3,
+      "bad": 55,
+      "ties": 48
+    }
+  },
+  "diagnostics": {
+    "mean": {
+      "auditable": 262,
+      "mode": "mean",
+      "baseline_correct_roots": 48,
+      "baseline_wrong_roots": 187,
+      "witness_disagree_on_correct": 46,
+      "witness_improves_on_wrong": 0,
+      "false_alarm_rate": 0.9583333333333334,
+      "detection_rate": 0.0
+    },
+    "max": {
+      "auditable": 262,
+      "mode": "max",
+      "baseline_correct_roots": 48,
+      "baseline_wrong_roots": 187,
+      "witness_disagree_on_correct": 44,
+      "witness_improves_on_wrong": 10,
+      "false_alarm_rate": 0.9166666666666666,
+      "detection_rate": 0.053475935828877004
+    },
+    "top3": {
+      "auditable": 262,
+      "mode": "top3",
+      "baseline_correct_roots": 48,
+      "baseline_wrong_roots": 187,
+      "witness_disagree_on_correct": 44,
+      "witness_improves_on_wrong": 16,
+      "false_alarm_rate": 0.9166666666666666,
+      "detection_rate": 0.0855614973262032
+    },
+    "wmean": {
+      "auditable": 262,
+      "mode": "wmean",
+      "baseline_correct_roots": 48,
+      "baseline_wrong_roots": 187,
+      "witness_disagree_on_correct": 46,
+      "witness_improves_on_wrong": 3,
+      "false_alarm_rate": 0.9583333333333334,
+      "detection_rate": 0.016042780748663103
+    }
+  }
+}

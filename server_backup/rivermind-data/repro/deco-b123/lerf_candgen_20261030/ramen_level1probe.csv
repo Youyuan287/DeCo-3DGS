@@ -1,0 +1,16 @@
+scene,image,prompt,l2_5_n,l2_5_best,l1_5_n,l1_5_best,l1_10_n,l1_10_best
+ramen,frame_00006,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00024,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00024,corn,6,0.0,5,4.937198830871317e-05,11,4.937198830871317e-05
+ramen,frame_00060,corn,6,0.0,5,2.8049704075622e-05,11,2.8049704075622e-05
+ramen,frame_00060,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00065,corn,6,0.0,5,0.0011609907120743034,11,0.0011609907120743034
+ramen,frame_00065,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00081,napkin,5,0.2767402376910017,12,0.21625,19,0.21625
+ramen,frame_00081,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00119,corn,6,0.0,5,0.0,11,0.0
+ramen,frame_00119,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00128,corn,6,0.020454545454545454,5,0.0018473035665554087,11,0.0018473035665554087
+ramen,frame_00128,onion segments,5,0.0,5,0.0,10,0.0
+ramen,frame_00128,hand,7,0.0,15,0.0,31,0.10372028568382902
+ramen,frame_00128,napkin,5,0.0,12,0.0,19,0.000896607050162805

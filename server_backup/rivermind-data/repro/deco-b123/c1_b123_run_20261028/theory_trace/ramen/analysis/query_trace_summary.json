@@ -1,0 +1,10 @@
+{
+  "('ramen', 'none')": {
+    "n_query_region": 3472,
+    "n_multimode": 3360,
+    "n_query_prefers_minority": 2279,
+    "mean_slot_spread_multimode": 0.08200203362142756,
+    "mean_abs_fixed_minus_native": 0.022972769747715668,
+    "mean_abs_adaptive_minus_fixed": 0.00949086865178451
+  }
+}

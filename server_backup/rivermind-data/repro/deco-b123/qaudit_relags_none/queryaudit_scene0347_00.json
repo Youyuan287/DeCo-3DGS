@@ -1,0 +1,14 @@
+{
+  "scene": "scene0347_00",
+  "stats": {
+    "n_present": 7,
+    "audit_fire": 2,
+    "audit95_fire": 2,
+    "inc_size": 68,
+    "chal_size": 68
+  },
+  "baseline": 0.4830805131984586,
+  "always_chal": 0.3871228273966777,
+  "audit": 0.5160815741582085,
+  "audit95": 0.5160815741582085
+}

@@ -1,0 +1,127 @@
+scene,level,tau,prompt,n_sel,N,mean_u_sel,mean_u_all,q90_u
+figurines,1,0.6,jake,1311,39260,0.695402,0.24903,0.477094
+figurines,1,0.7,jake,526,39260,0.769653,0.24903,0.477094
+figurines,1,0.6,pirate hat,475,39260,0.729032,0.047011,0.17736
+figurines,1,0.7,pirate hat,270,39260,0.79237,0.047011,0.17736
+figurines,1,0.6,pikachu,144,39260,0.816301,0.007325,0.0
+figurines,1,0.7,pikachu,114,39260,0.858229,0.007325,0.0
+figurines,1,0.6,rubber duck with hat,240,39260,0.75739,0.014043,0.0
+figurines,1,0.7,rubber duck with hat,168,39260,0.806198,0.014043,0.0
+figurines,1,0.6,porcelain hand,45,39260,0.67999,0.005609,0.0
+figurines,1,0.7,porcelain hand,10,39260,0.817751,0.005609,0.0
+figurines,1,0.6,red apple,305,39260,0.718683,0.013533,0.0
+figurines,1,0.7,red apple,189,39260,0.757239,0.013533,0.0
+figurines,1,0.6,tesla door handle,779,39260,0.661633,0.121447,0.420842
+figurines,1,0.7,tesla door handle,141,39260,0.766363,0.121447,0.420842
+figurines,1,0.6,waldo,88,39260,0.891831,0.004773,0.0
+figurines,1,0.7,waldo,86,39260,0.897711,0.004773,0.0
+figurines,1,0.6,bag,81,39260,0.701811,0.032943,0.132336
+figurines,1,0.7,bag,30,39260,0.797653,0.032943,0.132336
+figurines,1,0.6,toy cat statue,484,39260,0.733668,0.045227,0.171507
+figurines,1,0.7,toy cat statue,277,39260,0.798368,0.045227,0.171507
+figurines,1,0.6,miffy,503,39260,0.711701,0.030313,0.017547
+figurines,1,0.7,miffy,246,39260,0.779457,0.030313,0.017547
+figurines,1,0.6,green apple,444,39260,0.836387,0.016793,0.0
+figurines,1,0.7,green apple,390,39260,0.862229,0.016793,0.0
+figurines,1,0.6,pumpkin,263,39260,0.694646,0.040529,0.15309
+figurines,1,0.7,pumpkin,96,39260,0.786669,0.040529,0.15309
+figurines,1,0.6,rubics cube,57,39260,0.728065,0.010556,0.0
+figurines,1,0.7,rubics cube,27,39260,0.824284,0.010556,0.0
+figurines,1,0.6,old camera,218,39260,0.771978,0.007986,0.0
+figurines,1,0.7,old camera,169,39260,0.806063,0.007986,0.0
+figurines,1,0.6,rubber duck with buoy,165,39260,0.733738,0.008294,0.0
+figurines,1,0.7,rubber duck with buoy,105,39260,0.783597,0.008294,0.0
+figurines,1,0.6,red toy chair,283,39260,0.734824,0.014608,0.0
+figurines,1,0.7,red toy chair,176,39260,0.791204,0.014608,0.0
+figurines,1,0.6,pink ice cream,451,39260,0.704794,0.021937,0.0
+figurines,1,0.7,pink ice cream,204,39260,0.770333,0.021937,0.0
+figurines,1,0.6,spatula,999,39260,0.682479,0.160766,0.433698
+figurines,1,0.7,spatula,315,39260,0.767997,0.160766,0.433698
+figurines,1,0.6,green toy chair,132,39260,0.663448,0.013418,0.0
+figurines,1,0.7,green toy chair,24,39260,0.78701,0.013418,0.0
+figurines,1,0.6,toy elephant,104,39260,0.724735,0.006859,0.0
+figurines,1,0.7,toy elephant,59,39260,0.784635,0.006859,0.0
+figurines,2,0.6,jake,846,39562,0.719805,0.208838,0.447472
+figurines,2,0.7,jake,401,39562,0.802256,0.208838,0.447472
+figurines,2,0.6,pirate hat,306,39562,0.671448,0.035494,0.09743
+figurines,2,0.7,pirate hat,75,39562,0.75552,0.035494,0.09743
+figurines,2,0.6,pikachu,162,39562,0.734282,0.016954,0.0
+figurines,2,0.7,pikachu,93,39562,0.794612,0.016954,0.0
+figurines,2,0.6,rubber duck with hat,617,39562,0.775126,0.017323,0.0
+figurines,2,0.7,rubber duck with hat,460,39562,0.814709,0.017323,0.0
+figurines,2,0.6,porcelain hand,216,39562,0.732434,0.006103,0.0
+figurines,2,0.7,porcelain hand,131,39562,0.782224,0.006103,0.0
+figurines,2,0.6,red apple,371,39562,0.802352,0.013446,0.0
+figurines,2,0.7,red apple,319,39562,0.825846,0.013446,0.0
+figurines,2,0.6,tesla door handle,326,39562,0.726115,0.079151,0.316016
+figurines,2,0.7,tesla door handle,180,39562,0.790794,0.079151,0.316016
+figurines,2,0.6,waldo,142,39562,0.76732,0.006345,0.0
+figurines,2,0.7,waldo,102,39562,0.814138,0.006345,0.0
+figurines,2,0.6,bag,41,39562,0.687291,0.021392,0.064261
+figurines,2,0.7,bag,13,39562,0.778588,0.021392,0.064261
+figurines,2,0.6,toy cat statue,157,39562,0.683668,0.024167,0.019027
+figurines,2,0.7,toy cat statue,41,39562,0.814156,0.024167,0.019027
+figurines,2,0.6,miffy,139,39562,0.712247,0.019011,0.0
+figurines,2,0.7,miffy,64,39562,0.793001,0.019011,0.0
+figurines,2,0.6,green apple,447,39562,0.848751,0.01556,0.0
+figurines,2,0.7,green apple,420,39562,0.861619,0.01556,0.0
+figurines,2,0.6,pumpkin,161,39562,0.665732,0.027054,0.072355
+figurines,2,0.7,pumpkin,26,39562,0.755346,0.027054,0.072355
+figurines,2,0.6,rubics cube,631,39562,0.75558,0.016215,0.0
+figurines,2,0.7,rubics cube,455,39562,0.795834,0.016215,0.0
+figurines,2,0.6,old camera,422,39562,0.771886,0.013643,0.0
+figurines,2,0.7,old camera,303,39562,0.820013,0.013643,0.0
+figurines,2,0.6,rubber duck with buoy,586,39562,0.758672,0.016044,0.0
+figurines,2,0.7,rubber duck with buoy,415,39562,0.802406,0.016044,0.0
+figurines,2,0.6,red toy chair,570,39562,0.779467,0.013566,0.0
+figurines,2,0.7,red toy chair,492,39562,0.799031,0.013566,0.0
+figurines,2,0.6,pink ice cream,264,39562,0.83949,0.008138,0.0
+figurines,2,0.7,pink ice cream,251,39562,0.849282,0.008138,0.0
+figurines,2,0.6,spatula,151,39562,0.728183,0.035058,0.151204
+figurines,2,0.7,spatula,86,39562,0.780781,0.035058,0.151204
+figurines,2,0.6,green toy chair,680,39562,0.774352,0.016953,0.0
+figurines,2,0.7,green toy chair,572,39562,0.795529,0.016953,0.0
+figurines,2,0.6,toy elephant,295,39562,0.791183,0.009763,0.0
+figurines,2,0.7,toy elephant,232,39562,0.82979,0.009763,0.0
+figurines,3,0.6,jake,697,38738,0.708526,0.171298,0.423322
+figurines,3,0.7,jake,276,38738,0.81304,0.171298,0.423322
+figurines,3,0.6,pirate hat,71,38738,0.69415,0.030102,0.12166
+figurines,3,0.7,pirate hat,28,38738,0.782576,0.030102,0.12166
+figurines,3,0.6,pikachu,300,38738,0.725398,0.026694,0.0
+figurines,3,0.7,pikachu,156,38738,0.796829,0.026694,0.0
+figurines,3,0.6,rubber duck with hat,935,38738,0.77365,0.02134,0.0
+figurines,3,0.7,rubber duck with hat,732,38738,0.806684,0.02134,0.0
+figurines,3,0.6,porcelain hand,164,38738,0.731896,0.005116,0.0
+figurines,3,0.7,porcelain hand,91,38738,0.796491,0.005116,0.0
+figurines,3,0.6,red apple,487,38738,0.790498,0.015151,0.0
+figurines,3,0.7,red apple,416,38738,0.810799,0.015151,0.0
+figurines,3,0.6,tesla door handle,481,38738,0.733418,0.072959,0.287911
+figurines,3,0.7,tesla door handle,271,38738,0.804418,0.072959,0.287911
+figurines,3,0.6,waldo,173,38738,0.851634,0.009367,0.0
+figurines,3,0.7,waldo,157,38738,0.870888,0.009367,0.0
+figurines,3,0.6,bag,74,38738,0.712783,0.023909,0.081209
+figurines,3,0.7,bag,35,38738,0.77668,0.023909,0.081209
+figurines,3,0.6,toy cat statue,200,38738,0.71515,0.016986,0.0
+figurines,3,0.7,toy cat statue,110,38738,0.769412,0.016986,0.0
+figurines,3,0.6,miffy,109,38738,0.738008,0.014751,0.0
+figurines,3,0.7,miffy,54,38738,0.83224,0.014751,0.0
+figurines,3,0.6,green apple,628,38738,0.866293,0.015974,0.0
+figurines,3,0.7,green apple,610,38738,0.872566,0.015974,0.0
+figurines,3,0.6,pumpkin,304,38738,0.705743,0.022625,0.0
+figurines,3,0.7,pumpkin,131,38738,0.7757,0.022625,0.0
+figurines,3,0.6,rubics cube,719,38738,0.791623,0.019136,0.0
+figurines,3,0.7,rubics cube,642,38738,0.807485,0.019136,0.0
+figurines,3,0.6,old camera,625,38738,0.722091,0.023934,0.0
+figurines,3,0.7,old camera,339,38738,0.782568,0.023934,0.0
+figurines,3,0.6,rubber duck with buoy,867,38738,0.772763,0.020107,0.0
+figurines,3,0.7,rubber duck with buoy,607,38738,0.82585,0.020107,0.0
+figurines,3,0.6,red toy chair,635,38738,0.819619,0.016083,0.0
+figurines,3,0.7,red toy chair,588,38738,0.832465,0.016083,0.0
+figurines,3,0.6,pink ice cream,253,38738,0.823929,0.006542,0.0
+figurines,3,0.7,pink ice cream,236,38738,0.835596,0.006542,0.0
+figurines,3,0.6,spatula,128,38738,0.758553,0.007513,0.0
+figurines,3,0.7,spatula,96,38738,0.794605,0.007513,0.0
+figurines,3,0.6,green toy chair,794,38738,0.802762,0.02083,0.0
+figurines,3,0.7,green toy chair,745,38738,0.812394,0.02083,0.0
+figurines,3,0.6,toy elephant,356,38738,0.798982,0.011519,0.0
+figurines,3,0.7,toy elephant,269,38738,0.848615,0.011519,0.0

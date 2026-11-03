@@ -1,0 +1,27 @@
+{
+  "arm": "selected_absolute_reliable",
+  "bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+  "members": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.members.json",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen/sai_nag.pt",
+  "observation": "/root/rivermind-data/repro/deco-b123/official_nag_export_20261028/observations_level3.npz",
+  "protocol": {
+    "M2": "reliable",
+    "center": "image",
+    "coefficient": 0.25,
+    "filter_small": 50,
+    "level_until": 3,
+    "renorm": 0,
+    "sel": "gap",
+    "temperature": 0.08,
+    "text": "canon",
+    "topk": 5
+  },
+  "scene": "ramen",
+  "sha256": {
+    "BANK": "73e4511df01725fb7b6e6ed235971c509434aa6603d1aaf233eba5cdd6f54aa1",
+    "EVAL": "c1e1a020bcb738c6d076ee2014da5a8d99af4fc47c7e39356420790724039506",
+    "MEMBERS": "4c13c7778e664a2f4f4e127c33de6f82d8bc93e906b64eb9925baef658cd0d12",
+    "NAG": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "OBS": "6ae30f6e03b01177b14e900a447d71ee788ef57a31cac9909b0abf0d33358232"
+  }
+}

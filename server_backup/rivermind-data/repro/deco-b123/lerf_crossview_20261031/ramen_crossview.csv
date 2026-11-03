@@ -1,0 +1,15 @@
+scene,cat,n_views,same_cos_med,n_same_pairs,diff_cos_med,retr_top1,retr_top3,retr_top5,retr_n
+ramen,ALL,14,0.6293340921401978,173,0.5625436305999756,0.11560693641618497,0.2976878612716763,0.38439306358381503,346
+ramen,bowl,5,0.7454894483089447,,,,,,
+ramen,chopsticks,7,0.7268238067626953,,,,,,
+ramen,corn,5,0.4967832714319229,,,,,,
+ramen,egg,7,0.5310558080673218,,,,,,
+ramen,glass of water,2,0.8529210090637207,,,,,,
+ramen,kamaboko,7,0.5431538224220276,,,,,,
+ramen,napkin,5,0.7103846371173859,,,,,,
+ramen,nori,6,0.6109801530838013,,,,,,
+ramen,onion segments,7,0.494547963142395,,,,,,
+ramen,plate,4,0.7494274973869324,,,,,,
+ramen,sake cup,6,0.9126503467559814,,,,,,
+ramen,spoon,2,0.7072877883911133,,,,,,
+ramen,wavy noodles,7,0.542472243309021,,,,,,

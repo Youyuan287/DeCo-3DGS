@@ -1,0 +1,43 @@
+scene,level,prompt,n_sel,margin,spread,score
+teatime,1,sheep,1589,0.18471,0.08106,0.67918
+teatime,1,yellow pouf,267,0.2583,0.24532,0.60654
+teatime,1,stuffed bear,4067,0.34961,0.1244,0.73781
+teatime,1,coffee mug,196,0.27505,0.02587,0.67439
+teatime,1,tea in a glass,83,0.27335,0.02962,0.58687
+teatime,1,apple,698,0.17181,0.0166,0.68403
+teatime,1,coffee,259,0.1171,0.02897,0.64268
+teatime,1,hooves,5625,0.21293,0.10612,0.69541
+teatime,1,bear nose,17272,0.30486,0.15947,0.81904
+teatime,1,dall-e brand,552,0.32548,0.02088,0.81985
+teatime,1,plate,774,0.1902,0.06649,0.68284
+teatime,1,paper napkin,492,0.21135,0.07024,0.62904
+teatime,1,three cookies,1709,0.25812,0.0315,0.58838
+teatime,1,bag of cookies,976,0.28689,0.0306,0.64668
+teatime,2,sheep,4109,0.23865,0.08388,0.71593
+teatime,2,yellow pouf,142,0.3547,0.12363,0.68444
+teatime,2,stuffed bear,8202,0.401,0.14498,0.7793
+teatime,2,coffee mug,601,0.29341,0.02457,0.68803
+teatime,2,tea in a glass,979,0.37509,0.02807,0.70832
+teatime,2,apple,698,0.18005,0.01554,0.68416
+teatime,2,coffee,1272,0.13343,0.04002,0.66332
+teatime,2,hooves,9656,0.21387,0.12998,0.69295
+teatime,2,bear nose,22996,0.30921,0.13416,0.77415
+teatime,2,dall-e brand,625,0.31009,0.02046,0.80544
+teatime,2,plate,907,0.19894,0.08348,0.68128
+teatime,2,paper napkin,1271,0.24434,0.02454,0.6431
+teatime,2,three cookies,1982,0.34529,0.0264,0.67798
+teatime,2,bag of cookies,879,0.39809,0.01731,0.7769
+teatime,3,sheep,5514,0.27686,0.10501,0.74358
+teatime,3,yellow pouf,169,0.38709,0.13841,0.71301
+teatime,3,stuffed bear,20955,0.42481,0.16546,0.76378
+teatime,3,coffee mug,729,0.29208,0.03005,0.68562
+teatime,3,tea in a glass,1297,0.40681,0.03154,0.72403
+teatime,3,apple,696,0.18596,0.01784,0.67323
+teatime,3,coffee,854,0.15456,0.02715,0.69979
+teatime,3,hooves,1397,0.19505,0.1472,0.68569
+teatime,3,bear nose,10453,0.29029,0.09892,0.78047
+teatime,3,dall-e brand,575,0.294,0.02568,0.7822
+teatime,3,plate,725,0.22362,0.06734,0.68147
+teatime,3,paper napkin,775,0.32572,0.01453,0.72259
+teatime,3,three cookies,2049,0.38274,0.02966,0.70642
+teatime,3,bag of cookies,1709,0.43917,0.02279,0.78729

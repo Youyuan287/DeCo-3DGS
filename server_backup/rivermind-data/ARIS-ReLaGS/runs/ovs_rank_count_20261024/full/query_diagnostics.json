@@ -1,0 +1,855 @@
+[
+  {
+    "prompt": "old camera",
+    "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ]
+        ],
+        "gaussian_union_sha256": "73d5de0346c846a6b690509660f6321f7aa6e8afe6da46ca481054163e3d5664",
+        "gaussian_count": 2557,
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            8,
+            8,
+            0.5855990052223206,
+            2557
+          ]
+        ],
+        "gaussian_union_sha256": "73d5de0346c846a6b690509660f6321f7aa6e8afe6da46ca481054163e3d5664",
+        "gaussian_count": 2557,
+        "pool_sha256": "f4f5799cc2149cc8e2bf827c68a24a6b1ba41fe327c79a2cc1c68a02264699d5"
+      }
+    }
+  },
+  {
+    "prompt": "toy elephant",
+    "pool_sha256": "23c8e6452b672a2982b8d728b0f19513cf758e0fd2446bed6a4a088f7d6b480d",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            14,
+            14,
+            0.587986409664154,
+            1760
+          ]
+        ],
+        "gaussian_union_sha256": "8325aa30535fb9989c87dc0b8dbc0a6a1a1ebad71530194bfe46b5b59a20fe9e",
+        "gaussian_count": 1760,
+        "pool_sha256": "23c8e6452b672a2982b8d728b0f19513cf758e0fd2446bed6a4a088f7d6b480d"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            14,
+            14,
+            0.587986409664154,
+            1760
+          ]
+        ],
+        "gaussian_union_sha256": "8325aa30535fb9989c87dc0b8dbc0a6a1a1ebad71530194bfe46b5b59a20fe9e",
+        "gaussian_count": 1760,
+        "pool_sha256": "23c8e6452b672a2982b8d728b0f19513cf758e0fd2446bed6a4a088f7d6b480d"
+      }
+    }
+  },
+  {
+    "prompt": "waldo",
+    "pool_sha256": "93f5fc0d5c5c1b89defff6187eebbfc4d04d327a72452433f8a9cd7f091535ea",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            17,
+            56,
+            0.5774943232536316,
+            47
+          ]
+        ],
+        "gaussian_union_sha256": "bbb181e5d9c3ebf73438e2cf7edd8a7db3b8cad3f061d1b7e0acc81edc0a6e40",
+        "gaussian_count": 47,
+        "pool_sha256": "93f5fc0d5c5c1b89defff6187eebbfc4d04d327a72452433f8a9cd7f091535ea"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            17,
+            56,
+            0.5774943232536316,
+            47
+          ]
+        ],
+        "gaussian_union_sha256": "bbb181e5d9c3ebf73438e2cf7edd8a7db3b8cad3f061d1b7e0acc81edc0a6e40",
+        "gaussian_count": 47,
+        "pool_sha256": "93f5fc0d5c5c1b89defff6187eebbfc4d04d327a72452433f8a9cd7f091535ea"
+      }
+    }
+  },
+  {
+    "prompt": "tesla door handle",
+    "pool_sha256": "343a49130eb1263f5c21e56ae8992fe6b749450b4b739636e78e272fd925e664",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            74,
+            132,
+            0.4918801188468933,
+            114
+          ],
+          [
+            3,
+            161,
+            161,
+            0.46258851885795593,
+            179
+          ],
+          [
+            2,
+            29,
+            38,
+            0.4843624532222748,
+            2331
+          ]
+        ],
+        "gaussian_union_sha256": "668c296fda103a47b2a3bcddf207052ef43a2ab17ca9bc553484c375604d4249",
+        "gaussian_count": 2624,
+        "pool_sha256": "343a49130eb1263f5c21e56ae8992fe6b749450b4b739636e78e272fd925e664"
+      },
+      "rank0_count1": {
+        "selected": [],
+        "gaussian_union_sha256": "6d1ff3b7eac060df7d294bd587d1c70bbabfd3c7135cf378d57e6971a651fd01",
+        "gaussian_count": 0,
+        "pool_sha256": "343a49130eb1263f5c21e56ae8992fe6b749450b4b739636e78e272fd925e664"
+      }
+    }
+  },
+  {
+    "prompt": "porcelain hand",
+    "pool_sha256": "5c7dc54e0aea334b7275ac8b6d06665211b2721ddd888ba7451b6a41f717a43b",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            77,
+            77,
+            0.5955104827880859,
+            75
+          ]
+        ],
+        "gaussian_union_sha256": "11a66ca7b6b715fde9f451936d895ca160c4f0cd41d1cbfc02ca712d7698c3f4",
+        "gaussian_count": 75,
+        "pool_sha256": "5c7dc54e0aea334b7275ac8b6d06665211b2721ddd888ba7451b6a41f717a43b"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            77,
+            77,
+            0.5955104827880859,
+            75
+          ]
+        ],
+        "gaussian_union_sha256": "11a66ca7b6b715fde9f451936d895ca160c4f0cd41d1cbfc02ca712d7698c3f4",
+        "gaussian_count": 75,
+        "pool_sha256": "5c7dc54e0aea334b7275ac8b6d06665211b2721ddd888ba7451b6a41f717a43b"
+      }
+    }
+  },
+  {
+    "prompt": "rubber duck with hat",
+    "pool_sha256": "414240b7175a2b87de14ba36989816c6bef84df1bc8c396dba4853765c93b0cf",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            46,
+            75,
+            0.7428797483444214,
+            370
+          ],
+          [
+            3,
+            51,
+            51,
+            0.712017297744751,
+            1645
+          ],
+          [
+            2,
+            46,
+            64,
+            0.7027770280838013,
+            693
+          ]
+        ],
+        "gaussian_union_sha256": "94a89304e2c6f24d05d2c9f12d3dba5b9e5e27e1d5686b2cfc960a9193ef625d",
+        "gaussian_count": 2708,
+        "pool_sha256": "414240b7175a2b87de14ba36989816c6bef84df1bc8c396dba4853765c93b0cf"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            46,
+            75,
+            0.7428797483444214,
+            370
+          ]
+        ],
+        "gaussian_union_sha256": "95573e1a3bd8b3980ed21e4d394711f1aaaadd72d0f5a405d39fc147d9fbed2a",
+        "gaussian_count": 370,
+        "pool_sha256": "414240b7175a2b87de14ba36989816c6bef84df1bc8c396dba4853765c93b0cf"
+      }
+    }
+  },
+  {
+    "prompt": "rubber duck with buoy",
+    "pool_sha256": "2a7e213348203b12fd83da5401ffd2587f77f8b2b35f32537732e87cd2343719",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            51,
+            51,
+            0.6291050910949707,
+            1645
+          ],
+          [
+            2,
+            46,
+            75,
+            0.6396176218986511,
+            370
+          ]
+        ],
+        "gaussian_union_sha256": "c026c7a614b29889543b7e805c4754fb8426ebecd2494d2491496b21ca55f6e7",
+        "gaussian_count": 2015,
+        "pool_sha256": "2a7e213348203b12fd83da5401ffd2587f77f8b2b35f32537732e87cd2343719"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            46,
+            75,
+            0.6396176218986511,
+            370
+          ],
+          [
+            3,
+            51,
+            51,
+            0.6291050910949707,
+            1645
+          ]
+        ],
+        "gaussian_union_sha256": "c026c7a614b29889543b7e805c4754fb8426ebecd2494d2491496b21ca55f6e7",
+        "gaussian_count": 2015,
+        "pool_sha256": "2a7e213348203b12fd83da5401ffd2587f77f8b2b35f32537732e87cd2343719"
+      }
+    }
+  },
+  {
+    "prompt": "pink ice cream",
+    "pool_sha256": "8fbe5953b4ba23c3ba4bd4ac4ade908ceb62cb53a1d48de5a5cbfb6af2cd4132",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            60,
+            90,
+            0.6077383160591125,
+            561
+          ]
+        ],
+        "gaussian_union_sha256": "a0283cf0a9630dd2db92f49cb820d9276729e17a18c95b214051da9295a6adf0",
+        "gaussian_count": 561,
+        "pool_sha256": "8fbe5953b4ba23c3ba4bd4ac4ade908ceb62cb53a1d48de5a5cbfb6af2cd4132"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            60,
+            90,
+            0.6077383160591125,
+            561
+          ]
+        ],
+        "gaussian_union_sha256": "a0283cf0a9630dd2db92f49cb820d9276729e17a18c95b214051da9295a6adf0",
+        "gaussian_count": 561,
+        "pool_sha256": "8fbe5953b4ba23c3ba4bd4ac4ade908ceb62cb53a1d48de5a5cbfb6af2cd4132"
+      }
+    }
+  },
+  {
+    "prompt": "red toy chair",
+    "pool_sha256": "ad62af644f66cbb25f7d53e8ef454567a5259b2b8d021f67cbe85d2ada88c0b3",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            48,
+            48,
+            0.6615933775901794,
+            1145
+          ]
+        ],
+        "gaussian_union_sha256": "009b868255ee733f8d9f2cf4fef4965f819aa0cf61504fb5bf760a9ad53bcaa5",
+        "gaussian_count": 1145,
+        "pool_sha256": "ad62af644f66cbb25f7d53e8ef454567a5259b2b8d021f67cbe85d2ada88c0b3"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            48,
+            48,
+            0.6615933775901794,
+            1145
+          ]
+        ],
+        "gaussian_union_sha256": "009b868255ee733f8d9f2cf4fef4965f819aa0cf61504fb5bf760a9ad53bcaa5",
+        "gaussian_count": 1145,
+        "pool_sha256": "ad62af644f66cbb25f7d53e8ef454567a5259b2b8d021f67cbe85d2ada88c0b3"
+      }
+    }
+  },
+  {
+    "prompt": "green apple",
+    "pool_sha256": "3919c88dc9850994b2ee1ac9a8b0a2041de6b5bd18c193ebe0e1e84a085723b0",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            24,
+            24,
+            0.7046892642974854,
+            1974
+          ]
+        ],
+        "gaussian_union_sha256": "7c80cd18eae19f405399142b8205266de2e6bad200a41555ea5c0f927806aee2",
+        "gaussian_count": 1974,
+        "pool_sha256": "3919c88dc9850994b2ee1ac9a8b0a2041de6b5bd18c193ebe0e1e84a085723b0"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            24,
+            24,
+            0.7046892642974854,
+            1974
+          ]
+        ],
+        "gaussian_union_sha256": "7c80cd18eae19f405399142b8205266de2e6bad200a41555ea5c0f927806aee2",
+        "gaussian_count": 1974,
+        "pool_sha256": "3919c88dc9850994b2ee1ac9a8b0a2041de6b5bd18c193ebe0e1e84a085723b0"
+      }
+    }
+  },
+  {
+    "prompt": "pikachu",
+    "pool_sha256": "5c64aeef78659c931804a8abc872af9c4761c9cde753c3585ae7ba1c5eda9bfd",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            28,
+            36,
+            0.5116159915924072,
+            1661
+          ],
+          [
+            3,
+            12,
+            12,
+            0.43430233001708984,
+            1501
+          ],
+          [
+            3,
+            51,
+            51,
+            0.4841204881668091,
+            1645
+          ],
+          [
+            2,
+            46,
+            64,
+            0.4998385012149811,
+            693
+          ]
+        ],
+        "gaussian_union_sha256": "3190f694afac55b1534be197b570fc0086f1a83b94b9599579a49d79d9879de1",
+        "gaussian_count": 5500,
+        "pool_sha256": "5c64aeef78659c931804a8abc872af9c4761c9cde753c3585ae7ba1c5eda9bfd"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            28,
+            36,
+            0.5116159915924072,
+            1661
+          ]
+        ],
+        "gaussian_union_sha256": "5d626ceb2ef06d9085ae888009d9317794f6b7f699492504a9bd6913ea3e825e",
+        "gaussian_count": 1661,
+        "pool_sha256": "5c64aeef78659c931804a8abc872af9c4761c9cde753c3585ae7ba1c5eda9bfd"
+      }
+    }
+  },
+  {
+    "prompt": "red apple",
+    "pool_sha256": "530c8587bf40fc8fc52190d8dae56d4a3445258604e17dbe559940bdf6bbe717",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            43,
+            43,
+            0.631168007850647,
+            1531
+          ]
+        ],
+        "gaussian_union_sha256": "f23a6d0d9f374a2d5c622245ec0fa48810dfff1c9421b0c8ad2927599a789b1a",
+        "gaussian_count": 1531,
+        "pool_sha256": "530c8587bf40fc8fc52190d8dae56d4a3445258604e17dbe559940bdf6bbe717"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            43,
+            43,
+            0.631168007850647,
+            1531
+          ],
+          [
+            2,
+            48,
+            69,
+            0.47979292273521423,
+            1098
+          ],
+          [
+            3,
+            24,
+            24,
+            0.4494308531284332,
+            1974
+          ]
+        ],
+        "gaussian_union_sha256": "d7fc73d1a9fcf150d3e42b2cdc1dc46f3ab226853ebc6f542cbb4eb99d7e7c34",
+        "gaussian_count": 4603,
+        "pool_sha256": "530c8587bf40fc8fc52190d8dae56d4a3445258604e17dbe559940bdf6bbe717"
+      }
+    }
+  },
+  {
+    "prompt": "spatula",
+    "pool_sha256": "1f4c7950c06e706be07150fba940f0e0077eb9c41e92e95dcabd540a494141ea",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            30,
+            30,
+            0.5676143765449524,
+            342
+          ],
+          [
+            3,
+            41,
+            41,
+            0.5187443494796753,
+            145
+          ],
+          [
+            2,
+            59,
+            88,
+            0.5456825494766235,
+            1278
+          ]
+        ],
+        "gaussian_union_sha256": "d4cd9a3b2584bca6d70e9edbeb4ca7661bb773fda43a543ce274f5d4c93cc9d4",
+        "gaussian_count": 1765,
+        "pool_sha256": "1f4c7950c06e706be07150fba940f0e0077eb9c41e92e95dcabd540a494141ea"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            30,
+            30,
+            0.5676143765449524,
+            342
+          ]
+        ],
+        "gaussian_union_sha256": "eb4e5e21af9a77423191f1e44786ae1a4a4a4670ac788cc4452415dd6a66613d",
+        "gaussian_count": 342,
+        "pool_sha256": "1f4c7950c06e706be07150fba940f0e0077eb9c41e92e95dcabd540a494141ea"
+      }
+    }
+  },
+  {
+    "prompt": "jake",
+    "pool_sha256": "e1095a4f5c5826e167b985d099dcebb82ddb0fdee374ca2ba74386fd3d076c9f",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            28,
+            426,
+            0.5467868447303772,
+            22
+          ],
+          [
+            2,
+            28,
+            36,
+            0.5522704720497131,
+            1661
+          ],
+          [
+            3,
+            67,
+            67,
+            0.5418028831481934,
+            658
+          ],
+          [
+            2,
+            28,
+            199,
+            0.5487759709358215,
+            19
+          ],
+          [
+            3,
+            51,
+            51,
+            0.5384216904640198,
+            1645
+          ]
+        ],
+        "gaussian_union_sha256": "d324bcc1983d8f1cdeead825d06a280c0d26fb52bf2102d194c108329152333a",
+        "gaussian_count": 4005,
+        "pool_sha256": "e1095a4f5c5826e167b985d099dcebb82ddb0fdee374ca2ba74386fd3d076c9f"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            28,
+            36,
+            0.5522704720497131,
+            1661
+          ],
+          [
+            2,
+            28,
+            199,
+            0.5487759709358215,
+            19
+          ]
+        ],
+        "gaussian_union_sha256": "0a22a829b320250ee087b45a50483592472cec4bd15adc0a4b4a3962a35968d6",
+        "gaussian_count": 1680,
+        "pool_sha256": "e1095a4f5c5826e167b985d099dcebb82ddb0fdee374ca2ba74386fd3d076c9f"
+      }
+    }
+  },
+  {
+    "prompt": "toy cat statue",
+    "pool_sha256": "1b571a0a6cafd0c68ffb1c86ceb4e8ea70d1050ed5e94551983bbd99c7818cce",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            49,
+            49,
+            0.5033935904502869,
+            1282
+          ]
+        ],
+        "gaussian_union_sha256": "8e292c22a066eae466f61798d30270df6778f33433ee9d987284fa841a3e1f63",
+        "gaussian_count": 1282,
+        "pool_sha256": "1b571a0a6cafd0c68ffb1c86ceb4e8ea70d1050ed5e94551983bbd99c7818cce"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            49,
+            49,
+            0.5033935904502869,
+            1282
+          ]
+        ],
+        "gaussian_union_sha256": "8e292c22a066eae466f61798d30270df6778f33433ee9d987284fa841a3e1f63",
+        "gaussian_count": 1282,
+        "pool_sha256": "1b571a0a6cafd0c68ffb1c86ceb4e8ea70d1050ed5e94551983bbd99c7818cce"
+      }
+    }
+  },
+  {
+    "prompt": "pirate hat",
+    "pool_sha256": "bfcfa5ca12f6a808284441a755aa201fe8b40562985345350f8cf6561f7a0566",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            49,
+            70,
+            0.4267768859863281,
+            1102
+          ]
+        ],
+        "gaussian_union_sha256": "18e126f47a4978a242bd17622b03a3723259beec5cca078001b2db229207f256",
+        "gaussian_count": 1102,
+        "pool_sha256": "bfcfa5ca12f6a808284441a755aa201fe8b40562985345350f8cf6561f7a0566"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            46,
+            75,
+            0.469789057970047,
+            370
+          ]
+        ],
+        "gaussian_union_sha256": "95573e1a3bd8b3980ed21e4d394711f1aaaadd72d0f5a405d39fc147d9fbed2a",
+        "gaussian_count": 370,
+        "pool_sha256": "bfcfa5ca12f6a808284441a755aa201fe8b40562985345350f8cf6561f7a0566"
+      }
+    }
+  },
+  {
+    "prompt": "miffy",
+    "pool_sha256": "868f6bfe5d851a225029efb0b3d76acb386b517353e885c9e45867f4a20c4d3e",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            7,
+            11,
+            0.38885122537612915,
+            12097
+          ],
+          [
+            3,
+            68,
+            68,
+            0.40530523657798767,
+            277
+          ]
+        ],
+        "gaussian_union_sha256": "5354045784c764cd3d8ecf41f2cec4283219e1697ddfab475859a4b2b333d631",
+        "gaussian_count": 12374,
+        "pool_sha256": "868f6bfe5d851a225029efb0b3d76acb386b517353e885c9e45867f4a20c4d3e"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            68,
+            68,
+            0.40530523657798767,
+            277
+          ]
+        ],
+        "gaussian_union_sha256": "a340c53f37cae7f7455211208ed34d4a518428a8ed67335e445f4425fa85c639",
+        "gaussian_count": 277,
+        "pool_sha256": "868f6bfe5d851a225029efb0b3d76acb386b517353e885c9e45867f4a20c4d3e"
+      }
+    }
+  },
+  {
+    "prompt": "rubics cube",
+    "pool_sha256": "dd4b01c706f09abfe632118b6134e575b55b7c919d464156c94407c1b2b8da64",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            45,
+            63,
+            0.5719881057739258,
+            1681
+          ]
+        ],
+        "gaussian_union_sha256": "4601e9e2e8ed64116972bf4933dd669aba8e7bb58babeaf046e7d47a0090f7b9",
+        "gaussian_count": 1681,
+        "pool_sha256": "dd4b01c706f09abfe632118b6134e575b55b7c919d464156c94407c1b2b8da64"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            45,
+            63,
+            0.5719881057739258,
+            1681
+          ]
+        ],
+        "gaussian_union_sha256": "4601e9e2e8ed64116972bf4933dd669aba8e7bb58babeaf046e7d47a0090f7b9",
+        "gaussian_count": 1681,
+        "pool_sha256": "dd4b01c706f09abfe632118b6134e575b55b7c919d464156c94407c1b2b8da64"
+      }
+    }
+  },
+  {
+    "prompt": "green toy chair",
+    "pool_sha256": "f00a52e5bd289e9b69ec78263b26ddc9ddaae638963d0cd5b744cbd2044e2b43",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            3,
+            18,
+            18,
+            0.6439523696899414,
+            1666
+          ]
+        ],
+        "gaussian_union_sha256": "6fa010b9686db1af36b3911fa61cfae22ff9647e69db14e5f1dd9cffa923f2e2",
+        "gaussian_count": 1666,
+        "pool_sha256": "f00a52e5bd289e9b69ec78263b26ddc9ddaae638963d0cd5b744cbd2044e2b43"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            3,
+            18,
+            18,
+            0.6439523696899414,
+            1666
+          ]
+        ],
+        "gaussian_union_sha256": "6fa010b9686db1af36b3911fa61cfae22ff9647e69db14e5f1dd9cffa923f2e2",
+        "gaussian_count": 1666,
+        "pool_sha256": "f00a52e5bd289e9b69ec78263b26ddc9ddaae638963d0cd5b744cbd2044e2b43"
+      }
+    }
+  },
+  {
+    "prompt": "pumpkin",
+    "pool_sha256": "1b439668e75b9afc4c86a657a7a4ce9157286ead1fd0ebf312980067b667cb01",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            24,
+            31,
+            0.45717236399650574,
+            1944
+          ],
+          [
+            3,
+            47,
+            47,
+            0.43707436323165894,
+            3840
+          ]
+        ],
+        "gaussian_union_sha256": "aaea967e08e1bd98163b6b6f5f88e4747eee338c4acff522bb281013bb425e3d",
+        "gaussian_count": 5784,
+        "pool_sha256": "1b439668e75b9afc4c86a657a7a4ce9157286ead1fd0ebf312980067b667cb01"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            24,
+            31,
+            0.45717236399650574,
+            1944
+          ]
+        ],
+        "gaussian_union_sha256": "bebdb03e774937c0c67e3b3cbfc490419618888aeb65ab66ba733974d6e08b94",
+        "gaussian_count": 1944,
+        "pool_sha256": "1b439668e75b9afc4c86a657a7a4ce9157286ead1fd0ebf312980067b667cb01"
+      }
+    }
+  },
+  {
+    "prompt": "bag",
+    "pool_sha256": "0ab92fbf1fc7c92b739d74e15690ba6361bd6bf102d8525c0d4ca0deb332ebfa",
+    "modes": {
+      "rank1_count0": {
+        "selected": [
+          [
+            2,
+            12,
+            17,
+            0.45458751916885376,
+            1486
+          ],
+          [
+            3,
+            91,
+            91,
+            0.4932945966720581,
+            192
+          ]
+        ],
+        "gaussian_union_sha256": "cfd5c31c08c310e9104ba25094e78ca97756971489088c09989ece767461fbd2",
+        "gaussian_count": 1678,
+        "pool_sha256": "0ab92fbf1fc7c92b739d74e15690ba6361bd6bf102d8525c0d4ca0deb332ebfa"
+      },
+      "rank0_count1": {
+        "selected": [
+          [
+            2,
+            103,
+            264,
+            0.5579057335853577,
+            174
+          ]
+        ],
+        "gaussian_union_sha256": "f92bc3187982972178cbaee461a75c76925483e370f4689fb49a66457c0614f6",
+        "gaussian_count": 174,
+        "pool_sha256": "0ab92fbf1fc7c92b739d74e15690ba6361bd6bf102d8525c0d4ca0deb332ebfa"
+      }
+    }
+  }
+]

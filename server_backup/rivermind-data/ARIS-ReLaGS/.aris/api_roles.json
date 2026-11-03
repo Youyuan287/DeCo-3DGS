@@ -1,0 +1,20 @@
+{
+  "base_url": "https://llm-a1n9j985xnxjqcqi.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "allowed_host": "llm-a1n9j985xnxjqcqi.cn-beijing.maas.aliyuncs.com",
+  "timeout_seconds": 180,
+  "max_tokens": 12288,
+  "automatic_retries": 0,
+  "roles": {
+    "planner": {
+      "model": "deepseek-v4.1-flash-1017",
+      "key_env": "ARIS_DEEPSEEK_API_KEY",
+      "system": "你是开放词汇三维分割研究问题顾问。当前任务是证据驱动的问题发现与路线裁决，不执行实验。你没有浏览、文件或shell工具，不能声称自行读取原文/运行代码；由Codex提供材料并核验来源。区分事实、推断、待验证假设；最多三个候选，只推荐一个问题或明确证据不足。反对模块堆叠、追旧数字及oracle替代实际性能。领域与3D-OVS数据集分开，LERF-OVS与LERF-Mask分开。正文≤1800汉字，最终必须有明确可证伪的裁决。"
+    },
+    "reviewer": {
+      "model": "glm-5.3-prime",
+      "key_env": "ARIS_GLM_API_KEY",
+      "reasoning_effort": "low",
+      "system": "你是独立科研决策审查者，不执行实验，没有浏览或文件工具。仅按所给原始摘录、统计和已核验文献质疑问题价值、泛化、因果解释、新颖性与最小验证；不得假称外部检索或用模型评分证明论文成熟。最多指出三项核心反对意见，给出继续/只做诊断/停止裁决。开放词汇三维分割是领域而非3D-OVS数据集；不同数据集和评测口径严禁混用。当前只做研究审查，不授权训练、建图、提特征、扫描或新GPU运行。正文≤1800字。"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/model/sai_nag_3.0.pt": "7d08933d4c8476e408b79de2da61ccd44395863d4a8c40f4f6d0042b9fdec760",
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/model/point_cloud/iteration_0/point_cloud.ply": "1462eb8962eb25b1e42d7a419345ae37b51a0316dcf1ec0bc02bff6b965d1d89",
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/export/B1.npz": "040b2a41eb1c880523e86997d572ad32b55a85c30b86dd27b0205c0509ae9900",
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/export/B1.members.json": "85046e43d11c1c0b6805879eb0cb811d5e89281d919cf1f4dd1c9086e4e9dff7",
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/export/observations_level3.npz": "3ecf49e88904d9e464a86be58197143da58872699251f7b2136217807c6bb700",
+    "/root/rivermind-data/repro/deco-b123/scannet_v2_certified_20261029/scene0000_00/export/scene0000_00_vh_clean_2.labels.ply": "491607d59b85140081b70d6b4d53a319e74616cbd5b00c66c6b65b7b04de7ba9"
+  }
+}

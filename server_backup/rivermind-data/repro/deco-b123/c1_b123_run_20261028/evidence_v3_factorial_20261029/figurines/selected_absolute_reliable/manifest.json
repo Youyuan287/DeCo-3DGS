@@ -1,0 +1,27 @@
+{
+  "arm": "selected_absolute_reliable",
+  "bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/figurines/B1.npz",
+  "members": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/figurines/B1.members.json",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/sai_nag.pt",
+  "observation": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/figurines/observations_level3.npz",
+  "protocol": {
+    "M2": "reliable",
+    "center": "image",
+    "coefficient": 0.25,
+    "filter_small": 50,
+    "level_until": 3,
+    "renorm": 0,
+    "sel": "gap",
+    "temperature": 0.08,
+    "text": "canon",
+    "topk": 5
+  },
+  "scene": "figurines",
+  "sha256": {
+    "BANK": "a25a25ae82ba4c02071a6c11b3b64f6daa102589828787e13b4c9e013ecc10a2",
+    "EVAL": "c1e1a020bcb738c6d076ee2014da5a8d99af4fc47c7e39356420790724039506",
+    "MEMBERS": "15073ab45b454d2b8c65ecbb48c1f5e4d4cdfffd897f6342d7789748d7d98ec3",
+    "NAG": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "OBS": "12fd22fc9df99730f90c7bc57219b475881f6d5bee29f07bc8edf6ac936e1844"
+  }
+}

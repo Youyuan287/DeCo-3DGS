@@ -1,0 +1,47 @@
+{
+  "role": "reviewer",
+  "model": "glm-5.3-prime",
+  "status": "ok",
+  "content": "# 审查意见\n\n## 口径核对\n\n- 主数据集LERF-OVS、单场景figurines、LERF-Mask未入表：符合约束。\n- 四组同NAG、同候选冻结、同evaluator、baseline与历史CSV逐条一致：候选冻结与泄漏防控基本到位。\n- 拆账核验：53对非空贡献-12.011619pp + 空转换+1.431278pp = -10.580341pp，与报告总差一致，空mask不是主要退化来源——这一解释性结论成立，“错误空输出解释”未发现。\n- flat vs 图内query均值口径已声明，spatial-permutation=+36.1pp口径与spatial-baseline一致（同为图像均值口径），可比较。\n\n## 发现的过度归因/口径问题\n\n1. **“真实对应优于置换”的推断被正确限定，但表述仍有滑移风险**。置换组沿用了原gap规则与乘法评分（置换的是proposal来源）。+36.1pp说明系统对proposal来源敏感、且真实对应确实承载query相关信息；但置换识别率16.6%本身已是低基线，16.6%→52.7%不能推出“空间核验信息有用”，只能推出“真实proposal携带query判别信息、乘法评分被其支配”。报告已部分声明，维持该限定即可，不升级为贡献声明——拟裁决已如此，合规。\n\n2. **pirate hat反例的表述基本严谨，但“全0 IoU”需一次独立复核**。八视角全局top1与(level2,id75) IoU全0且该候选7/8视角可见，意味着top1 proposal与可见真值区域完全不重叠——这在几何上异常（可能是proposal提取坐标/尺度bug而非“top1不可靠”）。在采信“top1否决假设有反例”之前，应人工可视化该query的top1 proposal与id75 mask一帧即可排除实现错误。这是证据链缺口，非结论否定。\n\n3. **red apple案例分析已正确拆分“排序”与“截断”两个效应**，这是本次最实质的进展。bag救回案例的“不能独占归因”声明正确。\n\n4. 统计上4改善/13退化/39不变是N=56的单场景配对结果，各pp差值无置信区间——报告未宣称显著性，但任何后续“spatial在某些query有效”的引申都缺功效支撑。缓存编码权重生成链缺失已如实声明。\n\n## 裁决评价\n\n“当前公式作为可部署改进失败、停止扩场景、不扫权重”与数据一致，无过度归因。方向调整（先离线归因、不加模块）合理。\n\n## 下一项最小决定性工作\n\n**离线缓存归因分桶，无需GPU、不改公式**：对21个query×56视图，逐条标记退化来源为三桶—— 摒弃/改选（pirate hat型）， 截断长度变化（red apple型，排序未变）， 真实排序恶化。输出各桶贡献pp。这决定否决证据设计走“修top1选择”还是“改截断规则”，是唯一分叉决策。同时人工可视化pirate hat一帧的top1 proposal vs id75，排除提取bug后该反例才可写入结论。\n\n**裁决：非阻塞**。上述三桶归因+一帧可视化完成前，不启动任何反事实或新模块。",
+  "usage": {
+    "prompt_tokens": 949,
+    "total_tokens": 1715,
+    "completion_tokens": 766,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "finish_reason": "stop",
+  "raw_response": {
+    "id": "chatcmpl-0638e2df-3f74-9069-b7c5-8b3aa7cc78ff",
+    "object": "chat.completion",
+    "created": 1792809333,
+    "model": "glm-5.3-prime",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "reasoning_content": "",
+          "content": "# 审查意见\n\n## 口径核对\n\n- 主数据集LERF-OVS、单场景figurines、LERF-Mask未入表：符合约束。\n- 四组同NAG、同候选冻结、同evaluator、baseline与历史CSV逐条一致：候选冻结与泄漏防控基本到位。\n- 拆账核验：53对非空贡献-12.011619pp + 空转换+1.431278pp = -10.580341pp，与报告总差一致，空mask不是主要退化来源——这一解释性结论成立，“错误空输出解释”未发现。\n- flat vs 图内query均值口径已声明，spatial-permutation=+36.1pp口径与spatial-baseline一致（同为图像均值口径），可比较。\n\n## 发现的过度归因/口径问题\n\n1. **“真实对应优于置换”的推断被正确限定，但表述仍有滑移风险**。置换组沿用了原gap规则与乘法评分（置换的是proposal来源）。+36.1pp说明系统对proposal来源敏感、且真实对应确实承载query相关信息；但置换识别率16.6%本身已是低基线，16.6%→52.7%不能推出“空间核验信息有用”，只能推出“真实proposal携带query判别信息、乘法评分被其支配”。报告已部分声明，维持该限定即可，不升级为贡献声明——拟裁决已如此，合规。\n\n2. **pirate hat反例的表述基本严谨，但“全0 IoU”需一次独立复核**。八视角全局top1与(level2,id75) IoU全0且该候选7/8视角可见，意味着top1 proposal与可见真值区域完全不重叠——这在几何上异常（可能是proposal提取坐标/尺度bug而非“top1不可靠”）。在采信“top1否决假设有反例”之前，应人工可视化该query的top1 proposal与id75 mask一帧即可排除实现错误。这是证据链缺口，非结论否定。\n\n3. **red apple案例分析已正确拆分“排序”与“截断”两个效应**，这是本次最实质的进展。bag救回案例的“不能独占归因”声明正确。\n\n4. 统计上4改善/13退化/39不变是N=56的单场景配对结果，各pp差值无置信区间——报告未宣称显著性，但任何后续“spatial在某些query有效”的引申都缺功效支撑。缓存编码权重生成链缺失已如实声明。\n\n## 裁决评价\n\n“当前公式作为可部署改进失败、停止扩场景、不扫权重”与数据一致，无过度归因。方向调整（先离线归因、不加模块）合理。\n\n## 下一项最小决定性工作\n\n**离线缓存归因分桶，无需GPU、不改公式**：对21个query×56视图，逐条标记退化来源为三桶—— 摒弃/改选（pirate hat型）， 截断长度变化（red apple型，排序未变）， 真实排序恶化。输出各桶贡献pp。这决定否决证据设计走“修top1选择”还是“改截断规则”，是唯一分叉决策。同时人工可视化pirate hat一帧的top1 proposal vs id75，排除提取bug后该反例才可写入结论。\n\n**裁决：非阻塞**。上述三桶归因+一帧可视化完成前，不启动任何反事实或新模块。"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 949,
+      "total_tokens": 1715,
+      "completion_tokens": 766,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    }
+  }
+}

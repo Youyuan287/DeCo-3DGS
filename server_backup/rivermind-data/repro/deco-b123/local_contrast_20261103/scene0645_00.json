@@ -1,0 +1,99 @@
+{
+  "scene": "scene0645_00",
+  "n_root": 275,
+  "n_cls": 19,
+  "knn_deg": 5.0,
+  "sib_deg": 0.0,
+  "sib_zero": 1.0,
+  "tau": 0.037,
+  "variants": [
+    {
+      "tag": "raw",
+      "miou": 33.34,
+      "macc": 50.25,
+      "racc": 22.09,
+      "mg_mean": -0.02201,
+      "mg_med": -0.02392
+    },
+    {
+      "tag": "zR",
+      "miou": 44.79,
+      "macc": 66.32,
+      "racc": 41.86,
+      "mg_mean": -0.20757,
+      "mg_med": -0.10348
+    },
+    {
+      "tag": "zR+E0",
+      "miou": 39.36,
+      "macc": 62.1,
+      "racc": 41.86,
+      "mg_mean": -0.31074,
+      "mg_med": -0.11992
+    },
+    {
+      "tag": "zR+VC",
+      "miou": 40.25,
+      "macc": 63.15,
+      "racc": 40.7,
+      "mg_mean": -0.31445,
+      "mg_med": -0.12313
+    },
+    {
+      "tag": "zR+Erand",
+      "miou": 38.24,
+      "macc": 60.65,
+      "racc": 40.7,
+      "mg_mean": -0.22505,
+      "mg_med": -0.10113,
+      "cov": 39.8
+    },
+    {
+      "tag": "zR+Eknn",
+      "miou": 41.05,
+      "macc": 63.03,
+      "racc": 39.53,
+      "mg_mean": -0.25823,
+      "mg_med": -0.12515,
+      "cov": 89.1
+    },
+    {
+      "tag": "zR+Esib",
+      "miou": 39.36,
+      "macc": 62.1,
+      "racc": 41.86,
+      "mg_mean": -0.31074,
+      "mg_med": -0.11992,
+      "cov": 0.0
+    },
+    {
+      "tag": "zR+Ehard",
+      "miou": 42.74,
+      "macc": 64.56,
+      "racc": 40.7,
+      "mg_mean": -0.25294,
+      "mg_med": -0.13463,
+      "cov": 89.1
+    },
+    {
+      "tag": "zR+Epair_knn",
+      "miou": 33.45,
+      "macc": 58.15,
+      "racc": 38.37,
+      "mg_mean": -0.32425,
+      "mg_med": -0.17471,
+      "cov": 98.2,
+      "views_med": 16,
+      "views_min": 2
+    },
+    {
+      "tag": "zR+Epair_sib",
+      "miou": 44.79,
+      "macc": 66.32,
+      "racc": 41.86,
+      "mg_mean": -0.20757,
+      "mg_med": -0.10348,
+      "cov": 0.0
+    }
+  ]
+}

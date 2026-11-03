@@ -1,0 +1,32 @@
+{
+  "scene": "waldo_kitchen",
+  "miou": 0.6592091348450333,
+  "flat_miou": 0.6812397727272729,
+  "n_queries": 22,
+  "per_image": [
+    0.7709588871770089,
+    0.919088984843825,
+    0.36179209227561,
+    0.6229676879454557,
+    0.6212380219832666
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse",
+    "evidence_v2": "off",
+    "evidence_bank": "",
+    "evidence_temperature": 0.08,
+    "correction_coefficient": 0.25,
+    "evidence_aggregation": "softmax"
+  }
+}

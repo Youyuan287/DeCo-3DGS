@@ -1,0 +1,40 @@
+{
+ "hard": {
+  "n": 46,
+  "cos_off": {
+   "mean": 0.2394,
+   "median": 0.2343
+  },
+  "cos_off_swap": {
+   "mean": 0.2172,
+   "median": 0.2152
+  },
+  "cos_bbox": {
+   "mean": 0.2237,
+   "median": 0.2193
+  },
+  "cos_gray": {
+   "mean": 0.2379,
+   "median": 0.2361
+  }
+ },
+ "ctrl": {
+  "n": 29,
+  "cos_off": {
+   "mean": 0.2496,
+   "median": 0.2644
+  },
+  "cos_off_swap": {
+   "mean": 0.2212,
+   "median": 0.2199
+  },
+  "cos_bbox": {
+   "mean": 0.2592,
+   "median": 0.2582
+  },
+  "cos_gray": {
+   "mean": 0.2541,
+   "median": 0.2628
+  }
+ }
+}

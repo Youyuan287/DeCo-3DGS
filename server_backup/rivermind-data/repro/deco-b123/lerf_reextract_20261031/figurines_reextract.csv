@@ -1,0 +1,5 @@
+scene,image,prompt,cat,n_masks,best_label,iou_best,rank_dataset,rank_maskfull,rank_bbox
+figurines,frame_00041,old camera,rank2,30,227,0.48989817358978505,2,11,15
+figurines,frame_00041,rubber duck with hat,deep,30,218,0.9538159187684245,12,1,1
+figurines,frame_00041,tesla door handle,recall_fail,30,243,0.4068350295263224,15,13,1
+figurines,frame_00041,toy elephant,found,30,231,0.9692469597754911,16,1,1

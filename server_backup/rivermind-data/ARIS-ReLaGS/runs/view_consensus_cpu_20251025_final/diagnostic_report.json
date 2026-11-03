@@ -1,0 +1,548 @@
+{
+  "status": "CPU_PROXY_ONLY",
+  "levels": [
+    {
+      "level": 1,
+      "nodes": 2102,
+      "views": 299,
+      "valid_projection_rate": 0.24601987595823693,
+      "entropy_median": 0.8672588749828748,
+      "coverage_median": 0.25,
+      "boundary_proxy_median": 0.011111111111111113,
+      "area_proxy_median": -1.6115943643798987,
+      "split_half_tv_median": 0.5,
+      "split_half_icc_median": 0.3739992483051626,
+      "delta_r2_median": null,
+      "delta_auc_median": null,
+      "precision_lift_median": null,
+      "split_stats": [
+        {
+          "rep": 0,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 1,
+          "h_tv_median": 0.4933333333333333,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 2,
+          "h_tv_median": 0.487957181088314,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 3,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 4,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 5,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 6,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 7,
+          "h_tv_median": 0.49427917620137296,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 8,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 9,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 10,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 11,
+          "h_tv_median": 0.5238095238095237,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 12,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 13,
+          "h_tv_median": 0.5333333333333334,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 14,
+          "h_tv_median": 0.49650349650349657,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 15,
+          "h_tv_median": 0.49999999999999994,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 16,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 17,
+          "h_tv_median": 0.5199692780337941,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 18,
+          "h_tv_median": 0.5,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        },
+        {
+          "rep": 19,
+          "h_tv_median": 0.4980392156862745,
+          "h_icc": NaN,
+          "d_icc": null,
+          "nodes": 2102,
+          "parent_pairs": 0
+        }
+      ],
+      "descriptor_schema": "M0=V/logA/depth/border/level; M1 adds coverage c, local boundary proxy b, structural parent relation",
+      "proxy": "center projection into existing seg_map; no occlusion visibility"
+    },
+    {
+      "level": 2,
+      "nodes": 467,
+      "views": 299,
+      "valid_projection_rate": 0.1894609440461782,
+      "entropy_median": 0.8580327320196734,
+      "coverage_median": 0.3186653771760155,
+      "boundary_proxy_median": 0.020377902934223337,
+      "area_proxy_median": -1.5861876843308975,
+      "split_half_tv_median": 0.48484848484848486,
+      "split_half_icc_median": 0.5779023931404659,
+      "delta_r2_median": 0.0813266404870534,
+      "delta_auc_median": 0.2505353319057816,
+      "precision_lift_median": 1.789272030651341,
+      "split_stats": [
+        {
+          "rep": 0,
+          "h_tv_median": 0.5,
+          "h_icc": 0.42712523938217684,
+          "d_icc": 0.5836446831159702,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 1,
+          "h_tv_median": 0.4845238095238096,
+          "h_icc": 0.4412622344801693,
+          "d_icc": 0.6935961387270395,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 2,
+          "h_tv_median": 0.4818121693121693,
+          "h_icc": 0.504407063289365,
+          "d_icc": 0.614751770700939,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 3,
+          "h_tv_median": 0.4907502131287298,
+          "h_icc": 0.526139167147894,
+          "d_icc": 0.652609548898703,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 4,
+          "h_tv_median": 0.46925538229886055,
+          "h_icc": 0.5358817215574606,
+          "d_icc": 0.6961137316801846,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 5,
+          "h_tv_median": 0.47075702075702075,
+          "h_icc": 0.5098422167639428,
+          "d_icc": 0.5973302628503497,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 6,
+          "h_tv_median": 0.48954248366013065,
+          "h_icc": 0.6010663020356111,
+          "d_icc": 0.7156771264347147,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 7,
+          "h_tv_median": 0.46004378762999454,
+          "h_icc": 0.45415656027954676,
+          "d_icc": 0.6755887916749491,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 8,
+          "h_tv_median": 0.47139606313335125,
+          "h_icc": 0.5155577557944374,
+          "d_icc": 0.6706611337058715,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 9,
+          "h_tv_median": 0.49999999999999994,
+          "h_icc": 0.4559030452508369,
+          "d_icc": 0.619251960768892,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 10,
+          "h_tv_median": 0.48625023625023633,
+          "h_icc": 0.5093805315787245,
+          "d_icc": 0.6540106793454288,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 11,
+          "h_tv_median": 0.45707821590174535,
+          "h_icc": 0.559237469027943,
+          "d_icc": 0.6389522900428359,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 12,
+          "h_tv_median": 0.4868055555555556,
+          "h_icc": 0.49809718871149244,
+          "d_icc": 0.6665270978049722,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 13,
+          "h_tv_median": 0.5,
+          "h_icc": 0.48301813707846947,
+          "d_icc": 0.7458076817526,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 14,
+          "h_tv_median": 0.4627547021943574,
+          "h_icc": 0.5446908136848599,
+          "d_icc": 0.7490183696725519,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 15,
+          "h_tv_median": 0.5,
+          "h_icc": 0.3996781229886702,
+          "d_icc": 0.5808490835666552,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 16,
+          "h_tv_median": 0.46172161172161175,
+          "h_icc": 0.5432770603331453,
+          "d_icc": 0.6553331254542866,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 17,
+          "h_tv_median": 0.46258741258741265,
+          "h_icc": 0.5749557027142764,
+          "d_icc": 0.7171626999558065,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 18,
+          "h_tv_median": 0.4780145562315452,
+          "h_icc": 0.47856825254956253,
+          "d_icc": 0.6964739994877052,
+          "nodes": 467,
+          "parent_pairs": 467
+        },
+        {
+          "rep": 19,
+          "h_tv_median": 0.4890096618357488,
+          "h_icc": 0.4035213625623784,
+          "d_icc": 0.4550385054153442,
+          "nodes": 467,
+          "parent_pairs": 467
+        }
+      ],
+      "descriptor_schema": "M0=V/logA/depth/border/level; M1 adds coverage c, local boundary proxy b, structural parent relation",
+      "proxy": "center projection into existing seg_map; no occlusion visibility"
+    },
+    {
+      "level": 3,
+      "nodes": 179,
+      "views": 299,
+      "valid_projection_rate": 0.2151491937744063,
+      "entropy_median": 0.8445412464587144,
+      "coverage_median": 0.36153846153846153,
+      "boundary_proxy_median": 0.012626262626262626,
+      "area_proxy_median": -0.21828140837932075,
+      "split_half_tv_median": 0.43118998212376813,
+      "split_half_icc_median": 0.41584272077734447,
+      "delta_r2_median": 0.021737446893883294,
+      "delta_auc_median": 0.25139664804469275,
+      "precision_lift_median": 2.124494949494949,
+      "split_stats": [
+        {
+          "rep": 0,
+          "h_tv_median": 0.4166666666666667,
+          "h_icc": 0.4866092576961137,
+          "d_icc": 0.30924147412263564,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 1,
+          "h_tv_median": 0.4333333333333333,
+          "h_icc": 0.3467642371629124,
+          "d_icc": 0.36153680542871625,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 2,
+          "h_tv_median": 0.37777777777777777,
+          "h_icc": 0.42205495089941997,
+          "d_icc": 0.5731530292607983,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 3,
+          "h_tv_median": 0.4617224880382775,
+          "h_icc": 0.26309199169283365,
+          "d_icc": 0.3163337448308385,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 4,
+          "h_tv_median": 0.41269841269841273,
+          "h_icc": 0.4585794020610541,
+          "d_icc": 0.4164437838802383,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 5,
+          "h_tv_median": 0.4578804347826087,
+          "h_icc": 0.6007977039683513,
+          "d_icc": 0.46487576782103485,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 6,
+          "h_tv_median": 0.4392156862745098,
+          "h_icc": 0.4336789447802895,
+          "d_icc": 0.4610881407674586,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 7,
+          "h_tv_median": 0.4511217948717948,
+          "h_icc": 0.5074115638837225,
+          "d_icc": 0.43008455975223303,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 8,
+          "h_tv_median": 0.41666666666666663,
+          "h_icc": 0.34577214597510697,
+          "d_icc": 0.4722781920423752,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 9,
+          "h_tv_median": 0.46666666666666673,
+          "h_icc": 0.3551256675696723,
+          "d_icc": 0.46666232963240145,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 10,
+          "h_tv_median": 0.4765217391304348,
+          "h_icc": 0.2885969428484888,
+          "d_icc": 0.2953269868346507,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 11,
+          "h_tv_median": 0.43333333333333335,
+          "h_icc": 0.18813712016772968,
+          "d_icc": 0.33883198021709016,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 12,
+          "h_tv_median": 0.44099378881987583,
+          "h_icc": 0.4014779635902719,
+          "d_icc": 0.43070813268238517,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 13,
+          "h_tv_median": 0.42105263157894735,
+          "h_icc": 0.6357176659540339,
+          "d_icc": 0.4064923828568463,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 14,
+          "h_tv_median": 0.4166666666666667,
+          "h_icc": 0.3832430652230715,
+          "d_icc": 0.4131029391407762,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 15,
+          "h_tv_median": 0.42307692307692313,
+          "h_icc": 0.6544241092345319,
+          "d_icc": 0.3936503474834528,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 16,
+          "h_tv_median": 0.44047619047619047,
+          "h_icc": 0.41524165767445065,
+          "d_icc": 0.4080894671907309,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 17,
+          "h_tv_median": 0.4086687306501548,
+          "h_icc": 0.6208330555746558,
+          "d_icc": 0.4028285384284892,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 18,
+          "h_tv_median": 0.44827586206896547,
+          "h_icc": 0.5170930207931951,
+          "d_icc": 0.3606819098764159,
+          "nodes": 179,
+          "parent_pairs": 179
+        },
+        {
+          "rep": 19,
+          "h_tv_median": 0.4175824175824176,
+          "h_icc": 0.5162864840479013,
+          "d_icc": 0.43038938002480914,
+          "nodes": 179,
+          "parent_pairs": 179
+        }
+      ],
+      "descriptor_schema": "M0=V/logA/depth/border/level; M1 adds coverage c, local boundary proxy b, structural parent relation",
+      "proxy": "center projection into existing seg_map; no occlusion visibility"
+    }
+  ],
+  "input_sha256": {
+    "/root/rivermind-data/ReLaGS_Reproduction/runs/readout_20261024/figurines/model_r0/sai_nag_3.0.pt": "8597e7fe4c33165859b638ebd3a2981bd7953a4c93d4f5e87cc10a4777c4ccef",
+    "/root/rivermind-data/ReLaGS_Reproduction/runs/readout_20261024/figurines/model_r0/figurinessaifine.ply": "34daa3624187f0d0f7199d9d8b0f8d2f3aa3a9ec24e82e05aa8f6cc148d9137d",
+    "/root/rivermind-data/ReLaGS_Reproduction/ref/scene/figurines/cameras.json": "491d85915c79617aa3c2f680053cd9a18b3c3028b8ac0357614ec71ccc000da1"
+  },
+  "source_sha256": "4b1fe165bdc6db2b1cd0a32a4cd8511f3ba46e76514d335743b41bc75ac96dd0"
+}

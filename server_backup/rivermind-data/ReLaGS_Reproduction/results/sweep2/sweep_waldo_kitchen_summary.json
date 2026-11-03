@@ -1,0 +1,15 @@
+{
+  "scene": "waldo_kitchen",
+  "best_global": {
+    "scene": "waldo_kitchen",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 200,
+    "remove_small": 1,
+    "miou_grand": 0.6153306086157042,
+    "n": 22
+  },
+  "oracle": 0.6179397418769539,
+  "n_queries": 22,
+  "n_configs": 20
+}

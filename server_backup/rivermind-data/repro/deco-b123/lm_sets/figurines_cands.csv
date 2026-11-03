@@ -1,0 +1,32 @@
+scene,prompt,rank,level,index,sim
+figurines,green apple,1,3,34,0.6760611534118652
+figurines,green apple,2,2,47,0.5022923350334167
+figurines,green apple,3,3,61,0.5
+figurines,green apple,4,3,33,0.4035734236240387
+figurines,green apple,5,3,232,0.3852469027042389
+figurines,green toy chair,1,3,27,0.6484723091125488
+figurines,green toy chair,2,3,61,0.5
+figurines,green toy chair,3,3,5,0.41780176758766174
+figurines,green toy chair,4,3,17,0.40669161081314087
+figurines,old camera,1,3,30,0.5742557644844055
+figurines,old camera,2,3,61,0.5
+figurines,old camera,3,3,23,0.4800178110599518
+figurines,old camera,4,3,219,0.4749225080013275
+figurines,porcelain hand,1,3,51,0.5752481818199158
+figurines,porcelain hand,2,3,61,0.5
+figurines,porcelain hand,3,2,45,0.45823806524276733
+figurines,porcelain hand,4,2,139,0.4469197392463684
+figurines,red apple,1,3,33,0.5632311105728149
+figurines,red apple,2,3,61,0.5
+figurines,red apple,3,2,21,0.46795400977134705
+figurines,red apple,4,3,34,0.4269855320453644
+figurines,red apple,5,2,6,0.3786790668964386
+figurines,red toy chair,1,3,17,0.6549127101898193
+figurines,red toy chair,2,3,61,0.5
+figurines,red toy chair,3,3,5,0.4498421549797058
+figurines,red toy chair,4,3,92,0.4127400517463684
+figurines,rubber duck with red hat,1,3,49,0.6537912487983704
+figurines,rubber duck with red hat,2,3,20,0.5963459610939026
+figurines,rubber duck with red hat,3,3,61,0.5
+figurines,rubber duck with red hat,4,2,21,0.4411505460739136
+figurines,rubber duck with red hat,5,3,91,0.34307730197906494

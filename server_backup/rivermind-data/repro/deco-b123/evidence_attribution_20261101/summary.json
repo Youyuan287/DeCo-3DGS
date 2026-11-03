@@ -1,0 +1,405 @@
+{
+  "n": 208,
+  "scene_counts": {
+    "figurines": 56,
+    "ramen": 71,
+    "teatime": 59,
+    "waldo_kitchen": 22
+  },
+  "family_counts": {
+    "rank2": 36,
+    "found": 124,
+    "recall": 29,
+    "deep": 19
+  },
+  "bootstrap": {
+    "B": 2000,
+    "seed": 20261030,
+    "unit": "paired image clusters within scene"
+  },
+  "finite_counts": {
+    "A_iou": 208,
+    "G_iou": 208,
+    "I_iou": 208,
+    "J_iou": 208,
+    "A_single_iou": 208,
+    "G_single_iou": 208,
+    "I_single_iou": 208,
+    "J_single_iou": 208,
+    "baseline_error": 208,
+    "n_roots": 208,
+    "competition_fraction": 208,
+    "changed_tokens": 208,
+    "valid_candidates": 208,
+    "joint_fallbacks": 208,
+    "solver_seconds": 208,
+    "geom_retention_min": 208
+  },
+  "baseline_error": {
+    "n_finite": 208,
+    "n_missing": 0,
+    "mean": 0.0,
+    "median": 0.0,
+    "min": 0.0,
+    "max": 0.0,
+    "sum": 0.0
+  },
+  "macro": {
+    "A_iou": 0.6760106935634101,
+    "G_iou": 0.6236390043208015,
+    "I_iou": 0.6387464029603799,
+    "J_iou": 0.6236390043208015,
+    "A_single_iou": 0.5452934009729722,
+    "G_single_iou": 0.4264686314034815,
+    "I_single_iou": 0.4345992095951773,
+    "J_single_iou": 0.4264686314034815
+  },
+  "scenes": {
+    "figurines": {
+      "A_iou": 0.6128506542604384,
+      "G_iou": 0.6119582005486428,
+      "I_iou": 0.5975385575279808,
+      "J_iou": 0.6119582005486428,
+      "A_single_iou": 0.5945255631348135,
+      "G_single_iou": 0.594088111152815,
+      "I_single_iou": 0.594088111152815,
+      "J_single_iou": 0.594088111152815
+    },
+    "ramen": {
+      "A_iou": 0.609205781447919,
+      "G_iou": 0.45618279393863626,
+      "I_iou": 0.5310320315176118,
+      "J_iou": 0.45618279393863626,
+      "A_single_iou": 0.42793419778393776,
+      "G_single_iou": 0.2555186105457103,
+      "I_single_iou": 0.2555186105457103,
+      "J_single_iou": 0.2555186105457103
+    },
+    "teatime": {
+      "A_iou": 0.8223287813265999,
+      "G_iou": 0.8222801383239631,
+      "I_iou": 0.8222801383239631,
+      "J_iou": 0.8222801383239631,
+      "A_single_iou": 0.7293341588723757,
+      "G_single_iou": 0.7030240055805551,
+      "I_single_iou": 0.7030240055805551,
+      "J_single_iou": 0.7030240055805551
+    },
+    "waldo_kitchen": {
+      "A_iou": 0.6596575572186832,
+      "G_iou": 0.604134884471964,
+      "I_iou": 0.604134884471964,
+      "J_iou": 0.604134884471964,
+      "A_single_iou": 0.4293796841007616,
+      "G_single_iou": 0.15324379833484586,
+      "I_single_iou": 0.18576611110162894,
+      "J_single_iou": 0.15324379833484586
+    }
+  },
+  "families": {
+    "found": {
+      "n": 124,
+      "A_iou": 0.831198567470838,
+      "G_iou": 0.8145484308306001,
+      "I_iou": 0.8145484308306001,
+      "J_iou": 0.8145484308306001,
+      "A_single_iou": 0.7346486182197237,
+      "G_single_iou": 0.669051548891632,
+      "I_single_iou": 0.669051548891632,
+      "J_single_iou": 0.669051548891632
+    },
+    "rank2": {
+      "n": 36,
+      "A_iou": 0.640223330276346,
+      "G_iou": 0.44200099701802165,
+      "I_iou": 0.5815121164908887,
+      "J_iou": 0.44200099701802165,
+      "A_single_iou": 0.377334133404762,
+      "G_single_iou": 0.08223624726871609,
+      "I_single_iou": 0.08223624726871609,
+      "J_single_iou": 0.08223624726871609
+    },
+    "deep": {
+      "n": 19,
+      "A_iou": 0.6607192407551647,
+      "G_iou": 0.5617941584203037,
+      "I_iou": 0.5223298722584918,
+      "J_iou": 0.5617941584203037,
+      "A_single_iou": 0.5518199329311181,
+      "G_single_iou": 0.4911097624560677,
+      "I_single_iou": 0.5424607826141462,
+      "J_single_iou": 0.4911097624560677
+    },
+    "recall": {
+      "n": 29,
+      "A_iou": 0.019837899016561585,
+      "G_iou": 0.019727194251939875,
+      "I_iou": 0.019727194251939875,
+      "J_iou": 0.019727194251939875,
+      "A_single_iou": 0.026036328161107635,
+      "G_single_iou": 0.007875649408096487,
+      "I_single_iou": 0.007875649408096487,
+      "J_single_iou": 0.007875649408096487
+    }
+  },
+  "comparisons": {
+    "G-A": {
+      "delta": -0.05237168924260862,
+      "ci95": [
+        -0.08056856997538127,
+        -0.03144663160286638
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 3,
+      "losses": 24,
+      "ties": 181
+    },
+    "I-A": {
+      "delta": -0.03726429060303023,
+      "ci95": [
+        -0.06464541751571258,
+        -0.016296567294309013
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 4,
+      "losses": 24,
+      "ties": 180
+    },
+    "J-A": {
+      "delta": -0.05237168924260862,
+      "ci95": [
+        -0.08056856997538127,
+        -0.03144663160286638
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 3,
+      "losses": 24,
+      "ties": 181
+    },
+    "J-I": {
+      "delta": -0.015107398639578377,
+      "ci95": [
+        -0.02242198536063008,
+        -0.006762459414855001
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 1,
+      "losses": 7,
+      "ties": 200
+    },
+    "J-G": {
+      "delta": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 0,
+      "losses": 0,
+      "ties": 208
+    }
+  },
+  "single_comparisons": {
+    "G-A": {
+      "delta": -0.11882476956949058,
+      "ci95": [
+        -0.18433459256316284,
+        -0.047413757757411155
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 11,
+      "losses": 42,
+      "ties": 155
+    },
+    "I-A": {
+      "delta": -0.11069419137779479,
+      "ci95": [
+        -0.16206909362986496,
+        -0.046796907968484736
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 11,
+      "losses": 41,
+      "ties": 156
+    },
+    "J-A": {
+      "delta": -0.11882476956949058,
+      "ci95": [
+        -0.18433459256316284,
+        -0.047413757757411155
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 11,
+      "losses": 42,
+      "ties": 155
+    },
+    "J-I": {
+      "delta": -0.008130578191695772,
+      "ci95": [
+        -0.024391734575087316,
+        0.0
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 0,
+      "losses": 1,
+      "ties": 207
+    },
+    "J-G": {
+      "delta": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "paired_queries": 208,
+      "missing_pairs": 0,
+      "paired_images_per_scene": {
+        "figurines": 4,
+        "ramen": 7,
+        "teatime": 6,
+        "waldo_kitchen": 5
+      },
+      "wins": 0,
+      "losses": 0,
+      "ties": 208
+    }
+  },
+  "diagnostics": {
+    "n_roots": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 4.8125,
+      "median": 5.0,
+      "min": 3.0,
+      "max": 5.0,
+      "sum": 1001.0
+    },
+    "competition_fraction": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 0.02559575393509245,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 0.4117647058823529,
+      "sum": 5.32391681849923
+    },
+    "changed_tokens": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 0.5961538461538461,
+      "median": 0.0,
+      "min": 0.0,
+      "max": 4.0,
+      "sum": 124.0
+    },
+    "valid_candidates": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 2.6923076923076925,
+      "median": 2.0,
+      "min": 1.0,
+      "max": 9.0,
+      "sum": 560.0
+    },
+    "joint_fallbacks": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 2.581730769230769,
+      "median": 3.0,
+      "min": 0.0,
+      "max": 6.0,
+      "sum": 537.0
+    },
+    "solver_seconds": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 0.06840378465130925,
+      "median": 0.07371783815324306,
+      "min": 0.030436117202043533,
+      "max": 0.12746271304786205,
+      "sum": 14.227987207472324
+    },
+    "geom_retention_min": {
+      "n_finite": 208,
+      "n_missing": 0,
+      "mean": 0.9848769803408822,
+      "median": 1.0,
+      "min": 0.9036415639896533,
+      "max": 1.0,
+      "sum": 204.8544119109035
+    }
+  },
+  "warnings": [],
+  "gates": {
+    "完整208条、场景/分族正确且全部IoU有限": true,
+    "基线208条匹配（最大误差≤1e-6）": true,
+    "J−A macro≥0.01": false,
+    "J−A 95%CI下界>0": false,
+    "任一场景J−A≥−0.01": false,
+    "found J−A≥−0.005": false,
+    "J macro高于I与G": false
+  },
+  "pass": false
+}

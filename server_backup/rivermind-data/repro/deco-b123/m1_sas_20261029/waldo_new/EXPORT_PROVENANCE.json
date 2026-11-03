@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "scene": "waldo_kitchen",
+  "n_observations": 13434,
+  "nag_sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+  "observation_sha256": "7bd23efcf007e45f6678c5953fd3c7532e603268590628a0d98af70dbfcb7445",
+  "sidecar_sha256": "34446bee596660c6db595f72ba056a9a5427c91fc64caf79b08bc9d44f1908a3",
+  "n_gaussians": 905012,
+  "n_views": 187,
+  "root_regions": 400
+}

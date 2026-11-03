@@ -1,0 +1,72 @@
+scene,image,prompt,order
+ramen,frame_00006,bowl,1 3 5 4 2
+ramen,frame_00006,chopsticks,1 4 2 3 5
+ramen,frame_00006,egg,1 2 5 4 6 3
+ramen,frame_00006,kamaboko,1 4 3 2 5
+ramen,frame_00006,napkin,1 4 2 3 5
+ramen,frame_00006,nori,2 3 1 5 4
+ramen,frame_00006,onion segments,1 2 4 3 5
+ramen,frame_00006,plate,2 1 3 5 4
+ramen,frame_00006,sake cup,2 1 5 4 3
+ramen,frame_00006,wavy noodles,4 2 3 5 1
+ramen,frame_00024,bowl,1 3 2 5 4
+ramen,frame_00024,chopsticks,1 4 2 3 5
+ramen,frame_00024,corn,5 1 3 2 4 6
+ramen,frame_00024,egg,1 2 5 4 6 3
+ramen,frame_00024,kamaboko,1 3 4 2 5
+ramen,frame_00024,nori,2 3 1 5 4
+ramen,frame_00024,onion segments,1 4 3 2 5
+ramen,frame_00024,wavy noodles,2 4 3 5 1
+ramen,frame_00060,chopsticks,1 4 2 3 5
+ramen,frame_00060,corn,5 1 3 2 4 6
+ramen,frame_00060,egg,1 2 5 4 6 3
+ramen,frame_00060,kamaboko,1 4 3 2 5
+ramen,frame_00060,napkin,1 4 2 3 5
+ramen,frame_00060,onion segments,1 4 3 2 5
+ramen,frame_00060,sake cup,1 2 4 5 3
+ramen,frame_00060,wavy noodles,2 4 3 5 1
+ramen,frame_00065,bowl,1 3 2 5 4
+ramen,frame_00065,chopsticks,1 4 2 3 5
+ramen,frame_00065,corn,5 1 3 4 2 6
+ramen,frame_00065,egg,1 2 5 4 6 3
+ramen,frame_00065,kamaboko,1 4 3 2 5
+ramen,frame_00065,napkin,1 4 2 3 5
+ramen,frame_00065,nori,2 3 1 5 4
+ramen,frame_00065,onion segments,2 1 4 3 5
+ramen,frame_00065,plate,2 1 3 5 4
+ramen,frame_00065,sake cup,2 1 5 4 3
+ramen,frame_00065,wavy noodles,2 4 3 5 1
+ramen,frame_00081,bowl,1 2 3 4 5
+ramen,frame_00081,chopsticks,1 4 2 3 5
+ramen,frame_00081,egg,1 2 5 4 3 6
+ramen,frame_00081,glass of water,1 2 3 5 4
+ramen,frame_00081,kamaboko,1 4 3 2 5
+ramen,frame_00081,napkin,1 2 4 5 3
+ramen,frame_00081,nori,2 1 3 5 4
+ramen,frame_00081,onion segments,2 1 4 3 5
+ramen,frame_00081,plate,2 1 5 3 4
+ramen,frame_00081,sake cup,1 2 4 3 5
+ramen,frame_00081,spoon,1 2 7 5 6 3 4
+ramen,frame_00081,wavy noodles,1 2 3 4 5
+ramen,frame_00119,chopsticks,1 4 2 3 5
+ramen,frame_00119,corn,5 1 3 2 4 6
+ramen,frame_00119,egg,1 2 5 4 6 3
+ramen,frame_00119,kamaboko,1 4 3 5 2
+ramen,frame_00119,nori,2 3 1 5 4
+ramen,frame_00119,onion segments,1 4 3 2 5
+ramen,frame_00119,sake cup,2 1 4 5 3
+ramen,frame_00119,wavy noodles,1 2 4 3 5
+ramen,frame_00128,bowl,1 2 3 5 4
+ramen,frame_00128,chopsticks,1 4 2 3 5
+ramen,frame_00128,corn,5 1 3 6 4 2
+ramen,frame_00128,egg,1 2 5 6 4 3
+ramen,frame_00128,glass of water,1 2 3 4 5
+ramen,frame_00128,hand,1 6 7 4 3 5 2
+ramen,frame_00128,kamaboko,1 4 3 2 5
+ramen,frame_00128,napkin,1 2 4 3 5
+ramen,frame_00128,nori,2 3 1 5 4
+ramen,frame_00128,onion segments,2 1 4 3 5
+ramen,frame_00128,plate,2 1 5 3 4
+ramen,frame_00128,sake cup,1 2 4 3 5
+ramen,frame_00128,spoon,1 2 7 6 5 3 4
+ramen,frame_00128,wavy noodles,1 2 4 5 3

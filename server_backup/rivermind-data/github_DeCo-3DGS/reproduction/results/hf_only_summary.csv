@@ -1,0 +1,6 @@
+scene,hf_only_miou,hf_only_flat,paper_miou,delta,n_queries,n_images
+figurines,58.11,57.85,64.7,-6.59,56,4
+ramen,40.40,39.33,51.2,-10.80,71,7
+teatime,82.91,82.25,81.0,+1.91,59,6
+waldo_kitchen,57.62,57.91,60.6,-2.98,22,5
+Mean,59.76,59.34,64.4,-4.64,208,

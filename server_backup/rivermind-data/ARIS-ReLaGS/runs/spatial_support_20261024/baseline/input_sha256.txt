@@ -1,0 +1,6 @@
+4aef74e0e05dbf745e0e09eddf4313b153d997fd208d0dec367fd1c3304b79f3  /root/rivermind-data/output/lerf_mask/figurines/sai_nag_3.0.pt
+3f30fbd9b63a2e84c0b46930605117ce2279ca70be61149d445d49f6eac0ac29  /root/rivermind-data/output/lerf_mask/figurines/point_cloud/iteration_0/point_cloud.ply
+b7d500a2f9d42f7a68bfdc91b034c96f38fe432130a6c522bd0f355f3b9417aa  /root/rivermind-data/lerf_mask_repro/scripts/eval_lerf_mask.py
+175c9e78d58bbaf4de7720874075fd4743c3ff4d56392c2acdac9ffb8bb45889  /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/nag_data.py
+dbcb8c75c8f0fb9e0ef3d547fa7343395dc33e93b3ad644de71fa907994adb50  /root/rivermind-data/ReLaGS_Reproduction/ReLaGS/utils/vlm_utils.py
+5d0e9b01ae75eea7128732de4032415aff18ef73dd774ce09bde0233b0d1831b  /root/rivermind-data/datasets/lerf_mask/build/figurines_eval/split.json

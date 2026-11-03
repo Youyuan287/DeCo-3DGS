@@ -1,0 +1,505 @@
+scene,mode,tau,frame,prompt,iou,pred_px,gt_px
+figurines,union,0.5,frame_00041,jake,0.040868589253816284,189763,7772
+figurines,union,0.6,frame_00041,jake,0.11676588049129681,66331,7772
+figurines,union,0.7,frame_00041,jake,0.27164590946379297,26331,7772
+figurines,union,0.5,frame_00105,jake,0.015951714582338242,253313,4055
+figurines,union,0.6,frame_00105,jake,0.04822808738723649,83558,4055
+figurines,union,0.7,frame_00105,jake,0.1124801722184455,35220,4055
+figurines,union,0.5,frame_00152,jake,0.07979956015409366,135488,10827
+figurines,union,0.6,frame_00152,jake,0.18806972374921718,57468,10827
+figurines,union,0.7,frame_00152,jake,0.35192252304147464,26724,10827
+figurines,union,0.5,frame_00041,pirate hat,0.012209621364550942,130971,1839
+figurines,union,0.6,frame_00041,pirate hat,0.035622521016788485,39676,1839
+figurines,union,0.7,frame_00041,pirate hat,0.11055361850497492,11220,1839
+figurines,union,0.5,frame_00105,pirate hat,0.0057984718176192895,143761,904
+figurines,union,0.6,frame_00105,pirate hat,0.012216047730743196,63395,904
+figurines,union,0.7,frame_00105,pirate hat,0.014818510664837222,39775,904
+figurines,union,0.5,frame_00152,pirate hat,0.06675704271921704,30180,2083
+figurines,union,0.6,frame_00152,pirate hat,0.0977643247836015,18589,2083
+figurines,union,0.7,frame_00152,pirate hat,0.11398595882306539,12039,2083
+figurines,union,0.5,frame_00195,pirate hat,0.007031092188883882,257361,1877
+figurines,union,0.6,frame_00195,pirate hat,0.03302073152980807,47802,1877
+figurines,union,0.7,frame_00195,pirate hat,0.06363856003865669,20135,1877
+figurines,union,0.5,frame_00041,pikachu,0.44871153933554514,19790,12086
+figurines,union,0.6,frame_00041,pikachu,0.4491419003767267,12148,12086
+figurines,union,0.7,frame_00041,pikachu,0.4609628688408866,8610,12086
+figurines,union,0.5,frame_00152,pikachu,0.46071751582755505,28915,19537
+figurines,union,0.6,frame_00152,pikachu,0.4578336860255506,17664,19537
+figurines,union,0.7,frame_00152,pikachu,0.4331952687988386,14027,19537
+figurines,union,0.5,frame_00041,rubber duck with hat,0.3255776377443852,18563,6049
+figurines,union,0.6,frame_00041,rubber duck with hat,0.3735319569786129,16172,6049
+figurines,union,0.7,frame_00041,rubber duck with hat,0.3977882259453016,15059,6049
+figurines,union,0.5,frame_00105,rubber duck with hat,0.23541712524763372,9042,2183
+figurines,union,0.6,frame_00105,rubber duck with hat,0.2673007133024653,7944,2183
+figurines,union,0.7,frame_00105,rubber duck with hat,0.29343190218936593,6915,2183
+figurines,union,0.5,frame_00152,rubber duck with hat,0.588492718272473,13939,8203
+figurines,union,0.6,frame_00152,rubber duck with hat,0.769983993974202,10596,8203
+figurines,union,0.7,frame_00152,rubber duck with hat,0.8382383635984136,9411,8203
+figurines,union,0.5,frame_00195,rubber duck with hat,0.38734749209218255,11048,4303
+figurines,union,0.6,frame_00195,rubber duck with hat,0.4190047903020823,10212,4303
+figurines,union,0.7,frame_00195,rubber duck with hat,0.44583114840062926,9483,4303
+figurines,union,0.5,frame_00041,porcelain hand,0.768868889343424,4879,3769
+figurines,union,0.6,frame_00041,porcelain hand,0.7848873921279731,4711,3769
+figurines,union,0.7,frame_00041,porcelain hand,0.798171275646744,4294,3769
+figurines,union,0.5,frame_00152,porcelain hand,0.812129963898917,6911,5638
+figurines,union,0.6,frame_00152,porcelain hand,0.8238426268303506,6693,5638
+figurines,union,0.7,frame_00152,porcelain hand,0.8055383663366337,6033,5638
+figurines,union,0.5,frame_00195,porcelain hand,0.8062654575432812,2426,1956
+figurines,union,0.6,frame_00195,porcelain hand,0.8421052631578947,2279,1956
+figurines,union,0.7,frame_00195,porcelain hand,0.8609722853248524,2140,1956
+figurines,union,0.5,frame_00041,red apple,0.7778322707209416,10194,7931
+figurines,union,0.6,frame_00041,red apple,0.9249970838679575,8572,7931
+figurines,union,0.7,frame_00041,red apple,0.9306419434338693,8520,7931
+figurines,union,0.5,frame_00105,red apple,0.9508638280506053,36755,34949
+figurines,union,0.6,frame_00105,red apple,0.9685187751143134,36085,34949
+figurines,union,0.7,frame_00105,red apple,0.9695935636010542,36045,34949
+figurines,union,0.5,frame_00152,red apple,0.5373640092741216,5598,3022
+figurines,union,0.6,frame_00152,red apple,0.6035657051282052,4983,3022
+figurines,union,0.7,frame_00152,red apple,0.6051838456901748,4967,3022
+figurines,union,0.5,frame_00041,tesla door handle,0.04241185487991824,162428,6892
+figurines,union,0.6,frame_00041,tesla door handle,0.10658764390107674,64432,6892
+figurines,union,0.7,frame_00041,tesla door handle,0.18286451890496425,37094,6892
+figurines,union,0.5,frame_00105,tesla door handle,0.02931527614116033,361518,10598
+figurines,union,0.6,frame_00105,tesla door handle,0.0719005685287453,147398,10598
+figurines,union,0.7,frame_00105,tesla door handle,0.19701448143810532,53793,10598
+figurines,union,0.5,frame_00041,waldo,0.3894039735099338,9060,3528
+figurines,union,0.6,frame_00041,waldo,0.392,9000,3528
+figurines,union,0.7,frame_00041,waldo,0.4205005959475566,8390,3528
+figurines,union,0.5,frame_00152,waldo,0.686278964107224,8789,6057
+figurines,union,0.6,frame_00152,waldo,0.6869031377899045,8781,6057
+figurines,union,0.7,frame_00152,waldo,0.7136589992885938,8396,6057
+figurines,union,0.5,frame_00195,waldo,0.6172765446910617,4976,3112
+figurines,union,0.6,frame_00195,waldo,0.6175705423253952,4971,3112
+figurines,union,0.7,frame_00195,waldo,0.6175705423253952,4971,3112
+figurines,union,0.5,frame_00195,bag,0.02399191851165923,54696,6124
+figurines,union,0.6,frame_00195,bag,0.006015349512549264,32676,6124
+figurines,union,0.7,frame_00195,bag,0.006773641983427594,24494,6124
+figurines,union,0.5,frame_00041,toy cat statue,0.014710407464390292,100737,1490
+figurines,union,0.6,frame_00041,toy cat statue,0.024547717842323652,60239,1490
+figurines,union,0.7,frame_00041,toy cat statue,0.04129401109475829,35301,1490
+figurines,union,0.5,frame_00152,toy cat statue,0.08880238269411642,76552,6798
+figurines,union,0.6,frame_00152,toy cat statue,0.12383867089299377,54894,6798
+figurines,union,0.7,frame_00152,toy cat statue,0.17502615062761506,38135,6798
+figurines,union,0.5,frame_00195,toy cat statue,0.034283237874368974,85315,2989
+figurines,union,0.6,frame_00195,toy cat statue,0.05479610974690152,51564,2989
+figurines,union,0.7,frame_00195,toy cat statue,0.08310886474380315,32798,2989
+figurines,union,0.5,frame_00041,miffy,0.0070176637610204345,321902,2259
+figurines,union,0.6,frame_00041,miffy,0.00754549703432093,206848,2259
+figurines,union,0.7,frame_00041,miffy,0.013097996830834333,108348,2259
+figurines,union,0.5,frame_00195,miffy,0.0030758714969241286,316002,978
+figurines,union,0.6,frame_00195,miffy,0.003881751918431909,233845,978
+figurines,union,0.7,frame_00195,miffy,0.008498378678110347,82684,978
+figurines,union,0.5,frame_00041,green apple,0.4603401191658391,16088,7441
+figurines,union,0.6,frame_00041,green apple,0.6156719515232008,12023,7441
+figurines,union,0.7,frame_00041,green apple,0.8214958448753462,8998,7441
+figurines,union,0.5,frame_00105,green apple,0.6524663677130045,23191,15133
+figurines,union,0.6,frame_00105,green apple,0.743952802359882,20339,15133
+figurines,union,0.7,frame_00105,green apple,0.8111063464837049,18655,15133
+figurines,union,0.5,frame_00152,green apple,0.41952693148219566,15516,6569
+figurines,union,0.6,frame_00152,green apple,0.47355437858231153,13741,6569
+figurines,union,0.7,frame_00152,green apple,0.5381317503503998,12087,6569
+figurines,union,0.5,frame_00195,green apple,0.2886625569552399,26117,7539
+figurines,union,0.6,frame_00195,green apple,0.4240873038195421,17777,7539
+figurines,union,0.7,frame_00195,green apple,0.697345296457312,10811,7539
+figurines,union,0.5,frame_00105,pumpkin,0.48262873273926943,111141,63228
+figurines,union,0.6,frame_00105,pumpkin,0.42750678830263134,82923,63228
+figurines,union,0.7,frame_00105,pumpkin,0.3940066299510018,42322,63228
+figurines,union,0.5,frame_00105,rubics cube,0.6685097774780849,7415,4957
+figurines,union,0.6,frame_00105,rubics cube,0.6810937070623798,7278,4957
+figurines,union,0.7,frame_00105,rubics cube,0.6874219941755652,7211,4957
+figurines,union,0.5,frame_00152,rubics cube,0.7270904351313415,24935,18130
+figurines,union,0.6,frame_00152,rubics cube,0.7357655939288178,24641,18130
+figurines,union,0.7,frame_00152,rubics cube,0.7373515536033838,24588,18130
+figurines,union,0.5,frame_00195,rubics cube,0.6220087019579406,11032,6862
+figurines,union,0.6,frame_00195,rubics cube,0.639634601043997,10728,6862
+figurines,union,0.7,frame_00195,rubics cube,0.6405899925317401,10712,6862
+figurines,union,0.5,frame_00041,old camera,0.5615484399535741,10488,12384
+figurines,union,0.6,frame_00041,old camera,0.469282572842221,8997,12384
+figurines,union,0.7,frame_00041,old camera,0.3878453038674033,7712,12384
+figurines,union,0.5,frame_00105,old camera,0.6810777373015328,42426,55406
+figurines,union,0.6,frame_00105,old camera,0.5864862505456133,35460,55406
+figurines,union,0.7,frame_00105,old camera,0.542384117826235,30676,55406
+figurines,union,0.5,frame_00195,old camera,0.697492011232691,15744,19316
+figurines,union,0.6,frame_00195,old camera,0.6383031383031383,13781,19316
+figurines,union,0.7,frame_00195,old camera,0.5784635924822841,11423,19316
+figurines,union,0.5,frame_00041,rubber duck with buoy,0.4296950698204617,17545,7539
+figurines,union,0.6,frame_00041,rubber duck with buoy,0.49046906512263355,15371,7539
+figurines,union,0.7,frame_00041,rubber duck with buoy,0.5030919334890752,14337,7539
+figurines,union,0.5,frame_00105,rubber duck with buoy,0.5373279746681281,8211,4412
+figurines,union,0.6,frame_00105,rubber duck with buoy,0.5855103689738755,7362,4412
+figurines,union,0.7,frame_00105,rubber duck with buoy,0.6306573675619528,6577,4412
+figurines,union,0.5,frame_00195,rubber duck with buoy,0.39870216623723637,10474,4183
+figurines,union,0.6,frame_00195,rubber duck with buoy,0.4292908530318602,9724,4183
+figurines,union,0.7,frame_00195,rubber duck with buoy,0.46570721834944906,8853,4183
+figurines,union,0.5,frame_00041,red toy chair,0.7547192679453383,32972,24939
+figurines,union,0.6,frame_00041,red toy chair,0.8019253678482887,31027,24939
+figurines,union,0.7,frame_00041,red toy chair,0.8166661185833142,30304,24939
+figurines,union,0.5,frame_00041,pink ice cream,0.3765456100785442,12859,4842
+figurines,union,0.6,frame_00041,pink ice cream,0.43519683623943917,11126,4842
+figurines,union,0.7,frame_00041,pink ice cream,0.5604815372149554,8639,4842
+figurines,union,0.5,frame_00105,pink ice cream,0.24181873789377104,19541,4821
+figurines,union,0.6,frame_00105,pink ice cream,0.3314237809137907,14237,4821
+figurines,union,0.7,frame_00105,pink ice cream,0.49283042394014964,9546,4821
+figurines,union,0.5,frame_00195,pink ice cream,0.4924390243902439,12289,6068
+figurines,union,0.6,frame_00195,pink ice cream,0.5617175183158676,10772,6068
+figurines,union,0.7,frame_00195,pink ice cream,0.6642904145645975,9107,6068
+figurines,union,0.5,frame_00041,spatula,0.052848899051064935,119397,6310
+figurines,union,0.6,frame_00041,spatula,0.15895808141878276,39696,6310
+figurines,union,0.7,frame_00041,spatula,0.3483488475177305,18025,6310
+figurines,union,0.5,frame_00105,spatula,0.007162397787397788,266109,1909
+figurines,union,0.6,frame_00105,spatula,0.012256116793583563,155346,1909
+figurines,union,0.7,frame_00105,spatula,0.030710333182874434,59745,1909
+figurines,union,0.5,frame_00195,spatula,0.04916138109701626,179094,8815
+figurines,union,0.6,frame_00195,spatula,0.1432033308395407,61476,8815
+figurines,union,0.7,frame_00195,spatula,0.2399018137188054,36646,8815
+figurines,union,0.5,frame_00105,green toy chair,0.8201302448273019,12031,10049
+figurines,union,0.6,frame_00105,green toy chair,0.8252386882523869,11936,10049
+figurines,union,0.7,frame_00105,green toy chair,0.8262651610204935,11784,10049
+figurines,union,0.5,frame_00195,green toy chair,0.8913408218398976,35165,31344
+figurines,union,0.6,frame_00195,green toy chair,0.8980522647084134,34824,31344
+figurines,union,0.7,frame_00195,green toy chair,0.8999798404515739,34629,31344
+figurines,union,0.5,frame_00041,toy elephant,0.7836014050656314,10818,8477
+figurines,union,0.6,frame_00041,toy elephant,0.8253687315634218,10087,8477
+figurines,union,0.7,frame_00041,toy elephant,0.8054154226294656,9059,8477
+figurines,union,0.5,frame_00152,toy elephant,0.8844100710352655,23791,21041
+figurines,union,0.6,frame_00152,toy elephant,0.8927783435166328,23568,21041
+figurines,union,0.7,frame_00152,toy elephant,0.9113658237816082,22649,21041
+figurines,union,0.5,frame_00195,toy elephant,0.8242354488655048,6057,5038
+figurines,union,0.6,frame_00195,toy elephant,0.8617206548241031,5652,5038
+figurines,union,0.7,frame_00195,toy elephant,0.7982630721910621,4901,5038
+figurines,intersect,0.5,frame_00041,jake,0.2307739090770868,32702,7772
+figurines,intersect,0.6,frame_00041,jake,0.5224220183486239,12971,7772
+figurines,intersect,0.7,frame_00041,jake,0.515780180975502,5964,7772
+figurines,intersect,0.5,frame_00105,jake,0.18960489181561618,21236,4055
+figurines,intersect,0.6,frame_00105,jake,0.44152113970588236,8492,4055
+figurines,intersect,0.7,frame_00105,jake,0.5489827320909557,5005,4055
+figurines,intersect,0.5,frame_00152,jake,0.3581696699736789,29421,10827
+figurines,intersect,0.6,frame_00152,jake,0.6004980866184778,15522,10827
+figurines,intersect,0.7,frame_00152,jake,0.5137985725614591,8262,10827
+figurines,intersect,0.5,frame_00041,pirate hat,0.26347760060744113,3153,1839
+figurines,intersect,0.6,frame_00041,pirate hat,0.3684971098265896,1002,1839
+figurines,intersect,0.7,frame_00041,pirate hat,0.28361344537815125,605,1839
+figurines,intersect,0.5,frame_00105,pirate hat,0.0550213145632993,9738,904
+figurines,intersect,0.6,frame_00105,pirate hat,0.28036605657237934,635,904
+figurines,intersect,0.7,frame_00105,pirate hat,0.18478260869565216,295,904
+figurines,intersect,0.5,frame_00152,pirate hat,0.24686004784688995,6256,2083
+figurines,intersect,0.6,frame_00152,pirate hat,0.3256777108433735,1438,2083
+figurines,intersect,0.7,frame_00152,pirate hat,0.20155393053016454,546,2083
+figurines,intersect,0.5,frame_00195,pirate hat,0.42870514820592825,2702,1877
+figurines,intersect,0.6,frame_00195,pirate hat,0.35944919278252613,986,1877
+figurines,intersect,0.7,frame_00195,pirate hat,0.24779678589942974,530,1877
+figurines,intersect,0.5,frame_00041,pikachu,0.49564438655051696,6285,12086
+figurines,intersect,0.6,frame_00041,pikachu,0.4830846987853591,6107,12086
+figurines,intersect,0.7,frame_00041,pikachu,0.3937330817816422,4905,12086
+figurines,intersect,0.5,frame_00152,pikachu,0.4712758517334399,9915,19537
+figurines,intersect,0.6,frame_00152,pikachu,0.45477726113694317,9560,19537
+figurines,intersect,0.7,frame_00152,pikachu,0.37113505891832005,7691,19537
+figurines,intersect,0.5,frame_00041,rubber duck with hat,0.6070960698689957,8672,6049
+figurines,intersect,0.6,frame_00041,rubber duck with hat,0.6188314711359404,7860,6049
+figurines,intersect,0.7,frame_00041,rubber duck with hat,0.47578558225508316,5927,6049
+figurines,intersect,0.5,frame_00105,rubber duck with hat,0.5498461538461539,2854,2183
+figurines,intersect,0.6,frame_00105,rubber duck with hat,0.5296803652968036,2507,2183
+figurines,intersect,0.7,frame_00105,rubber duck with hat,0.44988780852655197,1694,2183
+figurines,intersect,0.5,frame_00152,rubber duck with hat,0.69755832881172,7440,8203
+figurines,intersect,0.6,frame_00152,rubber duck with hat,0.6605887521968365,6915,8203
+figurines,intersect,0.7,frame_00152,rubber duck with hat,0.6654732068265903,5752,8203
+figurines,intersect,0.5,frame_00195,rubber duck with hat,0.5779188241189244,5144,4303
+figurines,intersect,0.6,frame_00195,rubber duck with hat,0.5776090411442698,4631,4303
+figurines,intersect,0.7,frame_00195,rubber duck with hat,0.4610902255639098,3470,4303
+figurines,intersect,0.5,frame_00041,porcelain hand,0.7580531389607336,3708,3769
+figurines,intersect,0.6,frame_00041,porcelain hand,0.6002946231279156,2749,3769
+figurines,intersect,0.7,frame_00041,porcelain hand,0.41477572559366754,1593,3769
+figurines,intersect,0.5,frame_00152,porcelain hand,0.7599541209241357,5103,5638
+figurines,intersect,0.6,frame_00152,porcelain hand,0.46804087995842714,2837,5638
+figurines,intersect,0.7,frame_00152,porcelain hand,0.2750791974656811,1607,5638
+figurines,intersect,0.5,frame_00195,porcelain hand,0.8229799159271368,1947,1956
+figurines,intersect,0.6,frame_00195,porcelain hand,0.7213516160626836,1559,1956
+figurines,intersect,0.7,frame_00195,porcelain hand,0.40373926225366347,822,1956
+figurines,intersect,0.5,frame_00041,red apple,0.8968263545311934,7788,7931
+figurines,intersect,0.6,frame_00041,red apple,0.9049068549859978,7714,7931
+figurines,intersect,0.7,frame_00041,red apple,0.8485149745246676,6944,7931
+figurines,intersect,0.5,frame_00105,red apple,0.9659459909522355,35886,34949
+figurines,intersect,0.6,frame_00105,red apple,0.9666212723381785,35812,34949
+figurines,intersect,0.7,frame_00105,red apple,0.9407390842511321,34479,34949
+figurines,intersect,0.5,frame_00152,red apple,0.6017148981779207,4450,3022
+figurines,intersect,0.6,frame_00152,red apple,0.6130587204206837,4340,3022
+figurines,intersect,0.7,frame_00152,red apple,0.6398683591913493,3954,3022
+figurines,intersect,0.5,frame_00041,tesla door handle,0.35790505226480834,18050,6892
+figurines,intersect,0.6,frame_00041,tesla door handle,0.4756535947712418,11170,6892
+figurines,intersect,0.7,frame_00041,tesla door handle,0.26431111620970515,4129,6892
+figurines,intersect,0.5,frame_00105,tesla door handle,0.21009377936853893,49920,10598
+figurines,intersect,0.6,frame_00105,tesla door handle,0.435181526844901,22094,10598
+figurines,intersect,0.7,frame_00105,tesla door handle,0.27405331197803456,11675,10598
+figurines,intersect,0.5,frame_00041,waldo,0.6974874371859296,3228,3528
+figurines,intersect,0.6,frame_00041,waldo,0.5808730759525612,2737,3528
+figurines,intersect,0.7,frame_00041,waldo,0.5823425246648115,2727,3528
+figurines,intersect,0.5,frame_00152,waldo,0.5443694047432072,3776,6057
+figurines,intersect,0.6,frame_00152,waldo,0.4516740366392925,3135,6057
+figurines,intersect,0.7,frame_00152,waldo,0.44430217669654287,2967,6057
+figurines,intersect,0.5,frame_00195,waldo,0.6297191180912111,2284,3112
+figurines,intersect,0.6,frame_00195,waldo,0.5270474463584165,1941,3112
+figurines,intersect,0.7,frame_00195,waldo,0.5255227552275523,1849,3112
+figurines,intersect,0.5,frame_00195,bag,0.00011896264572924102,10690,6124
+figurines,intersect,0.6,frame_00195,bag,0.0,3766,6124
+figurines,intersect,0.7,frame_00195,bag,0.0,1293,6124
+figurines,intersect,0.5,frame_00041,toy cat statue,0.36450477626948213,3938,1490
+figurines,intersect,0.6,frame_00041,toy cat statue,0.3183635804367887,2796,1490
+figurines,intersect,0.7,frame_00041,toy cat statue,0.225594334850784,933,1490
+figurines,intersect,0.5,frame_00152,toy cat statue,0.8527834525025536,7713,6798
+figurines,intersect,0.6,frame_00152,toy cat statue,0.7802892039870841,5883,6798
+figurines,intersect,0.7,frame_00152,toy cat statue,0.3473282442748092,2380,6798
+figurines,intersect,0.5,frame_00195,toy cat statue,0.7472968798270003,2667,2989
+figurines,intersect,0.6,frame_00195,toy cat statue,0.5655577299412916,1811,2989
+figurines,intersect,0.7,frame_00195,toy cat statue,0.21311475409836064,637,2989
+figurines,intersect,0.5,frame_00041,miffy,0.10694158075601375,13847,2259
+figurines,intersect,0.6,frame_00041,miffy,0.039775500244021475,2002,2259
+figurines,intersect,0.7,frame_00041,miffy,0.07215582115980522,163,2259
+figurines,intersect,0.5,frame_00195,miffy,0.06600922538571656,12426,978
+figurines,intersect,0.6,frame_00195,miffy,0.03278284446635445,3212,978
+figurines,intersect,0.7,frame_00195,miffy,0.10122699386503067,99,978
+figurines,intersect,0.5,frame_00041,green apple,0.8793503480278422,7949,7441
+figurines,intersect,0.6,frame_00041,green apple,0.8812729498164015,7929,7441
+figurines,intersect,0.7,frame_00041,green apple,0.8800592300098716,7795,7441
+figurines,intersect,0.5,frame_00105,green apple,0.8183111694850326,18093,15133
+figurines,intersect,0.6,frame_00105,green apple,0.8201064004826414,18053,15133
+figurines,intersect,0.7,frame_00105,green apple,0.8255852473498233,17932,15133
+figurines,intersect,0.5,frame_00152,green apple,0.522121647914728,11424,6569
+figurines,intersect,0.6,frame_00152,green apple,0.52296220979495,11405,6569
+figurines,intersect,0.7,frame_00152,green apple,0.5240027629079607,11082,6569
+figurines,intersect,0.5,frame_00195,green apple,0.8349276974416018,8957,7539
+figurines,intersect,0.6,frame_00195,green apple,0.8371626143207673,8933,7539
+figurines,intersect,0.7,frame_00195,green apple,0.8436551646622457,8864,7539
+figurines,intersect,0.5,frame_00105,pumpkin,0.0,1742,63228
+figurines,intersect,0.6,frame_00105,pumpkin,0.0,1742,63228
+figurines,intersect,0.7,frame_00105,pumpkin,0.0,0,63228
+figurines,intersect,0.5,frame_00105,rubics cube,0.8277310924369747,4613,4957
+figurines,intersect,0.6,frame_00105,rubics cube,0.6446660019940179,3291,4957
+figurines,intersect,0.7,frame_00105,rubics cube,0.5264427910717877,2634,4957
+figurines,intersect,0.5,frame_00152,rubics cube,0.5641276496622408,15444,18130
+figurines,intersect,0.6,frame_00152,rubics cube,0.47706836791078516,11274,18130
+figurines,intersect,0.7,frame_00152,rubics cube,0.36110391963962096,8157,18130
+figurines,intersect,0.5,frame_00195,rubics cube,0.7929631088354996,6795,6862
+figurines,intersect,0.6,frame_00195,rubics cube,0.6952137480471524,5074,6862
+figurines,intersect,0.7,frame_00195,rubics cube,0.5593123209169054,4022,6862
+figurines,intersect,0.5,frame_00041,old camera,0.28313877184499553,6192,12384
+figurines,intersect,0.6,frame_00041,old camera,0.2232403165347772,5238,12384
+figurines,intersect,0.7,frame_00041,old camera,0.19861915056837995,4803,12384
+figurines,intersect,0.5,frame_00105,old camera,0.4689830325299903,26149,55406
+figurines,intersect,0.6,frame_00105,old camera,0.39048117532397214,21635,55406
+figurines,intersect,0.7,frame_00105,old camera,0.3206150958379959,17764,55406
+figurines,intersect,0.5,frame_00195,old camera,0.47676757258521996,9320,19316
+figurines,intersect,0.6,frame_00195,old camera,0.37069366251743197,7222,19316
+figurines,intersect,0.7,frame_00195,old camera,0.33419514969750247,6486,19316
+figurines,intersect,0.5,frame_00041,rubber duck with buoy,0.1982751471929679,6911,7539
+figurines,intersect,0.6,frame_00041,rubber duck with buoy,0.18571809219291233,5811,7539
+figurines,intersect,0.7,frame_00041,rubber duck with buoy,0.18491008600469117,4585,7539
+figurines,intersect,0.5,frame_00105,rubber duck with buoy,0.14989662301860784,2262,4412
+figurines,intersect,0.6,frame_00105,rubber duck with buoy,0.1208559901771619,1978,4412
+figurines,intersect,0.7,frame_00105,rubber duck with buoy,0.10663246610480029,1628,4412
+figurines,intersect,0.5,frame_00195,rubber duck with buoy,0.20251910557599773,4314,4183
+figurines,intersect,0.6,frame_00195,rubber duck with buoy,0.16340552651232262,3606,4183
+figurines,intersect,0.7,frame_00195,rubber duck with buoy,0.16765774694416916,2886,4183
+figurines,intersect,0.5,frame_00041,red toy chair,0.7805949588592278,22886,24939
+figurines,intersect,0.6,frame_00041,red toy chair,0.6755348113574484,18139,24939
+figurines,intersect,0.7,frame_00041,red toy chair,0.4387556964533386,11368,24939
+figurines,intersect,0.5,frame_00041,pink ice cream,0.7215214067278287,4165,4842
+figurines,intersect,0.6,frame_00041,pink ice cream,0.7133280757097792,3848,4842
+figurines,intersect,0.7,frame_00041,pink ice cream,0.6755892928485817,3546,4842
+figurines,intersect,0.5,frame_00105,pink ice cream,0.5235905637744902,2800,4821
+figurines,intersect,0.6,frame_00105,pink ice cream,0.4659274193548387,2450,4821
+figurines,intersect,0.7,frame_00105,pink ice cream,0.43953159701191197,2309,4821
+figurines,intersect,0.5,frame_00195,pink ice cream,0.7347792408985283,5130,6068
+figurines,intersect,0.6,frame_00195,pink ice cream,0.6905928853754941,4625,6068
+figurines,intersect,0.7,frame_00195,pink ice cream,0.6499197431781701,4211,6068
+figurines,intersect,0.5,frame_00041,spatula,0.5530221745350501,11059,6310
+figurines,intersect,0.6,frame_00041,spatula,0.46867115222876365,7660,6310
+figurines,intersect,0.7,frame_00041,spatula,0.578299290163697,4585,6310
+figurines,intersect,0.5,frame_00105,spatula,0.37778223380790055,4962,1909
+figurines,intersect,0.6,frame_00105,spatula,0.27194919933738265,2698,1909
+figurines,intersect,0.7,frame_00105,spatula,0.21720583007465338,1515,1909
+figurines,intersect,0.5,frame_00195,spatula,0.7754047879209298,9058,8815
+figurines,intersect,0.6,frame_00195,spatula,0.4664429530201342,5606,8815
+figurines,intersect,0.7,frame_00195,spatula,0.4120740429112326,4611,8815
+figurines,intersect,0.5,frame_00105,green toy chair,0.6671562327886911,8113,10049
+figurines,intersect,0.6,frame_00105,green toy chair,0.5838581532797209,6298,10049
+figurines,intersect,0.7,frame_00105,green toy chair,0.37482765412645264,3911,10049
+figurines,intersect,0.5,frame_00195,green toy chair,0.8962046357004341,30258,31344
+figurines,intersect,0.6,frame_00195,green toy chair,0.6851173945973239,22054,31344
+figurines,intersect,0.7,frame_00195,green toy chair,0.33288667687595713,10434,31344
+figurines,intersect,0.5,frame_00041,toy elephant,0.7156759043790988,7743,8477
+figurines,intersect,0.6,frame_00041,toy elephant,0.6423700391280045,6214,8477
+figurines,intersect,0.7,frame_00041,toy elephant,0.567576909782233,5128,8477
+figurines,intersect,0.5,frame_00152,toy elephant,0.7786632272329449,17572,21041
+figurines,intersect,0.6,frame_00152,toy elephant,0.7400723718219842,15986,21041
+figurines,intersect,0.7,frame_00152,toy elephant,0.5439492856467026,11595,21041
+figurines,intersect,0.5,frame_00195,toy elephant,0.7231534352551114,4317,5038
+figurines,intersect,0.6,frame_00195,toy elephant,0.6781214203894617,3752,5038
+figurines,intersect,0.7,frame_00195,toy elephant,0.5438084112149533,2891,5038
+figurines,vote,0.5,frame_00041,jake,0.07935874205337674,97663,7772
+figurines,vote,0.6,frame_00041,jake,0.40749154691462386,18869,7772
+figurines,vote,0.7,frame_00041,jake,0.52704218062624,9931,7772
+figurines,vote,0.5,frame_00105,jake,0.04559129569308722,88392,4055
+figurines,vote,0.6,frame_00105,jake,0.34678251892635925,11600,4055
+figurines,vote,0.7,frame_00105,jake,0.4763252702007205,7419,4055
+figurines,vote,0.5,frame_00152,jake,0.16466819221967963,65517,10827
+figurines,vote,0.6,frame_00152,jake,0.48500203592272545,21996,10827
+figurines,vote,0.7,frame_00152,jake,0.5481714763159586,13261,10827
+figurines,vote,0.5,frame_00041,pirate hat,0.08640218229259325,16481,1839
+figurines,vote,0.6,frame_00041,pirate hat,0.09866822202780208,9463,1839
+figurines,vote,0.7,frame_00041,pirate hat,0.13747509509146894,4441,1839
+figurines,vote,0.5,frame_00105,pirate hat,0.013810713087561039,53491,904
+figurines,vote,0.6,frame_00105,pirate hat,0.015538655140340318,36218,904
+figurines,vote,0.7,frame_00105,pirate hat,0.01626136812969553,19657,904
+figurines,vote,0.5,frame_00152,pirate hat,0.12983443930558347,14773,2083
+figurines,vote,0.6,frame_00152,pirate hat,0.14713689799014032,10017,2083
+figurines,vote,0.7,frame_00152,pirate hat,0.14668340657041223,3397,2083
+figurines,vote,0.5,frame_00195,pirate hat,0.064842799387683,25252,1877
+figurines,vote,0.6,frame_00195,pirate hat,0.07534766118836915,15135,1877
+figurines,vote,0.7,frame_00195,pirate hat,0.07626363838788688,7790,1877
+figurines,vote,0.5,frame_00041,pikachu,0.5426769762029877,8464,12086
+figurines,vote,0.6,frame_00041,pikachu,0.510507880910683,6889,12086
+figurines,vote,0.7,frame_00041,pikachu,0.46615497672899486,5870,12086
+figurines,vote,0.5,frame_00152,pikachu,0.5163874726875455,13775,19537
+figurines,vote,0.6,frame_00152,pikachu,0.4832843137254902,10722,19537
+figurines,vote,0.7,frame_00152,pikachu,0.44133717464732763,9480,19537
+figurines,vote,0.5,frame_00041,rubber duck with hat,0.40891866287725,14772,6049
+figurines,vote,0.6,frame_00041,rubber duck with hat,0.45750342101261976,13123,6049
+figurines,vote,0.7,frame_00041,rubber duck with hat,0.5806839835523017,9712,6049
+figurines,vote,0.5,frame_00105,rubber duck with hat,0.32552122964541164,6527,2183
+figurines,vote,0.6,frame_00105,rubber duck with hat,0.38136986301369863,5380,2183
+figurines,vote,0.7,frame_00105,rubber duck with hat,0.60938997125519,2856,2183
+figurines,vote,0.5,frame_00152,rubber duck with hat,0.8425343101847075,9653,8203
+figurines,vote,0.6,frame_00152,rubber duck with hat,0.8447398483747014,9560,8203
+figurines,vote,0.7,frame_00152,rubber duck with hat,0.8293457548168537,9077,8203
+figurines,vote,0.5,frame_00195,rubber duck with hat,0.46064516129032257,9281,4303
+figurines,vote,0.6,frame_00195,rubber duck with hat,0.5115218434949592,8291,4303
+figurines,vote,0.7,frame_00195,rubber duck with hat,0.6062081558125381,6253,4303
+figurines,vote,0.5,frame_00041,porcelain hand,0.7868233319345364,4747,3769
+figurines,vote,0.6,frame_00041,porcelain hand,0.759428698951127,4115,3769
+figurines,vote,0.7,frame_00041,porcelain hand,0.7382978723404255,3584,3769
+figurines,vote,0.5,frame_00152,porcelain hand,0.8186060075823856,6834,5638
+figurines,vote,0.6,frame_00152,porcelain hand,0.82693789489906,6217,5638
+figurines,vote,0.7,frame_00152,porcelain hand,0.7644118627124292,4952,5638
+figurines,vote,0.5,frame_00195,porcelain hand,0.8388625592417062,2312,1956
+figurines,vote,0.6,frame_00195,porcelain hand,0.8630454967502321,2057,1956
+figurines,vote,0.7,frame_00195,porcelain hand,0.829232995658466,1836,1956
+figurines,vote,0.5,frame_00041,red apple,0.9353919239904989,8365,7931
+figurines,vote,0.6,frame_00041,red apple,0.9189384800965018,7977,7931
+figurines,vote,0.7,frame_00041,red apple,0.9000847765532276,7758,7931
+figurines,vote,0.5,frame_00105,red apple,0.9684650982348214,36087,34949
+figurines,vote,0.6,frame_00105,red apple,0.9689384046898007,35919,34949
+figurines,vote,0.7,frame_00105,red apple,0.9674891630543514,35857,34949
+figurines,vote,0.5,frame_00152,red apple,0.6107723577235772,4903,3022
+figurines,vote,0.6,frame_00152,red apple,0.6087231352718079,4613,3022
+figurines,vote,0.7,frame_00152,red apple,0.6039476507187299,4454,3022
+figurines,vote,0.5,frame_00041,tesla door handle,0.19502450910945512,35284,6892
+figurines,vote,0.6,frame_00041,tesla door handle,0.32895934102772856,20858,6892
+figurines,vote,0.7,frame_00041,tesla door handle,0.4491951710261569,13275,6892
+figurines,vote,0.5,frame_00105,tesla door handle,0.07959683355113935,133146,10598
+figurines,vote,0.6,frame_00105,tesla door handle,0.15155193341425352,69094,10598
+figurines,vote,0.7,frame_00105,tesla door handle,0.47745111699410153,21213,10598
+figurines,vote,0.5,frame_00041,waldo,0.5048654836863194,6988,3528
+figurines,vote,0.6,frame_00041,waldo,0.49691176470588233,6651,3528
+figurines,vote,0.7,frame_00041,waldo,0.7737017627441639,3918,3528
+figurines,vote,0.5,frame_00152,waldo,0.787267487555672,7587,6057
+figurines,vote,0.6,frame_00152,waldo,0.8110567780494431,7276,6057
+figurines,vote,0.7,frame_00152,waldo,0.8280344557556774,5615,6057
+figurines,vote,0.5,frame_00195,waldo,0.7565579798970336,4053,3112
+figurines,vote,0.6,frame_00195,waldo,0.7555006180469716,3989,3112
+figurines,vote,0.7,frame_00195,waldo,0.8097226364449747,2956,3112
+figurines,vote,0.5,frame_00195,bag,0.02003648021224851,30785,6124
+figurines,vote,0.6,frame_00195,bag,0.0,19609,6124
+figurines,vote,0.7,frame_00195,bag,0.0,8264,6124
+figurines,vote,0.5,frame_00041,toy cat statue,0.05424484488203604,26885,1490
+figurines,vote,0.6,frame_00041,toy cat statue,0.10773303385207765,12319,1490
+figurines,vote,0.7,frame_00041,toy cat statue,0.2755987504338771,2185,1490
+figurines,vote,0.5,frame_00152,toy cat statue,0.19195798271869882,35414,6798
+figurines,vote,0.6,frame_00152,toy cat statue,0.3061352053082027,20367,6798
+figurines,vote,0.7,frame_00152,toy cat statue,0.6454020560484439,4886,6798
+figurines,vote,0.5,frame_00195,toy cat statue,0.10497237569060773,24611,2989
+figurines,vote,0.6,frame_00195,toy cat statue,0.1756979944946913,11960,2989
+figurines,vote,0.7,frame_00195,toy cat statue,0.5076310550763106,1555,2989
+figurines,vote,0.5,frame_00041,miffy,0.03317397705996764,54579,2259
+figurines,vote,0.6,frame_00041,miffy,0.06344450234497134,22230,2259
+figurines,vote,0.7,frame_00041,miffy,0.11773923944839114,8440,2259
+figurines,vote,0.5,frame_00195,miffy,0.01969422695252012,45776,978
+figurines,vote,0.6,frame_00195,miffy,0.03229351593541297,23444,978
+figurines,vote,0.7,frame_00195,miffy,0.055877034358047015,10700,978
+figurines,vote,0.5,frame_00041,green apple,0.7363600159299084,9999,7441
+figurines,vote,0.6,frame_00041,green apple,0.8909512761020881,8044,7441
+figurines,vote,0.7,frame_00041,green apple,0.8819487053626212,7895,7441
+figurines,vote,0.5,frame_00105,green apple,0.7771549063978606,19422,15133
+figurines,vote,0.6,frame_00105,green apple,0.8199714849747751,18056,15133
+figurines,vote,0.7,frame_00105,green apple,0.8210971390917577,18031,15133
+figurines,vote,0.5,frame_00152,green apple,0.5150863784730515,12462,6569
+figurines,vote,0.6,frame_00152,green apple,0.5296108291032149,11511,6569
+figurines,vote,0.7,frame_00152,green apple,0.5278823126924392,11295,6569
+figurines,vote,0.5,frame_00195,green apple,0.5497702909647779,13713,7539
+figurines,vote,0.6,frame_00195,green apple,0.8349276974416018,8957,7539
+figurines,vote,0.7,frame_00195,green apple,0.8390342052313883,8913,7539
+figurines,vote,0.5,frame_00105,pumpkin,0.029580714268898464,24239,63228
+figurines,vote,0.6,frame_00105,pumpkin,0.0,12423,63228
+figurines,vote,0.7,frame_00105,pumpkin,0.0,6736,63228
+figurines,vote,0.5,frame_00105,rubics cube,0.6795996709624349,7294,4957
+figurines,vote,0.6,frame_00105,rubics cube,0.6942577030812325,7140,4957
+figurines,vote,0.7,frame_00105,rubics cube,0.7194484760522496,6890,4957
+figurines,vote,0.5,frame_00152,rubics cube,0.7358551830505723,24638,18130
+figurines,vote,0.6,frame_00152,rubics cube,0.7383725665879286,24554,18130
+figurines,vote,0.7,frame_00152,rubics cube,0.7507674437899278,24074,18130
+figurines,vote,0.5,frame_00195,rubics cube,0.6396942295143097,10727,6862
+figurines,vote,0.6,frame_00195,rubics cube,0.6492572618033873,10569,6862
+figurines,vote,0.7,frame_00195,rubics cube,0.6811680572109654,10064,6862
+figurines,vote,0.5,frame_00041,old camera,0.40769441777533943,8143,12384
+figurines,vote,0.6,frame_00041,old camera,0.35292494481236203,7228,12384
+figurines,vote,0.7,frame_00041,old camera,0.3088052055932438,6523,12384
+figurines,vote,0.5,frame_00105,old camera,0.5199693464739534,29881,55406
+figurines,vote,0.6,frame_00105,old camera,0.4770870210445386,27206,55406
+figurines,vote,0.7,frame_00105,old camera,0.428088351679977,23990,55406
+figurines,vote,0.5,frame_00195,old camera,0.5961891175871205,12014,19316
+figurines,vote,0.6,frame_00195,old camera,0.5142827784628031,10158,19316
+figurines,vote,0.7,frame_00195,old camera,0.45833548320520096,8948,19316
+figurines,vote,0.5,frame_00041,rubber duck with buoy,0.49174138744690893,14588,7539
+figurines,vote,0.6,frame_00041,rubber duck with buoy,0.45146400275576987,13529,7539
+figurines,vote,0.7,frame_00041,rubber duck with buoy,0.41246866661275977,9929,7539
+figurines,vote,0.5,frame_00105,rubber duck with buoy,0.5549497847919656,6426,4412
+figurines,vote,0.6,frame_00105,rubber duck with buoy,0.46977901361042,5631,4412
+figurines,vote,0.7,frame_00105,rubber duck with buoy,0.2619505935194097,3455,4412
+figurines,vote,0.5,frame_00195,rubber duck with buoy,0.43455441302485004,9210,4183
+figurines,vote,0.6,frame_00195,rubber duck with buoy,0.40773190231080936,8671,4183
+figurines,vote,0.7,frame_00195,rubber duck with buoy,0.38623853211009174,6394,4183
+figurines,vote,0.5,frame_00041,red toy chair,0.779299165344554,26650,24939
+figurines,vote,0.6,frame_00041,red toy chair,0.7811160282118655,26578,24939
+figurines,vote,0.7,frame_00041,red toy chair,0.785225957998808,25981,24939
+figurines,vote,0.5,frame_00041,pink ice cream,0.8417941585535466,5752,4842
+figurines,vote,0.6,frame_00041,pink ice cream,0.8580542264752791,5643,4842
+figurines,vote,0.7,frame_00041,pink ice cream,0.871083903492978,5550,4842
+figurines,vote,0.5,frame_00105,pink ice cream,0.9058621348100058,5160,4821
+figurines,vote,0.6,frame_00105,pink ice cream,0.9072480397781603,5152,4821
+figurines,vote,0.7,frame_00105,pink ice cream,0.9087240584166026,5112,4821
+figurines,vote,0.5,frame_00195,pink ice cream,0.7792358162871478,7762,6068
+figurines,vote,0.6,frame_00195,pink ice cream,0.7830639948287007,7724,6068
+figurines,vote,0.7,frame_00195,pink ice cream,0.7890828556539865,7665,6068
+figurines,vote,0.5,frame_00041,spatula,0.28727521056225813,21965,6310
+figurines,vote,0.6,frame_00041,spatula,0.33906501880709294,18610,6310
+figurines,vote,0.7,frame_00041,spatula,0.5561378575235388,11209,6310
+figurines,vote,0.5,frame_00105,spatula,0.049673884685624836,38325,1909
+figurines,vote,0.6,frame_00105,spatula,0.09555813835969477,19771,1909
+figurines,vote,0.7,frame_00105,spatula,0.413093591516828,4221,1909
+figurines,vote,0.5,frame_00195,spatula,0.36738014770309174,23957,8815
+figurines,vote,0.6,frame_00195,spatula,0.8267731329262564,10631,8815
+figurines,vote,0.7,frame_00195,spatula,0.8491505565319274,10124,8815
+figurines,vote,0.5,frame_00105,green toy chair,0.6607458465889007,8744,10049
+figurines,vote,0.6,frame_00105,green toy chair,0.6570039770216527,8700,10049
+figurines,vote,0.7,frame_00105,green toy chair,0.65217776203966,8614,10049
+figurines,vote,0.5,frame_00195,green toy chair,0.8883144951663308,33310,31344
+figurines,vote,0.6,frame_00195,green toy chair,0.8896136184152797,33260,31344
+figurines,vote,0.7,frame_00195,green toy chair,0.8924323848119109,33099,31344
+figurines,vote,0.5,frame_00041,toy elephant,0.7885210541123511,10594,8477
+figurines,vote,0.6,frame_00041,toy elephant,0.8043257514216084,9292,8477
+figurines,vote,0.7,frame_00041,toy elephant,0.788483407422723,8823,8477
+figurines,vote,0.5,frame_00152,toy elephant,0.8936125031852544,23546,21041
+figurines,vote,0.6,frame_00152,toy elephant,0.9082308832505014,22730,21041
+figurines,vote,0.7,frame_00152,toy elephant,0.9069643806485912,22003,21041
+figurines,vote,0.5,frame_00195,toy elephant,0.827212020033389,5907,5038
+figurines,vote,0.6,frame_00195,toy elephant,0.8611309949892627,5362,5038
+figurines,vote,0.7,frame_00195,toy elephant,0.7904344651332603,4770,5038

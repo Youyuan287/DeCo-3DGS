@@ -1,0 +1,17 @@
+{
+  "status": "PROTOTYPE_UNVERIFIED_SAME_SCENE_DIRECTION_FINAL_REGION_TOP5",
+  "arms": {
+    "k1": {
+      "scene_miou": 0.006673200370920641,
+      "images": 7
+    },
+    "b2_raw": {
+      "scene_miou": 0.00654047418515265,
+      "images": 7
+    },
+    "b3_same_scene": {
+      "scene_miou": 0.00572212394660432,
+      "images": 7
+    }
+  }
+}

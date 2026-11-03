@@ -1,0 +1,1373 @@
+{
+  "status": "REAL_PREDICTIONS_AND_MASKS",
+  "scene": "figurines",
+  "gt_opened": false,
+  "gpu_used": true,
+  "same_r0_for_A_B": true,
+  "same_query_manifest_for_A_B": true,
+  "selector": "gap_select",
+  "query_count": 56,
+  "B_candidate_count": 646,
+  "render_manifest": {
+    "A_mask_dir": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks",
+    "B_mask_dir": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks",
+    "records": [
+      {
+        "query_index": 0,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0000_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7172,
+        "sha256": "65b963c17e64c09adbb8f7600a9a5d5d32788b65c168ec3387ea90eebe1ac2dd"
+      },
+      {
+        "query_index": 0,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0000_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7172,
+        "sha256": "65b963c17e64c09adbb8f7600a9a5d5d32788b65c168ec3387ea90eebe1ac2dd"
+      },
+      {
+        "query_index": 1,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0001_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6840,
+        "sha256": "694967c41522c6325282c19f5fbc61b1541dcd99e5a6340ae8900803571c00cc"
+      },
+      {
+        "query_index": 1,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0001_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 2,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0002_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 295546,
+        "sha256": "7080b8e228fa790439b99f48dc9eda6ef8a26c83fdabc193f7d4ff44b22c54ce"
+      },
+      {
+        "query_index": 2,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0002_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 816,
+        "sha256": "6c376fb61df99df5fe118639f478fe8494bd70bfac392ad5025aa004b3b82d46"
+      },
+      {
+        "query_index": 3,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0003_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 3962,
+        "sha256": "eacdda1e0ca5c39a33b054b5a71a9c8f41342d1411c8b06957e8060777b84261"
+      },
+      {
+        "query_index": 3,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0003_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 3962,
+        "sha256": "eacdda1e0ca5c39a33b054b5a71a9c8f41342d1411c8b06957e8060777b84261"
+      },
+      {
+        "query_index": 4,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0004_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 19875,
+        "sha256": "e2c9c8747cfcee1ab20f3d573261836fd884006a01b3322753105fa0cecc7f56"
+      },
+      {
+        "query_index": 4,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0004_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 20720,
+        "sha256": "205e3e9f8a289417b1bd0059f4653311cba526da10017b0d82cf6a03a2f6ccab"
+      },
+      {
+        "query_index": 5,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0005_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4650,
+        "sha256": "b5c60717067a3f3f883583896d3a09f74b514b627059a2e710def1805357f785"
+      },
+      {
+        "query_index": 5,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0005_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4702,
+        "sha256": "790f2bacaf3e52f0e2ae1c64f9d830867b0bf9907700a01a7f5bbf0ec6092b6c"
+      },
+      {
+        "query_index": 6,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0006_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 27561,
+        "sha256": "4ce16901dbf0dfe21bc6bc073272056322a6f801a44f5886b0b3c8096e334704"
+      },
+      {
+        "query_index": 6,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0006_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2565,
+        "sha256": "8cb8c181d76a58c9359fb013423a06d409beb25f346e43ee6c17e4a6e32cc72c"
+      },
+      {
+        "query_index": 7,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0007_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 204,
+        "sha256": "1f753034af5fe84f16f7a7ab98b03bc11297d7ba47f1a6c6672e713d1bb733c0"
+      },
+      {
+        "query_index": 7,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0007_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 204,
+        "sha256": "1f753034af5fe84f16f7a7ab98b03bc11297d7ba47f1a6c6672e713d1bb733c0"
+      },
+      {
+        "query_index": 8,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0008_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7733,
+        "sha256": "c9a534cd682a9b04fdf69b4f398a3eea56f4943d0c28a475388b2882a858bc24"
+      },
+      {
+        "query_index": 8,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0008_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7733,
+        "sha256": "c9a534cd682a9b04fdf69b4f398a3eea56f4943d0c28a475388b2882a858bc24"
+      },
+      {
+        "query_index": 9,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0009_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 20775,
+        "sha256": "40f96e47dc20fbd69db1b674a89b24e426855f2f994f4f9c73da28c9ff4aa903"
+      },
+      {
+        "query_index": 9,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0009_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 20775,
+        "sha256": "40f96e47dc20fbd69db1b674a89b24e426855f2f994f4f9c73da28c9ff4aa903"
+      },
+      {
+        "query_index": 10,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0010_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 9013,
+        "sha256": "cc31cc4bffba0b5cd2fdb7cd8a8bc18b83e30156de98c21d1439246dca04a99f"
+      },
+      {
+        "query_index": 10,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0010_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 13703,
+        "sha256": "69865970848b559c36797a613c84b5bc61cc3e85d144ea7d5a3bb741c11f2d3c"
+      },
+      {
+        "query_index": 11,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0011_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 13703,
+        "sha256": "69865970848b559c36797a613c84b5bc61cc3e85d144ea7d5a3bb741c11f2d3c"
+      },
+      {
+        "query_index": 11,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0011_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 13703,
+        "sha256": "69865970848b559c36797a613c84b5bc61cc3e85d144ea7d5a3bb741c11f2d3c"
+      },
+      {
+        "query_index": 12,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0012_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6568,
+        "sha256": "6baad95ca5d57fcd5dbf2db292a9bdfaa4291c4af5dc8bcaa99ecc8875e121c3"
+      },
+      {
+        "query_index": 12,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0012_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6568,
+        "sha256": "6baad95ca5d57fcd5dbf2db292a9bdfaa4291c4af5dc8bcaa99ecc8875e121c3"
+      },
+      {
+        "query_index": 13,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0013_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 0,
+        "sha256": "2b4eb3627d5d49a98f144a2bce2d0808e634ee6aae210f091200f39048eef584"
+      },
+      {
+        "query_index": 13,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0013_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 14,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0014_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1142,
+        "sha256": "a965091df39695c99878c3aa94caab51755b2c5d9d0c34572c1baa29651feae2"
+      },
+      {
+        "query_index": 14,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0014_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1142,
+        "sha256": "a965091df39695c99878c3aa94caab51755b2c5d9d0c34572c1baa29651feae2"
+      },
+      {
+        "query_index": 15,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0015_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7888,
+        "sha256": "1ea6fecc54d26ca1b5ce824936beb18381715990baa0304f78ed55bc74c683b4"
+      },
+      {
+        "query_index": 15,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0015_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7888,
+        "sha256": "1ea6fecc54d26ca1b5ce824936beb18381715990baa0304f78ed55bc74c683b4"
+      },
+      {
+        "query_index": 16,
+        "arm": "A",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0016_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2806,
+        "sha256": "6cca4aa99461bf79e7d4f59f33bc1b0313888f9849b193879c6263422972b704"
+      },
+      {
+        "query_index": 16,
+        "arm": "B",
+        "image": "frame_00041",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0016_frame_00041.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2806,
+        "sha256": "6cca4aa99461bf79e7d4f59f33bc1b0313888f9849b193879c6263422972b704"
+      },
+      {
+        "query_index": 17,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0017_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 15055,
+        "sha256": "4d75f96887700af7f69cd96d4a81692f9285053c1f47a82b52e36c4fbf83176c"
+      },
+      {
+        "query_index": 17,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0017_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 15055,
+        "sha256": "4d75f96887700af7f69cd96d4a81692f9285053c1f47a82b52e36c4fbf83176c"
+      },
+      {
+        "query_index": 18,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0018_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7620,
+        "sha256": "4d29a55743593baeaa2b91d15ca17855ab99884318dc0b541d2524066f7d9448"
+      },
+      {
+        "query_index": 18,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0018_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7620,
+        "sha256": "4d29a55743593baeaa2b91d15ca17855ab99884318dc0b541d2524066f7d9448"
+      },
+      {
+        "query_index": 19,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0019_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 3650,
+        "sha256": "d73d00b0c9aa6d56df08f920b9fdde27c2ba6eb8c32aa620f45d4ce23bcf105b"
+      },
+      {
+        "query_index": 19,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0019_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 20,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0020_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 34989,
+        "sha256": "007c738c190187102bf190521504aedd7d67ed8234e970f4d199eefaa0dec694"
+      },
+      {
+        "query_index": 20,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0020_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 34989,
+        "sha256": "007c738c190187102bf190521504aedd7d67ed8234e970f4d199eefaa0dec694"
+      },
+      {
+        "query_index": 21,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0021_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 3713,
+        "sha256": "2b1ef81e1b5dfe9b5ed17ebfe500531c4bb98b96dcfcb68b5bdb57701d2a9544"
+      },
+      {
+        "query_index": 21,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0021_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4550,
+        "sha256": "39e8631b809ba12dfcbdf5966cec2b498cf59b658004699e31a26f1061cd7eda"
+      },
+      {
+        "query_index": 22,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0022_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 0,
+        "sha256": "2b4eb3627d5d49a98f144a2bce2d0808e634ee6aae210f091200f39048eef584"
+      },
+      {
+        "query_index": 22,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0022_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 25409,
+        "sha256": "d785b45c872c064a5b4d0de463c373b861b110198803b169988489995b25f561"
+      },
+      {
+        "query_index": 23,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0023_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 87199,
+        "sha256": "9862b78d7f2251d0590b23ec85424566616b339920fb3e553019fa423c67e6dc"
+      },
+      {
+        "query_index": 23,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0023_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 87199,
+        "sha256": "9862b78d7f2251d0590b23ec85424566616b339920fb3e553019fa423c67e6dc"
+      },
+      {
+        "query_index": 24,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0024_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 34399,
+        "sha256": "cd3844540b04e5868306d6a9062f473103dfe9b97363fefe1d7dfb830a31ecd9"
+      },
+      {
+        "query_index": 24,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0024_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 34399,
+        "sha256": "cd3844540b04e5868306d6a9062f473103dfe9b97363fefe1d7dfb830a31ecd9"
+      },
+      {
+        "query_index": 25,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0025_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4947,
+        "sha256": "d2df627a5ec4762ecef7ec22d206b3c1ddec22bf6b359d472994e5e9923b3c7c"
+      },
+      {
+        "query_index": 25,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0025_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6144,
+        "sha256": "93722815e4351d559a687f67346157b831ad1076b96d0af7d0aa3f435e1f11fb"
+      },
+      {
+        "query_index": 26,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0026_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6144,
+        "sha256": "93722815e4351d559a687f67346157b831ad1076b96d0af7d0aa3f435e1f11fb"
+      },
+      {
+        "query_index": 26,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0026_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6144,
+        "sha256": "93722815e4351d559a687f67346157b831ad1076b96d0af7d0aa3f435e1f11fb"
+      },
+      {
+        "query_index": 27,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0027_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5134,
+        "sha256": "eb655ebd0ebce0481ba97f34799d797a418b7dcd79dddbf70e2d8fd2e84f7d68"
+      },
+      {
+        "query_index": 27,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0027_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5134,
+        "sha256": "eb655ebd0ebce0481ba97f34799d797a418b7dcd79dddbf70e2d8fd2e84f7d68"
+      },
+      {
+        "query_index": 28,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0028_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1578,
+        "sha256": "c2a78ddb91dd7e1cb1a32b26f2b88a2fdacf18afdec428fa1e900a5277ec8825"
+      },
+      {
+        "query_index": 28,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0028_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1578,
+        "sha256": "c2a78ddb91dd7e1cb1a32b26f2b88a2fdacf18afdec428fa1e900a5277ec8825"
+      },
+      {
+        "query_index": 29,
+        "arm": "A",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0029_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 0,
+        "sha256": "2b4eb3627d5d49a98f144a2bce2d0808e634ee6aae210f091200f39048eef584"
+      },
+      {
+        "query_index": 29,
+        "arm": "B",
+        "image": "frame_00105",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0029_frame_00105.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 30,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0030_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6096,
+        "sha256": "512f5c91abef2956356061a1d601a8620a20e37e828ad756af536585b024929a"
+      },
+      {
+        "query_index": 30,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0030_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6096,
+        "sha256": "512f5c91abef2956356061a1d601a8620a20e37e828ad756af536585b024929a"
+      },
+      {
+        "query_index": 31,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0031_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 10069,
+        "sha256": "ed9ef7aa5fce7f22e9d1abab92c9645b91eae1b354af1e05e8b4dbac20fd2cef"
+      },
+      {
+        "query_index": 31,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0031_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 32,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0032_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 17530,
+        "sha256": "01c39a6f427b1edaccf41f620d3c2b0f6ad866a260ab0252b085c33be43d7639"
+      },
+      {
+        "query_index": 32,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0032_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 18433,
+        "sha256": "043706aa8f8f733d8bd57bff0fa6d3ac7541477d51e73ea358013b1af505843c"
+      },
+      {
+        "query_index": 33,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0033_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 0,
+        "sha256": "2b4eb3627d5d49a98f144a2bce2d0808e634ee6aae210f091200f39048eef584"
+      },
+      {
+        "query_index": 33,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0033_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1617,
+        "sha256": "e152542c09c667bab8972125a6a9ab8f79dd5179e59f0b93bebf387805aa3913"
+      },
+      {
+        "query_index": 34,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0034_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 182,
+        "sha256": "23ec8bc03719cb99ea204738324688a1bc19f2892c604f9cdd00a7ceeb7b7f8b"
+      },
+      {
+        "query_index": 34,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0034_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 182,
+        "sha256": "23ec8bc03719cb99ea204738324688a1bc19f2892c604f9cdd00a7ceeb7b7f8b"
+      },
+      {
+        "query_index": 35,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0035_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2905,
+        "sha256": "bb14684bd2ccb51b85571f892b523b91d830b259d3097c21e0680c7d5b2b8849"
+      },
+      {
+        "query_index": 35,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0035_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2905,
+        "sha256": "bb14684bd2ccb51b85571f892b523b91d830b259d3097c21e0680c7d5b2b8849"
+      },
+      {
+        "query_index": 36,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0036_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 8205,
+        "sha256": "c0483e6779456aa21f8f295a519b4d24871dd3f8694ac13c871d074720ef8cab"
+      },
+      {
+        "query_index": 36,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0036_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 8205,
+        "sha256": "c0483e6779456aa21f8f295a519b4d24871dd3f8694ac13c871d074720ef8cab"
+      },
+      {
+        "query_index": 37,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0037_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 15760,
+        "sha256": "23f58f74da2207e47ad9742d86731abfbb60519cbfce659d5828b59a3558fdee"
+      },
+      {
+        "query_index": 37,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0037_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 15760,
+        "sha256": "23f58f74da2207e47ad9742d86731abfbb60519cbfce659d5828b59a3558fdee"
+      },
+      {
+        "query_index": 38,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0038_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5853,
+        "sha256": "2d50448eeb93769f2c4a6d4e1048a5605557ee104b8381118a1b415c829310d4"
+      },
+      {
+        "query_index": 38,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0038_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5853,
+        "sha256": "2d50448eeb93769f2c4a6d4e1048a5605557ee104b8381118a1b415c829310d4"
+      },
+      {
+        "query_index": 39,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0039_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 19942,
+        "sha256": "9d3271ed694c991d36f94a37e68eedc489626c843109dd3b25324eaa82a6a44a"
+      },
+      {
+        "query_index": 39,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0039_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 19942,
+        "sha256": "9d3271ed694c991d36f94a37e68eedc489626c843109dd3b25324eaa82a6a44a"
+      },
+      {
+        "query_index": 40,
+        "arm": "A",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0040_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2694,
+        "sha256": "9afcc0bb0252a18ac0ecb6ae6c623229dde2f346ac547e6bf8825455259111b2"
+      },
+      {
+        "query_index": 40,
+        "arm": "B",
+        "image": "frame_00152",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0040_frame_00152.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2694,
+        "sha256": "9afcc0bb0252a18ac0ecb6ae6c623229dde2f346ac547e6bf8825455259111b2"
+      },
+      {
+        "query_index": 41,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0041_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 0,
+        "sha256": "2b4eb3627d5d49a98f144a2bce2d0808e634ee6aae210f091200f39048eef584"
+      },
+      {
+        "query_index": 41,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0041_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 717808,
+        "sha256": "67c2af3289e498a2f1d5ecd3dc7cb5b80770a6341e7222d6b165882756cdd030"
+      },
+      {
+        "query_index": 42,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0042_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7352,
+        "sha256": "e7d858c8280ff656ccdc6d1cfabc9137c82543a6818b8d3fad1f01ce7d6b0fd8"
+      },
+      {
+        "query_index": 42,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0042_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7352,
+        "sha256": "e7d858c8280ff656ccdc6d1cfabc9137c82543a6818b8d3fad1f01ce7d6b0fd8"
+      },
+      {
+        "query_index": 43,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0043_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 29912,
+        "sha256": "1dac17eddac0a01dece51c779c43af8cd1109efe11133c562c7d771860948ca3"
+      },
+      {
+        "query_index": 43,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0043_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 29912,
+        "sha256": "1dac17eddac0a01dece51c779c43af8cd1109efe11133c562c7d771860948ca3"
+      },
+      {
+        "query_index": 44,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0044_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 253697,
+        "sha256": "53294c4add413877402e5b5327246cade0a68fc409f1367611fe0be6d6f73605"
+      },
+      {
+        "query_index": 44,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0044_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 574,
+        "sha256": "1a2aa957e498ea6fb9234dc22e360340de5142e7a04a007bb2fd99e5e8a46d55"
+      },
+      {
+        "query_index": 45,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0045_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7977,
+        "sha256": "c69221da1e9b988e9267920bb63a778e2eaa5ae6dd74185e1316b7e36ddd1f66"
+      },
+      {
+        "query_index": 45,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0045_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7977,
+        "sha256": "c69221da1e9b988e9267920bb63a778e2eaa5ae6dd74185e1316b7e36ddd1f66"
+      },
+      {
+        "query_index": 46,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0046_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5878,
+        "sha256": "a21d3ca4f9ad990ff1383dde9aa1ac836a88877063cad6afcd8747a7e7236c23"
+      },
+      {
+        "query_index": 46,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0046_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5962,
+        "sha256": "16a75604c2f3e4ca824949bba2d8f764a59501bdbdab77a85e3e1ee1a20d001a"
+      },
+      {
+        "query_index": 47,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0047_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 62329,
+        "sha256": "af9197e1f99cfb68f8bfb01d643137ddfb9dc03b6b7d9875fe9a7216b59b4125"
+      },
+      {
+        "query_index": 47,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0047_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 3451,
+        "sha256": "80e22fba05210b55b8a729d507e4e9c14be12b2085627b8478e9197e029868af"
+      },
+      {
+        "query_index": 48,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0048_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 262,
+        "sha256": "17f991311cee7229dd9caa65958d27cca13147b8426cc579681541e51ec1f8e7"
+      },
+      {
+        "query_index": 48,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0048_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 262,
+        "sha256": "17f991311cee7229dd9caa65958d27cca13147b8426cc579681541e51ec1f8e7"
+      },
+      {
+        "query_index": 49,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0049_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 5586,
+        "sha256": "88405f94d43736826d78dc686da1782c47adf171fd9d737aa146c0cfbcd6f797"
+      },
+      {
+        "query_index": 49,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0049_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 8216,
+        "sha256": "18345fb3d4fb085cf16f46d4256c21b856f670f069ae98ce46605be99b9b20d0"
+      },
+      {
+        "query_index": 50,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0050_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 8216,
+        "sha256": "18345fb3d4fb085cf16f46d4256c21b856f670f069ae98ce46605be99b9b20d0"
+      },
+      {
+        "query_index": 50,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0050_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 8216,
+        "sha256": "18345fb3d4fb085cf16f46d4256c21b856f670f069ae98ce46605be99b9b20d0"
+      },
+      {
+        "query_index": 51,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0051_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6567,
+        "sha256": "e3f2a9ce5436c1f1aea16525a1e3dc9589347cc0ce206ed80f43bbeb973e258c"
+      },
+      {
+        "query_index": 51,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0051_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 6567,
+        "sha256": "e3f2a9ce5436c1f1aea16525a1e3dc9589347cc0ce206ed80f43bbeb973e258c"
+      },
+      {
+        "query_index": 52,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0052_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7076,
+        "sha256": "9201900e61b028565369fca78d94df96e0be231f1a31f3ea48a040ee133fa21d"
+      },
+      {
+        "query_index": 52,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0052_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 7076,
+        "sha256": "9201900e61b028565369fca78d94df96e0be231f1a31f3ea48a040ee133fa21d"
+      },
+      {
+        "query_index": 53,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0053_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2417,
+        "sha256": "471fcd482f8166936cbe4f9715a2987b8a2e8ec4b23563ba5d9bda15e945aeee"
+      },
+      {
+        "query_index": 53,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0053_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 2417,
+        "sha256": "471fcd482f8166936cbe4f9715a2987b8a2e8ec4b23563ba5d9bda15e945aeee"
+      },
+      {
+        "query_index": 54,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0054_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4574,
+        "sha256": "9973d1d7e37f4865424b3188e0a1baf69bd8dc75bdd2676329a4b1acda9b3c21"
+      },
+      {
+        "query_index": 54,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0054_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 4574,
+        "sha256": "9973d1d7e37f4865424b3188e0a1baf69bd8dc75bdd2676329a4b1acda9b3c21"
+      },
+      {
+        "query_index": 55,
+        "arm": "A",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/A/masks/q0055_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1657,
+        "sha256": "544ee10dcbaf9da8d12c3a13ae5a1f9113919dd4eb0434c91c7fabbcf37b9a56"
+      },
+      {
+        "query_index": 55,
+        "arm": "B",
+        "image": "frame_00195",
+        "path": "/root/rivermind-data/ARIS-ReLaGS/runs/full_nag_r0_validation_masks_20251025_v2/B/masks/q0055_frame_00195.npy",
+        "shape": [
+          728,
+          986
+        ],
+        "pixels": 1657,
+        "sha256": "544ee10dcbaf9da8d12c3a13ae5a1f9113919dd4eb0434c91c7fabbcf37b9a56"
+      }
+    ],
+    "gt_opened": false
+  },
+  "input_sha256": {
+    "/root/rivermind-data/ReLaGS_Reproduction/runs/readout_20261024/figurines/model_r0/sai_nag_3.0.pt": "8597e7fe4c33165859b638ebd3a2981bd7953a4c93d4f5e87cc10a4777c4ccef",
+    "/root/rivermind-data/ReLaGS_Reproduction/ref/scene/figurines/cameras.json": "491d85915c79617aa3c2f680053cd9a18b3c3028b8ac0357614ec71ccc000da1",
+    "/tmp/frozen_public_queries_figurines.json": "153b376e1cdfa1ecdee0725945b957e98be0e873ba0a6fc40b8777f2e18e8d78",
+    "/root/rivermind-data/ReLaGS_Reproduction/scripts/eval_lerf_relags.py": "fc4725cb48294573d0a401e14502258b31b1c958d4d889acf32c151dbf1851a2",
+    "/root/rivermind-data/ARIS-ReLaGS/experiments/view_consensus_20261025/full_nag_r0_validation.py": "601522216a5170110336ed99a6512296897ba218b5ed73325aee2b5229e7c5dc"
+  },
+  "source_sha256": {
+    "/root/rivermind-data/ARIS-ReLaGS/experiments/view_consensus_20261025/full_nag_r0_validation.py": "601522216a5170110336ed99a6512296897ba218b5ed73325aee2b5229e7c5dc"
+  },
+  "gt_evaluator": "separate post-materialization command only"
+}

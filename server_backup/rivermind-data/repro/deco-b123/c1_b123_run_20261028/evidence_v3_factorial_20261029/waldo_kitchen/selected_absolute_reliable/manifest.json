@@ -1,0 +1,27 @@
+{
+  "arm": "selected_absolute_reliable",
+  "bank": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.npz",
+  "members": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/eval/B1.members.json",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/sai_nag.pt",
+  "observation": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/observations_level3.npz",
+  "protocol": {
+    "M2": "reliable",
+    "center": "image",
+    "coefficient": 0.25,
+    "filter_small": 50,
+    "level_until": 3,
+    "renorm": 0,
+    "sel": "gap",
+    "temperature": 0.08,
+    "text": "canon",
+    "topk": 5
+  },
+  "scene": "waldo_kitchen",
+  "sha256": {
+    "BANK": "8bf6b51bce581045c588a5967b9219c7b67fdf818dc10e8193754c90e70a7ad3",
+    "EVAL": "c1e1a020bcb738c6d076ee2014da5a8d99af4fc47c7e39356420790724039506",
+    "MEMBERS": "c58bd0447a4a0e420868b48c9ab7a4facf6a35cfcc878d77c31d02e931e179cc",
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8"
+  }
+}

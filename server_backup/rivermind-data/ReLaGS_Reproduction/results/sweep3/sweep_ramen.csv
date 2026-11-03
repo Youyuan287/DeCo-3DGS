@@ -1,0 +1,5 @@
+scene,topk,level_until,filter_small,remove_small,miou_grand,n
+ramen,5,3,50,1,0.5045762239805651,71
+ramen,10,3,50,1,0.5045762239805651,71
+ramen,3,3,50,1,0.3933454919938345,71
+ramen,1,3,50,1,0.04830654527599391,71

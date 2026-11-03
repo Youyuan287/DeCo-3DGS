@@ -1,0 +1,35 @@
+{
+  "scene": "ramen",
+  "miou": 0.4943002333019581,
+  "flat_miou": 0.4832182112676056,
+  "n_queries": 71,
+  "per_image": [
+    0.47132268405136823,
+    0.5555593088417538,
+    0.5417781652454874,
+    0.4208847382558505,
+    0.5244883509329679,
+    0.5586638070016363,
+    0.38740457878464307
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "control_k1": 0,
+    "b1": 1,
+    "b2": 0,
+    "b3": 0,
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+    "nag_sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse"
+  }
+}

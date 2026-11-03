@@ -1,0 +1,85 @@
+{
+  "status": "HF_OUTPUT_VERIFIED",
+  "verified_date": "2026-10-24",
+  "query_count": 208,
+  "historical_query_iou_values_equal": true,
+  "scene_metrics": {
+    "figurines": {
+      "miou": 0.6328714011730666,
+      "n_queries": 56,
+      "n_images": 4
+    },
+    "ramen": {
+      "miou": 0.5114937943613442,
+      "n_queries": 71,
+      "n_images": 7
+    },
+    "teatime": {
+      "miou": 0.8096874168871094,
+      "n_queries": 59,
+      "n_images": 6
+    },
+    "waldo_kitchen": {
+      "miou": 0.6062208659118095,
+      "n_queries": 22,
+      "n_images": 5
+    }
+  },
+  "macro_miou": 0.6400683695833325,
+  "source_binding": "HF model/evaluator reference paths verified now; original launch command not present in run directory, so current hash is not proof of which source was executed.",
+  "files": [
+    {
+      "path": "/root/rivermind-data/ReLaGS_run_20261023/lerf_query_metrics.csv",
+      "bytes": 10961,
+      "sha256": "62f964a6c11a01031820ea51146ca1a83dab299c573bd866d67f813043327d1a"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/scripts/eval_lerf_relags.py",
+      "bytes": 6160,
+      "sha256": "fc4725cb48294573d0a401e14502258b31b1c958d4d889acf32c151dbf1851a2"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/scripts/run_hf_only.sh",
+      "bytes": 654,
+      "sha256": "0557e6953a828bccfda5c45b6c027c3a7b02cd328c35ca780d0871f830b97d75"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/nag_data.py",
+      "bytes": 10927,
+      "sha256": "175c9e78d58bbaf4de7720874075fd4743c3ff4d56392c2acdac9ffb8bb45889"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ReLaGS/merge_proj.py",
+      "bytes": 26822,
+      "sha256": "0a57043c861fb60f730f6308f641cba9c056b207c5439574f04b2fdad6f2aae9"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS-1023/reproduction/scripts/eval_lerf_relags.py",
+      "bytes": 7070,
+      "sha256": "f0536b186c4b5df657f4eff6e3a5a2fea52aa7d55d40d314c7f579e2ded5f174"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/figurines/sai_nag.pt",
+      "bytes": 10310916,
+      "sha256": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/ramen/sai_nag.pt",
+      "bytes": 12791108,
+      "sha256": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime/sai_nag.pt",
+      "bytes": 42448708,
+      "sha256": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817"
+    },
+    {
+      "path": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/sai_nag.pt",
+      "bytes": 28760644,
+      "sha256": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098"
+    }
+  ],
+  "environment_dependency": "/root/rivermind-data/thgs_mamba_root/envs/thgs/bin/python3.10",
+  "evaluator_executable_ast_equal": true,
+  "no_gpu_or_renderer_executed": true
+}

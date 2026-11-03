@@ -1,0 +1,302 @@
+[
+  {
+    "case_group": "target_low_purity",
+    "scene": "ramen",
+    "image": "frame_00128",
+    "query": "glass of water",
+    "region_id": 35,
+    "mode_id": 1,
+    "recover_gain": 0.3155353665,
+    "precision": 0.0595673663,
+    "recall": 0.0357314749,
+    "iou": 0.0228444827,
+    "single_score": 0.3567790985,
+    "m1_slot_score": 0.672314465,
+    "m1_prior": 0.0490676761,
+    "region_px": 31158,
+    "intersection_px": 1856,
+    "figure": "ramen_35_frame_00128_glass_of_water.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 4513,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 3754,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 773,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      }
+    ]
+  },
+  {
+    "case_group": "target_purity_gt50",
+    "scene": "ramen",
+    "image": "frame_00128",
+    "query": "glass of water",
+    "region_id": 6,
+    "mode_id": 1,
+    "recover_gain": 0.2728826702,
+    "precision": 0.5320448878,
+    "recall": 0.0821477389,
+    "iou": 0.076612324,
+    "single_score": 0.3005264699,
+    "m1_slot_score": 0.5734091401,
+    "m1_prior": 0.0179150701,
+    "region_px": 8020,
+    "intersection_px": 4267,
+    "figure": "ramen_6_frame_00128_glass_of_water.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 7409,
+        "projection_max": 0.999900341,
+        "projection_positive_px": 23196,
+        "projection_positive_px_at_0.5": 11087,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": 0.0
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 7186,
+        "projection_max": 0.999900341,
+        "projection_positive_px": 23196,
+        "projection_positive_px_at_0.5": 11087,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": 0.0
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 3162,
+        "projection_max": 0.9998998642,
+        "projection_positive_px": 20959,
+        "projection_positive_px_at_0.5": 4949,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": 0.0
+      }
+    ]
+  },
+  {
+    "case_group": "visible_background",
+    "scene": "ramen",
+    "image": "frame_00128",
+    "query": "glass of water",
+    "region_id": 145,
+    "mode_id": 1,
+    "recover_gain": 0.3702431023,
+    "precision": 0.0,
+    "recall": 0.0,
+    "iou": 0.0,
+    "single_score": 0.2919608653,
+    "m1_slot_score": 0.6622039676,
+    "m1_prior": 0.0520748571,
+    "region_px": 405,
+    "intersection_px": 0,
+    "figure": "ramen_145_frame_00128_glass_of_water.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 25,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 25,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 13,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      }
+    ]
+  },
+  {
+    "case_group": "target_low_purity",
+    "scene": "waldo_kitchen",
+    "image": "frame_00154",
+    "query": "red cup",
+    "region_id": 39,
+    "mode_id": 2,
+    "recover_gain": 0.3239592612,
+    "precision": 0.0923267327,
+    "recall": 0.0098763471,
+    "iou": 0.0090022687,
+    "single_score": 0.2699298561,
+    "m1_slot_score": 0.5938891172,
+    "m1_prior": 0.0021104296,
+    "region_px": 4040,
+    "intersection_px": 373,
+    "figure": "waldo_kitchen_39_frame_00154_red_cup.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 7574,
+        "projection_max": 0.9999004006,
+        "projection_positive_px": 87731,
+        "projection_positive_px_at_0.5": 43822,
+        "projection_gt_intersection_at_0.5": 34289,
+        "projection_precision_at_0.5": 0.7824608644
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 5398,
+        "projection_max": 0.9999004006,
+        "projection_positive_px": 73375,
+        "projection_positive_px_at_0.5": 34651,
+        "projection_gt_intersection_at_0.5": 25879,
+        "projection_precision_at_0.5": 0.7468471328
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 2418,
+        "projection_max": 0.999900043,
+        "projection_positive_px": 73655,
+        "projection_positive_px_at_0.5": 13581,
+        "projection_gt_intersection_at_0.5": 12948,
+        "projection_precision_at_0.5": 0.9533907665
+      }
+    ]
+  },
+  {
+    "case_group": "target_purity_gt50",
+    "scene": "waldo_kitchen",
+    "image": "frame_00154",
+    "query": "sink",
+    "region_id": 31,
+    "mode_id": 1,
+    "recover_gain": 0.138235867,
+    "precision": 0.9833550617,
+    "recall": 0.0693598849,
+    "iou": 0.0692785496,
+    "single_score": 0.5368586779,
+    "m1_slot_score": 0.6750945449,
+    "m1_prior": 0.023528982,
+    "region_px": 32983,
+    "intersection_px": 32434,
+    "figure": "waldo_kitchen_31_frame_00154_sink.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 5176,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 32,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 2,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      }
+    ]
+  },
+  {
+    "case_group": "visible_background",
+    "scene": "waldo_kitchen",
+    "image": "frame_00053",
+    "query": "yellow desk",
+    "region_id": 101,
+    "mode_id": 2,
+    "recover_gain": 0.3778465092,
+    "precision": 0.0,
+    "recall": 0.0,
+    "iou": 0.0,
+    "single_score": 0.2009524405,
+    "m1_slot_score": 0.5787989497,
+    "m1_prior": 1.49251e-05,
+    "region_px": 251,
+    "intersection_px": 0,
+    "figure": "waldo_kitchen_101_frame_00053_yellow_desk.png",
+    "rgb_available": true,
+    "gt_available": true,
+    "root_mask_available": true,
+    "mode_support_available": [
+      {
+        "mode_id": 0,
+        "visible_gaussian_count": 1015,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 1,
+        "visible_gaussian_count": 662,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      },
+      {
+        "mode_id": 2,
+        "visible_gaussian_count": 29,
+        "projection_max": 0.0,
+        "projection_positive_px": 0,
+        "projection_positive_px_at_0.5": 0,
+        "projection_gt_intersection_at_0.5": 0,
+        "projection_precision_at_0.5": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "n_query_views": 56,
+  "n_distinct_queries": 21,
+  "images": {
+    "frame_00041": 17,
+    "frame_00105": 13,
+    "frame_00152": 11,
+    "frame_00195": 15
+  },
+  "mask_files_checked": 224,
+  "new_masks": 112,
+  "prior_hashes_match": true,
+  "pools_paired": true,
+  "factorial_additive_check": true,
+  "summary": [
+    {
+      "mode": "baseline",
+      "miou_percent": 63.28714011730666,
+      "n_query_views": 56,
+      "empty_masks": 2,
+      "delta_baseline_pp": 0.0
+    },
+    {
+      "mode": "rank1_count0",
+      "miou_percent": 59.463316350637164,
+      "n_query_views": 56,
+      "empty_masks": 1,
+      "delta_baseline_pp": -3.8238237666694985
+    },
+    {
+      "mode": "rank0_count1",
+      "miou_percent": 59.26403270724791,
+      "n_query_views": 56,
+      "empty_masks": 3,
+      "delta_baseline_pp": -4.023107410058756
+    },
+    {
+      "mode": "spatial",
+      "miou_percent": 52.70679899425017,
+      "n_query_views": 56,
+      "empty_masks": 2,
+      "delta_baseline_pp": -10.580341123056492
+    }
+  ],
+  "effect_totals": {
+    "rank_effect_pp": -3.8238237666695003,
+    "count_effect_pp": -4.023107410058759,
+    "interaction_pp": -2.7334099463282273,
+    "total_spatial_pp": -10.580341123056487
+  },
+  "old_union_checks": 42,
+  "identical_union_mask_checks": 157,
+  "analysis_source_sha256": "1204961ed878a51188b36f024f38512d07713e3c00ec3e5e4a40cee86380401a",
+  "decision": "STOP_CURRENT_SPATIAL_RULE_AND_GAP_RESCUE_NO_EXPANSION"
+}

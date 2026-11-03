@@ -1,0 +1,53 @@
+{
+  "role": "planner",
+  "model": "deepseek-v4.1-flash-1017",
+  "status": "ok",
+  "content": "**事实**：LERF-OVS figurines 56 query-view、4图；baseline `sai_nag.pt` 为作者PT；缓存299帧；本轮只允许LERF-OVS。**推断**：空间可见性与mask-IoU可能改善同候选集选择。**假设**：在相同pre-gap候选上，固定证据乘法可改变选择并提升配对mIoU，置换对应关系应削弱该效应。当前不证明创新或增益。\n\n**裁决**：建议允许开展此窄pilot，仅作单场景配对诊断；不授权扩大、不新增特征、不引用LERF-Mask结果。执行授权仍归用户。\n\n**最多3项修正**\n1. 预注册相机列表、非评测视角、投影尺寸与有效mask过滤；四组共享同一pre-gap候选集、topk5/level3/filter50/remove_small/gap规则。编码器权重未溯源则标注“限制性pilot”，不得称同源增益；不读GT。\n2. 裁决零IoU：仅当整个query池的可见性全0时，所有组回原分数；若可见但空间IoU全0，**保持零分，不回原分数**，按原gap规则输出（可空）。禁止单独因IoU全0回退。空间组空输出率须预注册为失败证据。\n3. 置换只替换`B_cv/M_qv`引用的mask，候选feature与`s0`不变；seed0固定。预注册有效性：单例比例≤25%，且真正top1 mask像素变化率中位数≥0.5；否则置换对照无效，停止解释空间效应。\n\n**固定公式**：`s0`为原ClipSimMeasure pre-gap分数；降采样后`V_cv=1[B_cv非空]`；`E_vis=mean_v V_cv`；`E_sp=mean_v V_cv*IoU(B_cv,M_qv)`；`s_base=s0`，`s_vis=s0*E_vis`，`s_sp=s0*E_sp`；置换用打乱mask计算`E_sp_perm`，`s_perm=s0*E_sp_perm`。池级可见性全0例外回`s0`；其余零分保留。\n\n**可识别性**：四组唯一差异为证据；报告逐query配对差值、空输出率、置换错配率/像素变化率。若`sp_sp`优于`base`且不优于`perm`，才与空间对应假设弱一致；若`vis`同幅提升，归因于视角覆盖而非空间对应。结果只称配对诊断。\n\n**停止规则**：1）任何GT或评测视角进入证据/选择/调参，立即停止；2）置换有效性不达标，停止；3）空间组空输出率>baseline+5pp且绝对值>10%，停止，不调参；4）`sp_sp-base`配对mIoU点估计≤0，或≤1pp且置换同幅，停止，不扩场景。",
+  "usage": {
+    "prompt_tokens": 1092,
+    "total_tokens": 5324,
+    "completion_tokens": 4232,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 0,
+      "text_tokens": 1092
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3561,
+      "text_tokens": 670
+    }
+  },
+  "finish_reason": "stop",
+  "raw_response": {
+    "id": "chatcmpl-19fc42de-1a54-975b-9789-a17ded635e71",
+    "object": "chat.completion",
+    "created": 1792808601,
+    "model": "deepseek-v4.1-flash-1017",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "reasoning_content": "我们需要回答中文，简洁，不超1200汉字。需要裁决是否允许开展窄pilot，最多3项修正问题，具体fallback/公式，可识别性，停止规则。不能授权执行（顾问），只能建议。需处理关键争议：若可见但空间IoU全0，不能只因全0回原分数，要明确是否保持零分触发原gap空输出。需裁决。还需事实/推断/假设区分。只推荐一个可证伪改动？用户要求裁决窄pilot。应明确：允许在严格条件下开展单场景配对pilot（顾问意见，执行需用户授权），但当前证据不证明创新或增益；只测一个可证伪假设：空间证据门控是否在相同pre-gap候选集上改变选择并提升LERF-OVS figurines配对mIoU，且置换对照削弱效应。需要修正最多3项。\n\n需要仔细设计。核心公式：新分数=原score×证据。visibility=mean_v V_cv; spatial=mean_v[V_cv*IoU(B_cv,M_qv)]。四组 baseline/visibility/spatial/permutation。只重打分在_analyze_leaf_candidates后和_filter_by_similarity_gap前，相同pre-gap候选。topk5 etc fixed.\n\n问题：\n1. 8个非评测视角均匀抽取和投影降采样到1/4宽高，用已有renderer。需确认相机名排序、非评测视角定义、确定性；防止评测泄漏。应固定相机列表和投影阈值。降采样最近邻可能导致小mask消失；需记录V_cv非空率和降采样前后一致性，或保持原分辨率计算IoU只在mask降采样？可以建议：在原始分辨率投影mask和M_qv计算IoU，若必须降采样，用面积加权/保存二值，记录敏感。但最多3项。修正项可包括：明确query top1选择是在每帧有效proposal中用原ClipSimMeasure，需排除无mask feature ID；确保M_qv与候选B_cv同一空间坐标系、同一图像尺寸；一致性。\n\n2. spatial IoU全0处理。需要裁决：若可见但空间IoU全0，不应回原分数，因为这会破坏可证伪性和置换对照。但保持零分会导致新分数0，原gap规则可能在所有候选0时输出空。我们需要明确fallback：采用加性平滑还是零分？用户公式固定乘法，不扫描。若保持零分触发原gap空输出，则spatial组可能大量空，是方法行为，需记录并作为失败/停止。但为了可识别性，不能悄悄回原分数。可设置：V_cv可见但IoU=0时，证据=0，新分数=0；若某query所有候选新分数=0，按原最大gap规则输出（可能空），不得回退。但需确保baseline/visibility对照同样处理。visibility证据若全query池可见性全0则全组回原分数（已定）。空间组若可见但IoU全0，保持零分，不单独回退；记录空输出率。若空输出率超过阈值（如>20%）停止并不调参。或者更细：spatial证据=mean_v[V_cv*IoU] 可为0。但乘法零会让原score完全消失，且候选间无区分，原gap可能选最大间隔但分数全0。原gap规则可能比较分数0，单候选全空。需明确“若整个query池的可见性全0”回原分数仅visibility。对于spatial，如果可见性非零但spatial全0，不 fallback，保持0，这是可证伪预测：置换组应也低，但空间组空输出率会高。也许这会导致无法评估mIoU？空输出可能被计为失败。这可以作为停止规则：spatial空输出率显著高于baseline（比如>2倍或>10%绝对）且mIoU下降，则拒绝。但需要获得信号。用户要求具体fallback/公式。我们可以裁决：不允许“全0就回原分数”；允许保持零分并触发原gap空输出，但需要预先登记空输出率作为失败证据。如果担心全0退化，可改证据为平滑：证据 = mean_v V_cv * (ε + (1-ε)IoU?) 但这是公式扫描，固定ε=0.5? 不行，会改变。用户拟固定公式，不扫描。可建议将空间证据定义为 IoU 本身，而不是乘法？但visibility证据是V，spatial是V*IoU。零分是合理。为保持可识别性，可加一个固定下限 ε=1e-3 给IoU? 这等于非零分数，排序由原score*1e-3，与baseline排序相同，等于空间组退化为baseline，不利于检验。所以最好不fallback，保持0并记录。裁决：允许保持零分触发原gap空输出；禁止把spatial全0解释为回退原分数。停止若空输出率>baseline+5pp或>10%（选一个）。需不超过3项。\n\n3. permutation可识别性。目前置换：同帧/同SAM层/log2面积箱，固定seed0打乱feature→mask，保留同一个原始top1 feature、映射到打乱mask。单例保留，非单例循环错排。需记录真正top1被移动和实际像素变化率。问题：保留同一个原始top1 feature映射到打乱mask，可能导致新候选的mask与feature语义错配，但分数bank? 需要确保打分使用原始score还是重新计算？新分数=原score×证据，原score对应候选feature；permutation中保留top1 feature，映射到打乱mask，那么候选B_cv应使用打乱mask投影？需要明确：permutation只打乱feature→mask对应关系，候选的feature不变？这样证据来自错误mask，模拟空间证据与语义候选解耦。可识别性需要：比较spatial vs permutation，如果空间增益来自真实对应，则permutation应削弱；但若置换后mask面积/层分布保留，仍可能因IoU随机。需要记录实际像素变化率>某阈值（如>50%查询的top1 mask IoU<0.5？）。可识别性还受8视角、1/4降采样影响。修正项可包括预注册置换的“实际错配率”并设置有效性：真正top1被移动的比例、移动后mask像素Jaccard中位数 < 0.5（或变化率>0.5），否则置换对照无效，停止。\n\n还需最多3项修正。可列：\nA. 执行前固定并记录相机列表、坐标/尺寸、有效mask过滤；确保8视角非评测且无GT读取；所有三组共享相同候选集和投影缓存。若编码器权重未溯源，不新提特征，只用现有缓存但标注限制；pilot不比较跨轨道。\nB. 零IoU裁决：spatial组保持零分，不 fallback；仅全体query可见性全0时回原分数。预注册空输出率停止阈值（例如>baseline空输出率+5pp且>10%？需具体）。visibility组可见性全0回原分数。permutation组同规则？置换组可见性使用打乱mask，若全0也回原分数？应同样处理，但需对称。可设仅当“整个query池的可见性全0”回原分数，适用于visibility/spatial/permutation；spatial的IoU全0不触发。这保持可证伪。\nC. 置换有效性：固定seed0，预注册错配率；若实际像素变化率中位数<0.5或真正top1未移动比例>20%，置换对照无效，停止不推广。还需记录单例比例；若单例过多（如>25%）则置换弱。\n\n可识别性：配对同候选集、同gap规则、同topk，四组唯一差异是证据；baseline原分数；visibility只乘可见性；spatial乘可见性×IoU；permutation用打乱mask计算spatial证据但保留原候选feature/score。这样可归因：若spatial>visibility和baseline且permutation不增，支持空间对应证据；若visibility也增，则可能是视角覆盖效应；若spatial与permutation同增，非对应性。需要报告逐query配对差值、空输出率、置换错配率。不声称创新。\n\n停止规则：单场景figurines，4组配对；预先固定。停止条件：1) 出现任何GT读取或评测视角进入证据/选择；2) 置换对照无效（错配率不足/单例过多）；3) 空间组空输出率>baseline+5pp或>10%（两者？可设空间空输出率超过baseline 5个百分点且绝对值>10%）；4) spatial组相对baseline配对mIoU无正增益或低于visibility，停止，不扩展。可加小样本噪声：56query，4图？mIoU。因只有56 query-view，需配对bootstrap？但预算。停止规则可设：若spatial相对baseline的配对mIoU差值≤0，或提升<1pp，停止（因为无实质）。但不要追旧数字。是否需要功效？可设预注册一个主要比较spatial vs baseline；若差值点估计≤0停止。若>0但<1pp且置换也同幅，停止。不扩大。\n\n需要回答“是否允许开展此窄pilot、需修正的最多3项问题、具体fallback/公式、可识别性和停止规则”。需明确“顾问意见，不能授权执行”。最终正文不超1200汉字。需要简洁。约900-1100字。需区分事实/推断/假设。可用小段落。\n\n注意用户要求“只推荐一个可证伪改动”。本pilot就是一个可证伪改动：在pre-gap相同候选集上以固定空间证据乘法重打分。需说明。不要推荐多个改动。但四组是同一改动对照。修正项不是新方法。\n\n需要裁决：允许开展，但仅作为诊断pilot，不授权扩大；结果不证明创新。若执行端未确认编码器同源，仍可用baseline缓存做“限制性pilot”，但不得宣称同源增益。是否允许？用户已授权发送材料，但执行需授权。我们可说“建议允许在以下预注册条件下开展；执行授权仍归用户”。因为当前没有证明增益。\n\n需具体公式：固定所有组：\ns0=原ClipSimMeasure候选分数（pre-gap）\nV_cv=1[投影mask非空>0.5]，降采样1/4最近邻后非空？注意先>.5再最近邻降至1/4。V_cv基于降采样后mask非空？用户写先>.5再最近邻降至1/4宽高。V_cv=投影mask非空。应基于降采样后mask非空。M_qv对应已有mask，也降采样。IoU(B_cv,M_qv)在降采样后计算。证据：\nE_vis=mean_v V_cv\nE_sp=mean_v V_cv*IoU(B_cv,M_qv)\ns_vis=s0*E_vis; s_sp=s0*E_sp; s_base=s0; permutation: 用打乱后的mask M'_qv 计算 E_sp_perm，s_perm=s0*E_sp_perm，但保留原top1 feature。注意对于每个候选c，M_qv是每帧query top1对应的mask，不随候选变？用户写每帧从有效proposal中以原ClipSimMeasure规则选query top1，M_qv为对应已有mask。所以M_qv是每帧固定的query mask，候选c与它IoU。permutation打乱feature→mask对应，保留同一个原始top1 feature、映射到打乱mask。这里有点歧义：打乱的是候选feature→mask对应还是query top1？需明确：在每帧/层/面积箱内打乱feature→mask映射，候选c的mask B_cv来自打乱后的mask；query top1 feature保留，其M_qv映射到打乱mask。或者只打乱feature→mask，保留原始top1 feature但取打乱mask作为M_qv。为可识别性，需确保候选feature和query feature不变，只替换mask。可写：只替换B_cv/M_qv所引用的mask，候选feature与s0不变。证据公式同spatial但用置换mask。若单例保留，记录。\n\nFallback：\n- 仅当整个query池所有候选的E_vis=0（投影全不可见）时，该组所有候选回s0。这适用于vis/sp/perm? 对spatial，若E_vis=0则E_sp=0，但也回s0？用户已定“若整个query池的可见性全0，所有组回原分数”。是。\n- 若E_vis非全0但E_sp=0，不回s0；保持s=0，按原gap规则，可能空输出。记录。\n- 不得因IoU全0单独回退。visibility组若E_vis=0且非全query池？对单候选E_vis=0则s=0，不回退。仅池级全0。\n\n可识别性：\n- 四组共享pre-gap候选集、topk、层、filter、gap规则；唯一差异证据。\n- permutation有效性预注册：seed0；记录top1被移动比例、mask像素变化率（1-IoU原始/置换）中位数；若单例比例>25%或变化率中位数<0.5，置换对照无效，停止解释。这个阈值需合理。变化率=1-IoU(B,B')，中位数<0.5意味着mask太相似。循环错排可能相似。可设>0.3? 需具体。选择0.5保守。\n- 若encoding未溯源，标注限制，不新提特征，不能称同源。\n\n停止规则：\n1. 任何GT/评测视角进入证据、候选选择或调参，立即停止。\n2. 置换无效（单例>25%或实际像素变化中位数<0.5），停止，不解释空间增益。\n3. 空间组空输出率>baseline空输出率+5pp且>10%（绝对值），停止，不调参。\n4. 主要配对比较s_sp - s_base的mIoU差≤0，或s_sp不优于s_vis且不优于s_perm，停止；不扩场景。若s_sp>0但<1pp，也停止（无实质）。是否加？可设“点估计≤1pp停止，不扩”。但可能过于严格。用户要停止规则。可设点估计≤0停止；若0<差值<1pp，暂不扩展，仅报告。不要太多。\n\n最多3项修正问题：可列三点：\n1. 预注册相机/投影/有效mask，编码器溯源限制；所有组共享缓存；不读GT。\n2. 全IoU零的裁决：保持零分不fallback；仅池级可见性全零回s0；预注册空输出率。\n3. 置换有效性指标和阈值；确保只替换mask不换feature/score；记录错配率。\n\n需要提及“当前没有证明创新或增益”作为事实/推断：历史数字是事实记录；本pilot是假设检验。\n\n最终正文不超过1200汉字。需要精炼。用标题。避免长综述。可约1000字。需明确“允许/不允许”：裁决：允许在严格预注册下开展窄pilot；不授权扩大。允许？顾问意见可说“建议允许”。因为用户问是否允许开展。我们不是授权者，但给裁决建议。用“建议：允许开展，但仅作为单场景配对诊断；执行授权须用户另行确认”。可以。\n\n需要确保不混入LERF-Mask。可以提“不引用LERF-Mask结果”。\n\n事实/推断/假设：开头三行。事实：资产和约束；推断：空间证据可能影响选择；假设：固定空间证据乘法在相同pre-gap候选上可改变并提升figurines配对mIoU，置换应削弱。这样清楚。\n\n公式简写。不超过1200汉字。数一下大概。用中文。",
+          "content": "**事实**：LERF-OVS figurines 56 query-view、4图；baseline `sai_nag.pt` 为作者PT；缓存299帧；本轮只允许LERF-OVS。**推断**：空间可见性与mask-IoU可能改善同候选集选择。**假设**：在相同pre-gap候选上，固定证据乘法可改变选择并提升配对mIoU，置换对应关系应削弱该效应。当前不证明创新或增益。\n\n**裁决**：建议允许开展此窄pilot，仅作单场景配对诊断；不授权扩大、不新增特征、不引用LERF-Mask结果。执行授权仍归用户。\n\n**最多3项修正**\n1. 预注册相机列表、非评测视角、投影尺寸与有效mask过滤；四组共享同一pre-gap候选集、topk5/level3/filter50/remove_small/gap规则。编码器权重未溯源则标注“限制性pilot”，不得称同源增益；不读GT。\n2. 裁决零IoU：仅当整个query池的可见性全0时，所有组回原分数；若可见但空间IoU全0，**保持零分，不回原分数**，按原gap规则输出（可空）。禁止单独因IoU全0回退。空间组空输出率须预注册为失败证据。\n3. 置换只替换`B_cv/M_qv`引用的mask，候选feature与`s0`不变；seed0固定。预注册有效性：单例比例≤25%，且真正top1 mask像素变化率中位数≥0.5；否则置换对照无效，停止解释空间效应。\n\n**固定公式**：`s0`为原ClipSimMeasure pre-gap分数；降采样后`V_cv=1[B_cv非空]`；`E_vis=mean_v V_cv`；`E_sp=mean_v V_cv*IoU(B_cv,M_qv)`；`s_base=s0`，`s_vis=s0*E_vis`，`s_sp=s0*E_sp`；置换用打乱mask计算`E_sp_perm`，`s_perm=s0*E_sp_perm`。池级可见性全0例外回`s0`；其余零分保留。\n\n**可识别性**：四组唯一差异为证据；报告逐query配对差值、空输出率、置换错配率/像素变化率。若`sp_sp`优于`base`且不优于`perm`，才与空间对应假设弱一致；若`vis`同幅提升，归因于视角覆盖而非空间对应。结果只称配对诊断。\n\n**停止规则**：1）任何GT或评测视角进入证据/选择/调参，立即停止；2）置换有效性不达标，停止；3）空间组空输出率>baseline+5pp且绝对值>10%，停止，不调参；4）`sp_sp-base`配对mIoU点估计≤0，或≤1pp且置换同幅，停止，不扩场景。"
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1092,
+      "total_tokens": 5324,
+      "completion_tokens": 4232,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "image_tokens": 0,
+        "text_tokens": 1092
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 3561,
+        "text_tokens": 670
+      }
+    }
+  }
+}

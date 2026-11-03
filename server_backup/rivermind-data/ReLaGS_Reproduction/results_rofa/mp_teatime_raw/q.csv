@@ -1,0 +1,119 @@
+scene,image,prompt,iou,pred_px,gt_px,n_candidates
+teatime,frame_00002,stuffed bear,0.294129,45611,151745,1
+teatime,frame_00002,coffee mug,0.781754,3342,2732,1
+teatime,frame_00002,bag of cookies,0.837153,6183,5200,2
+teatime,frame_00002,sheep,0.960791,65647,63375,1
+teatime,frame_00002,apple,0.969767,1669,1719,1
+teatime,frame_00002,paper napkin,0.9067,5379,5350,1
+teatime,frame_00002,plate,0.914612,4216,4170,4
+teatime,frame_00002,tea in a glass,0.763752,2709,3383,1
+teatime,frame_00002,bear nose,0.000693,143153,9906,4
+teatime,frame_00002,three cookies,0.914249,1429,1540,2
+teatime,frame_00002,coffee,0.466569,6051,2920,2
+teatime,frame_00025,stuffed bear,0.361761,29715,80909,1
+teatime,frame_00025,sheep,0.97116,93436,90761,1
+teatime,frame_00025,bag of cookies,0.762498,7744,6111,2
+teatime,frame_00025,tea in a glass,0.860175,2639,2882,1
+teatime,frame_00025,coffee mug,0.810728,3230,2711,1
+teatime,frame_00025,plate,0.950025,9790,9759,4
+teatime,frame_00025,three cookies,0.91721,2843,3039,2
+teatime,frame_00025,hooves,0.0,0,4678,1
+teatime,frame_00025,paper napkin,0.856982,1686,1612,1
+teatime,frame_00025,coffee,0.510232,5869,3061,2
+teatime,frame_00025,bear nose,0.001186,74271,7639,4
+teatime,frame_00043,tea in a glass,0.797402,11997,14574,1
+teatime,frame_00043,hooves,0.0,0,55160,1
+teatime,frame_00043,stuffed bear,0.0,0,51046,1
+teatime,frame_00043,bag of cookies,0.782981,33639,26599,2
+teatime,frame_00043,paper napkin,0.879787,9125,8154,1
+teatime,frame_00043,plate,0.956628,34547,34025,4
+teatime,frame_00043,apple,0.883381,3591,3628,1
+teatime,frame_00043,coffee mug,0.752915,9884,7703,1
+teatime,frame_00043,coffee,0.411874,21881,9176,2
+teatime,frame_00043,three cookies,0.920447,9540,10231,2
+teatime,frame_00107,stuffed bear,0.210504,33387,158605,1
+teatime,frame_00107,sheep,0.957464,38896,37588,1
+teatime,frame_00107,apple,0.952491,1671,1699,1
+teatime,frame_00107,bag of cookies,0.829398,8592,7214,2
+teatime,frame_00107,coffee mug,0.745382,4870,3822,1
+teatime,frame_00107,tea in a glass,0.71506,2633,3380,1
+teatime,frame_00107,bear nose,0.000713,138470,22933,4
+teatime,frame_00107,plate,0.891918,6643,6818,4
+teatime,frame_00107,three cookies,0.900535,2042,2219,2
+teatime,frame_00107,dall-e brand,0.0,0,2664,1
+teatime,frame_00107,paper napkin,0.886543,12162,12680,1
+teatime,frame_00129,tea in a glass,0.749434,10479,13462,1
+teatime,frame_00129,apple,0.984588,7197,7225,1
+teatime,frame_00129,yellow pouf,0.968945,22922,23108,1
+teatime,frame_00129,sheep,0.954949,123701,118570,1
+teatime,frame_00129,three cookies,0.9394,4817,4688,2
+teatime,frame_00129,plate,0.952969,15150,14748,4
+teatime,frame_00129,dall-e brand,0.0,0,7442,1
+teatime,frame_00140,tea in a glass,0.819576,27921,33406,1
+teatime,frame_00140,paper napkin,0.932656,39068,36437,1
+teatime,frame_00140,apple,0.97677,7213,7168,1
+teatime,frame_00140,stuffed bear,0.099385,12743,127134,1
+teatime,frame_00140,bag of cookies,0.803677,30340,24508,2
+teatime,frame_00140,plate,0.957716,31077,30223,4
+teatime,frame_00140,coffee mug,0.780942,15538,14291,1
+teatime,frame_00140,coffee,0.31252,43459,15145,2
+teatime,frame_00140,three cookies,0.930602,9115,9357,2
+teatime,frame_00002,stuffed bear,0.294129,45611,151745,1
+teatime,frame_00002,coffee mug,0.781754,3342,2732,1
+teatime,frame_00002,bag of cookies,0.762794,6787,5200,3
+teatime,frame_00002,sheep,0.960791,65647,63375,1
+teatime,frame_00002,apple,0.969767,1669,1719,1
+teatime,frame_00002,paper napkin,0.9067,5379,5350,1
+teatime,frame_00002,plate,0.914612,4216,4170,4
+teatime,frame_00002,tea in a glass,0.0,0,3383,0
+teatime,frame_00002,bear nose,0.000693,143153,9906,4
+teatime,frame_00002,three cookies,0.914249,1429,1540,2
+teatime,frame_00002,coffee,0.466874,6047,2920,2
+teatime,frame_00025,stuffed bear,0.361761,29715,80909,1
+teatime,frame_00025,sheep,0.97116,93436,90761,1
+teatime,frame_00025,bag of cookies,0.658392,8987,6111,3
+teatime,frame_00025,tea in a glass,0.0,0,2882,0
+teatime,frame_00025,coffee mug,0.810728,3230,2711,1
+teatime,frame_00025,plate,0.950025,9790,9759,4
+teatime,frame_00025,three cookies,0.918866,2850,3039,2
+teatime,frame_00025,hooves,0.0,0,4678,1
+teatime,frame_00025,paper napkin,0.856982,1686,1612,1
+teatime,frame_00025,coffee,0.510836,5862,3061,2
+teatime,frame_00025,bear nose,0.001186,74271,7639,4
+teatime,frame_00043,tea in a glass,0.0,0,14574,0
+teatime,frame_00043,hooves,0.0,0,55160,1
+teatime,frame_00043,stuffed bear,0.0,0,51046,1
+teatime,frame_00043,bag of cookies,0.693613,37992,26599,3
+teatime,frame_00043,paper napkin,0.879787,9125,8154,1
+teatime,frame_00043,plate,0.956628,34547,34025,4
+teatime,frame_00043,apple,0.883381,3591,3628,1
+teatime,frame_00043,coffee mug,0.752915,9884,7703,1
+teatime,frame_00043,coffee,0.412324,21857,9176,2
+teatime,frame_00043,three cookies,0.922487,9561,10231,2
+teatime,frame_00107,stuffed bear,0.210504,33387,158605,1
+teatime,frame_00107,sheep,0.957464,38896,37588,1
+teatime,frame_00107,apple,0.952491,1671,1699,1
+teatime,frame_00107,bag of cookies,0.752573,9474,7214,3
+teatime,frame_00107,coffee mug,0.745382,4870,3822,1
+teatime,frame_00107,tea in a glass,0.0,0,3380,0
+teatime,frame_00107,bear nose,0.000713,138470,22933,4
+teatime,frame_00107,plate,0.891918,6643,6818,4
+teatime,frame_00107,three cookies,0.900535,2042,2219,2
+teatime,frame_00107,dall-e brand,0.0,0,2664,1
+teatime,frame_00107,paper napkin,0.886543,12162,12680,1
+teatime,frame_00129,tea in a glass,0.0,0,13462,0
+teatime,frame_00129,apple,0.984588,7197,7225,1
+teatime,frame_00129,yellow pouf,0.968945,22922,23108,1
+teatime,frame_00129,sheep,0.954949,123701,118570,1
+teatime,frame_00129,three cookies,0.9394,4817,4688,2
+teatime,frame_00129,plate,0.952969,15150,14748,4
+teatime,frame_00129,dall-e brand,0.0,0,7442,1
+teatime,frame_00140,tea in a glass,0.0,0,33406,0
+teatime,frame_00140,paper napkin,0.932656,39068,36437,1
+teatime,frame_00140,apple,0.97677,7213,7168,1
+teatime,frame_00140,stuffed bear,0.099385,12743,127134,1
+teatime,frame_00140,bag of cookies,0.717992,33969,24508,3
+teatime,frame_00140,plate,0.957716,31077,30223,4
+teatime,frame_00140,coffee mug,0.780942,15538,14291,1
+teatime,frame_00140,coffee,0.314619,43161,15145,2
+teatime,frame_00140,three cookies,0.930707,9116,9357,2

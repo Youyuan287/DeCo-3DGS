@@ -1,0 +1,11 @@
+{
+  "scene": "teatime",
+  "elapsed_seconds": 18.012874603271484,
+  "obs_features": [
+    20088,
+    512
+  ],
+  "eligible_roots": 916,
+  "observations_sha256": "1750e94e8bb43e4e26b6eacf5519d96e8c9a02aff1fd74c267e6a16f1dc90d15",
+  "original_script_sha256": "74b76c8490f3c203aee28c0c0ca547e0ab20e870ce0d8f8c581034366c0e4618"
+}

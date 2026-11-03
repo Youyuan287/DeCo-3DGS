@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "dataset": "LERF-OVS",
+  "sanity": false,
+  "summary": [
+    {
+      "mode": "baseline",
+      "miou": 0.6328714011730666,
+      "flat_miou": 0.6278339593685536,
+      "n_queries": 56
+    },
+    {
+      "mode": "visibility",
+      "miou": 0.4949520142350826,
+      "flat_miou": 0.49307054993744664,
+      "n_queries": 56
+    },
+    {
+      "mode": "spatial",
+      "miou": 0.5270679899425017,
+      "flat_miou": 0.5279267973744375,
+      "n_queries": 56
+    },
+    {
+      "mode": "permutation",
+      "miou": 0.1660719676485241,
+      "flat_miou": 0.16883585426100173,
+      "n_queries": 56
+    }
+  ],
+  "wall_seconds": 37.543734550476074,
+  "peak_cuda_mib": 1838.3115234375,
+  "projection_nodes": 81,
+  "new_artifact_bytes": 919166
+}

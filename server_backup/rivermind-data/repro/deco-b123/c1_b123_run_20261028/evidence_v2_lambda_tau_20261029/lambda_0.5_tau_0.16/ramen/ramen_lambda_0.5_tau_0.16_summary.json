@@ -1,0 +1,41 @@
+{
+  "scene": "ramen",
+  "miou": 0.49355843480021855,
+  "flat_miou": 0.482477338028169,
+  "n_queries": 71,
+  "per_image": [
+    0.47132268405136823,
+    0.5555593088417538,
+    0.5417781652454874,
+    0.4208847382558505,
+    0.519881615979223,
+    0.5568505641962964,
+    0.38863196703155056
+  ],
+  "protocol": {
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "center": "image",
+    "text": "canon",
+    "tau": 0.02,
+    "norm": "none",
+    "text_center": "none",
+    "sel": "gap",
+    "ratio": 0.7,
+    "renorm": 0,
+    "text_agg": "lse",
+    "evidence_v2": "semantic",
+    "evidence_bank": "/root/rivermind-data/repro/deco-b123/b123_eval_official_20261028/B1.npz",
+    "evidence_temperature": 0.16,
+    "correction_coefficient": 0.5
+  },
+  "main_miou": 0.5116503661971832,
+  "main_flat_miou": 0.5116503661971832,
+  "improved_queries": 8,
+  "degraded_queries": 5,
+  "unchanged_queries": 58,
+  "total_iou_gain": 0.8609870000000001,
+  "total_iou_loss": 2.932272,
+  "triggered_queries": 71
+}

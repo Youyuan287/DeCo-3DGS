@@ -1,0 +1,26 @@
+{
+  "status": "PREPROCESSING_RAW_POOL_AND_MAPPING_V3",
+  "preprocessing_only": true,
+  "gt_opened": false,
+  "rendering": false,
+  "semantic_nag_instantiated": false,
+  "cuda_device": "cuda:0",
+  "query_count": 56,
+  "candidate_count_per_query": 646,
+  "levels": {
+    "2": 467,
+    "3": 179
+  },
+  "text_interface": "exact ClipSimMeasure.encode_text(prompt); compute_similarity(nag_feat[level-1])",
+  "inputs_sha256": {
+    "/root/rivermind-data/ReLaGS_Reproduction/runs/readout_20261024/figurines/model_r0/sai_nag_3.0.pt": "8597e7fe4c33165859b638ebd3a2981bd7953a4c93d4f5e87cc10a4777c4ccef",
+    "/root/rivermind-data/ARIS-ReLaGS/experiments/view_consensus_20261025/frozen_public_queries_figurines.json": "153b376e1cdfa1ecdee0725945b957e98be0e873ba0a6fc40b8777f2e18e8d78",
+    "/root/rivermind-data/ReLaGS-1023/reproduction/scripts/eval_lerf_relags.py": "f0536b186c4b5df657f4eff6e3a5a2fea52aa7d55d40d314c7f579e2ded5f174"
+  },
+  "outputs_sha256": {
+    "/root/rivermind-data/ARIS-ReLaGS/runs/r0_raw_pool_gpu_20261025/r0_raw_score_pool.json": "9650d513642ffc2aaa2e152b923241235f70afb76206efdf8a229a50cf8357e0",
+    "/root/rivermind-data/ARIS-ReLaGS/runs/r0_raw_pool_gpu_20261025/r0_node_gaussians.json": "abee6556a571412c6733a025666917a30acf692074d323a643c0877df94ee14c"
+  },
+  "source": "/root/rivermind-data/ARIS-ReLaGS/experiments/view_consensus_20261025/build_r0_raw_pool_v3.py",
+  "source_sha256": "71c0a5f4ac86ef3e682c3dc68d080a77468475b4c2d797f60f0ffac544cdb39f"
+}

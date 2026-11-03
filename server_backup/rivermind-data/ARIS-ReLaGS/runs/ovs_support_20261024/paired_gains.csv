@@ -1,0 +1,4 @@
+mode,improved,regressed,unchanged,gaussian_union_changed,rescued_empty,newly_empty,both_nonempty_n,both_nonempty_contribution_pp,other_contribution_pp,total_delta_pp
+visibility,7,20,29,32,1,0,54,-15.223216592687633,1.431277898889235,-13.791938693798397
+spatial,4,13,39,25,1,1,53,-12.011619021945721,1.431277898889235,-10.580341123056487
+permutation,6,38,12,50,0,21,33,-23.160354035876864,-23.519589316577385,-46.67994335245423

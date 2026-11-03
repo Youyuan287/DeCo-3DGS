@@ -1,0 +1,274 @@
+scene,image,prompt,rule,n_sel,iou,best_single
+waldo_kitchen,frame_00053,knife,gap(released),1,0.43992413466097674,0.43992413466097674
+waldo_kitchen,frame_00053,knife,top1,1,0.43992413466097674,0.43992413466097674
+waldo_kitchen,frame_00053,knife,topk2@cur,2,0.6458488458674609,0.43992413466097674
+waldo_kitchen,frame_00053,knife,topk3@cur,3,0.6458488458674609,0.43992413466097674
+waldo_kitchen,frame_00053,knife,topk4@cur,4,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,topk5@cur,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.5@cur,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.7@cur,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.8@cur,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.9@cur,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.5@med,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.7@med,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.8@med,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.9@med,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.5@idf,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.7@idf,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.8@idf,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.9@idf,3,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.7@id3,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.8@id3,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,knife,thr0.9@id3,5,0.6491064780342517,0.43992413466097674
+waldo_kitchen,frame_00053,toaster,gap(released),1,0.9427267067856402,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,top1,1,0.9427267067856402,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,topk2@cur,2,0.45370139270204163,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,topk3@cur,3,0.45370139270204163,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,topk4@cur,4,0.45370139270204163,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,topk5@cur,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.5@cur,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.7@cur,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.8@cur,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.9@cur,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.5@med,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.7@med,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.8@med,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.9@med,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.5@idf,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.7@idf,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.8@idf,3,0.45370139270204163,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.9@idf,2,0.9427267067856402,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.7@id3,5,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.8@id3,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,toaster,thr0.9@id3,4,0.44864011056814257,0.9427267067856402
+waldo_kitchen,frame_00053,Stainless steel pots,gap(released),2,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,top1,1,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,topk2@cur,2,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,topk3@cur,3,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,topk4@cur,4,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,topk5@cur,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.5@cur,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.7@cur,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.8@cur,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.9@cur,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.5@med,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.7@med,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.8@med,5,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.9@med,3,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.5@idf,3,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.7@idf,1,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.8@idf,1,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.9@idf,1,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.7@id3,2,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.8@id3,2,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,Stainless steel pots,thr0.9@id3,1,0.46193147109457433,0.46193147109457433
+waldo_kitchen,frame_00053,pour-over vessel,gap(released),4,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,top1,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,topk2@cur,2,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,topk3@cur,3,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,topk4@cur,4,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,topk5@cur,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.5@cur,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.7@cur,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.8@cur,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.9@cur,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.5@med,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.7@med,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.8@med,3,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.9@med,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.5@idf,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.7@idf,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.8@idf,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.9@idf,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.7@id3,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.8@id3,5,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,pour-over vessel,thr0.9@id3,1,0.8662987583092938,0.8662987583092938
+waldo_kitchen,frame_00053,ottolenghi,gap(released),4,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,top1,1,0.0,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,topk2@cur,2,0.0,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,topk3@cur,3,0.0,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,topk4@cur,4,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,topk5@cur,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.5@cur,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.7@cur,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.8@cur,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.9@cur,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.5@med,5,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.7@med,3,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.8@med,2,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.9@med,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.5@idf,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.7@idf,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.8@idf,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.9@idf,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.7@id3,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.8@id3,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00053,ottolenghi,thr0.9@id3,1,0.9756693830034925,0.9756693830034925
+waldo_kitchen,frame_00066,plastic ladle,gap(released),1,0.8406504065040651,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,top1,1,0.8406504065040651,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,topk2@cur,2,0.8406504065040651,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,topk3@cur,3,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,topk4@cur,4,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,topk5@cur,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.5@cur,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.7@cur,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.8@cur,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.9@cur,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.5@med,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.7@med,4,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.8@med,4,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.9@med,1,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.5@idf,3,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.7@idf,1,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.8@idf,1,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.9@idf,1,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.7@id3,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.8@id3,5,0.50877480728227,0.8406504065040651
+waldo_kitchen,frame_00066,plastic ladle,thr0.9@id3,1,0.0,0.8406504065040651
+waldo_kitchen,frame_00066,refrigerator,gap(released),1,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,top1,1,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,topk2@cur,2,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,topk3@cur,3,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,topk4@cur,4,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,topk5@cur,5,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.5@cur,5,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.7@cur,5,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.8@cur,3,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.9@cur,1,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.5@med,5,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.7@med,4,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.8@med,4,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.9@med,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.5@idf,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.7@idf,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.8@idf,1,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.9@idf,1,0.982255552823539,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.7@id3,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.8@id3,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,refrigerator,thr0.9@id3,3,0.7333632497373815,0.982255552823539
+waldo_kitchen,frame_00066,pot,gap(released),3,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,top1,1,0.0,0.9500097924010967
+waldo_kitchen,frame_00066,pot,topk2@cur,2,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,topk3@cur,3,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,topk4@cur,4,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,topk5@cur,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.5@cur,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.7@cur,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.8@cur,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.9@cur,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.5@med,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.7@med,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.8@med,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.9@med,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.5@idf,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.7@idf,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.8@idf,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.9@idf,2,0.0,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.7@id3,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.8@id3,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,pot,thr0.9@id3,5,0.9500097924010967,0.9500097924010967
+waldo_kitchen,frame_00066,spatula,gap(released),1,0.903440187646599,0.903440187646599
+waldo_kitchen,frame_00066,spatula,top1,1,0.903440187646599,0.903440187646599
+waldo_kitchen,frame_00066,spatula,topk2@cur,2,0.903440187646599,0.903440187646599
+waldo_kitchen,frame_00066,spatula,topk3@cur,3,0.29301382021047295,0.903440187646599
+waldo_kitchen,frame_00066,spatula,topk4@cur,4,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,topk5@cur,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.5@cur,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.7@cur,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.8@cur,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.9@cur,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.5@med,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.7@med,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.8@med,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.9@med,4,0.19269573918118904,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.5@idf,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.7@idf,4,0.19269573918118904,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.8@idf,2,0.19269573918118904,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.9@idf,1,0.0,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.7@id3,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.8@id3,5,0.1334141554093061,0.903440187646599
+waldo_kitchen,frame_00066,spatula,thr0.9@id3,4,0.19269573918118904,0.903440187646599
+waldo_kitchen,frame_00089,knife,gap(released),1,0.2582074805928017,0.2582074805928017
+waldo_kitchen,frame_00089,knife,top1,1,0.2582074805928017,0.2582074805928017
+waldo_kitchen,frame_00089,knife,topk2@cur,2,0.3855455332458321,0.2582074805928017
+waldo_kitchen,frame_00089,knife,topk3@cur,3,0.5304616393801077,0.2582074805928017
+waldo_kitchen,frame_00089,knife,topk4@cur,4,0.5334499344118933,0.2582074805928017
+waldo_kitchen,frame_00089,knife,topk5@cur,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.5@cur,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.7@cur,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.8@cur,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.9@cur,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.5@med,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.7@med,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.8@med,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.9@med,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.5@idf,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.7@idf,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.8@idf,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.9@idf,3,0.38861897581951194,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.7@id3,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.8@id3,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,knife,thr0.9@id3,5,0.7446875163159818,0.2582074805928017
+waldo_kitchen,frame_00089,cabinet,gap(released),4,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,top1,1,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,topk2@cur,2,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,topk3@cur,3,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,topk4@cur,4,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,topk5@cur,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.5@cur,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.7@cur,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.8@cur,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.9@cur,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.5@med,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.7@med,4,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.8@med,4,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.9@med,2,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.5@idf,4,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.7@idf,3,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.8@idf,2,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.9@idf,2,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.7@id3,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.8@id3,5,0.0,0.0
+waldo_kitchen,frame_00089,cabinet,thr0.9@id3,5,0.0,0.0
+waldo_kitchen,frame_00140,frog cup,gap(released),2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,top1,1,0.8127796788628586,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,topk2@cur,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,topk3@cur,3,0.6137543789907823,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,topk4@cur,4,0.6137543789907823,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,topk5@cur,5,0.4470483911831771,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.5@cur,5,0.4470483911831771,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.7@cur,5,0.4470483911831771,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.8@cur,5,0.4470483911831771,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.9@cur,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.5@med,5,0.4470483911831771,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.7@med,3,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.8@med,3,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.9@med,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.5@idf,3,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.7@idf,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.8@idf,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.9@idf,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.7@id3,3,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.8@id3,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00140,frog cup,thr0.9@id3,2,0.7894097721535167,0.8127796788628586
+waldo_kitchen,frame_00154,knife,gap(released),1,0.0,0.0
+waldo_kitchen,frame_00154,knife,top1,1,0.0,0.0
+waldo_kitchen,frame_00154,knife,topk2@cur,2,0.0,0.0
+waldo_kitchen,frame_00154,knife,topk3@cur,3,0.0,0.0
+waldo_kitchen,frame_00154,knife,topk4@cur,4,0.0,0.0
+waldo_kitchen,frame_00154,knife,topk5@cur,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.5@cur,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.7@cur,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.8@cur,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.9@cur,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.5@med,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.7@med,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.8@med,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.9@med,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.5@idf,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.7@idf,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.8@idf,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.9@idf,3,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.7@id3,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.8@id3,5,0.0,0.0
+waldo_kitchen,frame_00154,knife,thr0.9@id3,5,0.0,0.0

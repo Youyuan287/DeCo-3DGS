@@ -1,0 +1,169 @@
+scene,image,prompt,variant,rank,iou_best
+figurines,frame_00041,old camera,raw,10,0.48989817358978505
+figurines,frame_00041,old camera,cdot,10,0.48989817358978505
+figurines,frame_00041,old camera,ccos,10,0.48989817358978505
+figurines,frame_00105,old camera,raw,1,0.5179154858390945
+figurines,frame_00105,old camera,cdot,1,0.5179154858390945
+figurines,frame_00105,old camera,ccos,1,0.5179154858390945
+figurines,frame_00195,old camera,raw,3,0.33595528876009106
+figurines,frame_00195,old camera,cdot,3,0.33595528876009106
+figurines,frame_00195,old camera,ccos,3,0.33595528876009106
+figurines,frame_00041,toy elephant,raw,1,0.9692469597754911
+figurines,frame_00041,toy elephant,cdot,1,0.9692469597754911
+figurines,frame_00041,toy elephant,ccos,1,0.9692469597754911
+figurines,frame_00152,toy elephant,raw,1,0.9621136590229312
+figurines,frame_00152,toy elephant,cdot,1,0.9621136590229312
+figurines,frame_00152,toy elephant,ccos,1,0.9621136590229312
+figurines,frame_00195,toy elephant,raw,1,0.9577354039709063
+figurines,frame_00195,toy elephant,cdot,1,0.9577354039709063
+figurines,frame_00195,toy elephant,ccos,1,0.9577354039709063
+figurines,frame_00041,waldo,raw,1,0.9387417218543046
+figurines,frame_00041,waldo,cdot,1,0.9387417218543046
+figurines,frame_00041,waldo,ccos,1,0.9387417218543046
+figurines,frame_00152,waldo,raw,1,0.8645982498011138
+figurines,frame_00152,waldo,cdot,1,0.8645982498011138
+figurines,frame_00152,waldo,ccos,1,0.8645982498011138
+figurines,frame_00195,waldo,raw,1,0.9357188093730209
+figurines,frame_00195,waldo,cdot,1,0.9357188093730209
+figurines,frame_00195,waldo,ccos,1,0.9357188093730209
+figurines,frame_00041,tesla door handle,raw,1,0.4068350295263224
+figurines,frame_00041,tesla door handle,cdot,1,0.4068350295263224
+figurines,frame_00041,tesla door handle,ccos,1,0.4068350295263224
+figurines,frame_00105,tesla door handle,raw,1,0.8933408577878104
+figurines,frame_00105,tesla door handle,cdot,1,0.8933408577878104
+figurines,frame_00105,tesla door handle,ccos,1,0.8933408577878104
+figurines,frame_00041,porcelain hand,raw,4,0.3189500179791442
+figurines,frame_00041,porcelain hand,cdot,4,0.3189500179791442
+figurines,frame_00041,porcelain hand,ccos,5,0.3189500179791442
+figurines,frame_00152,porcelain hand,raw,1,0.8537308228730823
+figurines,frame_00152,porcelain hand,cdot,1,0.8537308228730823
+figurines,frame_00152,porcelain hand,ccos,1,0.8537308228730823
+figurines,frame_00195,porcelain hand,raw,1,0.9192019950124688
+figurines,frame_00195,porcelain hand,cdot,1,0.9192019950124688
+figurines,frame_00195,porcelain hand,ccos,1,0.9192019950124688
+figurines,frame_00041,rubber duck with hat,raw,1,0.9538159187684245
+figurines,frame_00041,rubber duck with hat,cdot,1,0.9538159187684245
+figurines,frame_00041,rubber duck with hat,ccos,1,0.9538159187684245
+figurines,frame_00105,rubber duck with hat,raw,3,0.2843897038472184
+figurines,frame_00105,rubber duck with hat,cdot,3,0.2843897038472184
+figurines,frame_00105,rubber duck with hat,ccos,5,0.2843897038472184
+figurines,frame_00152,rubber duck with hat,raw,1,0.9695166383288802
+figurines,frame_00152,rubber duck with hat,cdot,1,0.9695166383288802
+figurines,frame_00152,rubber duck with hat,ccos,1,0.9695166383288802
+figurines,frame_00195,rubber duck with hat,raw,1,0.7942592949335389
+figurines,frame_00195,rubber duck with hat,cdot,1,0.7942592949335389
+figurines,frame_00195,rubber duck with hat,ccos,2,0.7942592949335389
+figurines,frame_00041,rubber duck with buoy,raw,3,0.6238443250858501
+figurines,frame_00041,rubber duck with buoy,cdot,3,0.6238443250858501
+figurines,frame_00041,rubber duck with buoy,ccos,3,0.6238443250858501
+figurines,frame_00105,rubber duck with buoy,raw,2,0.9680489462950373
+figurines,frame_00105,rubber duck with buoy,cdot,2,0.9680489462950373
+figurines,frame_00105,rubber duck with buoy,ccos,1,0.9680489462950373
+figurines,frame_00195,rubber duck with buoy,raw,2,0.5981069711538461
+figurines,frame_00195,rubber duck with buoy,cdot,2,0.5981069711538461
+figurines,frame_00195,rubber duck with buoy,ccos,3,0.5981069711538461
+figurines,frame_00041,pink ice cream,raw,1,0.9659653465346535
+figurines,frame_00041,pink ice cream,cdot,1,0.9659653465346535
+figurines,frame_00041,pink ice cream,ccos,1,0.9659653465346535
+figurines,frame_00105,pink ice cream,raw,1,0.8940835746793546
+figurines,frame_00105,pink ice cream,cdot,1,0.8940835746793546
+figurines,frame_00105,pink ice cream,ccos,1,0.8940835746793546
+figurines,frame_00195,pink ice cream,raw,1,0.9565288984027663
+figurines,frame_00195,pink ice cream,cdot,1,0.9565288984027663
+figurines,frame_00195,pink ice cream,ccos,1,0.9565288984027663
+figurines,frame_00041,red toy chair,raw,1,0.9279494214481689
+figurines,frame_00041,red toy chair,cdot,1,0.9279494214481689
+figurines,frame_00041,red toy chair,ccos,1,0.9279494214481689
+figurines,frame_00041,green apple,raw,2,0.6332113449222324
+figurines,frame_00041,green apple,cdot,2,0.6332113449222324
+figurines,frame_00041,green apple,ccos,2,0.6332113449222324
+figurines,frame_00105,green apple,raw,1,0.9495376486129459
+figurines,frame_00105,green apple,cdot,1,0.9495376486129459
+figurines,frame_00105,green apple,ccos,1,0.9495376486129459
+figurines,frame_00152,green apple,raw,1,0.7065193123465059
+figurines,frame_00152,green apple,cdot,1,0.7065193123465059
+figurines,frame_00152,green apple,ccos,1,0.7065193123465059
+figurines,frame_00195,green apple,raw,1,0.9510934393638171
+figurines,frame_00195,green apple,cdot,1,0.9510934393638171
+figurines,frame_00195,green apple,ccos,1,0.9510934393638171
+figurines,frame_00041,pikachu,raw,1,0.9767327543830903
+figurines,frame_00041,pikachu,cdot,1,0.9767327543830903
+figurines,frame_00041,pikachu,ccos,1,0.9767327543830903
+figurines,frame_00152,pikachu,raw,1,0.971764231331619
+figurines,frame_00152,pikachu,cdot,1,0.971764231331619
+figurines,frame_00152,pikachu,ccos,2,0.971764231331619
+figurines,frame_00041,red apple,raw,1,0.9495534029437666
+figurines,frame_00041,red apple,cdot,1,0.9495534029437666
+figurines,frame_00041,red apple,ccos,1,0.9495534029437666
+figurines,frame_00105,red apple,raw,1,0.8865418741771137
+figurines,frame_00105,red apple,cdot,1,0.8865418741771137
+figurines,frame_00105,red apple,ccos,1,0.8865418741771137
+figurines,frame_00152,red apple,raw,1,0.9049935149156939
+figurines,frame_00152,red apple,cdot,1,0.9049935149156939
+figurines,frame_00152,red apple,ccos,1,0.9049935149156939
+figurines,frame_00041,spatula,raw,1,0.9172065097171749
+figurines,frame_00041,spatula,cdot,1,0.9172065097171749
+figurines,frame_00041,spatula,ccos,1,0.9172065097171749
+figurines,frame_00105,spatula,raw,1,0.936105476673428
+figurines,frame_00105,spatula,cdot,1,0.936105476673428
+figurines,frame_00105,spatula,ccos,1,0.936105476673428
+figurines,frame_00195,spatula,raw,1,0.9440298507462687
+figurines,frame_00195,spatula,cdot,1,0.9440298507462687
+figurines,frame_00195,spatula,ccos,1,0.9440298507462687
+figurines,frame_00041,jake,raw,1,0.9357342835327055
+figurines,frame_00041,jake,cdot,1,0.9357342835327055
+figurines,frame_00041,jake,ccos,1,0.9357342835327055
+figurines,frame_00105,jake,raw,1,0.9092474176094442
+figurines,frame_00105,jake,cdot,1,0.9092474176094442
+figurines,frame_00105,jake,ccos,1,0.9092474176094442
+figurines,frame_00152,jake,raw,1,0.9374600566054963
+figurines,frame_00152,jake,cdot,1,0.9374600566054963
+figurines,frame_00152,jake,ccos,1,0.9374600566054963
+figurines,frame_00041,toy cat statue,raw,4,0.8219354838709677
+figurines,frame_00041,toy cat statue,cdot,4,0.8219354838709677
+figurines,frame_00041,toy cat statue,ccos,4,0.8219354838709677
+figurines,frame_00152,toy cat statue,raw,1,0.9582356389214537
+figurines,frame_00152,toy cat statue,cdot,1,0.9582356389214537
+figurines,frame_00152,toy cat statue,ccos,1,0.9582356389214537
+figurines,frame_00195,toy cat statue,raw,1,0.3686041455283374
+figurines,frame_00195,toy cat statue,cdot,1,0.3686041455283374
+figurines,frame_00195,toy cat statue,ccos,1,0.3686041455283374
+figurines,frame_00041,pirate hat,raw,25,0.3039149510631117
+figurines,frame_00041,pirate hat,cdot,25,0.3039149510631117
+figurines,frame_00041,pirate hat,ccos,26,0.3039149510631117
+figurines,frame_00105,pirate hat,raw,23,0.11129614210380238
+figurines,frame_00105,pirate hat,cdot,23,0.11129614210380238
+figurines,frame_00105,pirate hat,ccos,22,0.11129614210380238
+figurines,frame_00152,pirate hat,raw,1,0.24925852694018785
+figurines,frame_00152,pirate hat,cdot,1,0.24925852694018785
+figurines,frame_00152,pirate hat,ccos,1,0.24925852694018785
+figurines,frame_00195,pirate hat,raw,7,0.3579175704989154
+figurines,frame_00195,pirate hat,cdot,7,0.3579175704989154
+figurines,frame_00195,pirate hat,ccos,7,0.3579175704989154
+figurines,frame_00041,miffy,raw,6,0.9738822487826472
+figurines,frame_00041,miffy,cdot,6,0.9738822487826472
+figurines,frame_00041,miffy,ccos,5,0.9738822487826472
+figurines,frame_00195,miffy,raw,5,0.17947202521670608
+figurines,frame_00195,miffy,cdot,5,0.17947202521670608
+figurines,frame_00195,miffy,ccos,6,0.17947202521670608
+figurines,frame_00105,rubics cube,raw,2,0.6833658945018142
+figurines,frame_00105,rubics cube,cdot,2,0.6833658945018142
+figurines,frame_00105,rubics cube,ccos,2,0.6833658945018142
+figurines,frame_00152,rubics cube,raw,1,0.9783765984303825
+figurines,frame_00152,rubics cube,cdot,1,0.9783765984303825
+figurines,frame_00152,rubics cube,ccos,1,0.9783765984303825
+figurines,frame_00195,rubics cube,raw,1,0.963207818338603
+figurines,frame_00195,rubics cube,cdot,1,0.963207818338603
+figurines,frame_00195,rubics cube,ccos,1,0.963207818338603
+figurines,frame_00105,green toy chair,raw,1,0.4619849994862838
+figurines,frame_00105,green toy chair,cdot,1,0.4619849994862838
+figurines,frame_00105,green toy chair,ccos,1,0.4619849994862838
+figurines,frame_00195,green toy chair,raw,1,0.9679668842540997
+figurines,frame_00195,green toy chair,cdot,1,0.9679668842540997
+figurines,frame_00195,green toy chair,ccos,1,0.9679668842540997
+figurines,frame_00105,pumpkin,raw,2,0.986663720585218
+figurines,frame_00105,pumpkin,cdot,2,0.986663720585218
+figurines,frame_00105,pumpkin,ccos,2,0.986663720585218
+figurines,frame_00195,bag,raw,7,0.9546862265688671
+figurines,frame_00195,bag,cdot,7,0.9546862265688671
+figurines,frame_00195,bag,ccos,7,0.9546862265688671

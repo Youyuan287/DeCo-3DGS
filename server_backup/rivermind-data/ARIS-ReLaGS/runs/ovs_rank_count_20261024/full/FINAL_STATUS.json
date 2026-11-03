@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "dataset": "LERF-OVS",
+  "scene": "figurines",
+  "summary": [
+    {
+      "mode": "rank1_count0",
+      "miou": 0.5946331635063715,
+      "flat_miou": 0.5880121881367826,
+      "n_queries": 56
+    },
+    {
+      "mode": "rank0_count1",
+      "miou": 0.592640327072479,
+      "flat_miou": 0.5928661924733591,
+      "n_queries": 56
+    }
+  ],
+  "old_union_checks": 42,
+  "identical_union_mask_checks": 157,
+  "wall_seconds": 16.89125680923462,
+  "peak_cuda_mib": 849.9697265625
+}

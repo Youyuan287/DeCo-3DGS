@@ -1,0 +1,27 @@
+{
+  "arm": "raw_all_absolute_semantic",
+  "bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v3_factorial_20261029/generated_raw/waldo_kitchen/B1_raw.npz",
+  "members": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v3_factorial_20261029/generated_raw/waldo_kitchen/B1_raw.members.json",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/waldo_kitchen/sai_nag.pt",
+  "observation": "/root/rivermind-data/repro/deco-b123/waldo_official_b012_20261028/observations_level3.npz",
+  "protocol": {
+    "M2": "semantic",
+    "center": "image",
+    "coefficient": 0.25,
+    "filter_small": 50,
+    "level_until": 3,
+    "renorm": 0,
+    "sel": "gap",
+    "temperature": 0.08,
+    "text": "canon",
+    "topk": 5
+  },
+  "scene": "waldo_kitchen",
+  "sha256": {
+    "BANK": "e60df0a238e9d7b82d5c8d8f2b16efc5b7ea801bbe79ce5298ea9c351106e181",
+    "EVAL": "c1e1a020bcb738c6d076ee2014da5a8d99af4fc47c7e39356420790724039506",
+    "MEMBERS": "7640ae7418740c05e43a9d09ce49b7ab9d22f2a26a96b129ed53866e3eca34ef",
+    "NAG": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098",
+    "OBS": "2586d87fb86eb4dee8885889b6e057363450ef710e06d4e2ca8d9fa72702fbf8"
+  }
+}

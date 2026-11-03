@@ -1,0 +1,15 @@
+{
+  "scene": "ramen",
+  "best_global": {
+    "scene": "ramen",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "remove_small": 1,
+    "miou_grand": 0.5045762239805651,
+    "n": 71
+  },
+  "oracle": 0.5046416919476109,
+  "n_queries": 71,
+  "n_configs": 20
+}

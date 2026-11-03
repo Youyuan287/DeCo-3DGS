@@ -1,0 +1,57 @@
+{
+  "result": {
+    "macro": 0.676,
+    "per_scene": {
+      "figurines": 0.6129,
+      "ramen": 0.6092,
+      "teatime": 0.8223,
+      "waldo_kitchen": 0.6597
+    },
+    "delta_vs_main": 0.0367,
+    "ci95": [
+      0.0247,
+      0.0482
+    ]
+  },
+  "base": "DeCo B0 (C1 on)",
+  "config": {
+    "center": "image",
+    "renorm": 0,
+    "text": "canon",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "sel": "gap",
+    "lambda": 1.0
+  },
+  "date": "2026-10-31",
+  "local_commit": "c61c50a0f3ed8537aa2f6e86ccd509a51eff597f",
+  "input_nag_sha256": {
+    "figurines": "27ea437b8f3aa5da7c6838f1bd42a3c26ddc8275680d1b46df4045a349616435",
+    "ramen": "10e3f12717a7b960358d42d862287dd94de3ba2ccb8f256f3d643197868f2324",
+    "teatime": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "waldo_kitchen": "6cd39db45d60031ab04eac18630a918c311890de22220e07678118a6da903098"
+  },
+  "source": "/root/rivermind-data/VALA/dataset/3dgs/lerf_ovs/<scene>",
+  "gt": "/root/rivermind-data/ReLaGS_Reproduction/ref/hf_lerf/lerf_ovs/label",
+  "files": {
+    "inputs\\preds.csv": "c5df5fc5ca74a357692126c2e4dcb5b47c23fd52020552b0e62945290dbb7d1d",
+    "inputs\\evidence\\figurines_evidence.csv": "ed7e691d8420657969461d6d1b27ba2e39f6fcb0fa022569c69c9603993cc487",
+    "inputs\\evidence\\ramen_evidence.csv": "1ab95ab88aa19c34280ae7dfb8dd473e2ae0c6003a930fcf83a00739a9129662",
+    "inputs\\evidence\\teatime_evidence.csv": "627873c4c50d6b3d772a567e398e4bb814755b901221bee6ed5eddaaa12c3627",
+    "inputs\\evidence\\waldo_kitchen_evidence.csv": "432fa107d1b54570b435e6900470914d27c4858b635f6da45d47e601e7c20231",
+    "inputs\\identity\\figurines_identity.csv": "19cd3ce43163d37b446c5f05f710d98b4ddf3d8365fda07de1ae6db370dea42a",
+    "inputs\\identity\\ramen_identity.csv": "cc3b29bed4050a8f924cf7f8cbb70f6b51a7ff3553bf67e8bbb79950f092d2be",
+    "inputs\\identity\\teatime_identity.csv": "5b171bfd8ecc368d86249cf67aba7b201a962e66bf0cf42688ff62da9040aeec",
+    "inputs\\identity\\waldo_kitchen_identity.csv": "3774f545c73f28be69796817d10c5ff67ecc1419f47847a0d7d7393bf8868828",
+    "inputs\\segidentity\\figurines_segidentity.csv": "49e30efd6f59494b13b38d95149b39d1fd5d1caa094763a7330b3b24bf0b0dbf",
+    "inputs\\segidentity\\ramen_segidentity.csv": "f86bc996902be2944cc4dc8b85714a971c42df21be1a4ede7b768a620c4eb7ad",
+    "inputs\\segidentity\\teatime_segidentity.csv": "2b070b4d85667f0688516875635ceba81397389fa8fd1de735a23022e2fe56df",
+    "inputs\\segidentity\\waldo_kitchen_segidentity.csv": "91678fec6882a2d2042492f14eae5b52b800ba9ab4e5b1fc16481eb7d3343b82",
+    "scripts\\lerf_c_mask_gate.py": "25783e89e265ed293db05ebbd73ab42e00f105c445bc64bc5706bb66c91ded78",
+    "scripts\\lerf_maskagg_rerank.py": "09c36f5fecc816c980dd1cabe7830feb7dd65ec547ccc626cdba452151a68e1f",
+    "scripts\\lerf_segment_identity_dump.py": "5323ef5bd870264a597879de56dbafadc9daa0bb07ca7705108fa40b960f79ee",
+    "scripts\\lerf_segment_identity_dump_lo.py": "f1f0c07e3f8fb0112cb4d6f453f36294087ad805d3a1f4a7c85507d6b8312f15",
+    "scripts\\summarize_6760.py": "669410cb7c7a527ecde1e2e71bdf94db303fa5d84ecf448d218be32d14cf1387"
+  }
+}

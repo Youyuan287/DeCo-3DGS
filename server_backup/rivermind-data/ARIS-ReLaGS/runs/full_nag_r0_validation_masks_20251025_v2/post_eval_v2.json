@@ -1,0 +1,907 @@
+{
+  "status": "POST_MATERIALIZATION_EVAL_ONLY",
+  "gt_used": true,
+  "selection_or_masks_modified": false,
+  "summary": {
+    "A": 0.5751447753468047,
+    "B": 0.5384654438692623
+  },
+  "rows": [
+    {
+      "query_index": 0,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.9546366920915295,
+      "pred_px": 7172,
+      "gt_px": 7435
+    },
+    {
+      "query_index": 0,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.9546366920915295,
+      "pred_px": 7172,
+      "gt_px": 7435
+    },
+    {
+      "query_index": 1,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.8491952857685972,
+      "pred_px": 6840,
+      "gt_px": 7752
+    },
+    {
+      "query_index": 1,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.010799545282303903,
+      "pred_px": 717808,
+      "gt_px": 7752
+    },
+    {
+      "query_index": 2,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.007619795226462209,
+      "pred_px": 295546,
+      "gt_px": 2252
+    },
+    {
+      "query_index": 2,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.3623445825932504,
+      "pred_px": 816,
+      "gt_px": 2252
+    },
+    {
+      "query_index": 3,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.3131532400707509,
+      "pred_px": 3962,
+      "gt_px": 12371
+    },
+    {
+      "query_index": 3,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.3131532400707509,
+      "pred_px": 3962,
+      "gt_px": 12371
+    },
+    {
+      "query_index": 4,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 19875,
+      "gt_px": 12082
+    },
+    {
+      "query_index": 4,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.005425287356321839,
+      "pred_px": 20720,
+      "gt_px": 12082
+    },
+    {
+      "query_index": 5,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.9548825710754018,
+      "pred_px": 4650,
+      "gt_px": 4839
+    },
+    {
+      "query_index": 5,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.9639769452449568,
+      "pred_px": 4702,
+      "gt_px": 4839
+    },
+    {
+      "query_index": 6,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 27561,
+      "gt_px": 1835
+    },
+    {
+      "query_index": 6,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 2565,
+      "gt_px": 1835
+    },
+    {
+      "query_index": 7,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.05362357313512078,
+      "pred_px": 204,
+      "gt_px": 3765
+    },
+    {
+      "query_index": 7,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.05362357313512078,
+      "pred_px": 204,
+      "gt_px": 3765
+    },
+    {
+      "query_index": 8,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.9548008490448245,
+      "pred_px": 7733,
+      "gt_px": 7923
+    },
+    {
+      "query_index": 8,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.9548008490448245,
+      "pred_px": 7733,
+      "gt_px": 7923
+    },
+    {
+      "query_index": 9,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.8285645684101004,
+      "pred_px": 20775,
+      "gt_px": 24919
+    },
+    {
+      "query_index": 9,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.8285645684101004,
+      "pred_px": 20775,
+      "gt_px": 24919
+    },
+    {
+      "query_index": 10,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.7780763030628695,
+      "pred_px": 9013,
+      "gt_px": 7532
+    },
+    {
+      "query_index": 10,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.5173276170060735,
+      "pred_px": 13703,
+      "gt_px": 7532
+    },
+    {
+      "query_index": 11,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.41888880902752823,
+      "pred_px": 13703,
+      "gt_px": 6038
+    },
+    {
+      "query_index": 11,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.41888880902752823,
+      "pred_px": 13703,
+      "gt_px": 6038
+    },
+    {
+      "query_index": 12,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.5543885065797416,
+      "pred_px": 6568,
+      "gt_px": 6307
+    },
+    {
+      "query_index": 12,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.5543885065797416,
+      "pred_px": 6568,
+      "gt_px": 6307
+    },
+    {
+      "query_index": 13,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.0,
+      "pred_px": 0,
+      "gt_px": 6872
+    },
+    {
+      "query_index": 13,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.009573590709493346,
+      "pred_px": 717808,
+      "gt_px": 6872
+    },
+    {
+      "query_index": 14,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.7214941022280472,
+      "pred_px": 1142,
+      "gt_px": 1485
+    },
+    {
+      "query_index": 14,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.7214941022280472,
+      "pred_px": 1142,
+      "gt_px": 1485
+    },
+    {
+      "query_index": 15,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.9104181266059332,
+      "pred_px": 7888,
+      "gt_px": 8469
+    },
+    {
+      "query_index": 15,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.9104181266059332,
+      "pred_px": 7888,
+      "gt_px": 8469
+    },
+    {
+      "query_index": 16,
+      "arm": "A",
+      "image": "frame_00041",
+      "iou": 0.7301066447908121,
+      "pred_px": 2806,
+      "gt_px": 3521
+    },
+    {
+      "query_index": 16,
+      "arm": "B",
+      "image": "frame_00041",
+      "iou": 0.7301066447908121,
+      "pred_px": 2806,
+      "gt_px": 3521
+    },
+    {
+      "query_index": 17,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.9628617886178862,
+      "pred_px": 15055,
+      "gt_px": 15124
+    },
+    {
+      "query_index": 17,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.9628617886178862,
+      "pred_px": 15055,
+      "gt_px": 15124
+    },
+    {
+      "query_index": 18,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.71541079241614,
+      "pred_px": 7620,
+      "gt_px": 10023
+    },
+    {
+      "query_index": 18,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.71541079241614,
+      "pred_px": 7620,
+      "gt_px": 10023
+    },
+    {
+      "query_index": 19,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.850300842358604,
+      "pred_px": 3650,
+      "gt_px": 4038
+    },
+    {
+      "query_index": 19,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.005625459732964804,
+      "pred_px": 717808,
+      "gt_px": 4038
+    },
+    {
+      "query_index": 20,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.5850946275410871,
+      "pred_px": 34989,
+      "gt_px": 55382
+    },
+    {
+      "query_index": 20,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.5850946275410871,
+      "pred_px": 34989,
+      "gt_px": 55382
+    },
+    {
+      "query_index": 21,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.7688640132669984,
+      "pred_px": 3713,
+      "gt_px": 4820
+    },
+    {
+      "query_index": 21,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.8910191725529768,
+      "pred_px": 4550,
+      "gt_px": 4820
+    },
+    {
+      "query_index": 22,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 0,
+      "gt_px": 899
+    },
+    {
+      "query_index": 22,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 25409,
+      "gt_px": 899
+    },
+    {
+      "query_index": 23,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.720538104280583,
+      "pred_px": 87199,
+      "gt_px": 63207
+    },
+    {
+      "query_index": 23,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.720538104280583,
+      "pred_px": 87199,
+      "gt_px": 63207
+    },
+    {
+      "query_index": 24,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.9806599057277532,
+      "pred_px": 34399,
+      "gt_px": 34934
+    },
+    {
+      "query_index": 24,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.9806599057277532,
+      "pred_px": 34399,
+      "gt_px": 34934
+    },
+    {
+      "query_index": 25,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.8088519520680325,
+      "pred_px": 4947,
+      "gt_px": 4412
+    },
+    {
+      "query_index": 25,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.6568827499607597,
+      "pred_px": 6144,
+      "gt_px": 4412
+    },
+    {
+      "query_index": 26,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.28970223325062033,
+      "pred_px": 6144,
+      "gt_px": 2172
+    },
+    {
+      "query_index": 26,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.28970223325062033,
+      "pred_px": 6144,
+      "gt_px": 2172
+    },
+    {
+      "query_index": 27,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.8923278934533858,
+      "pred_px": 5134,
+      "gt_px": 4954
+    },
+    {
+      "query_index": 27,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.8923278934533858,
+      "pred_px": 5134,
+      "gt_px": 4954
+    },
+    {
+      "query_index": 28,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.7649442755825735,
+      "pred_px": 1578,
+      "gt_px": 1906
+    },
+    {
+      "query_index": 28,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.7649442755825735,
+      "pred_px": 1578,
+      "gt_px": 1906
+    },
+    {
+      "query_index": 29,
+      "arm": "A",
+      "image": "frame_00105",
+      "iou": 0.0,
+      "pred_px": 0,
+      "gt_px": 10582
+    },
+    {
+      "query_index": 29,
+      "arm": "B",
+      "image": "frame_00105",
+      "iou": 0.014742103738046942,
+      "pred_px": 717808,
+      "gt_px": 10582
+    },
+    {
+      "query_index": 30,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.9136549221230909,
+      "pred_px": 6096,
+      "gt_px": 6559
+    },
+    {
+      "query_index": 30,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.9136549221230909,
+      "pred_px": 6096,
+      "gt_px": 6559
+    },
+    {
+      "query_index": 31,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.8986627854088965,
+      "pred_px": 10069,
+      "gt_px": 10803
+    },
+    {
+      "query_index": 31,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.015049985511445957,
+      "pred_px": 717808,
+      "gt_px": 10803
+    },
+    {
+      "query_index": 32,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 17530,
+      "gt_px": 19530
+    },
+    {
+      "query_index": 32,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.004205904137128346,
+      "pred_px": 18433,
+      "gt_px": 19530
+    },
+    {
+      "query_index": 33,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 0,
+      "gt_px": 2080
+    },
+    {
+      "query_index": 33,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.0,
+      "pred_px": 1617,
+      "gt_px": 2080
+    },
+    {
+      "query_index": 34,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.032355555555555554,
+      "pred_px": 182,
+      "gt_px": 5625
+    },
+    {
+      "query_index": 34,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.032355555555555554,
+      "pred_px": 182,
+      "gt_px": 5625
+    },
+    {
+      "query_index": 35,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.8789707750952986,
+      "pred_px": 2905,
+      "gt_px": 3010
+    },
+    {
+      "query_index": 35,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.8789707750952986,
+      "pred_px": 2905,
+      "gt_px": 3010
+    },
+    {
+      "query_index": 36,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.8668716547090308,
+      "pred_px": 8205,
+      "gt_px": 8188
+    },
+    {
+      "query_index": 36,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.8668716547090308,
+      "pred_px": 8205,
+      "gt_px": 8188
+    },
+    {
+      "query_index": 37,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.8255293927474541,
+      "pred_px": 15760,
+      "gt_px": 18120
+    },
+    {
+      "query_index": 37,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.8255293927474541,
+      "pred_px": 15760,
+      "gt_px": 18120
+    },
+    {
+      "query_index": 38,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.853225806451613,
+      "pred_px": 5853,
+      "gt_px": 6786
+    },
+    {
+      "query_index": 38,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.853225806451613,
+      "pred_px": 5853,
+      "gt_px": 6786
+    },
+    {
+      "query_index": 39,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.9334151290642254,
+      "pred_px": 19942,
+      "gt_px": 21029
+    },
+    {
+      "query_index": 39,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.9334151290642254,
+      "pred_px": 19942,
+      "gt_px": 21029
+    },
+    {
+      "query_index": 40,
+      "arm": "A",
+      "image": "frame_00152",
+      "iou": 0.4449950445986125,
+      "pred_px": 2694,
+      "gt_px": 6054
+    },
+    {
+      "query_index": 40,
+      "arm": "B",
+      "image": "frame_00152",
+      "iou": 0.4449950445986125,
+      "pred_px": 2694,
+      "gt_px": 6054
+    },
+    {
+      "query_index": 41,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 0,
+      "gt_px": 6112
+    },
+    {
+      "query_index": 41,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.008514811760247865,
+      "pred_px": 717808,
+      "gt_px": 6112
+    },
+    {
+      "query_index": 42,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.9591782986568343,
+      "pred_px": 7352,
+      "gt_px": 7526
+    },
+    {
+      "query_index": 42,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.9591782986568343,
+      "pred_px": 7352,
+      "gt_px": 7526
+    },
+    {
+      "query_index": 43,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.9319156991418476,
+      "pred_px": 29912,
+      "gt_px": 31322
+    },
+    {
+      "query_index": 43,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.9319156991418476,
+      "pred_px": 29912,
+      "gt_px": 31322
+    },
+    {
+      "query_index": 44,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0038154850356519237,
+      "pred_px": 253697,
+      "gt_px": 974
+    },
+    {
+      "query_index": 44,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.5893223819301848,
+      "pred_px": 574,
+      "gt_px": 974
+    },
+    {
+      "query_index": 45,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.32345235784979626,
+      "pred_px": 7977,
+      "gt_px": 19302
+    },
+    {
+      "query_index": 45,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.32345235784979626,
+      "pred_px": 7977,
+      "gt_px": 19302
+    },
+    {
+      "query_index": 46,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.9378531073446328,
+      "pred_px": 5878,
+      "gt_px": 6127
+    },
+    {
+      "query_index": 46,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.9438816529988744,
+      "pred_px": 5962,
+      "gt_px": 6127
+    },
+    {
+      "query_index": 47,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 62329,
+      "gt_px": 1873
+    },
+    {
+      "query_index": 47,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.0,
+      "pred_px": 3451,
+      "gt_px": 1873
+    },
+    {
+      "query_index": 48,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.13408393039918118,
+      "pred_px": 262,
+      "gt_px": 1954
+    },
+    {
+      "query_index": 48,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.13408393039918118,
+      "pred_px": 262,
+      "gt_px": 1954
+    },
+    {
+      "query_index": 49,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.6362265415549598,
+      "pred_px": 5586,
+      "gt_px": 4179
+    },
+    {
+      "query_index": 49,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.44161432891370084,
+      "pred_px": 8216,
+      "gt_px": 4179
+    },
+    {
+      "query_index": 50,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.46414785355012284,
+      "pred_px": 8216,
+      "gt_px": 4301
+    },
+    {
+      "query_index": 50,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.46414785355012284,
+      "pred_px": 8216,
+      "gt_px": 4301
+    },
+    {
+      "query_index": 51,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.8742322724734785,
+      "pred_px": 6567,
+      "gt_px": 6860
+    },
+    {
+      "query_index": 51,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.8742322724734785,
+      "pred_px": 6567,
+      "gt_px": 6860
+    },
+    {
+      "query_index": 52,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.7343374808993669,
+      "pred_px": 7076,
+      "gt_px": 8814
+    },
+    {
+      "query_index": 52,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.7343374808993669,
+      "pred_px": 7076,
+      "gt_px": 8814
+    },
+    {
+      "query_index": 53,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.8039412157648631,
+      "pred_px": 2417,
+      "gt_px": 2984
+    },
+    {
+      "query_index": 53,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.8039412157648631,
+      "pred_px": 2417,
+      "gt_px": 2984
+    },
+    {
+      "query_index": 54,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.866083576287658,
+      "pred_px": 4574,
+      "gt_px": 5027
+    },
+    {
+      "query_index": 54,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.866083576287658,
+      "pred_px": 4574,
+      "gt_px": 5027
+    },
+    {
+      "query_index": 55,
+      "arm": "A",
+      "image": "frame_00195",
+      "iou": 0.5217530390275112,
+      "pred_px": 1657,
+      "gt_px": 3100
+    },
+    {
+      "query_index": 55,
+      "arm": "B",
+      "image": "frame_00195",
+      "iou": 0.5217530390275112,
+      "pred_px": 1657,
+      "gt_px": 3100
+    }
+  ]
+}

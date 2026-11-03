@@ -1,0 +1,2673 @@
+{
+  "status": "COMPLETE",
+  "query_views": 208,
+  "scene_prompt_units": 67,
+  "overall": {
+    "n": 208,
+    "scene_prompt_units": 67,
+    "arms": {
+      "A": {
+        "image_then_scene_macro": 0.639262456425896,
+        "query_mean": 0.6256916151085625,
+        "scene_query_mean": 0.6396233394443037,
+        "scene_means": {
+          "figurines": 0.5858689558051238,
+          "ramen": 0.5180756071656566,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.6592091348450333
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.5515278298574228
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.4243563256122048
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.919088984843825,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "E": {
+        "image_then_scene_macro": 0.6760106935634101,
+        "query_mean": 0.6694501293373114,
+        "scene_query_mean": 0.6743962399196175,
+        "scene_means": {
+          "figurines": 0.6128506542604384,
+          "ramen": 0.609205781447919,
+          "teatime": 0.8223287813265999,
+          "waldo_kitchen": 0.6596575572186832
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5601971277394489,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6601840442645347,
+            "frame_00195": 0.5886489971694349
+          },
+          "ramen": {
+            "frame_00006": 0.6598408449915275,
+            "frame_00024": 0.6527368242972237,
+            "frame_00060": 0.6759881927916211,
+            "frame_00065": 0.6490550474375316,
+            "frame_00081": 0.5812258642860156,
+            "frame_00119": 0.6302412063251064,
+            "frame_00128": 0.4153524900064077
+          },
+          "teatime": {
+            "frame_00002": 0.8234995178477201,
+            "frame_00025": 0.7019593504433094,
+            "frame_00043": 0.8105503772718595,
+            "frame_00107": 0.7994575475130795,
+            "frame_00129": 0.8921231103844828,
+            "frame_00140": 0.9063827844991486
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.919088984843825,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6251174670891981,
+            "frame_00154": 0.6213303547077746
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "J": {
+        "image_then_scene_macro": 0.6323761180582186,
+        "query_mean": 0.6258020840836309,
+        "scene_query_mean": 0.6339396020568675,
+        "scene_means": {
+          "figurines": 0.600503545237284,
+          "ramen": 0.5179281845879901,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.61717661451983
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.610066187586064
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.42332436756853914
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.7089263832178087,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "J0": {
+        "image_then_scene_macro": 0.6428842481395194,
+        "query_mean": 0.629843672576439,
+        "scene_query_mean": 0.6434924475853229,
+        "scene_means": {
+          "figurines": 0.600503545237284,
+          "ramen": 0.5179281845879901,
+          "teatime": 0.7938961278877702,
+          "waldo_kitchen": 0.6592091348450333
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5388318257735665,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6107437197211709,
+            "frame_00195": 0.610066187586064
+          },
+          "ramen": {
+            "frame_00006": 0.5346592480882387,
+            "frame_00024": 0.5352197741630149,
+            "frame_00060": 0.5417781652454874,
+            "frame_00065": 0.4844066695730476,
+            "frame_00081": 0.561566011433143,
+            "frame_00119": 0.54454305604446,
+            "frame_00128": 0.42332436756853914
+          },
+          "teatime": {
+            "frame_00002": 0.7905342290761116,
+            "frame_00025": 0.672468942384993,
+            "frame_00043": 0.7688294441169834,
+            "frame_00107": 0.7734873842235519,
+            "frame_00129": 0.8924386582903922,
+            "frame_00140": 0.8656181092345888
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.919088984843825,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6229676879454557,
+            "frame_00154": 0.6212380219832666
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "EJ": {
+        "image_then_scene_macro": 0.664730067997707,
+        "query_mean": 0.6652331056930634,
+        "scene_query_mean": 0.6644916940085588,
+        "scene_means": {
+          "figurines": 0.6129297212275252,
+          "ramen": 0.6110443066734161,
+          "teatime": 0.8173212071964064,
+          "waldo_kitchen": 0.61762503689348
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5603599365213308,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6601840442645347,
+            "frame_00195": 0.5888024562559004
+          },
+          "ramen": {
+            "frame_00006": 0.6598408449915275,
+            "frame_00024": 0.6527368242972237,
+            "frame_00060": 0.659884826814827,
+            "frame_00065": 0.6490550474375316,
+            "frame_00081": 0.5812258642860156,
+            "frame_00119": 0.6302412063251064,
+            "frame_00128": 0.44432553256168145
+          },
+          "teatime": {
+            "frame_00002": 0.8132956372926453,
+            "frame_00025": 0.7019377841390152,
+            "frame_00043": 0.7984062997270737,
+            "frame_00107": 0.7917816271360727,
+            "frame_00129": 0.8921231103844828,
+            "frame_00140": 0.9063827844991486
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.7089263832178087,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6251174670891981,
+            "frame_00154": 0.6213303547077746
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      },
+      "EJ0": {
+        "image_then_scene_macro": 0.6752381980790078,
+        "query_mean": 0.6692746941858713,
+        "scene_query_mean": 0.674044539537014,
+        "scene_means": {
+          "figurines": 0.6129297212275252,
+          "ramen": 0.6110443066734161,
+          "teatime": 0.8173212071964064,
+          "waldo_kitchen": 0.6596575572186832
+        },
+        "image_means": {
+          "figurines": {
+            "frame_00041": 0.5603599365213308,
+            "frame_00105": 0.6423724478683349,
+            "frame_00152": 0.6601840442645347,
+            "frame_00195": 0.5888024562559004
+          },
+          "ramen": {
+            "frame_00006": 0.6598408449915275,
+            "frame_00024": 0.6527368242972237,
+            "frame_00060": 0.659884826814827,
+            "frame_00065": 0.6490550474375316,
+            "frame_00081": 0.5812258642860156,
+            "frame_00119": 0.6302412063251064,
+            "frame_00128": 0.44432553256168145
+          },
+          "teatime": {
+            "frame_00002": 0.8132956372926453,
+            "frame_00025": 0.7019377841390152,
+            "frame_00043": 0.7984062997270737,
+            "frame_00107": 0.7917816271360727,
+            "frame_00129": 0.8921231103844828,
+            "frame_00140": 0.9063827844991486
+          },
+          "waldo_kitchen": {
+            "frame_00053": 0.7709588871770089,
+            "frame_00066": 0.919088984843825,
+            "frame_00089": 0.36179209227561,
+            "frame_00140": 0.6251174670891981,
+            "frame_00154": 0.6213303547077746
+          }
+        },
+        "scenes_present": [
+          "figurines",
+          "ramen",
+          "teatime",
+          "waldo_kitchen"
+        ]
+      }
+    },
+    "comparisons": {
+      "EJ0_minus_E": {
+        "first": "EJ0_iou",
+        "second": "E_iou",
+        "delta_image_then_scene_macro": -0.0007724954844024244,
+        "delta_query_mean": -0.00017543515144009786,
+        "ci95_image_cluster_bootstrap": [
+          -0.00312589843611851,
+          0.0019091812050640983
+        ],
+        "wins": 3,
+        "losses": 7,
+        "ties": 198,
+        "bootstrap_replicates": 2000,
+        "seed": 20261102,
+        "unit": "image clusters within scene, equal scene weighting"
+      },
+      "EJ0_minus_EJ": {
+        "first": "EJ0_iou",
+        "second": "EJ_iou",
+        "delta_image_then_scene_macro": 0.010508130081300814,
+        "delta_query_mean": 0.004041588492808005,
+        "ci95_image_cluster_bootstrap": [
+          0.0,
+          0.03152439024390244
+        ],
+        "wins": 1,
+        "losses": 0,
+        "ties": 207,
+        "bootstrap_replicates": 2000,
+        "seed": 20261102,
+        "unit": "image clusters within scene, equal scene weighting"
+      },
+      "EJ_minus_E": {
+        "first": "EJ_iou",
+        "second": "E_iou",
+        "delta_image_then_scene_macro": -0.011280625565703238,
+        "delta_query_mean": -0.004217023644248103,
+        "ci95_image_cluster_bootstrap": [
+          -0.032863167474236545,
+          0.0010325709100495117
+        ],
+        "wins": 3,
+        "losses": 8,
+        "ties": 197,
+        "bootstrap_replicates": 2000,
+        "seed": 20261102,
+        "unit": "image clusters within scene, equal scene weighting"
+      },
+      "J0_minus_E": {
+        "first": "J0_iou",
+        "second": "E_iou",
+        "delta_image_then_scene_macro": -0.03312644542389078,
+        "delta_query_mean": -0.039606456760872474,
+        "ci95_image_cluster_bootstrap": [
+          -0.04546356386041218,
+          -0.019991497213018
+        ],
+        "wins": 9,
+        "losses": 29,
+        "ties": 170,
+        "bootstrap_replicates": 2000,
+        "seed": 20261102,
+        "unit": "image clusters within scene, equal scene weighting"
+      }
+    },
+    "route_views": {
+      "EJ": 12,
+      "EJ0": 11
+    },
+    "route_scene_prompts": {
+      "EJ": 7,
+      "EJ0": 6
+    }
+  },
+  "scenes": {
+    "figurines": {
+      "n": 56,
+      "scene_prompt_units": 21,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.5858689558051238,
+          "query_mean": 0.5803943075934501,
+          "scene_query_mean": 0.5803943075934501,
+          "scene_means": {
+            "figurines": 0.5858689558051238
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.5515278298574228
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.6128506542604384,
+          "query_mean": 0.6065348649698283,
+          "scene_query_mean": 0.6065348649698283,
+          "scene_means": {
+            "figurines": 0.6128506542604384
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5601971277394489,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6601840442645347,
+              "frame_00195": 0.5886489971694349
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.600503545237284,
+          "query_mean": 0.5960742248421933,
+          "scene_query_mean": 0.5960742248421933,
+          "scene_means": {
+            "figurines": 0.600503545237284
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.610066187586064
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.600503545237284,
+          "query_mean": 0.5960742248421933,
+          "scene_query_mean": 0.5960742248421933,
+          "scene_means": {
+            "figurines": 0.600503545237284
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5388318257735665,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6107437197211709,
+              "frame_00195": 0.610066187586064
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.6129297212275252,
+          "query_mean": 0.6066253941767743,
+          "scene_query_mean": 0.6066253941767743,
+          "scene_means": {
+            "figurines": 0.6129297212275252
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5603599365213308,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6601840442645347,
+              "frame_00195": 0.5888024562559004
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.6129297212275252,
+          "query_mean": 0.6066253941767743,
+          "scene_query_mean": 0.6066253941767743,
+          "scene_means": {
+            "figurines": 0.6129297212275252
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.5603599365213308,
+              "frame_00105": 0.6423724478683349,
+              "frame_00152": 0.6601840442645347,
+              "frame_00195": 0.5888024562559004
+            }
+          },
+          "scenes_present": [
+            "figurines"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 7.906696708685613e-05,
+          "delta_query_mean": 9.052920694598194e-05,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.00015813393417371226
+          ],
+          "wins": 2,
+          "losses": 0,
+          "ties": 54,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 56,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 7.906696708685613e-05,
+          "delta_query_mean": 9.052920694598194e-05,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.00015813393417371226
+          ],
+          "wins": 2,
+          "losses": 0,
+          "ties": 54,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.012347109023154251,
+          "delta_query_mean": -0.010460640127635094,
+          "ci95_image_cluster_bootstrap": [
+            -0.037080243407522764,
+            0.01072156732100122
+          ],
+          "wins": 6,
+          "losses": 2,
+          "ties": 48,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 2,
+        "EJ0": 2
+      },
+      "route_scene_prompts": {
+        "EJ": 1,
+        "EJ0": 1
+      }
+    },
+    "ramen": {
+      "n": 71,
+      "scene_prompt_units": 14,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.5180756071656566,
+          "query_mean": 0.5116503451489887,
+          "scene_query_mean": 0.5116503451489887,
+          "scene_means": {
+            "ramen": 0.5180756071656566
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.4243563256122048
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.609205781447919,
+          "query_mean": 0.5943575914163609,
+          "scene_query_mean": 0.5943575914163609,
+          "scene_means": {
+            "ramen": 0.609205781447919
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.6598408449915275,
+              "frame_00024": 0.6527368242972237,
+              "frame_00060": 0.6759881927916211,
+              "frame_00065": 0.6490550474375316,
+              "frame_00081": 0.5812258642860156,
+              "frame_00119": 0.6302412063251064,
+              "frame_00128": 0.4153524900064077
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.5179281845879901,
+          "query_mean": 0.5114468604643222,
+          "scene_query_mean": 0.5114468604643222,
+          "scene_means": {
+            "ramen": 0.5179281845879901
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.42332436756853914
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.5179281845879901,
+          "query_mean": 0.5114468604643222,
+          "scene_query_mean": 0.5114468604643222,
+          "scene_means": {
+            "ramen": 0.5179281845879901
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.5346592480882387,
+              "frame_00024": 0.5352197741630149,
+              "frame_00060": 0.5417781652454874,
+              "frame_00065": 0.4844066695730476,
+              "frame_00081": 0.561566011433143,
+              "frame_00119": 0.54454305604446,
+              "frame_00128": 0.42332436756853914
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.6110443066734161,
+          "query_mean": 0.5982561219510014,
+          "scene_query_mean": 0.5982561219510014,
+          "scene_means": {
+            "ramen": 0.6110443066734161
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.6598408449915275,
+              "frame_00024": 0.6527368242972237,
+              "frame_00060": 0.659884826814827,
+              "frame_00065": 0.6490550474375316,
+              "frame_00081": 0.5812258642860156,
+              "frame_00119": 0.6302412063251064,
+              "frame_00128": 0.44432553256168145
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.6110443066734161,
+          "query_mean": 0.5982561219510014,
+          "scene_query_mean": 0.5982561219510014,
+          "scene_means": {
+            "ramen": 0.6110443066734161
+          },
+          "image_means": {
+            "ramen": {
+              "frame_00006": 0.6598408449915275,
+              "frame_00024": 0.6527368242972237,
+              "frame_00060": 0.659884826814827,
+              "frame_00065": 0.6490550474375316,
+              "frame_00081": 0.5812258642860156,
+              "frame_00119": 0.6302412063251064,
+              "frame_00128": 0.44432553256168145
+            }
+          },
+          "scenes_present": [
+            "ramen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.0018385252254970823,
+          "delta_query_mean": 0.003898530534640545,
+          "ci95_image_cluster_bootstrap": [
+            -0.006901442561483185,
+            0.012417018237974432
+          ],
+          "wins": 1,
+          "losses": 1,
+          "ties": 69,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 71,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.0018385252254970823,
+          "delta_query_mean": 0.003898530534640545,
+          "ci95_image_cluster_bootstrap": [
+            -0.006901442561483185,
+            0.012417018237974432
+          ],
+          "wins": 1,
+          "losses": 1,
+          "ties": 69,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.09127759685992896,
+          "delta_query_mean": -0.08291073095203877,
+          "ci95_image_cluster_bootstrap": [
+            -0.1310145490225688,
+            -0.04400543164075384
+          ],
+          "wins": 2,
+          "losses": 10,
+          "ties": 59,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 3,
+        "EJ0": 3
+      },
+      "route_scene_prompts": {
+        "EJ": 3,
+        "EJ0": 3
+      }
+    },
+    "teatime": {
+      "n": 59,
+      "scene_prompt_units": 14,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.8223287813265999,
+          "query_mean": 0.8149473081313137,
+          "scene_query_mean": 0.8149473081313137,
+          "scene_means": {
+            "teatime": 0.8223287813265999
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.8234995178477201,
+              "frame_00025": 0.7019593504433094,
+              "frame_00043": 0.8105503772718595,
+              "frame_00107": 0.7994575475130795,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.7938961278877702,
+          "query_mean": 0.7852088838109339,
+          "scene_query_mean": 0.7852088838109339,
+          "scene_means": {
+            "teatime": 0.7938961278877702
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.7905342290761116,
+              "frame_00025": 0.672468942384993,
+              "frame_00043": 0.7688294441169834,
+              "frame_00107": 0.7734873842235519,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.8173212071964064,
+          "query_mean": 0.8095514468593138,
+          "scene_query_mean": 0.8095514468593138,
+          "scene_means": {
+            "teatime": 0.8173212071964064
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.8132956372926453,
+              "frame_00025": 0.7019377841390152,
+              "frame_00043": 0.7984062997270737,
+              "frame_00107": 0.7917816271360727,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.8173212071964064,
+          "query_mean": 0.8095514468593138,
+          "scene_query_mean": 0.8095514468593138,
+          "scene_means": {
+            "teatime": 0.8173212071964064
+          },
+          "image_means": {
+            "teatime": {
+              "frame_00002": 0.8132956372926453,
+              "frame_00025": 0.7019377841390152,
+              "frame_00043": 0.7984062997270737,
+              "frame_00107": 0.7917816271360727,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            }
+          },
+          "scenes_present": [
+            "teatime"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.005007574130193636,
+          "delta_query_mean": -0.005395861271999899,
+          "ci95_image_cluster_bootstrap": [
+            -0.009167755112884698,
+            -0.0012829144468834922
+          ],
+          "wins": 0,
+          "losses": 6,
+          "ties": 53,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 59,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.005007574130193636,
+          "delta_query_mean": -0.005395861271999899,
+          "ci95_image_cluster_bootstrap": [
+            -0.009167755112884698,
+            -0.0012829144468834922
+          ],
+          "wins": 0,
+          "losses": 6,
+          "ties": 53,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.028432653438829825,
+          "delta_query_mean": -0.029738424320379833,
+          "ci95_image_cluster_bootstrap": [
+            -0.037745109296413386,
+            -0.01587976714911259
+          ],
+          "wins": 1,
+          "losses": 15,
+          "ties": 43,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 6,
+        "EJ0": 6
+      },
+      "route_scene_prompts": {
+        "EJ": 2,
+        "EJ0": 2
+      }
+    },
+    "waldo_kitchen": {
+      "n": 22,
+      "scene_prompt_units": 18,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.6592091348450333,
+          "query_mean": 0.6812398212238422,
+          "scene_query_mean": 0.6812398212238422,
+          "scene_means": {
+            "waldo_kitchen": 0.6592091348450333
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.919088984843825,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.6596575572186832,
+          "query_mean": 0.6817451951609669,
+          "scene_query_mean": 0.6817451951609669,
+          "scene_means": {
+            "waldo_kitchen": 0.6596575572186832
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.919088984843825,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6251174670891981,
+              "frame_00154": 0.6213303547077746
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.61717661451983,
+          "query_mean": 0.6430284391100209,
+          "scene_query_mean": 0.6430284391100209,
+          "scene_means": {
+            "waldo_kitchen": 0.61717661451983
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.7089263832178087,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.6592091348450333,
+          "query_mean": 0.6812398212238422,
+          "scene_query_mean": 0.6812398212238422,
+          "scene_means": {
+            "waldo_kitchen": 0.6592091348450333
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.919088984843825,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6229676879454557,
+              "frame_00154": 0.6212380219832666
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.61762503689348,
+          "query_mean": 0.6435338130471457,
+          "scene_query_mean": 0.6435338130471457,
+          "scene_means": {
+            "waldo_kitchen": 0.61762503689348
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.7089263832178087,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6251174670891981,
+              "frame_00154": 0.6213303547077746
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.6596575572186832,
+          "query_mean": 0.6817451951609669,
+          "scene_query_mean": 0.6817451951609669,
+          "scene_means": {
+            "waldo_kitchen": 0.6596575572186832
+          },
+          "image_means": {
+            "waldo_kitchen": {
+              "frame_00053": 0.7709588871770089,
+              "frame_00066": 0.919088984843825,
+              "frame_00089": 0.36179209227561,
+              "frame_00140": 0.6251174670891981,
+              "frame_00154": 0.6213303547077746
+            }
+          },
+          "scenes_present": [
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 22,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.04203252032520326,
+          "delta_query_mean": 0.03821138211382114,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.12609756097560976
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 21,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.04203252032520326,
+          "delta_query_mean": -0.03821138211382114,
+          "ci95_image_cluster_bootstrap": [
+            -0.12609756097560976,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 1,
+          "ties": 21,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.0004484223736500903,
+          "delta_query_mean": -0.0005053739371247372,
+          "ci95_image_cluster_bootstrap": [
+            -0.0013083340311470558,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 2,
+          "ties": 20,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 1,
+        "EJ0": 0
+      },
+      "route_scene_prompts": {
+        "EJ": 1,
+        "EJ0": 0
+      }
+    }
+  },
+  "families": {
+    "deep": {
+      "n": 19,
+      "scene_prompt_units": 7,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.4588500593474633,
+          "query_mean": 0.226267259333655,
+          "scene_query_mean": 0.4590046512691783,
+          "scene_means": {
+            "figurines": 0.3450185818522356,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.23207392677506142
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.7517129186439568,
+          "query_mean": 0.6607192407551647,
+          "scene_query_mean": 0.7479260096509791,
+          "scene_means": {
+            "figurines": 0.5515451340749054,
+            "ramen": 0.7279242388534729,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.41254168685251386,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.7147285982889438,
+              "frame_00195": 0.5737900823925624
+            },
+            "ramen": {
+              "frame_00006": 0.8453668163529913,
+              "frame_00024": 0.9401364010736696,
+              "frame_00060": 0.9448532925547166,
+              "frame_00065": 0.9055660782546617,
+              "frame_00081": 0.310798824768557,
+              "frame_00119": 0.8295157068062827,
+              "frame_00128": 0.3192325521634306
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.495436532927864,
+          "query_mean": 0.2724817522773191,
+          "scene_query_mean": 0.49559112484957896,
+          "scene_means": {
+            "figurines": 0.45477800259343776,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.6711116097398699
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.495436532927864,
+          "query_mean": 0.2724817522773191,
+          "scene_query_mean": 0.49559112484957896,
+          "scene_means": {
+            "figurines": 0.45477800259343776,
+            "ramen": 0.055862213186661736,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.20944440451376412,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.4334358273545154,
+              "frame_00195": 0.6711116097398699
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.07488059053408598,
+              "frame_00119": 0.1439305045611113,
+              "frame_00128": 0.17222439721143482
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.7517129186439568,
+          "query_mean": 0.6607192407551647,
+          "scene_query_mean": 0.7479260096509791,
+          "scene_means": {
+            "figurines": 0.5515451340749054,
+            "ramen": 0.7279242388534729,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.41254168685251386,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.7147285982889438,
+              "frame_00195": 0.5737900823925624
+            },
+            "ramen": {
+              "frame_00006": 0.8453668163529913,
+              "frame_00024": 0.9401364010736696,
+              "frame_00060": 0.9448532925547166,
+              "frame_00065": 0.9055660782546617,
+              "frame_00081": 0.310798824768557,
+              "frame_00119": 0.8295157068062827,
+              "frame_00128": 0.3192325521634306
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.7517129186439568,
+          "query_mean": 0.6607192407551647,
+          "scene_query_mean": 0.7479260096509791,
+          "scene_means": {
+            "figurines": 0.5515451340749054,
+            "ramen": 0.7279242388534729,
+            "waldo_kitchen": 0.9756693830034925
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.41254168685251386,
+              "frame_00105": 0.5051201687656016,
+              "frame_00152": 0.7147285982889438,
+              "frame_00195": 0.5737900823925624
+            },
+            "ramen": {
+              "frame_00006": 0.8453668163529913,
+              "frame_00024": 0.9401364010736696,
+              "frame_00060": 0.9448532925547166,
+              "frame_00065": 0.9055660782546617,
+              "frame_00081": 0.310798824768557,
+              "frame_00119": 0.8295157068062827,
+              "frame_00128": 0.3192325521634306
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.9756693830034925
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 19,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 19,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 19,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.2562763857160929,
+          "delta_query_mean": -0.38823748847784567,
+          "ci95_image_cluster_bootstrap": [
+            -0.3463259118125646,
+            -0.16147297037032862
+          ],
+          "wins": 1,
+          "losses": 11,
+          "ties": 7,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 0,
+        "EJ0": 0
+      },
+      "route_scene_prompts": {
+        "EJ": 0,
+        "EJ0": 0
+      }
+    },
+    "found": {
+      "n": 124,
+      "scene_prompt_units": 43,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.8184041964136941,
+          "query_mean": 0.8160100733376032,
+          "scene_query_mean": 0.8123586592167754,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.8224527685489103
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.908782048991401,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.8277637493391418,
+          "query_mean": 0.831198567470838,
+          "scene_query_mean": 0.8220206055153414,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8588887065048265,
+            "teatime": 0.8903306299691666,
+            "waldo_kitchen": 0.8224835461237462
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.9069130834521827,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.9057495359521163,
+              "frame_00025": 0.8577934106218449,
+              "frame_00043": 0.9006115303020662,
+              "frame_00107": 0.87932340805534,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.908782048991401,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8284404729436995
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.8008906462781928,
+          "query_mean": 0.8092306345754736,
+          "scene_query_mean": 0.7961923052455433,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.7523985680069047
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.6285652468233793,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.8184041964136941,
+          "query_mean": 0.8160100733376032,
+          "scene_query_mean": 0.8123586592167754,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8590578114524196,
+            "waldo_kitchen": 0.8224527685489103
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8694950827671949,
+              "frame_00025": 0.8217759373669288,
+              "frame_00043": 0.8542549379077592,
+              "frame_00107": 0.8507641431476539,
+              "frame_00129": 0.8924386582903922,
+              "frame_00140": 0.8656181092345888
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.908782048991401,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8283173626443555
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.8073354652450528,
+          "query_mean": 0.8208159615976706,
+          "scene_query_mean": 0.8028485337806577,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8848063097450239,
+            "waldo_kitchen": 0.7524293455817407
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8945326318053819,
+              "frame_00025": 0.8577934106218449,
+              "frame_00043": 0.8871181108078596,
+              "frame_00107": 0.8708878103514266,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.6285652468233793,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8284404729436995
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.8248490153805542,
+          "query_mean": 0.8275954003598002,
+          "scene_query_mean": 0.8190148877518897,
+          "scene_means": {
+            "figurines": 0.7393521147588276,
+            "ramen": 0.8527540908946192,
+            "teatime": 0.8848063097450239,
+            "waldo_kitchen": 0.8224835461237462
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.7588736604111447,
+              "frame_00105": 0.7254776653493363,
+              "frame_00152": 0.7273692133335368,
+              "frame_00195": 0.7456879199412922
+            },
+            "ramen": {
+              "frame_00006": 0.8439848137488932,
+              "frame_00024": 0.86377789524584,
+              "frame_00060": 0.8639707741807316,
+              "frame_00065": 0.8971169927534105,
+              "frame_00081": 0.7748632243521953,
+              "frame_00119": 0.872454728084028,
+              "frame_00128": 0.8531102078972354
+            },
+            "teatime": {
+              "frame_00002": 0.8945326318053819,
+              "frame_00025": 0.8577934106218449,
+              "frame_00043": 0.8871181108078596,
+              "frame_00107": 0.8708878103514266,
+              "frame_00129": 0.8921231103844828,
+              "frame_00140": 0.9063827844991486
+            },
+            "waldo_kitchen": {
+              "frame_00053": 0.7300167880117121,
+              "frame_00066": 0.908782048991401,
+              "frame_00140": 0.8226948745481721,
+              "frame_00154": 0.8284404729436995
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.002914733958587426,
+          "delta_query_mean": -0.0036031671110378378,
+          "ci95_image_cluster_bootstrap": [
+            -0.006356403509756297,
+            -0.0004673710061139392
+          ],
+          "wins": 0,
+          "losses": 4,
+          "ties": 120,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.017513550135501356,
+          "delta_query_mean": 0.006779438762129557,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.05254065040650407
+          ],
+          "wins": 1,
+          "losses": 0,
+          "ties": 123,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.020428284094088783,
+          "delta_query_mean": -0.010382605873167396,
+          "ci95_image_cluster_bootstrap": [
+            -0.05580686760275456,
+            -0.0009113376797680638
+          ],
+          "wins": 0,
+          "losses": 5,
+          "ties": 119,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -0.00935955292544753,
+          "delta_query_mean": -0.015188494133235,
+          "ci95_image_cluster_bootstrap": [
+            -0.013440098122504017,
+            -0.0053726132512659395
+          ],
+          "wins": 1,
+          "losses": 14,
+          "ties": 109,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 5,
+        "EJ0": 4
+      },
+      "route_scene_prompts": {
+        "EJ": 3,
+        "EJ0": 2
+      }
+    },
+    "rank2": {
+      "n": 36,
+      "scene_prompt_units": 13,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.6812763753093304,
+          "query_mean": 0.640223330276346,
+          "scene_query_mean": 0.6336747270573274,
+          "scene_means": {
+            "figurines": 0.4990201723632081,
+            "ramen": 0.7057164929614673,
+            "waldo_kitchen": 0.839092460603316
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36536052109536116,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.32039749938114126
+            },
+            "ramen": {
+              "frame_00006": 0.6439410379423013,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.44093055960614214
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.7400987931748231
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.6898759873684788,
+          "query_mean": 0.6635250247018235,
+          "scene_query_mean": 0.644280933758583,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7327435189154784,
+            "waldo_kitchen": 0.8373009779835306
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.7317245706769201,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.734724345315467
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.6862929800162826,
+          "query_mean": 0.6516314478142018,
+          "scene_query_mean": 0.6393244395528345,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7202030142391042,
+            "waldo_kitchen": 0.839092460603316
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.6439410379423013,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.7400987931748231
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.6862929800162826,
+          "query_mean": 0.6516314478142018,
+          "scene_query_mean": 0.6393244395528345,
+          "scene_means": {
+            "figurines": 0.49958346520642744,
+            "ramen": 0.7202030142391042,
+            "waldo_kitchen": 0.839092460603316
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.36628310419269133,
+              "frame_00105": 0.8113024966131217,
+              "frame_00195": 0.3211647948134693
+            },
+            "ramen": {
+              "frame_00006": 0.6439410379423013,
+              "frame_00024": 0.8514008009374798,
+              "frame_00060": 0.8711564997108521,
+              "frame_00065": 0.7068478759593406,
+              "frame_00081": 0.6282137968029129,
+              "frame_00119": 0.7975248797712424,
+              "frame_00128": 0.5423362085496001
+            },
+            "waldo_kitchen": {
+              "frame_00066": 0.9500097924010967,
+              "frame_00089": 0.8271687962340283,
+              "frame_00140": 0.7400987931748231
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.005016604706952094,
+          "delta_query_mean": 0.011408117537855735,
+          "ci95_image_cluster_bootstrap": [
+            8.525504803645206e-05,
+            0.014742286421746194
+          ],
+          "wins": 3,
+          "losses": 0,
+          "ties": 33,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 36,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.005016604706952094,
+          "delta_query_mean": 0.011408117537855735,
+          "ci95_image_cluster_bootstrap": [
+            8.525504803645206e-05,
+            0.014742286421746194
+          ],
+          "wins": 3,
+          "losses": 0,
+          "ties": 33,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.008599612059148356,
+          "delta_query_mean": 0.023301694425477474,
+          "ci95_image_cluster_bootstrap": [
+            -0.00090404823241372,
+            0.019503557339213936
+          ],
+          "wins": 4,
+          "losses": 1,
+          "ties": 31,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 3,
+        "EJ0": 3
+      },
+      "route_scene_prompts": {
+        "EJ": 2,
+        "EJ0": 2
+      }
+    },
+    "recall": {
+      "n": 29,
+      "scene_prompt_units": 11,
+      "arms": {
+        "A": {
+          "image_then_scene_macro": 0.028051267647396495,
+          "query_mean": 0.02664234593493627,
+          "scene_query_mean": 0.03214251724467902,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.020294091919380686,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 0.0036885245901639345
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "E": {
+          "image_then_scene_macro": 0.0177415340349127,
+          "query_mean": 0.019837899016561585,
+          "scene_query_mean": 0.022757649633413077,
+          "scene_means": {
+            "figurines": 0.0075273535097701415,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0006260896335325486,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.0067248152340368865,
+              "frame_00105": 0.0,
+              "frame_00152": 0.013613583663699604,
+              "frame_00195": 0.009771015141344075
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009993368037575065,
+              "frame_00025": 0.0007060796398993837,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007989420904733043
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J": {
+          "image_then_scene_macro": 0.027922272891938278,
+          "query_mean": 0.026144159293166602,
+          "scene_query_mean": 0.03190172703449036,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "J0": {
+          "image_then_scene_macro": 0.027922272891938278,
+          "query_mean": 0.026144159293166602,
+          "scene_query_mean": 0.03190172703449036,
+          "scene_means": {
+            "figurines": 0.04831816054288185,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.02683315621679065,
+              "frame_00105": 0.0,
+              "frame_00152": 0.032355555555555554,
+              "frame_00195": 0.13408393039918118
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ": {
+          "image_then_scene_macro": 0.01772457113366035,
+          "query_mean": 0.019824450013332103,
+          "scene_query_mean": 0.022738148578730327,
+          "scene_means": {
+            "figurines": 0.0075273535097701415,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.0067248152340368865,
+              "frame_00105": 0.0,
+              "frame_00152": 0.013613583663699604,
+              "frame_00195": 0.009771015141344075
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        },
+        "EJ0": {
+          "image_then_scene_macro": 0.01772457113366035,
+          "query_mean": 0.019824450013332103,
+          "scene_query_mean": 0.022738148578730327,
+          "scene_means": {
+            "figurines": 0.0075273535097701415,
+            "ramen": 0.01977811289754782,
+            "teatime": 0.0005582380285231622,
+            "waldo_kitchen": 0.04303458009880028
+          },
+          "image_means": {
+            "figurines": {
+              "frame_00041": 0.0067248152340368865,
+              "frame_00105": 0.0,
+              "frame_00152": 0.013613583663699604,
+              "frame_00195": 0.009771015141344075
+            },
+            "ramen": {
+              "frame_00006": 0.0,
+              "frame_00024": 0.0,
+              "frame_00060": 0.0,
+              "frame_00065": 0.0,
+              "frame_00081": 0.13837011884550085,
+              "frame_00119": 0.0,
+              "frame_00128": 7.667143733387856e-05
+            },
+            "teatime": {
+              "frame_00002": 0.0009256921652781284,
+              "frame_00025": 0.0005874649662819587,
+              "frame_00043": 0.0,
+              "frame_00107": 0.0007197949825325614
+            },
+            "waldo_kitchen": {
+              "frame_00089": 0.12910374029640084,
+              "frame_00140": 0.0,
+              "frame_00154": 0.0
+            }
+          },
+          "scenes_present": [
+            "figurines",
+            "ramen",
+            "teatime",
+            "waldo_kitchen"
+          ]
+        }
+      },
+      "comparisons": {
+        "EJ0_minus_E": {
+          "first": "EJ0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -1.6962901252346615e-05,
+          "delta_query_mean": -1.344900322948175e-05,
+          "ci95_image_cluster_bootstrap": [
+            -2.6843041208228304e-05,
+            -4.946694246296427e-06
+          ],
+          "wins": 0,
+          "losses": 3,
+          "ties": 26,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ0_minus_EJ": {
+          "first": "EJ0_iou",
+          "second": "EJ_iou",
+          "delta_image_then_scene_macro": 0.0,
+          "delta_query_mean": 0.0,
+          "ci95_image_cluster_bootstrap": [
+            0.0,
+            0.0
+          ],
+          "wins": 0,
+          "losses": 0,
+          "ties": 29,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "EJ_minus_E": {
+          "first": "EJ_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": -1.6962901252346615e-05,
+          "delta_query_mean": -1.344900322948175e-05,
+          "ci95_image_cluster_bootstrap": [
+            -2.6843041208228304e-05,
+            -4.946694246296427e-06
+          ],
+          "wins": 0,
+          "losses": 3,
+          "ties": 26,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        },
+        "J0_minus_E": {
+          "first": "J0_iou",
+          "second": "E_iou",
+          "delta_image_then_scene_macro": 0.01018073885702558,
+          "delta_query_mean": 0.006306260276605022,
+          "ci95_image_cluster_bootstrap": [
+            0.00124475510441606,
+            0.024463470330028745
+          ],
+          "wins": 3,
+          "losses": 3,
+          "ties": 23,
+          "bootstrap_replicates": 2000,
+          "seed": 20261102,
+          "unit": "image clusters within scene, equal scene weighting"
+        }
+      },
+      "route_views": {
+        "EJ": 4,
+        "EJ0": 4
+      },
+      "route_scene_prompts": {
+        "EJ": 2,
+        "EJ0": 2
+      }
+    }
+  },
+  "reproduction_error_max": {
+    "baseline_error": 0.0,
+    "old_E_error": 0.0,
+    "old_J_error": 0.0,
+    "old_J0_error": 0.0
+  },
+  "primary_comparison": "EJ0_minus_E",
+  "repair_control": "EJ0_minus_EJ",
+  "new_models_fitted": 0,
+  "bootstrap_seed": 20261102,
+  "bootstrap_replicates": 2000,
+  "GT_used_for_routing": false,
+  "checks": {
+    "positive_mean": false,
+    "positive_CI_lower": false,
+    "no_scene_decline_over_0_01": true
+  },
+  "stacking_gate": "FAIL",
+  "nonzero_stacking_cases": [
+    {
+      "scene": "figurines",
+      "image": "frame_00041",
+      "prompt": "miffy",
+      "family": "rank2",
+      "A_iou": 0.007619769444453843,
+      "E_iou": 0.00485202015246306,
+      "J_iou": 0.007619769444453843,
+      "J0_iou": 0.007619769444453843,
+      "EJ_iou": 0.007619769444453843,
+      "EJ0_iou": 0.007619769444453843,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "figurines",
+      "image": "frame_00195",
+      "prompt": "miffy",
+      "family": "rank2",
+      "A_iou": 0.0038154850356519237,
+      "E_iou": 0.0015135987386677178,
+      "J_iou": 0.0038154850356519237,
+      "J0_iou": 0.0038154850356519237,
+      "EJ_iou": 0.0038154850356519237,
+      "EJ0_iou": 0.0038154850356519237,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00060",
+      "prompt": "napkin",
+      "family": "found",
+      "A_iou": 0.8521724372029871,
+      "E_iou": 0.9809993650173399,
+      "J_iou": 0.8521724372029871,
+      "J0_iou": 0.8521724372029871,
+      "EJ_iou": 0.8521724372029871,
+      "EJ0_iou": 0.8521724372029871,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "ramen",
+      "image": "frame_00128",
+      "prompt": "wavy noodles",
+      "family": "rank2",
+      "A_iou": 0.4056225957738315,
+      "E_iou": 0.0,
+      "J_iou": 0.4056225957738315,
+      "J0_iou": 0.4056225957738315,
+      "EJ_iou": 0.4056225957738315,
+      "EJ0_iou": 0.4056225957738315,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "paper napkin",
+      "family": "found",
+      "A_iou": 0.8233148295003965,
+      "E_iou": 0.9354838709677419,
+      "J_iou": 0.8233148295003965,
+      "J0_iou": 0.8233148295003965,
+      "EJ_iou": 0.8233148295003965,
+      "EJ0_iou": 0.8233148295003965,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00002",
+      "prompt": "bear nose",
+      "family": "recall",
+      "A_iou": 0.0009256921652781284,
+      "E_iou": 0.0009993368037575065,
+      "J_iou": 0.0009256921652781284,
+      "J0_iou": 0.0009256921652781284,
+      "EJ_iou": 0.0009256921652781284,
+      "EJ0_iou": 0.0009256921652781284,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00025",
+      "prompt": "bear nose",
+      "family": "recall",
+      "A_iou": 0.0011749299325639175,
+      "E_iou": 0.0014121592797987673,
+      "J_iou": 0.0011749299325639175,
+      "J0_iou": 0.0011749299325639175,
+      "EJ_iou": 0.0011749299325639175,
+      "EJ0_iou": 0.0011749299325639175,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00043",
+      "prompt": "paper napkin",
+      "family": "found",
+      "A_iou": 0.7373978514369663,
+      "E_iou": 0.8588386268848252,
+      "J_iou": 0.7373978514369663,
+      "J0_iou": 0.7373978514369663,
+      "EJ_iou": 0.7373978514369663,
+      "EJ0_iou": 0.7373978514369663,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00107",
+      "prompt": "bear nose",
+      "family": "recall",
+      "A_iou": 0.0007197949825325614,
+      "E_iou": 0.0007989420904733043,
+      "J_iou": 0.0007197949825325614,
+      "J0_iou": 0.0007197949825325614,
+      "EJ_iou": 0.0007197949825325614,
+      "EJ0_iou": 0.0007197949825325614,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "teatime",
+      "image": "frame_00107",
+      "prompt": "paper napkin",
+      "family": "found",
+      "A_iou": 0.8348548848616978,
+      "E_iou": 0.9192108619008327,
+      "J_iou": 0.8348548848616978,
+      "J0_iou": 0.8348548848616978,
+      "EJ_iou": 0.8348548848616978,
+      "EJ0_iou": 0.8348548848616978,
+      "route_EJ": 1,
+      "route_EJ0": 1
+    },
+    {
+      "scene": "waldo_kitchen",
+      "image": "frame_00066",
+      "prompt": "plastic ladle",
+      "family": "found",
+      "A_iou": 0.8406504065040651,
+      "E_iou": 0.8406504065040651,
+      "J_iou": 0.0,
+      "J0_iou": 0.8406504065040651,
+      "EJ_iou": 0.0,
+      "EJ0_iou": 0.8406504065040651,
+      "route_EJ": 1,
+      "route_EJ0": 0
+    }
+  ]
+}

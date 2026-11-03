@@ -1,0 +1,18 @@
+{
+  "status": "CPU_A_POOL_CONSISTENCY_GATE",
+  "gt_opened": false,
+  "rule": "raw_score*mean_view_cosine",
+  "selector": "exact official gap_select",
+  "records": [
+    {
+      "query_index": 0,
+      "image": "frame_00041",
+      "prompt": "green apple",
+      "pool_size": 5,
+      "old_selected": [
+        [
+          3,
+          0.3975769877433777,
+          0.3975769877433777,
+          138,
+          

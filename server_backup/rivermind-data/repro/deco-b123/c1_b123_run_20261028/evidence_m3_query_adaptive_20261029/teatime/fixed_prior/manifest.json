@@ -1,0 +1,28 @@
+{
+  "scene": "teatime",
+  "arm": "fixed_prior",
+  "bank": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/teatime/B1.npz",
+  "observation": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/teatime/observations_level3.npz",
+  "nag": "/root/rivermind-data/ReLaGS_Reproduction/ref/relags_hf/teatime/sai_nag.pt",
+  "members": "/root/rivermind-data/repro/deco-b123/c1_b123_run_20261028/evidence_v2_four_20261028/generated_inputs/teatime/B1.members.json",
+  "sha256": {
+    "BANK": "623c2d951bba17a8267e51003995afa2b4e4a5c88c37ba9dc81aa95cdb222fac",
+    "OBS": "259f54a6aa37938e1a8b5a7432a23fd266f51237450f0e16de91096e621a1d2e",
+    "NAG": "780a0c6c4d84ea3b2320d3e92837323ca30cd16eb224c3c8a7984a7a3d10d817",
+    "MEMBERS": "aa51811d2d15161bf7c52cd89466f4dd4ac8b92ecd360b5eabd973973c5c43f7",
+    "EVAL": "5c219d953688f0dbe933884c532597e055e670600c8cdae844aa67df188a44b6"
+  },
+  "protocol": {
+    "M2": "semantic",
+    "center": "image",
+    "text": "canon",
+    "renorm": 0,
+    "sel": "gap",
+    "topk": 5,
+    "level_until": 3,
+    "filter_small": 50,
+    "temperature": 0.08,
+    "coefficient": 0.25,
+    "weight_mode": "normalized_priors"
+  }
+}

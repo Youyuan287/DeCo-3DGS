@@ -1,0 +1,18 @@
+{
+  "role": "reviewer",
+  "model": "glm-5.3-prime",
+  "status": "ok",
+  "content": "OK",
+  "usage": {
+    "prompt_tokens": 141,
+    "total_tokens": 143,
+    "completion_tokens": 2,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "finish_reason": "stop"
+}
