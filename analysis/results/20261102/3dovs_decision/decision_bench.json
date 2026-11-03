@@ -1,0 +1,133 @@
+{
+  "scene": "bench",
+  "classes": [
+    "pebbled concrete wall",
+    "wood",
+    "Portuguese egg tart",
+    "orange cat",
+    "green grape",
+    "mini offroad car",
+    "dressing doll"
+  ],
+  "gt_views": [
+    "02",
+    "05",
+    "25",
+    "27",
+    "32"
+  ],
+  "n_witness_views": 36,
+  "per_class": [
+    {
+      "cls": "pebbled concrete wall",
+      "pool": 3,
+      "cert": 0.98,
+      "chal": [
+        1,
+        2,
+        3
+      ],
+      "agg": [
+        0.1202,
+        0.2289,
+        0.1841
+      ]
+    },
+    {
+      "cls": "wood",
+      "pool": 4,
+      "cert": 0.0,
+      "chal": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "agg": [
+        0.2451,
+        0.2451,
+        0.2451,
+        0.2451
+      ]
+    },
+    {
+      "cls": "Portuguese egg tart",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1089
+      ]
+    },
+    {
+      "cls": "orange cat",
+      "pool": 1,
+      "cert": 1.0,
+      "chal": [
+        1
+      ],
+      "agg": [
+        0.0997
+      ]
+    },
+    {
+      "cls": "green grape",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2128
+      ]
+    },
+    {
+      "cls": "mini offroad car",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1161
+      ]
+    },
+    {
+      "cls": "dressing doll",
+      "pool": 2,
+      "cert": 0.0,
+      "chal": [
+        1,
+        0
+      ],
+      "agg": [
+        0.1885,
+        0.257
+      ]
+    }
+  ],
+  "configs": {
+    "released": {
+      "up": 0.7582684720014234,
+      "up_skip": 0.7582684720014234,
+      "n": 35
+    },
+    "challenger": {
+      "up": 0.6202598693033481,
+      "up_skip": 0.6202598693033481,
+      "n": 35
+    },
+    "audit": {
+      "up": 0.6202598693033481,
+      "up_skip": 0.6202598693033481,
+      "n": 35
+    },
+    "audit95": {
+      "up": 0.6202598693033481,
+      "up_skip": 0.6202598693033481,
+      "n": 35
+    }
+  }
+}

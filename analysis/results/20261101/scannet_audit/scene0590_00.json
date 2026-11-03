@@ -1,0 +1,24 @@
+{
+  "scene": "scene0590_00",
+  "n_roots": 192,
+  "n_roots_with_obs": 190,
+  "metrics": {
+    "baseline": 0.4255077659927335,
+    "audit_majority": 0.004092776810767417,
+    "audit95": 0.004091869012661965,
+    "no_cert": 0.004092776810767417,
+    "vote": 0.004095172028576834,
+    "audit_cal": 0.036806551651977555,
+    "audit_cal95": 0.32710711334661563,
+    "rank_audit": 0.004091683376294088
+  },
+  "fired": {
+    "audit_majority": 66,
+    "audit95": 63,
+    "no_cert": 66,
+    "vote": 66,
+    "audit_cal": 180,
+    "audit_cal95": 22,
+    "rank_audit": 65
+  }
+}

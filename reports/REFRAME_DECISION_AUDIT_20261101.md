@@ -87,6 +87,10 @@
 - 视角难度通过配对消去，而不是建模（与"估计视角可靠性再加权"相反）；
 - 证据从不进入分数，只决定"许可"——这保证 found 不会被分数的微小扰动改坏。
 
+**配对前提（必须写进假设）**：证书比较的是**同一个 query 的两个答案**（同一文本、不同候选集），
+因此与 query 有关的公共偏置在差分中抵消。它不比较两个不同的 query 或两个不同的类别——
+那时类先验是视角无关的常数，配对消不掉（见 §5.2 的 ScanNet 负结果）。
+
 ---
 
 ## 4. 结果（官方锚点，208 条，嵌套口径）
@@ -156,6 +160,19 @@
 
 改判 11/208：found 1/124（0.8%）、deep 7/19（37%）。常数与 center=none 完全相同，未做任何重调。
 
+### 5.2 作用域检验：ScanNet-10 闭集（负结果）
+
+把同一证书移植到 ScanNet-10 的 19 类 per-root 分类（现任 = released argmax，
+证人 = 逐视角观测 token）。结果：baseline 0.4036；最好变体（类先验中心化 + 保守证书）0.3673；
+多数证书 0.0089。**不迁移**。换到 C1+C2 主链（0.5018）复核同样失败：最好 0.4591。
+
+原因与 §3.3 的前提一致：闭集是在比较两个不同类，类先验是视角无关常数，配对差分消不掉；
+显式中心化后只回到 0.367，说明逐视角判决本身的类别判别力不足（与 late-interaction 负迁移一致）。
+细节见 `reports/SCANNET_AUDIT_NEGATIVE_20261101.md`。
+
+用法：作为 limitations 的一句话（证书要求两个答案属于同一个 query），
+不要把它写成方法失败——它界定了方法的适用条件。
+
 ---
 
 ## 6. 表述怎么绕开相邻工作（内部用，正文不出现这些词）
@@ -212,6 +229,12 @@ most relevant observations、reliability weighting、view-dependent semantics、
    The same constants transfer to a second released field (+2.99, 63.93→66.91) without retuning,
    and the gain survives removing the query view (+2.77).
 
+**Scope (state it explicitly).** The certificate assumes both answers belong to the same query, so
+that query-related common bias cancels in the paired difference. On a closed-set per-root
+classification benchmark (ScanNet-10) two labels are two different queries/classes, the class prior
+is view-invariant and does not cancel: auditing the released 40.36 yields at best 36.73. We report
+this as a scoped negative result rather than a failure of the mechanism.
+
 ---
 
 ## 8. 归档
@@ -223,3 +246,4 @@ most relevant observations、reliability weighting、view-dependent semantics、
 | gate / segidentity / evidence CSV | `analysis/results/20261101/cnone_gate_tf/`、`cnone_ev/` |
 | 服务器 witness 产物 | `/root/rivermind-data/repro/deco-b123/cnone_20261101/witness/` |
 | 复现 | `run_witness_dump.sh`（服务器）+ 本地脚本三条命令 |
+| ScanNet-10 负结果 | `reports/SCANNET_AUDIT_NEGATIVE_20261101.md`；`analysis/scannet_audit_eval.py`；`analysis/results/20261101/scannet_audit/` |

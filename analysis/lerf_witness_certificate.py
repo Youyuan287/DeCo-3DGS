@@ -26,6 +26,7 @@ SUFFIX = sys.argv[5] if len(sys.argv) > 5 else "none"
 PI = float(sys.argv[6]) if len(sys.argv) > 6 else 0.9
 MODE = sys.argv[7] if len(sys.argv) > 7 else "sc"  # sc | s0_aug | s0
 VN_DIR = sys.argv[8] if len(sys.argv) > 8 else ""  # optional: leave-query-view-out
+WSUF = sys.argv[9] if len(sys.argv) > 9 else "_witness"
 NBOOT = 500
 LAM = 1.0
 rng = np.random.default_rng(20261101)
@@ -96,7 +97,7 @@ def main():
         sc = os.path.basename(gf).split("_cmaskgate")[0]
         seg = load_ranked(os.path.join(SEG, "%s_segidentity.csv" % sc))
         ev = load_ranked(os.path.join(EV, "%s_evidence.csv" % sc))
-        wit = load_witness(os.path.join(WIT, "%s_witness.csv" % sc))
+        wit = load_witness(os.path.join(WIT, "%s%s.csv" % (sc, WSUF)))
         names = None
         if VN_DIR:
             names = json.load(open(os.path.join(VN_DIR, "view_names_%s.json" % sc)))

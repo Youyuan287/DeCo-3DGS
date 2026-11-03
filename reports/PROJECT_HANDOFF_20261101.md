@@ -617,6 +617,7 @@ baseline 是 root 3D 特征点积。
 | Part CLIP/AlphaCLIP/NAG 直接选 | top1 0.511；part+set 0.000 | part 语义弱 |
 | 无 GT parent 推断 | pirate 0/4、hooves 0/2 | CLIP/GDINO+SAM 选不出 parent |
 | Part-whole selector | top1 IoU 0.175 | 多视角 track/几何不判别 part |
+| ScanNet 判决审计（闭集 per-root） | off 臂 40.36→36.73；C1+C2 主链 50.18→45.91 | 作用层不同 + 配对前提不成立：类先验视角无关，差分消不掉；见 `SCANNET_AUDIT_NEGATIVE_20261101.md` |
 
 ---
 

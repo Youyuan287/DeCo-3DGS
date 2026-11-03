@@ -1,0 +1,111 @@
+{
+  "scene": "bed",
+  "classes": [
+    "red bag",
+    "black leather shoe",
+    "banana",
+    "hand",
+    "camera",
+    "white sheet"
+  ],
+  "gt_views": [
+    "00",
+    "04",
+    "10",
+    "23",
+    "30"
+  ],
+  "n_witness_views": 37,
+  "per_class": [
+    {
+      "cls": "red bag",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1796
+      ]
+    },
+    {
+      "cls": "black leather shoe",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2177
+      ]
+    },
+    {
+      "cls": "banana",
+      "pool": 2,
+      "cert": 0.0,
+      "chal": [
+        0,
+        1
+      ],
+      "agg": [
+        0.2897,
+        0.3072
+      ]
+    },
+    {
+      "cls": "hand",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2762
+      ]
+    },
+    {
+      "cls": "camera",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2665
+      ]
+    },
+    {
+      "cls": "white sheet",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        5
+      ],
+      "agg": [
+        0.1311
+      ]
+    }
+  ],
+  "configs": {
+    "released": {
+      "up": 0.5635715303693557,
+      "up_skip": 0.6519107730327273,
+      "n": 30
+    },
+    "challenger": {
+      "up": 0.5635449864378002,
+      "up_skip": 0.6762539837253602,
+      "n": 30
+    },
+    "audit": {
+      "up": 0.5635715303693557,
+      "up_skip": 0.6519107730327273,
+      "n": 30
+    },
+    "audit95": {
+      "up": 0.5635715303693557,
+      "up_skip": 0.6519107730327273,
+      "n": 30
+    }
+  }
+}

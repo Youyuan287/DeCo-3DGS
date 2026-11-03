@@ -1,0 +1,113 @@
+{
+  "scene": "lawn",
+  "classes": [
+    "red apple",
+    "New York Yankees cap",
+    "stapler",
+    "black headphone",
+    "hand soap",
+    "green lawn"
+  ],
+  "gt_views": [
+    "01",
+    "03",
+    "09",
+    "13",
+    "29"
+  ],
+  "n_witness_views": 36,
+  "per_class": [
+    {
+      "cls": "red apple",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1802
+      ]
+    },
+    {
+      "cls": "New York Yankees cap",
+      "pool": 2,
+      "cert": 1.0,
+      "chal": [
+        1,
+        4
+      ],
+      "agg": [
+        0.1349,
+        0.1458
+      ]
+    },
+    {
+      "cls": "stapler",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1849
+      ]
+    },
+    {
+      "cls": "black headphone",
+      "pool": 2,
+      "cert": 0.9866666666666667,
+      "chal": [
+        0,
+        4
+      ],
+      "agg": [
+        0.1578,
+        0.082
+      ]
+    },
+    {
+      "cls": "hand soap",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2035
+      ]
+    },
+    {
+      "cls": "green lawn",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.0277
+      ]
+    }
+  ],
+  "configs": {
+    "released": {
+      "up": 0.7318270509640058,
+      "up_skip": 0.878192461156807,
+      "n": 30
+    },
+    "challenger": {
+      "up": 0.5843255017020785,
+      "up_skip": 0.7011906020424942,
+      "n": 30
+    },
+    "audit": {
+      "up": 0.5843255017020785,
+      "up_skip": 0.7011906020424942,
+      "n": 30
+    },
+    "audit95": {
+      "up": 0.5843255017020785,
+      "up_skip": 0.7011906020424942,
+      "n": 30
+    }
+  }
+}

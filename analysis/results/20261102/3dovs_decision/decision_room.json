@@ -1,0 +1,115 @@
+{
+  "scene": "room",
+  "classes": [
+    "wood wall",
+    "shrilling chicken",
+    "weaving basket",
+    "rabbit",
+    "dinosaur",
+    "baseball"
+  ],
+  "gt_views": [
+    "00",
+    "04",
+    "19",
+    "25",
+    "30"
+  ],
+  "n_witness_views": 31,
+  "per_class": [
+    {
+      "cls": "wood wall",
+      "pool": 2,
+      "cert": 0.0,
+      "chal": [
+        3,
+        0
+      ],
+      "agg": [
+        -1000000000.0,
+        -1000000000.0
+      ]
+    },
+    {
+      "cls": "shrilling chicken",
+      "pool": 2,
+      "cert": 0.0,
+      "chal": [
+        0,
+        1
+      ],
+      "agg": [
+        0.1832,
+        0.1806
+      ]
+    },
+    {
+      "cls": "weaving basket",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1929
+      ]
+    },
+    {
+      "cls": "rabbit",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2237
+      ]
+    },
+    {
+      "cls": "dinosaur",
+      "pool": 2,
+      "cert": 1.0,
+      "chal": [
+        2,
+        0
+      ],
+      "agg": [
+        0.2459,
+        0.2459
+      ]
+    },
+    {
+      "cls": "baseball",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.2141
+      ]
+    }
+  ],
+  "configs": {
+    "released": {
+      "up": 0.7811823803662188,
+      "up_skip": 0.9065068785870478,
+      "n": 30
+    },
+    "challenger": {
+      "up": 0.7353921808332835,
+      "up_skip": 0.8257461832362237,
+      "n": 30
+    },
+    "audit": {
+      "up": 0.7346065757296887,
+      "up_skip": 0.8532636734032758,
+      "n": 30
+    },
+    "audit95": {
+      "up": 0.7346065757296887,
+      "up_skip": 0.8532636734032758,
+      "n": 30
+    }
+  }
+}

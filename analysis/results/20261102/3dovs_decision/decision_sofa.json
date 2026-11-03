@@ -1,0 +1,123 @@
+{
+  "scene": "sofa",
+  "classes": [
+    "Pikachu",
+    "a stack of UNO cards",
+    "a red Nintendo Switch joy-con controller",
+    "Gundam",
+    "Xbox wireless controller",
+    "grey sofa"
+  ],
+  "gt_views": [
+    "02",
+    "04",
+    "10",
+    "15",
+    "22"
+  ],
+  "n_witness_views": 28,
+  "per_class": [
+    {
+      "cls": "Pikachu",
+      "pool": 5,
+      "cert": 1.0,
+      "chal": [
+        0,
+        1,
+        2,
+        5,
+        3
+      ],
+      "agg": [
+        0.1819,
+        0.1819,
+        0.2157,
+        -1000000000.0,
+        -1000000000.0
+      ]
+    },
+    {
+      "cls": "a stack of UNO cards",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.157
+      ]
+    },
+    {
+      "cls": "a red Nintendo Switch joy-con controller",
+      "pool": 2,
+      "cert": 0.0,
+      "chal": [
+        1,
+        0
+      ],
+      "agg": [
+        0.1131,
+        0.1493
+      ]
+    },
+    {
+      "cls": "Gundam",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1696
+      ]
+    },
+    {
+      "cls": "Xbox wireless controller",
+      "pool": 1,
+      "cert": 0.0,
+      "chal": [
+        0
+      ],
+      "agg": [
+        0.1903
+      ]
+    },
+    {
+      "cls": "grey sofa",
+      "pool": 3,
+      "cert": 0.0,
+      "chal": [
+        0,
+        1,
+        2
+      ],
+      "agg": [
+        0.1137,
+        0.1137,
+        0.0807
+      ]
+    }
+  ],
+  "configs": {
+    "released": {
+      "up": 0.6674872021132838,
+      "up_skip": 0.7748878230884878,
+      "n": 30
+    },
+    "challenger": {
+      "up": 0.6726819058307336,
+      "up_skip": 0.7809054013864665,
+      "n": 30
+    },
+    "audit": {
+      "up": 0.6726819058307336,
+      "up_skip": 0.7809054013864665,
+      "n": 30
+    },
+    "audit95": {
+      "up": 0.6726819058307336,
+      "up_skip": 0.7809054013864665,
+      "n": 30
+    }
+  }
+}
