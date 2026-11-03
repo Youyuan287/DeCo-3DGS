@@ -80,6 +80,9 @@ def main():
             out[ok] = (sub - sub.mean(0)) / (sub.std(0) + 1e-8)
         return out
     fuse_lab = np.array(cls)[(zR + args.beta * z(mean_s)).argmax(1)]
+    vote_s = votes / np.maximum(votes.sum(1, keepdims=True), 1)
+    zvote_lab = np.array(cls)[(zR + args.beta * z(vote_s)).argmax(1)]
+    zmean_lab = np.array(cls)[(zR + args.beta * z(mean_s)).argmax(1)]
 
     lr, gk = labels_root[keep], gt[keep]
 
@@ -90,7 +93,8 @@ def main():
 
     out = {}
     for tag, lab in [("vote", vote_lab), ("meanE0", mean_lab),
-                     ("releasedZR", rel_lab), ("zR+E0", fuse_lab)]:
+                     ("releasedZR", rel_lab), ("zR+mean", zmean_lab),
+                     ("zR+vote", zvote_lab)]:
         out[tag] = [round(x, 2) for x in ev(lab)]
     # how often vote and mean agree
     both = (cnt >= 1)
