@@ -1,0 +1,44 @@
+{
+  "scannet_part": {
+    "n": 21,
+    "rank1": 0.0,
+    "mean_rank": 6.43,
+    "med_sigma": 0.944,
+    "frac_sigma_lt1": 0.571
+  },
+  "scannet_other": {
+    "n": 63,
+    "rank1": 0.111,
+    "mean_rank": 8.3,
+    "med_sigma": 0.316,
+    "frac_sigma_lt1": 0.698
+  },
+  "lerf_part": {
+    "n": 18,
+    "rank1": 0.222,
+    "mean_rank": 2.33,
+    "med_sigma": 0.854,
+    "frac_sigma_lt1": 0.667
+  },
+  "lerf_other": {
+    "n": 41,
+    "rank1": 0.22,
+    "mean_rank": 3.49,
+    "med_sigma": 0.8,
+    "frac_sigma_lt1": 0.512
+  },
+  "all_part": {
+    "n": 39,
+    "rank1": 0.103,
+    "mean_rank": 4.54,
+    "med_sigma": 0.876,
+    "frac_sigma_lt1": 0.615
+  },
+  "all_other": {
+    "n": 104,
+    "rank1": 0.154,
+    "mean_rank": 6.4,
+    "med_sigma": 0.649,
+    "frac_sigma_lt1": 0.625
+  }
+}

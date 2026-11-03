@@ -1,0 +1,33 @@
+{
+  "scene": "scene0070_00",
+  "n_regions": 183,
+  "frac_impure": 0.3661,
+  "spearman_raw": -0.0505,
+  "p_raw": 0.4972806241879031,
+  "partial_rho_raw": 0.067,
+  "auc_raw": 0.5369,
+  "auc_resid_raw": 0.5019,
+  "q_raw": {
+    "10": 0.915,
+    "50": 0.957,
+    "90": 0.98
+  },
+  "spearman_centred": 0.0063,
+  "p_centred": 0.9325194750290258,
+  "partial_rho_centred": 0.141,
+  "auc_centred": 0.4955,
+  "auc_resid_centred": 0.4572,
+  "q_centred": {
+    "10": 0.539,
+    "50": 0.755,
+    "90": 0.914
+  },
+  "rho_L1L2_centred": -0.1076,
+  "rho_L2L3_centred": 0.0876,
+  "rho_L1L3_centred": 0.0211,
+  "purity_q": {
+    "10": 0.59,
+    "50": 0.96,
+    "90": 1.0
+  }
+}

@@ -1,0 +1,144 @@
+dataset,scene,name,rank,n_names,top1,cos_true,margin_sigma,part_like
+scannet,scene0000_00,wall,6,19,picture,0.1694,0.701,0
+scannet,scene0000_00,wall,1,19,wall,0.2141,1.81,0
+scannet,scene0000_00,wall,2,19,picture,0.195,1.177,0
+scannet,scene0000_00,floor,3,19,wall,0.1909,1.808,0
+scannet,scene0000_00,floor,3,19,wall,0.1831,1.309,0
+scannet,scene0000_00,floor,8,19,wall,0.1793,0.154,0
+scannet,scene0000_00,cabinet,6,19,picture,0.1745,0.656,0
+scannet,scene0000_00,cabinet,6,19,picture,0.1579,0.427,0
+scannet,scene0000_00,cabinet,10,19,picture,0.1715,0.131,0
+scannet,scene0000_00,bed,15,19,wall,0.1327,-0.702,0
+scannet,scene0000_00,bed,16,19,picture,0.133,-0.777,0
+scannet,scene0000_00,bed,15,19,picture,0.1208,-0.714,0
+scannet,scene0000_00,sofa,18,19,picture,0.1184,-1.781,0
+scannet,scene0000_00,sofa,11,19,floor,0.1163,-0.221,0
+scannet,scene0000_00,sofa,12,19,picture,0.1342,-0.338,0
+scannet,scene0000_00,table,13,19,wall,0.1484,-0.417,1
+scannet,scene0000_00,table,12,19,wall,0.1387,-0.675,1
+scannet,scene0000_00,table,14,19,wall,0.151,-0.469,1
+scannet,scene0000_00,door,4,19,wall,0.1782,1.274,1
+scannet,scene0000_00,door,2,19,wall,0.2198,1.283,1
+scannet,scene0000_00,door,2,19,wall,0.2139,1.602,1
+scannet,scene0000_00,counter,3,19,wall,0.1888,1.35,1
+scannet,scene0000_00,counter,5,19,picture,0.189,0.947,1
+scannet,scene0000_00,counter,3,19,picture,0.2042,1.495,1
+scannet,scene0000_00,desk,12,19,wall,0.1569,-0.046,0
+scannet,scene0000_00,desk,12,19,wall,0.1518,-0.313,0
+scannet,scene0000_00,desk,15,19,wall,0.1403,-0.854,0
+scannet,scene0000_00,curtain,13,19,picture,0.1521,-0.447,0
+scannet,scene0000_00,curtain,10,19,picture,0.1747,0.024,0
+scannet,scene0000_00,curtain,10,19,picture,0.1796,0.021,0
+scannet,scene0000_00,refrigerator,10,19,picture,0.1427,-0.037,0
+scannet,scene0000_00,refrigerator,14,19,wall,0.1595,-0.241,0
+scannet,scene0000_00,refrigerator,13,19,picture,0.133,-0.552,0
+scannet,scene0000_00,toilet,6,19,sink,0.1751,0.632,0
+scannet,scene0000_00,toilet,7,19,picture,0.1521,0.293,0
+scannet,scene0000_00,toilet,7,19,wall,0.1622,0.316,0
+scannet,scene0000_00,sink,14,19,picture,0.1292,-0.489,0
+scannet,scene0000_00,sink,2,19,picture,0.188,1.709,0
+scannet,scene0000_00,sink,4,19,picture,0.167,0.737,0
+scannet,scene0347_00,wall,2,19,floor,0.2167,2.096,0
+scannet,scene0347_00,wall,1,19,wall,0.2199,3.123,0
+scannet,scene0347_00,wall,2,19,picture,0.211,1.947,0
+scannet,scene0347_00,floor,3,19,picture,0.1823,1.66,0
+scannet,scene0347_00,floor,4,19,picture,0.1727,0.763,0
+scannet,scene0347_00,floor,5,19,picture,0.177,0.903,0
+scannet,scene0347_00,cabinet,8,19,picture,0.1629,-0.065,0
+scannet,scene0347_00,cabinet,13,19,wall,0.159,-0.402,0
+scannet,scene0347_00,cabinet,14,19,wall,0.1499,-0.55,0
+scannet,scene0347_00,door,8,19,picture,0.1646,0.323,1
+scannet,scene0347_00,door,6,19,picture,0.1567,0.533,1
+scannet,scene0347_00,door,8,19,picture,0.1491,0.255,1
+scannet,scene0347_00,counter,4,19,floor,0.158,1.082,1
+scannet,scene0347_00,counter,4,19,wall,0.1617,1.074,1
+scannet,scene0347_00,counter,4,19,picture,0.1584,0.944,1
+scannet,scene0347_00,refrigerator,18,19,picture,0.13,-1.663,0
+scannet,scene0347_00,refrigerator,18,19,picture,0.119,-1.387,0
+scannet,scene0347_00,refrigerator,18,19,floor,0.1022,-1.38,0
+scannet,scene0347_00,sink,3,19,picture,0.2119,1.366,0
+scannet,scene0347_00,sink,1,19,sink,0.2176,1.338,0
+scannet,scene0347_00,sink,1,19,sink,0.2181,1.396,0
+scannet,scene0070_00,wall,1,19,wall,0.243,3.452,0
+scannet,scene0070_00,wall,1,19,wall,0.2275,2.257,0
+scannet,scene0070_00,wall,1,19,wall,0.2478,3.013,0
+scannet,scene0070_00,floor,3,19,picture,0.2074,1.122,0
+scannet,scene0070_00,floor,4,19,window,0.211,0.84,0
+scannet,scene0070_00,floor,4,19,picture,0.2158,1.148,0
+scannet,scene0070_00,cabinet,6,19,desk,0.2039,0.966,0
+scannet,scene0070_00,cabinet,3,19,bookshelf,0.2083,1.076,0
+scannet,scene0070_00,cabinet,7,19,counter,0.198,0.681,0
+scannet,scene0070_00,bed,17,19,picture,0.118,-1.596,0
+scannet,scene0070_00,bed,16,19,picture,0.1451,-1.134,0
+scannet,scene0070_00,bed,17,19,picture,0.1305,-0.894,0
+scannet,scene0070_00,chair,13,19,wall,0.1225,-0.561,0
+scannet,scene0070_00,chair,13,19,picture,0.1343,-0.454,0
+scannet,scene0070_00,chair,13,19,wall,0.1546,-0.447,0
+scannet,scene0070_00,table,5,19,picture,0.1906,0.655,1
+scannet,scene0070_00,table,15,19,picture,0.1527,-0.631,1
+scannet,scene0070_00,table,11,19,floor,0.1362,-0.212,1
+scannet,scene0070_00,window,4,19,wall,0.2117,1.118,1
+scannet,scene0070_00,window,5,19,picture,0.191,0.941,1
+scannet,scene0070_00,window,3,19,picture,0.1892,1.455,1
+scannet,scene0070_00,curtain,5,19,picture,0.2386,0.817,0
+scannet,scene0070_00,curtain,5,19,picture,0.2308,0.939,0
+scannet,scene0070_00,curtain,2,19,picture,0.2706,2.452,0
+lerf,ramen,chopsticks,2,6,egg,0.1687,0.632,1
+lerf,ramen,egg,2,6,chopsticks,0.1874,0.979,1
+lerf,ramen,glass of water,3,6,yellow bowl,0.2106,0.409,1
+lerf,ramen,pork belly,4,6,yellow bowl,0.1369,-0.682,1
+lerf,ramen,wavy noodles in bowl,2,6,yellow bowl,0.1983,0.876,1
+lerf,ramen,yellow bowl,4,6,egg,0.1763,0.289,0
+lerf,ramen,egg,2,6,chopsticks,0.2171,1.052,1
+lerf,ramen,glass of water,2,6,egg,0.1701,1.109,1
+lerf,ramen,pork belly,4,6,yellow bowl,0.2182,0.386,1
+lerf,ramen,wavy noodles in bowl,3,6,yellow bowl,0.1676,0.293,1
+lerf,ramen,yellow bowl,1,6,yellow bowl,0.2266,2.736,0
+lerf,ramen,chopsticks,2,6,egg,0.2006,0.85,1
+lerf,ramen,egg,1,6,egg,0.2334,2.433,1
+lerf,ramen,glass of water,2,6,egg,0.1817,0.858,1
+lerf,ramen,pork belly,4,6,yellow bowl,0.1632,-0.264,1
+lerf,ramen,wavy noodles in bowl,3,6,yellow bowl,0.1815,0.284,1
+lerf,ramen,yellow bowl,2,6,chopsticks,0.2038,0.687,0
+lerf,teatime,apple,2,10,plate,0.1742,1.225,0
+lerf,teatime,bag of cookies,6,10,cookies on a plate,0.1937,-0.095,0
+lerf,teatime,coffee mug,6,10,spoon handle,0.1491,-0.607,0
+lerf,teatime,cookies on a plate,8,10,apple,0.0944,-1.151,0
+lerf,teatime,paper napkin,3,10,spoon handle,0.1589,0.752,0
+lerf,teatime,plate,3,10,apple,0.1933,1.048,0
+lerf,teatime,sheep,1,10,sheep,0.1729,1.215,0
+lerf,teatime,stuffed bear,1,10,stuffed bear,0.2523,4.42,0
+lerf,teatime,tea in a glass,8,10,spoon handle,0.0736,-1.192,0
+lerf,teatime,apple,2,10,plate,0.201,1.923,0
+lerf,teatime,cookies on a plate,6,10,spoon handle,0.141,-0.497,0
+lerf,teatime,plate,3,10,spoon handle,0.1823,0.641,0
+lerf,teatime,sheep,1,10,sheep,0.1778,1.621,0
+lerf,teatime,tea in a glass,10,10,spoon handle,0.1428,-1.663,0
+lerf,figurines,green apple,3,7,rubber duck with red hat,0.1511,0.339,0
+lerf,figurines,green toy chair,1,7,green toy chair,0.1674,1.811,0
+lerf,figurines,old camera,2,7,green apple,0.1952,1.307,0
+lerf,figurines,porcelain hand,1,7,porcelain hand,0.2161,6.33,1
+lerf,figurines,red apple,3,7,green apple,0.1561,1.049,0
+lerf,figurines,red toy chair,5,7,porcelain hand,0.133,-0.838,0
+lerf,figurines,rubber duck with red hat,7,7,green apple,0.1268,-1.725,0
+lerf,figurines,green apple,4,7,old camera,0.1206,-0.227,0
+lerf,figurines,green toy chair,2,7,red toy chair,0.2382,1.085,0
+lerf,figurines,old camera,2,7,porcelain hand,0.1352,1.102,0
+lerf,figurines,porcelain hand,3,7,rubber duck with red hat,0.1654,0.566,1
+lerf,figurines,red apple,1,7,red apple,0.1602,1.439,0
+lerf,figurines,red toy chair,2,7,rubber duck with red hat,0.1752,1.371,0
+lerf,figurines,rubber duck with red hat,2,7,porcelain hand,0.2004,1.517,0
+lerf,figurines,green apple,1,7,green apple,0.1612,1.85,0
+lerf,figurines,green toy chair,5,7,porcelain hand,0.117,-0.446,0
+lerf,figurines,old camera,1,7,old camera,0.1721,1.836,0
+lerf,figurines,porcelain hand,1,7,porcelain hand,0.1534,1.826,1
+lerf,figurines,red apple,6,7,red toy chair,0.15,-0.49,0
+lerf,figurines,red toy chair,7,7,rubber duck with red hat,0.0839,-1.937,0
+lerf,figurines,rubber duck with red hat,5,7,porcelain hand,0.0828,-0.334,0
+lerf,figurines,green apple,2,7,rubber duck with red hat,0.1508,1.03,0
+lerf,figurines,green toy chair,1,7,green toy chair,0.2089,1.835,0
+lerf,figurines,old camera,2,7,green toy chair,0.1532,1.418,0
+lerf,figurines,porcelain hand,1,7,porcelain hand,0.1584,3.335,1
+lerf,figurines,red apple,2,7,porcelain hand,0.1328,0.8,0
+lerf,figurines,red toy chair,7,7,green apple,0.0914,-2.173,0
+lerf,figurines,rubber duck with red hat,3,7,red apple,0.1576,0.069,0

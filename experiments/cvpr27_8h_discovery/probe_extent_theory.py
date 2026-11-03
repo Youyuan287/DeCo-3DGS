@@ -67,8 +67,7 @@ def zs(x):
     if ok.sum()>1:
         o[ok]=(x[ok]-x[ok].mean())/(x[ok].std()+1e-12)
     return o
-print("
-score+extent combinations (single-candidate macro):")
+print("\nscore+extent combinations (single-candidate macro):")
 for lam in (0.25,0.5,1.0,1.0):
     pass
 for lam in (0.25,0.5,1.0):

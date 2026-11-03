@@ -1,0 +1,2 @@
+scene,mode,gamma,n_units,sec,oracle_miou_10,oracle_miou_19
+scene0000_00,reassign,1.0,367,98.4,0.6188,0.565

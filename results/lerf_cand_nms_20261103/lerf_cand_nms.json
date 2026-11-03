@@ -1,0 +1,52 @@
+{
+  "part": {
+    "n": 20,
+    "mean_iou_kept": 0.5833,
+    "mean_iou_raw": 0.8878,
+    "kept_ge50": 0.55,
+    "raw_ge50": 1.0,
+    "in_raw_only": 9,
+    "in_raw_only_names": [
+      "egg",
+      "pork belly",
+      "wavy noodles in bowl"
+    ]
+  },
+  "other": {
+    "n": 41,
+    "mean_iou_kept": 0.7677,
+    "mean_iou_raw": 0.8996,
+    "kept_ge50": 0.805,
+    "raw_ge50": 1.0,
+    "in_raw_only": 8,
+    "in_raw_only_names": [
+      "apple",
+      "green toy chair",
+      "old camera",
+      "red apple",
+      "red toy chair",
+      "rubber duck with red hat",
+      "spoon handle"
+    ]
+  },
+  "all": {
+    "n": 61,
+    "mean_iou_kept": 0.7073,
+    "mean_iou_raw": 0.8957,
+    "kept_ge50": 0.721,
+    "raw_ge50": 1.0,
+    "in_raw_only": 17,
+    "in_raw_only_names": [
+      "apple",
+      "egg",
+      "green toy chair",
+      "old camera",
+      "pork belly",
+      "red apple",
+      "red toy chair",
+      "rubber duck with red hat",
+      "spoon handle",
+      "wavy noodles in bowl"
+    ]
+  }
+}
