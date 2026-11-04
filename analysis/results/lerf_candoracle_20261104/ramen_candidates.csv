@@ -1,0 +1,4113 @@
+scene,image,prompt,kind,level,index,n_nodes,iou
+ramen,frame_00006,chopsticks,c0,-1,-1,2,0.881632
+ramen,frame_00006,chopsticks,root,3,8,1,0.881632
+ramen,frame_00006,chopsticks,root,3,200,1,0.0
+ramen,frame_00006,chopsticks,root,3,187,1,0.0
+ramen,frame_00006,chopsticks,root,3,66,1,0.0
+ramen,frame_00006,chopsticks,root,3,190,1,0.0
+ramen,frame_00006,chopsticks,hier,3,8,1,0.881632
+ramen,frame_00006,chopsticks,hier,3,200,1,0.0
+ramen,frame_00006,chopsticks,hier,3,187,1,0.0
+ramen,frame_00006,chopsticks,hier,3,66,1,0.0
+ramen,frame_00006,chopsticks,hier,3,190,1,0.0
+ramen,frame_00006,chopsticks,deep,1,16,1,0.362783
+ramen,frame_00006,chopsticks,deep,1,456,1,0.0
+ramen,frame_00006,chopsticks,deep,1,15,1,0.54404
+ramen,frame_00006,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00006,chopsticks,deep,1,336,1,0.003464
+ramen,frame_00006,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00006,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00006,chopsticks,deep,1,638,1,0.00637
+ramen,frame_00006,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00006,chopsticks,deep,2,7,1,0.881632
+ramen,frame_00006,chopsticks,deep,2,374,1,0.0
+ramen,frame_00006,chopsticks,deep,2,373,1,0.0
+ramen,frame_00006,chopsticks,deep,2,312,1,0.0
+ramen,frame_00006,chopsticks,deep,2,251,1,0.0
+ramen,frame_00006,chopsticks,deep,2,78,1,0.0
+ramen,frame_00006,chopsticks,deep,2,9,1,0.010807
+ramen,frame_00006,chopsticks,deep,2,481,1,0.0
+ramen,frame_00006,chopsticks,deep,2,215,1,0.004225
+ramen,frame_00006,chopsticks,deep,2,359,1,0.0
+ramen,frame_00006,chopsticks,deep,3,8,1,0.881632
+ramen,frame_00006,chopsticks,deep,3,200,1,0.0
+ramen,frame_00006,chopsticks,deep,3,187,1,0.0
+ramen,frame_00006,chopsticks,deep,3,66,1,0.0
+ramen,frame_00006,chopsticks,deep,3,190,1,0.0
+ramen,frame_00006,chopsticks,deep,3,106,1,0.0
+ramen,frame_00006,chopsticks,deep,3,156,1,0.0
+ramen,frame_00006,chopsticks,deep,3,213,1,0.0
+ramen,frame_00006,chopsticks,deep,3,186,1,0.0
+ramen,frame_00006,chopsticks,deep,3,43,1,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,3,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,3,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,3,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.881632
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00006,egg,c0,-1,-1,2,0.927648
+ramen,frame_00006,egg,root,3,16,1,0.167886
+ramen,frame_00006,egg,root,3,65,1,0.0
+ramen,frame_00006,egg,root,3,12,1,0.000275
+ramen,frame_00006,egg,root,3,73,1,0.0
+ramen,frame_00006,egg,root,3,92,1,0.0
+ramen,frame_00006,egg,hier,2,47,1,0.345436
+ramen,frame_00006,egg,hier,2,36,1,0.587727
+ramen,frame_00006,egg,hier,2,416,1,0.0
+ramen,frame_00006,egg,hier,3,12,1,0.000275
+ramen,frame_00006,egg,hier,3,73,1,0.0
+ramen,frame_00006,egg,hier,3,92,1,0.0
+ramen,frame_00006,egg,deep,1,123,1,0.340274
+ramen,frame_00006,egg,deep,1,96,1,0.575323
+ramen,frame_00006,egg,deep,1,180,1,0.0
+ramen,frame_00006,egg,deep,1,259,1,0.003428
+ramen,frame_00006,egg,deep,1,548,1,0.0
+ramen,frame_00006,egg,deep,2,47,1,0.345436
+ramen,frame_00006,egg,deep,2,36,1,0.587727
+ramen,frame_00006,egg,deep,2,193,1,0.001141
+ramen,frame_00006,egg,deep,2,66,1,0.005628
+ramen,frame_00006,egg,deep,2,39,1,0.001401
+ramen,frame_00006,egg,deep,2,99,1,0.0
+ramen,frame_00006,egg,deep,2,15,1,0.000276
+ramen,frame_00006,egg,deep,2,109,1,0.0
+ramen,frame_00006,egg,deep,2,37,1,0.0
+ramen,frame_00006,egg,deep,2,69,1,0.0
+ramen,frame_00006,egg,deep,3,16,1,0.167886
+ramen,frame_00006,egg,deep,3,65,1,0.0
+ramen,frame_00006,egg,deep,3,12,1,0.000275
+ramen,frame_00006,egg,deep,3,73,1,0.0
+ramen,frame_00006,egg,deep,3,92,1,0.0
+ramen,frame_00006,egg,deep,3,51,1,0.0
+ramen,frame_00006,egg,deep,3,7,1,0.0
+ramen,frame_00006,egg,deep,3,17,1,0.0
+ramen,frame_00006,egg,deep,3,20,1,0.0
+ramen,frame_00006,egg,deep,3,76,1,0.0
+ramen,frame_00006,egg,combo,-1,-1,2,0.587727
+ramen,frame_00006,egg,combo,-1,-1,2,0.088196
+ramen,frame_00006,egg,combo,-1,-1,2,0.425726
+ramen,frame_00006,egg,combo,-1,-1,2,0.587727
+ramen,frame_00006,egg,combo,-1,-1,2,0.345436
+ramen,frame_00006,egg,combo,-1,-1,2,0.051512
+ramen,frame_00006,egg,combo,-1,-1,2,0.250516
+ramen,frame_00006,egg,combo,-1,-1,2,0.345436
+ramen,frame_00006,egg,combo,-1,-1,3,0.927648
+ramen,frame_00006,egg,combo,-1,-1,3,0.13962
+ramen,frame_00006,egg,combo,-1,-1,3,0.673569
+ramen,frame_00006,egg,combo,-1,-1,3,0.927648
+ramen,frame_00006,egg,combo,-1,-1,2,0.927648
+ramen,frame_00006,egg,combo,-1,-1,2,0.000275
+ramen,frame_00006,egg,combo,-1,-1,2,0.0
+ramen,frame_00006,egg,combo,-1,-1,2,0.0
+ramen,frame_00006,egg,combo,-1,-1,2,0.00026
+ramen,frame_00006,egg,combo,-1,-1,2,0.000275
+ramen,frame_00006,egg,combo,-1,-1,2,0.0
+ramen,frame_00006,nori,c0,-1,-1,3,0.673448
+ramen,frame_00006,nori,root,3,92,1,0.0
+ramen,frame_00006,nori,root,3,5,1,0.819638
+ramen,frame_00006,nori,root,3,16,1,0.000494
+ramen,frame_00006,nori,root,3,141,1,0.0
+ramen,frame_00006,nori,root,3,63,1,0.0
+ramen,frame_00006,nori,hier,3,92,1,0.0
+ramen,frame_00006,nori,hier,2,40,1,0.0
+ramen,frame_00006,nori,hier,3,5,1,0.819638
+ramen,frame_00006,nori,hier,2,316,1,0.0
+ramen,frame_00006,nori,hier,3,63,1,0.0
+ramen,frame_00006,nori,deep,1,8,1,0.391521
+ramen,frame_00006,nori,deep,1,9,1,0.0
+ramen,frame_00006,nori,deep,1,508,1,0.0
+ramen,frame_00006,nori,deep,1,1588,1,0.006767
+ramen,frame_00006,nori,deep,1,10,1,0.027313
+ramen,frame_00006,nori,deep,1,246,1,0.0
+ramen,frame_00006,nori,deep,1,1499,1,0.0
+ramen,frame_00006,nori,deep,2,163,1,0.0
+ramen,frame_00006,nori,deep,2,40,1,0.0
+ramen,frame_00006,nori,deep,2,4,1,0.437792
+ramen,frame_00006,nori,deep,2,10,1,0.513349
+ramen,frame_00006,nori,deep,2,105,1,0.0
+ramen,frame_00006,nori,deep,2,195,1,0.0
+ramen,frame_00006,nori,deep,2,316,1,0.0
+ramen,frame_00006,nori,deep,2,155,1,0.0
+ramen,frame_00006,nori,deep,2,87,1,0.0
+ramen,frame_00006,nori,deep,2,485,1,0.0
+ramen,frame_00006,nori,deep,3,92,1,0.0
+ramen,frame_00006,nori,deep,3,5,1,0.819638
+ramen,frame_00006,nori,deep,3,16,1,0.000494
+ramen,frame_00006,nori,deep,3,141,1,0.0
+ramen,frame_00006,nori,deep,3,63,1,0.0
+ramen,frame_00006,nori,deep,3,8,1,0.0
+ramen,frame_00006,nori,deep,3,17,1,0.0
+ramen,frame_00006,nori,deep,3,42,1,0.0
+ramen,frame_00006,nori,deep,3,179,1,0.0
+ramen,frame_00006,nori,deep,3,91,1,0.0
+ramen,frame_00006,nori,combo,-1,-1,3,0.671019
+ramen,frame_00006,nori,combo,-1,-1,3,0.67078
+ramen,frame_00006,nori,combo,-1,-1,3,0.815572
+ramen,frame_00006,nori,combo,-1,-1,3,0.815219
+ramen,frame_00006,nori,combo,-1,-1,3,5.9e-05
+ramen,frame_00006,nori,combo,-1,-1,3,5.9e-05
+ramen,frame_00006,nori,combo,-1,-1,4,0.670712
+ramen,frame_00006,nori,combo,-1,-1,4,0.670474
+ramen,frame_00006,nori,combo,-1,-1,2,6e-05
+ramen,frame_00006,nori,combo,-1,-1,2,0.81962
+ramen,frame_00006,nori,combo,-1,-1,2,0.0
+ramen,frame_00006,nori,combo,-1,-1,2,0.0
+ramen,frame_00006,nori,combo,-1,-1,2,0.673757
+ramen,frame_00006,nori,combo,-1,-1,2,0.0
+ramen,frame_00006,nori,combo,-1,-1,2,0.0
+ramen,frame_00006,nori,combo,-1,-1,2,0.815588
+ramen,frame_00006,nori,combo,-1,-1,2,0.815236
+ramen,frame_00006,nori,combo,-1,-1,2,0.0
+ramen,frame_00006,bowl,c0,3,44,1,0.0
+ramen,frame_00006,bowl,root,3,44,1,0.0
+ramen,frame_00006,bowl,root,3,65,1,0.089171
+ramen,frame_00006,bowl,root,3,12,1,0.730433
+ramen,frame_00006,bowl,root,3,34,1,0.0
+ramen,frame_00006,bowl,root,3,73,1,0.009271
+ramen,frame_00006,bowl,hier,3,44,1,0.0
+ramen,frame_00006,bowl,hier,3,65,1,0.089171
+ramen,frame_00006,bowl,hier,3,12,1,0.730433
+ramen,frame_00006,bowl,hier,3,34,1,0.0
+ramen,frame_00006,bowl,hier,3,73,1,0.009271
+ramen,frame_00006,bowl,deep,1,161,1,0.0
+ramen,frame_00006,bowl,deep,1,1085,1,0.0
+ramen,frame_00006,bowl,deep,1,378,1,0.0
+ramen,frame_00006,bowl,deep,1,111,1,0.0
+ramen,frame_00006,bowl,deep,1,1165,1,0.0
+ramen,frame_00006,bowl,deep,1,330,1,0.031766
+ramen,frame_00006,bowl,deep,1,51,1,0.708069
+ramen,frame_00006,bowl,deep,1,1241,1,0.0
+ramen,frame_00006,bowl,deep,2,65,1,0.0
+ramen,frame_00006,bowl,deep,2,15,1,0.726646
+ramen,frame_00006,bowl,deep,2,190,1,0.0
+ramen,frame_00006,bowl,deep,2,250,1,0.0
+ramen,frame_00006,bowl,deep,2,114,1,0.089171
+ramen,frame_00006,bowl,deep,2,17,1,0.0
+ramen,frame_00006,bowl,deep,2,314,1,0.0
+ramen,frame_00006,bowl,deep,2,57,1,0.0
+ramen,frame_00006,bowl,deep,2,97,1,0.0
+ramen,frame_00006,bowl,deep,2,192,1,0.0
+ramen,frame_00006,bowl,deep,3,44,1,0.0
+ramen,frame_00006,bowl,deep,3,65,1,0.089171
+ramen,frame_00006,bowl,deep,3,12,1,0.730433
+ramen,frame_00006,bowl,deep,3,34,1,0.0
+ramen,frame_00006,bowl,deep,3,73,1,0.009271
+ramen,frame_00006,bowl,deep,3,14,1,0.0
+ramen,frame_00006,bowl,deep,3,7,1,0.002432
+ramen,frame_00006,bowl,deep,3,51,1,0.000128
+ramen,frame_00006,bowl,deep,3,204,1,0.0
+ramen,frame_00006,bowl,deep,3,77,1,0.0
+ramen,frame_00006,bowl,combo,3,65,1,0.089171
+ramen,frame_00006,bowl,combo,3,12,1,0.730433
+ramen,frame_00006,bowl,combo,3,34,1,0.0
+ramen,frame_00006,bowl,combo,3,73,1,0.009271
+ramen,frame_00006,bowl,combo,-1,-1,2,0.089171
+ramen,frame_00006,bowl,combo,-1,-1,2,0.730433
+ramen,frame_00006,bowl,combo,-1,-1,2,0.0
+ramen,frame_00006,bowl,combo,-1,-1,2,0.009271
+ramen,frame_00006,bowl,combo,-1,-1,2,0.829942
+ramen,frame_00006,bowl,combo,-1,-1,2,0.089171
+ramen,frame_00006,bowl,combo,-1,-1,2,0.097812
+ramen,frame_00006,bowl,combo,-1,-1,2,0.730433
+ramen,frame_00006,bowl,combo,-1,-1,2,0.711737
+ramen,frame_00006,bowl,combo,-1,-1,2,0.009271
+ramen,frame_00006,napkin,c0,2,8,1,0.0
+ramen,frame_00006,napkin,root,3,9,1,0.0
+ramen,frame_00006,napkin,root,3,11,1,0.774444
+ramen,frame_00006,napkin,root,3,23,1,0.0
+ramen,frame_00006,napkin,root,3,36,1,0.0
+ramen,frame_00006,napkin,root,3,145,1,0.0
+ramen,frame_00006,napkin,hier,2,8,1,0.0
+ramen,frame_00006,napkin,hier,2,13,1,0.473591
+ramen,frame_00006,napkin,hier,2,27,1,0.0
+ramen,frame_00006,napkin,hier,2,51,1,0.0
+ramen,frame_00006,napkin,hier,2,50,1,0.0
+ramen,frame_00006,napkin,hier,3,145,1,0.0
+ramen,frame_00006,napkin,deep,1,17,1,0.0
+ramen,frame_00006,napkin,deep,1,801,1,0.0
+ramen,frame_00006,napkin,deep,1,1300,1,0.0
+ramen,frame_00006,napkin,deep,1,1183,1,0.0
+ramen,frame_00006,napkin,deep,1,742,1,0.0
+ramen,frame_00006,napkin,deep,1,1443,1,0.0
+ramen,frame_00006,napkin,deep,1,1157,1,0.0
+ramen,frame_00006,napkin,deep,1,39,1,0.285611
+ramen,frame_00006,napkin,deep,1,113,1,0.136298
+ramen,frame_00006,napkin,deep,1,130,1,0.0
+ramen,frame_00006,napkin,deep,2,8,1,0.0
+ramen,frame_00006,napkin,deep,2,320,1,0.0
+ramen,frame_00006,napkin,deep,2,13,1,0.473591
+ramen,frame_00006,napkin,deep,2,27,1,0.0
+ramen,frame_00006,napkin,deep,2,51,1,0.0
+ramen,frame_00006,napkin,deep,2,50,1,0.0
+ramen,frame_00006,napkin,deep,2,35,1,0.174969
+ramen,frame_00006,napkin,deep,2,102,1,0.0
+ramen,frame_00006,napkin,deep,2,219,1,0.0
+ramen,frame_00006,napkin,deep,2,344,1,0.0
+ramen,frame_00006,napkin,deep,3,9,1,0.0
+ramen,frame_00006,napkin,deep,3,11,1,0.774444
+ramen,frame_00006,napkin,deep,3,23,1,0.0
+ramen,frame_00006,napkin,deep,3,36,1,0.0
+ramen,frame_00006,napkin,deep,3,145,1,0.0
+ramen,frame_00006,napkin,deep,3,193,1,0.0
+ramen,frame_00006,napkin,deep,3,17,1,0.0
+ramen,frame_00006,napkin,deep,3,222,1,0.0
+ramen,frame_00006,napkin,deep,3,31,1,0.0
+ramen,frame_00006,napkin,deep,3,74,1,0.0
+ramen,frame_00006,napkin,combo,2,13,1,0.473591
+ramen,frame_00006,napkin,combo,2,27,1,0.0
+ramen,frame_00006,napkin,combo,2,51,1,0.0
+ramen,frame_00006,napkin,combo,2,50,1,0.0
+ramen,frame_00006,napkin,combo,3,145,1,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.472673
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.034396
+ramen,frame_00006,napkin,combo,-1,-1,2,0.473591
+ramen,frame_00006,napkin,combo,-1,-1,2,0.473591
+ramen,frame_00006,napkin,combo,-1,-1,2,0.473591
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,napkin,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,c0,-1,-1,3,0.0
+ramen,frame_00006,sake cup,root,3,44,1,0.0
+ramen,frame_00006,sake cup,root,3,20,1,0.0
+ramen,frame_00006,sake cup,root,3,24,1,0.0
+ramen,frame_00006,sake cup,root,3,10,1,0.0
+ramen,frame_00006,sake cup,root,3,32,1,0.964087
+ramen,frame_00006,sake cup,hier,3,44,1,0.0
+ramen,frame_00006,sake cup,hier,3,20,1,0.0
+ramen,frame_00006,sake cup,hier,3,24,1,0.0
+ramen,frame_00006,sake cup,hier,3,10,1,0.0
+ramen,frame_00006,sake cup,hier,3,32,1,0.964087
+ramen,frame_00006,sake cup,deep,1,161,1,0.0
+ramen,frame_00006,sake cup,deep,1,378,1,0.0
+ramen,frame_00006,sake cup,deep,1,1085,1,0.0
+ramen,frame_00006,sake cup,deep,1,1165,1,0.0
+ramen,frame_00006,sake cup,deep,1,1179,1,0.0
+ramen,frame_00006,sake cup,deep,1,67,1,0.0
+ramen,frame_00006,sake cup,deep,2,65,1,0.0
+ramen,frame_00006,sake cup,deep,2,24,1,0.0
+ramen,frame_00006,sake cup,deep,2,29,1,0.0
+ramen,frame_00006,sake cup,deep,2,45,1,0.964087
+ramen,frame_00006,sake cup,deep,2,37,1,0.0
+ramen,frame_00006,sake cup,deep,2,314,1,0.0
+ramen,frame_00006,sake cup,deep,2,12,1,0.0
+ramen,frame_00006,sake cup,deep,2,94,1,0.0
+ramen,frame_00006,sake cup,deep,2,328,1,0.0
+ramen,frame_00006,sake cup,deep,2,190,1,0.0
+ramen,frame_00006,sake cup,deep,3,44,1,0.0
+ramen,frame_00006,sake cup,deep,3,20,1,0.0
+ramen,frame_00006,sake cup,deep,3,24,1,0.0
+ramen,frame_00006,sake cup,deep,3,10,1,0.0
+ramen,frame_00006,sake cup,deep,3,32,1,0.964087
+ramen,frame_00006,sake cup,deep,3,34,1,0.0
+ramen,frame_00006,sake cup,deep,3,166,1,0.0
+ramen,frame_00006,sake cup,deep,3,139,1,0.0
+ramen,frame_00006,sake cup,deep,3,65,1,0.0
+ramen,frame_00006,sake cup,deep,3,173,1,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.349577
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.964087
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,3,0.349577
+ramen,frame_00006,sake cup,combo,-1,-1,4,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,4,0.349577
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.964087
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.349577
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.964087
+ramen,frame_00006,sake cup,combo,-1,-1,2,0.922135
+ramen,frame_00006,wavy noodles,c0,-1,-1,2,0.805316
+ramen,frame_00006,wavy noodles,root,3,17,1,0.0
+ramen,frame_00006,wavy noodles,root,3,16,1,0.114945
+ramen,frame_00006,wavy noodles,root,3,65,1,0.0
+ramen,frame_00006,wavy noodles,root,3,73,1,0.0
+ramen,frame_00006,wavy noodles,root,3,91,1,0.0
+ramen,frame_00006,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00006,wavy noodles,hier,2,31,1,0.805316
+ramen,frame_00006,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00006,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00006,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00006,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00006,wavy noodles,deep,1,88,1,0.832993
+ramen,frame_00006,wavy noodles,deep,1,205,1,0.0
+ramen,frame_00006,wavy noodles,deep,1,83,1,0.011113
+ramen,frame_00006,wavy noodles,deep,1,432,1,0.029171
+ramen,frame_00006,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,31,1,0.805316
+ramen,frame_00006,wavy noodles,deep,2,69,1,0.000203
+ramen,frame_00006,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00006,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,16,1,0.114945
+ramen,frame_00006,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00006,wavy noodles,deep,3,12,1,6.6e-05
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.805033
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.54843
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.805316
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,wavy noodles,combo,-1,-1,3,0.805033
+ramen,frame_00006,wavy noodles,combo,-1,-1,3,0.54843
+ramen,frame_00006,wavy noodles,combo,-1,-1,3,0.805316
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.805316
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,c0,2,39,1,0.806338
+ramen,frame_00006,kamaboko,root,3,16,1,0.067789
+ramen,frame_00006,kamaboko,root,3,8,1,0.0
+ramen,frame_00006,kamaboko,root,3,145,1,0.0
+ramen,frame_00006,kamaboko,root,3,11,1,0.0
+ramen,frame_00006,kamaboko,root,3,36,1,0.0
+ramen,frame_00006,kamaboko,hier,2,39,1,0.806338
+ramen,frame_00006,kamaboko,hier,3,8,1,0.0
+ramen,frame_00006,kamaboko,hier,3,145,1,0.0
+ramen,frame_00006,kamaboko,hier,2,118,1,0.0
+ramen,frame_00006,kamaboko,hier,2,51,1,0.0
+ramen,frame_00006,kamaboko,hier,2,50,1,0.0
+ramen,frame_00006,kamaboko,hier,2,414,1,0.0
+ramen,frame_00006,kamaboko,hier,2,215,1,0.0
+ramen,frame_00006,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00006,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00006,kamaboko,deep,1,102,1,0.735294
+ramen,frame_00006,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00006,kamaboko,deep,1,129,1,0.0
+ramen,frame_00006,kamaboko,deep,1,358,1,0.00855
+ramen,frame_00006,kamaboko,deep,1,456,1,0.0
+ramen,frame_00006,kamaboko,deep,1,307,1,0.016592
+ramen,frame_00006,kamaboko,deep,1,16,1,0.0
+ramen,frame_00006,kamaboko,deep,1,15,1,0.0
+ramen,frame_00006,kamaboko,deep,2,39,1,0.806338
+ramen,frame_00006,kamaboko,deep,2,273,1,0.0
+ramen,frame_00006,kamaboko,deep,2,7,1,0.0
+ramen,frame_00006,kamaboko,deep,2,109,1,0.016592
+ramen,frame_00006,kamaboko,deep,2,251,1,0.0
+ramen,frame_00006,kamaboko,deep,2,20,1,0.010396
+ramen,frame_00006,kamaboko,deep,2,8,1,0.0
+ramen,frame_00006,kamaboko,deep,2,193,1,0.004571
+ramen,frame_00006,kamaboko,deep,2,118,1,0.0
+ramen,frame_00006,kamaboko,deep,2,51,1,0.0
+ramen,frame_00006,kamaboko,deep,3,16,1,0.067789
+ramen,frame_00006,kamaboko,deep,3,8,1,0.0
+ramen,frame_00006,kamaboko,deep,3,145,1,0.0
+ramen,frame_00006,kamaboko,deep,3,11,1,0.0
+ramen,frame_00006,kamaboko,deep,3,36,1,0.0
+ramen,frame_00006,kamaboko,deep,3,161,1,0.0
+ramen,frame_00006,kamaboko,deep,3,101,1,0.0
+ramen,frame_00006,kamaboko,deep,3,210,1,0.0
+ramen,frame_00006,kamaboko,deep,3,65,1,0.0
+ramen,frame_00006,kamaboko,deep,3,15,1,0.0
+ramen,frame_00006,kamaboko,combo,3,8,1,0.0
+ramen,frame_00006,kamaboko,combo,3,145,1,0.0
+ramen,frame_00006,kamaboko,combo,2,118,1,0.0
+ramen,frame_00006,kamaboko,combo,2,51,1,0.0
+ramen,frame_00006,kamaboko,combo,2,50,1,0.0
+ramen,frame_00006,kamaboko,combo,2,414,1,0.0
+ramen,frame_00006,kamaboko,combo,2,215,1,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.220702
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.806338
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.689551
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.806338
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.806338
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.766656
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.781837
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00006,plate,c0,-1,-1,4,0.834652
+ramen,frame_00006,plate,root,3,14,1,0.0
+ramen,frame_00006,plate,root,3,7,1,0.779538
+ramen,frame_00006,plate,root,3,126,1,0.0
+ramen,frame_00006,plate,root,3,73,1,0.044045
+ramen,frame_00006,plate,root,3,51,1,0.001789
+ramen,frame_00006,plate,hier,2,17,1,0.0
+ramen,frame_00006,plate,hier,3,7,1,0.779538
+ramen,frame_00006,plate,hier,3,126,1,0.0
+ramen,frame_00006,plate,hier,3,73,1,0.044045
+ramen,frame_00006,plate,hier,3,51,1,0.001789
+ramen,frame_00006,plate,deep,1,1208,1,0.0
+ramen,frame_00006,plate,deep,1,208,1,0.0
+ramen,frame_00006,plate,deep,1,1088,1,0.0
+ramen,frame_00006,plate,deep,1,957,1,0.0
+ramen,frame_00006,plate,deep,1,57,1,0.0
+ramen,frame_00006,plate,deep,1,912,1,0.0
+ramen,frame_00006,plate,deep,1,698,1,0.0
+ramen,frame_00006,plate,deep,1,1429,1,0.0
+ramen,frame_00006,plate,deep,1,22,1,0.201419
+ramen,frame_00006,plate,deep,1,434,1,0.049962
+ramen,frame_00006,plate,deep,2,301,1,0.0
+ramen,frame_00006,plate,deep,2,17,1,0.0
+ramen,frame_00006,plate,deep,2,57,1,0.014998
+ramen,frame_00006,plate,deep,2,318,1,0.0
+ramen,frame_00006,plate,deep,2,6,1,0.750038
+ramen,frame_00006,plate,deep,2,250,1,0.0
+ramen,frame_00006,plate,deep,2,192,1,0.0
+ramen,frame_00006,plate,deep,2,239,1,0.0
+ramen,frame_00006,plate,deep,2,111,1,0.0
+ramen,frame_00006,plate,deep,2,190,1,0.0
+ramen,frame_00006,plate,deep,3,14,1,0.0
+ramen,frame_00006,plate,deep,3,7,1,0.779538
+ramen,frame_00006,plate,deep,3,126,1,0.0
+ramen,frame_00006,plate,deep,3,73,1,0.044045
+ramen,frame_00006,plate,deep,3,51,1,0.001789
+ramen,frame_00006,plate,deep,3,17,1,0.0
+ramen,frame_00006,plate,deep,3,34,1,0.0
+ramen,frame_00006,plate,deep,3,110,1,0.0
+ramen,frame_00006,plate,deep,3,172,1,0.0
+ramen,frame_00006,plate,deep,3,91,1,0.0
+ramen,frame_00006,plate,combo,-1,-1,4,0.817064
+ramen,frame_00006,plate,combo,-1,-1,4,0.044728
+ramen,frame_00006,plate,combo,-1,-1,4,0.817064
+ramen,frame_00006,plate,combo,-1,-1,4,0.763064
+ramen,frame_00006,plate,combo,-1,-1,5,0.817064
+ramen,frame_00006,plate,combo,-1,-1,2,0.779538
+ramen,frame_00006,plate,combo,-1,-1,2,0.0
+ramen,frame_00006,plate,combo,-1,-1,2,0.044045
+ramen,frame_00006,plate,combo,-1,-1,2,0.001789
+ramen,frame_00006,plate,combo,-1,-1,2,0.779538
+ramen,frame_00006,plate,combo,-1,-1,2,0.834652
+ramen,frame_00006,plate,combo,-1,-1,2,0.763064
+ramen,frame_00006,plate,combo,-1,-1,2,0.044045
+ramen,frame_00006,plate,combo,-1,-1,2,0.001789
+ramen,frame_00006,plate,combo,-1,-1,2,0.044728
+ramen,frame_00006,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00006,onion segments,root,3,7,1,0.0
+ramen,frame_00006,onion segments,root,3,190,1,0.0
+ramen,frame_00006,onion segments,root,3,187,1,0.0
+ramen,frame_00006,onion segments,root,3,73,1,0.0
+ramen,frame_00006,onion segments,root,3,109,1,0.0
+ramen,frame_00006,onion segments,hier,2,127,1,0.0
+ramen,frame_00006,onion segments,hier,2,6,1,0.0
+ramen,frame_00006,onion segments,hier,2,192,1,0.0
+ramen,frame_00006,onion segments,hier,3,190,1,0.0
+ramen,frame_00006,onion segments,hier,2,194,1,0.0
+ramen,frame_00006,onion segments,hier,3,187,1,0.0
+ramen,frame_00006,onion segments,hier,3,109,1,0.0
+ramen,frame_00006,onion segments,deep,1,96,1,0.0
+ramen,frame_00006,onion segments,deep,1,259,1,0.0
+ramen,frame_00006,onion segments,deep,1,61,1,8.6e-05
+ramen,frame_00006,onion segments,deep,1,230,1,0.0
+ramen,frame_00006,onion segments,deep,1,104,1,0.0
+ramen,frame_00006,onion segments,deep,1,123,1,0.0
+ramen,frame_00006,onion segments,deep,1,358,1,0.0
+ramen,frame_00006,onion segments,deep,1,432,1,0.0
+ramen,frame_00006,onion segments,deep,1,421,1,0.0
+ramen,frame_00006,onion segments,deep,1,88,1,0.0
+ramen,frame_00006,onion segments,deep,2,36,1,0.0
+ramen,frame_00006,onion segments,deep,2,47,1,0.0
+ramen,frame_00006,onion segments,deep,2,193,1,0.0
+ramen,frame_00006,onion segments,deep,2,20,1,0.000115
+ramen,frame_00006,onion segments,deep,2,31,1,0.0
+ramen,frame_00006,onion segments,deep,2,39,1,0.0
+ramen,frame_00006,onion segments,deep,2,137,1,0.0
+ramen,frame_00006,onion segments,deep,2,87,1,0.00237
+ramen,frame_00006,onion segments,deep,2,38,1,0.0
+ramen,frame_00006,onion segments,deep,2,40,1,0.768317
+ramen,frame_00006,onion segments,deep,3,7,1,0.0
+ramen,frame_00006,onion segments,deep,3,190,1,0.0
+ramen,frame_00006,onion segments,deep,3,187,1,0.0
+ramen,frame_00006,onion segments,deep,3,73,1,0.0
+ramen,frame_00006,onion segments,deep,3,109,1,0.0
+ramen,frame_00006,onion segments,deep,3,76,1,0.0
+ramen,frame_00006,onion segments,deep,3,18,1,0.0
+ramen,frame_00006,onion segments,deep,3,11,1,0.0
+ramen,frame_00006,onion segments,deep,3,110,1,0.0
+ramen,frame_00006,onion segments,deep,3,51,1,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00006,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,c0,3,44,1,0.0
+ramen,frame_00024,bowl,root,3,44,1,0.0
+ramen,frame_00024,bowl,root,3,65,1,0.0
+ramen,frame_00024,bowl,root,3,12,1,0.94473
+ramen,frame_00024,bowl,root,3,34,1,0.0
+ramen,frame_00024,bowl,root,3,73,1,0.0
+ramen,frame_00024,bowl,hier,3,44,1,0.0
+ramen,frame_00024,bowl,hier,3,65,1,0.0
+ramen,frame_00024,bowl,hier,3,12,1,0.94473
+ramen,frame_00024,bowl,hier,3,34,1,0.0
+ramen,frame_00024,bowl,hier,3,73,1,0.0
+ramen,frame_00024,bowl,deep,1,161,1,0.0
+ramen,frame_00024,bowl,deep,1,1085,1,0.0
+ramen,frame_00024,bowl,deep,1,378,1,0.0
+ramen,frame_00024,bowl,deep,1,111,1,0.0
+ramen,frame_00024,bowl,deep,1,1165,1,0.0
+ramen,frame_00024,bowl,deep,1,330,1,0.0
+ramen,frame_00024,bowl,deep,1,51,1,0.940578
+ramen,frame_00024,bowl,deep,1,1241,1,0.0
+ramen,frame_00024,bowl,deep,2,65,1,0.0
+ramen,frame_00024,bowl,deep,2,15,1,0.940136
+ramen,frame_00024,bowl,deep,2,190,1,0.0
+ramen,frame_00024,bowl,deep,2,250,1,0.0
+ramen,frame_00024,bowl,deep,2,114,1,0.0
+ramen,frame_00024,bowl,deep,2,17,1,0.0
+ramen,frame_00024,bowl,deep,2,314,1,0.0
+ramen,frame_00024,bowl,deep,2,57,1,0.0
+ramen,frame_00024,bowl,deep,2,97,1,0.0
+ramen,frame_00024,bowl,deep,2,192,1,0.0
+ramen,frame_00024,bowl,deep,3,44,1,0.0
+ramen,frame_00024,bowl,deep,3,65,1,0.0
+ramen,frame_00024,bowl,deep,3,12,1,0.94473
+ramen,frame_00024,bowl,deep,3,34,1,0.0
+ramen,frame_00024,bowl,deep,3,73,1,0.0
+ramen,frame_00024,bowl,deep,3,14,1,0.0
+ramen,frame_00024,bowl,deep,3,7,1,0.0
+ramen,frame_00024,bowl,deep,3,51,1,0.0
+ramen,frame_00024,bowl,deep,3,204,1,0.0
+ramen,frame_00024,bowl,deep,3,77,1,0.0
+ramen,frame_00024,bowl,combo,3,65,1,0.0
+ramen,frame_00024,bowl,combo,3,12,1,0.94473
+ramen,frame_00024,bowl,combo,3,34,1,0.0
+ramen,frame_00024,bowl,combo,3,73,1,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.94473
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.944754
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,bowl,combo,-1,-1,2,0.94473
+ramen,frame_00024,bowl,combo,-1,-1,2,0.944725
+ramen,frame_00024,bowl,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,c0,-1,-1,2,0.825141
+ramen,frame_00024,chopsticks,root,3,8,1,0.825141
+ramen,frame_00024,chopsticks,root,3,200,1,0.0
+ramen,frame_00024,chopsticks,root,3,187,1,0.0
+ramen,frame_00024,chopsticks,root,3,66,1,0.0
+ramen,frame_00024,chopsticks,root,3,190,1,0.0
+ramen,frame_00024,chopsticks,hier,3,8,1,0.825141
+ramen,frame_00024,chopsticks,hier,3,200,1,0.0
+ramen,frame_00024,chopsticks,hier,3,187,1,0.0
+ramen,frame_00024,chopsticks,hier,3,66,1,0.0
+ramen,frame_00024,chopsticks,hier,3,190,1,0.0
+ramen,frame_00024,chopsticks,deep,1,16,1,0.424131
+ramen,frame_00024,chopsticks,deep,1,456,1,0.0
+ramen,frame_00024,chopsticks,deep,1,15,1,0.487754
+ramen,frame_00024,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00024,chopsticks,deep,1,336,1,0.0
+ramen,frame_00024,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00024,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00024,chopsticks,deep,1,638,1,0.002677
+ramen,frame_00024,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00024,chopsticks,deep,2,7,1,0.825141
+ramen,frame_00024,chopsticks,deep,2,374,1,0.0
+ramen,frame_00024,chopsticks,deep,2,373,1,0.0
+ramen,frame_00024,chopsticks,deep,2,312,1,0.0
+ramen,frame_00024,chopsticks,deep,2,251,1,0.0
+ramen,frame_00024,chopsticks,deep,2,78,1,0.0
+ramen,frame_00024,chopsticks,deep,2,9,1,0.000689
+ramen,frame_00024,chopsticks,deep,2,481,1,0.0
+ramen,frame_00024,chopsticks,deep,2,215,1,0.0
+ramen,frame_00024,chopsticks,deep,2,359,1,0.0
+ramen,frame_00024,chopsticks,deep,3,8,1,0.825141
+ramen,frame_00024,chopsticks,deep,3,200,1,0.0
+ramen,frame_00024,chopsticks,deep,3,187,1,0.0
+ramen,frame_00024,chopsticks,deep,3,66,1,0.0
+ramen,frame_00024,chopsticks,deep,3,190,1,0.0
+ramen,frame_00024,chopsticks,deep,3,106,1,0.0
+ramen,frame_00024,chopsticks,deep,3,156,1,0.0
+ramen,frame_00024,chopsticks,deep,3,213,1,0.0
+ramen,frame_00024,chopsticks,deep,3,186,1,0.0
+ramen,frame_00024,chopsticks,deep,3,43,1,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,3,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,3,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,3,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.825141
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,c0,-1,-1,2,0.921836
+ramen,frame_00024,egg,root,3,16,1,0.141623
+ramen,frame_00024,egg,root,3,65,1,0.0
+ramen,frame_00024,egg,root,3,12,1,0.0
+ramen,frame_00024,egg,root,3,73,1,0.0
+ramen,frame_00024,egg,root,3,92,1,0.0
+ramen,frame_00024,egg,hier,2,47,1,0.45711
+ramen,frame_00024,egg,hier,2,36,1,0.500017
+ramen,frame_00024,egg,hier,2,416,1,0.0
+ramen,frame_00024,egg,hier,3,12,1,0.0
+ramen,frame_00024,egg,hier,3,73,1,0.0
+ramen,frame_00024,egg,hier,3,92,1,0.0
+ramen,frame_00024,egg,deep,1,123,1,0.451216
+ramen,frame_00024,egg,deep,1,96,1,0.512851
+ramen,frame_00024,egg,deep,1,180,1,0.000107
+ramen,frame_00024,egg,deep,1,259,1,0.000284
+ramen,frame_00024,egg,deep,1,548,1,0.0
+ramen,frame_00024,egg,deep,2,47,1,0.45711
+ramen,frame_00024,egg,deep,2,36,1,0.500017
+ramen,frame_00024,egg,deep,2,193,1,0.0
+ramen,frame_00024,egg,deep,2,66,1,0.000168
+ramen,frame_00024,egg,deep,2,39,1,0.0
+ramen,frame_00024,egg,deep,2,99,1,0.0
+ramen,frame_00024,egg,deep,2,15,1,0.0
+ramen,frame_00024,egg,deep,2,109,1,0.0
+ramen,frame_00024,egg,deep,2,37,1,0.0
+ramen,frame_00024,egg,deep,2,69,1,0.0
+ramen,frame_00024,egg,deep,3,16,1,0.141623
+ramen,frame_00024,egg,deep,3,65,1,0.0
+ramen,frame_00024,egg,deep,3,12,1,0.0
+ramen,frame_00024,egg,deep,3,73,1,0.0
+ramen,frame_00024,egg,deep,3,92,1,0.0
+ramen,frame_00024,egg,deep,3,51,1,0.0
+ramen,frame_00024,egg,deep,3,7,1,0.0
+ramen,frame_00024,egg,deep,3,17,1,0.0
+ramen,frame_00024,egg,deep,3,20,1,0.0
+ramen,frame_00024,egg,deep,3,76,1,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.500017
+ramen,frame_00024,egg,combo,-1,-1,2,0.074576
+ramen,frame_00024,egg,combo,-1,-1,2,0.500017
+ramen,frame_00024,egg,combo,-1,-1,2,0.496538
+ramen,frame_00024,egg,combo,-1,-1,2,0.45711
+ramen,frame_00024,egg,combo,-1,-1,2,0.066127
+ramen,frame_00024,egg,combo,-1,-1,2,0.45711
+ramen,frame_00024,egg,combo,-1,-1,2,0.453814
+ramen,frame_00024,egg,combo,-1,-1,3,0.921836
+ramen,frame_00024,egg,combo,-1,-1,3,0.139851
+ramen,frame_00024,egg,combo,-1,-1,3,0.921836
+ramen,frame_00024,egg,combo,-1,-1,3,0.915553
+ramen,frame_00024,egg,combo,-1,-1,2,0.921836
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,egg,combo,-1,-1,2,0.0
+ramen,frame_00024,nori,c0,-1,-1,3,0.816576
+ramen,frame_00024,nori,root,3,92,1,0.001796
+ramen,frame_00024,nori,root,3,5,1,0.976575
+ramen,frame_00024,nori,root,3,16,1,0.00147
+ramen,frame_00024,nori,root,3,141,1,0.0
+ramen,frame_00024,nori,root,3,63,1,0.0
+ramen,frame_00024,nori,hier,3,92,1,0.001796
+ramen,frame_00024,nori,hier,2,40,1,0.000562
+ramen,frame_00024,nori,hier,3,5,1,0.976575
+ramen,frame_00024,nori,hier,2,316,1,0.0
+ramen,frame_00024,nori,hier,3,63,1,0.0
+ramen,frame_00024,nori,deep,1,8,1,0.21891
+ramen,frame_00024,nori,deep,1,9,1,0.054896
+ramen,frame_00024,nori,deep,1,508,1,0.005731
+ramen,frame_00024,nori,deep,1,1588,1,0.000796
+ramen,frame_00024,nori,deep,1,10,1,0.003976
+ramen,frame_00024,nori,deep,1,246,1,0.0
+ramen,frame_00024,nori,deep,1,1499,1,0.0
+ramen,frame_00024,nori,deep,2,163,1,0.001796
+ramen,frame_00024,nori,deep,2,40,1,0.000562
+ramen,frame_00024,nori,deep,2,4,1,0.311162
+ramen,frame_00024,nori,deep,2,10,1,0.670019
+ramen,frame_00024,nori,deep,2,105,1,0.002824
+ramen,frame_00024,nori,deep,2,195,1,0.0
+ramen,frame_00024,nori,deep,2,316,1,0.0
+ramen,frame_00024,nori,deep,2,155,1,0.0
+ramen,frame_00024,nori,deep,2,87,1,0.0
+ramen,frame_00024,nori,deep,2,485,1,0.0
+ramen,frame_00024,nori,deep,3,92,1,0.001796
+ramen,frame_00024,nori,deep,3,5,1,0.976575
+ramen,frame_00024,nori,deep,3,16,1,0.00147
+ramen,frame_00024,nori,deep,3,141,1,0.0
+ramen,frame_00024,nori,deep,3,63,1,0.0
+ramen,frame_00024,nori,deep,3,8,1,0.0
+ramen,frame_00024,nori,deep,3,17,1,0.0
+ramen,frame_00024,nori,deep,3,42,1,0.0
+ramen,frame_00024,nori,deep,3,179,1,0.0
+ramen,frame_00024,nori,deep,3,91,1,0.0
+ramen,frame_00024,nori,combo,-1,-1,3,0.815573
+ramen,frame_00024,nori,combo,-1,-1,3,0.815573
+ramen,frame_00024,nori,combo,-1,-1,3,0.979292
+ramen,frame_00024,nori,combo,-1,-1,3,0.979292
+ramen,frame_00024,nori,combo,-1,-1,3,0.003444
+ramen,frame_00024,nori,combo,-1,-1,3,0.003444
+ramen,frame_00024,nori,combo,-1,-1,4,0.816576
+ramen,frame_00024,nori,combo,-1,-1,4,0.816576
+ramen,frame_00024,nori,combo,-1,-1,2,0.003444
+ramen,frame_00024,nori,combo,-1,-1,2,0.979292
+ramen,frame_00024,nori,combo,-1,-1,2,0.001796
+ramen,frame_00024,nori,combo,-1,-1,2,0.001796
+ramen,frame_00024,nori,combo,-1,-1,2,0.815573
+ramen,frame_00024,nori,combo,-1,-1,2,0.000562
+ramen,frame_00024,nori,combo,-1,-1,2,0.000562
+ramen,frame_00024,nori,combo,-1,-1,2,0.976575
+ramen,frame_00024,nori,combo,-1,-1,2,0.976575
+ramen,frame_00024,nori,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,c0,-1,-1,2,0.81579
+ramen,frame_00024,wavy noodles,root,3,17,1,0.0
+ramen,frame_00024,wavy noodles,root,3,16,1,0.125919
+ramen,frame_00024,wavy noodles,root,3,65,1,0.0
+ramen,frame_00024,wavy noodles,root,3,73,1,0.0
+ramen,frame_00024,wavy noodles,root,3,91,1,0.0
+ramen,frame_00024,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00024,wavy noodles,hier,2,31,1,0.81579
+ramen,frame_00024,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00024,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00024,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00024,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00024,wavy noodles,deep,1,88,1,0.831109
+ramen,frame_00024,wavy noodles,deep,1,205,1,0.010083
+ramen,frame_00024,wavy noodles,deep,1,83,1,0.008228
+ramen,frame_00024,wavy noodles,deep,1,432,1,0.022003
+ramen,frame_00024,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,31,1,0.81579
+ramen,frame_00024,wavy noodles,deep,2,69,1,0.027846
+ramen,frame_00024,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00024,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,16,1,0.125919
+ramen,frame_00024,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00024,wavy noodles,deep,3,12,1,0.001533
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.815678
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.81579
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.81579
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,combo,-1,-1,3,0.815678
+ramen,frame_00024,wavy noodles,combo,-1,-1,3,0.81579
+ramen,frame_00024,wavy noodles,combo,-1,-1,3,0.81579
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.81579
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,c0,2,39,1,0.902414
+ramen,frame_00024,kamaboko,root,3,16,1,0.065338
+ramen,frame_00024,kamaboko,root,3,8,1,0.0
+ramen,frame_00024,kamaboko,root,3,145,1,0.0
+ramen,frame_00024,kamaboko,root,3,11,1,0.0
+ramen,frame_00024,kamaboko,root,3,36,1,0.0
+ramen,frame_00024,kamaboko,hier,2,39,1,0.902414
+ramen,frame_00024,kamaboko,hier,3,8,1,0.0
+ramen,frame_00024,kamaboko,hier,3,145,1,0.0
+ramen,frame_00024,kamaboko,hier,2,118,1,0.0
+ramen,frame_00024,kamaboko,hier,2,51,1,0.0
+ramen,frame_00024,kamaboko,hier,2,50,1,0.0
+ramen,frame_00024,kamaboko,hier,2,414,1,0.0
+ramen,frame_00024,kamaboko,hier,2,215,1,0.0
+ramen,frame_00024,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00024,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00024,kamaboko,deep,1,102,1,0.835182
+ramen,frame_00024,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00024,kamaboko,deep,1,129,1,0.0
+ramen,frame_00024,kamaboko,deep,1,358,1,0.025924
+ramen,frame_00024,kamaboko,deep,1,456,1,0.0
+ramen,frame_00024,kamaboko,deep,1,307,1,0.002511
+ramen,frame_00024,kamaboko,deep,1,16,1,0.0
+ramen,frame_00024,kamaboko,deep,1,15,1,0.0
+ramen,frame_00024,kamaboko,deep,2,39,1,0.902414
+ramen,frame_00024,kamaboko,deep,2,273,1,0.0
+ramen,frame_00024,kamaboko,deep,2,7,1,0.0
+ramen,frame_00024,kamaboko,deep,2,109,1,0.002511
+ramen,frame_00024,kamaboko,deep,2,251,1,0.0
+ramen,frame_00024,kamaboko,deep,2,20,1,0.003438
+ramen,frame_00024,kamaboko,deep,2,8,1,0.0
+ramen,frame_00024,kamaboko,deep,2,193,1,0.001347
+ramen,frame_00024,kamaboko,deep,2,118,1,0.0
+ramen,frame_00024,kamaboko,deep,2,51,1,0.0
+ramen,frame_00024,kamaboko,deep,3,16,1,0.065338
+ramen,frame_00024,kamaboko,deep,3,8,1,0.0
+ramen,frame_00024,kamaboko,deep,3,145,1,0.0
+ramen,frame_00024,kamaboko,deep,3,11,1,0.0
+ramen,frame_00024,kamaboko,deep,3,36,1,0.0
+ramen,frame_00024,kamaboko,deep,3,161,1,0.0
+ramen,frame_00024,kamaboko,deep,3,101,1,0.0
+ramen,frame_00024,kamaboko,deep,3,210,1,0.0
+ramen,frame_00024,kamaboko,deep,3,65,1,0.0
+ramen,frame_00024,kamaboko,deep,3,15,1,0.0
+ramen,frame_00024,kamaboko,combo,3,8,1,0.0
+ramen,frame_00024,kamaboko,combo,3,145,1,0.0
+ramen,frame_00024,kamaboko,combo,2,118,1,0.0
+ramen,frame_00024,kamaboko,combo,2,51,1,0.0
+ramen,frame_00024,kamaboko,combo,2,50,1,0.0
+ramen,frame_00024,kamaboko,combo,2,414,1,0.0
+ramen,frame_00024,kamaboko,combo,2,215,1,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.434804
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.902414
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00024,onion segments,root,3,7,1,0.0
+ramen,frame_00024,onion segments,root,3,190,1,0.0
+ramen,frame_00024,onion segments,root,3,187,1,0.0
+ramen,frame_00024,onion segments,root,3,73,1,0.0
+ramen,frame_00024,onion segments,root,3,109,1,0.0
+ramen,frame_00024,onion segments,hier,2,127,1,0.0
+ramen,frame_00024,onion segments,hier,2,6,1,0.0
+ramen,frame_00024,onion segments,hier,2,192,1,0.0
+ramen,frame_00024,onion segments,hier,3,190,1,0.0
+ramen,frame_00024,onion segments,hier,2,194,1,0.0
+ramen,frame_00024,onion segments,hier,3,187,1,0.0
+ramen,frame_00024,onion segments,hier,3,109,1,0.0
+ramen,frame_00024,onion segments,deep,1,96,1,0.0
+ramen,frame_00024,onion segments,deep,1,259,1,0.0
+ramen,frame_00024,onion segments,deep,1,61,1,0.001868
+ramen,frame_00024,onion segments,deep,1,230,1,0.0
+ramen,frame_00024,onion segments,deep,1,104,1,0.0
+ramen,frame_00024,onion segments,deep,1,123,1,0.0
+ramen,frame_00024,onion segments,deep,1,358,1,0.0
+ramen,frame_00024,onion segments,deep,1,432,1,0.0
+ramen,frame_00024,onion segments,deep,1,421,1,0.0
+ramen,frame_00024,onion segments,deep,1,88,1,0.0
+ramen,frame_00024,onion segments,deep,2,36,1,0.0
+ramen,frame_00024,onion segments,deep,2,47,1,0.0
+ramen,frame_00024,onion segments,deep,2,193,1,0.0
+ramen,frame_00024,onion segments,deep,2,20,1,0.00413
+ramen,frame_00024,onion segments,deep,2,31,1,0.0
+ramen,frame_00024,onion segments,deep,2,39,1,0.0
+ramen,frame_00024,onion segments,deep,2,137,1,0.0
+ramen,frame_00024,onion segments,deep,2,87,1,0.0
+ramen,frame_00024,onion segments,deep,2,38,1,0.0
+ramen,frame_00024,onion segments,deep,2,40,1,0.850433
+ramen,frame_00024,onion segments,deep,3,7,1,0.0
+ramen,frame_00024,onion segments,deep,3,190,1,0.0
+ramen,frame_00024,onion segments,deep,3,187,1,0.0
+ramen,frame_00024,onion segments,deep,3,73,1,0.0
+ramen,frame_00024,onion segments,deep,3,109,1,0.0
+ramen,frame_00024,onion segments,deep,3,76,1,0.0
+ramen,frame_00024,onion segments,deep,3,18,1,0.0
+ramen,frame_00024,onion segments,deep,3,11,1,0.0
+ramen,frame_00024,onion segments,deep,3,110,1,0.0
+ramen,frame_00024,onion segments,deep,3,51,1,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,c0,2,105,1,0.0
+ramen,frame_00024,corn,root,3,190,1,0.0
+ramen,frame_00024,corn,root,3,187,1,0.0
+ramen,frame_00024,corn,root,3,5,1,4.9e-05
+ramen,frame_00024,corn,root,3,63,1,0.0
+ramen,frame_00024,corn,root,3,12,1,0.0
+ramen,frame_00024,corn,hier,2,105,1,0.0
+ramen,frame_00024,corn,hier,2,11,1,0.0
+ramen,frame_00024,corn,hier,3,190,1,0.0
+ramen,frame_00024,corn,hier,2,4,1,0.0
+ramen,frame_00024,corn,hier,3,187,1,0.0
+ramen,frame_00024,corn,hier,2,15,1,0.0
+ramen,frame_00024,corn,hier,2,10,1,7.3e-05
+ramen,frame_00024,corn,hier,3,63,1,0.0
+ramen,frame_00024,corn,deep,1,255,1,0.0
+ramen,frame_00024,corn,deep,1,246,1,0.0
+ramen,frame_00024,corn,deep,1,83,1,0.0
+ramen,frame_00024,corn,deep,1,435,1,0.0
+ramen,frame_00024,corn,deep,1,458,1,0.0
+ramen,frame_00024,corn,deep,1,426,1,0.0
+ramen,frame_00024,corn,deep,1,245,1,0.0
+ramen,frame_00024,corn,deep,1,440,1,0.0
+ramen,frame_00024,corn,deep,2,40,1,0.0
+ramen,frame_00024,corn,deep,2,137,1,0.758094
+ramen,frame_00024,corn,deep,2,53,1,0.012975
+ramen,frame_00024,corn,deep,2,87,1,0.0
+ramen,frame_00024,corn,deep,2,80,1,0.0
+ramen,frame_00024,corn,deep,2,38,1,0.002942
+ramen,frame_00024,corn,deep,2,69,1,0.0
+ramen,frame_00024,corn,deep,2,36,1,0.0
+ramen,frame_00024,corn,deep,2,31,1,0.0
+ramen,frame_00024,corn,deep,2,47,1,0.0
+ramen,frame_00024,corn,deep,3,190,1,0.0
+ramen,frame_00024,corn,deep,3,187,1,0.0
+ramen,frame_00024,corn,deep,3,5,1,4.9e-05
+ramen,frame_00024,corn,deep,3,63,1,0.0
+ramen,frame_00024,corn,deep,3,12,1,0.0
+ramen,frame_00024,corn,deep,3,141,1,0.0
+ramen,frame_00024,corn,deep,3,161,1,0.0
+ramen,frame_00024,corn,deep,3,60,1,0.0
+ramen,frame_00024,corn,deep,3,78,1,0.0
+ramen,frame_00024,corn,deep,3,145,1,0.0
+ramen,frame_00024,corn,combo,2,11,1,0.0
+ramen,frame_00024,corn,combo,3,190,1,0.0
+ramen,frame_00024,corn,combo,2,4,1,0.0
+ramen,frame_00024,corn,combo,3,187,1,0.0
+ramen,frame_00024,corn,combo,2,15,1,0.0
+ramen,frame_00024,corn,combo,2,10,1,7.3e-05
+ramen,frame_00024,corn,combo,3,63,1,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,7.2e-05
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,7.2e-05
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,7.3e-05
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00024,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,c0,-1,-1,2,0.855175
+ramen,frame_00060,chopsticks,root,3,8,1,0.855175
+ramen,frame_00060,chopsticks,root,3,200,1,0.0
+ramen,frame_00060,chopsticks,root,3,187,1,0.0
+ramen,frame_00060,chopsticks,root,3,66,1,0.0
+ramen,frame_00060,chopsticks,root,3,190,1,0.0
+ramen,frame_00060,chopsticks,hier,3,8,1,0.855175
+ramen,frame_00060,chopsticks,hier,3,200,1,0.0
+ramen,frame_00060,chopsticks,hier,3,187,1,0.0
+ramen,frame_00060,chopsticks,hier,3,66,1,0.0
+ramen,frame_00060,chopsticks,hier,3,190,1,0.0
+ramen,frame_00060,chopsticks,deep,1,16,1,0.351504
+ramen,frame_00060,chopsticks,deep,1,456,1,0.0
+ramen,frame_00060,chopsticks,deep,1,15,1,0.561112
+ramen,frame_00060,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00060,chopsticks,deep,1,336,1,0.0
+ramen,frame_00060,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00060,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00060,chopsticks,deep,1,638,1,0.00238
+ramen,frame_00060,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00060,chopsticks,deep,2,7,1,0.855175
+ramen,frame_00060,chopsticks,deep,2,374,1,0.0
+ramen,frame_00060,chopsticks,deep,2,373,1,0.0
+ramen,frame_00060,chopsticks,deep,2,312,1,0.0
+ramen,frame_00060,chopsticks,deep,2,251,1,0.0
+ramen,frame_00060,chopsticks,deep,2,78,1,0.0
+ramen,frame_00060,chopsticks,deep,2,9,1,0.00719
+ramen,frame_00060,chopsticks,deep,2,481,1,0.0
+ramen,frame_00060,chopsticks,deep,2,215,1,0.003469
+ramen,frame_00060,chopsticks,deep,2,359,1,0.0
+ramen,frame_00060,chopsticks,deep,3,8,1,0.855175
+ramen,frame_00060,chopsticks,deep,3,200,1,0.0
+ramen,frame_00060,chopsticks,deep,3,187,1,0.0
+ramen,frame_00060,chopsticks,deep,3,66,1,0.0
+ramen,frame_00060,chopsticks,deep,3,190,1,0.0
+ramen,frame_00060,chopsticks,deep,3,106,1,0.0
+ramen,frame_00060,chopsticks,deep,3,156,1,0.0
+ramen,frame_00060,chopsticks,deep,3,213,1,0.0
+ramen,frame_00060,chopsticks,deep,3,186,1,0.0
+ramen,frame_00060,chopsticks,deep,3,43,1,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,3,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,3,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,3,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.855175
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,c0,-1,-1,2,0.912285
+ramen,frame_00060,egg,root,3,16,1,0.16552
+ramen,frame_00060,egg,root,3,65,1,0.0
+ramen,frame_00060,egg,root,3,12,1,0.0
+ramen,frame_00060,egg,root,3,73,1,0.0
+ramen,frame_00060,egg,root,3,92,1,0.0
+ramen,frame_00060,egg,hier,2,47,1,0.467318
+ramen,frame_00060,egg,hier,2,36,1,0.483761
+ramen,frame_00060,egg,hier,2,416,1,0.0
+ramen,frame_00060,egg,hier,3,12,1,0.0
+ramen,frame_00060,egg,hier,3,73,1,0.0
+ramen,frame_00060,egg,hier,3,92,1,0.0
+ramen,frame_00060,egg,deep,1,123,1,0.464495
+ramen,frame_00060,egg,deep,1,96,1,0.4977
+ramen,frame_00060,egg,deep,1,180,1,0.0005
+ramen,frame_00060,egg,deep,1,259,1,0.000499
+ramen,frame_00060,egg,deep,1,548,1,0.0
+ramen,frame_00060,egg,deep,2,47,1,0.467318
+ramen,frame_00060,egg,deep,2,36,1,0.483761
+ramen,frame_00060,egg,deep,2,193,1,0.00033
+ramen,frame_00060,egg,deep,2,66,1,0.001171
+ramen,frame_00060,egg,deep,2,39,1,0.0
+ramen,frame_00060,egg,deep,2,99,1,0.0
+ramen,frame_00060,egg,deep,2,15,1,0.0
+ramen,frame_00060,egg,deep,2,109,1,0.0
+ramen,frame_00060,egg,deep,2,37,1,0.0
+ramen,frame_00060,egg,deep,2,69,1,0.0
+ramen,frame_00060,egg,deep,3,16,1,0.16552
+ramen,frame_00060,egg,deep,3,65,1,0.0
+ramen,frame_00060,egg,deep,3,12,1,0.0
+ramen,frame_00060,egg,deep,3,73,1,0.0
+ramen,frame_00060,egg,deep,3,92,1,0.0
+ramen,frame_00060,egg,deep,3,51,1,0.0
+ramen,frame_00060,egg,deep,3,7,1,0.0
+ramen,frame_00060,egg,deep,3,17,1,0.0
+ramen,frame_00060,egg,deep,3,20,1,0.0
+ramen,frame_00060,egg,deep,3,76,1,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.483761
+ramen,frame_00060,egg,combo,-1,-1,2,0.092595
+ramen,frame_00060,egg,combo,-1,-1,2,0.483761
+ramen,frame_00060,egg,combo,-1,-1,2,0.481226
+ramen,frame_00060,egg,combo,-1,-1,2,0.467318
+ramen,frame_00060,egg,combo,-1,-1,2,0.087252
+ramen,frame_00060,egg,combo,-1,-1,2,0.467318
+ramen,frame_00060,egg,combo,-1,-1,2,0.464791
+ramen,frame_00060,egg,combo,-1,-1,3,0.912285
+ramen,frame_00060,egg,combo,-1,-1,3,0.178275
+ramen,frame_00060,egg,combo,-1,-1,3,0.912285
+ramen,frame_00060,egg,combo,-1,-1,3,0.907629
+ramen,frame_00060,egg,combo,-1,-1,2,0.912285
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,egg,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,c0,-1,-1,3,0.0
+ramen,frame_00060,sake cup,root,3,44,1,0.0
+ramen,frame_00060,sake cup,root,3,20,1,0.0
+ramen,frame_00060,sake cup,root,3,24,1,0.0
+ramen,frame_00060,sake cup,root,3,10,1,0.0
+ramen,frame_00060,sake cup,root,3,32,1,0.944853
+ramen,frame_00060,sake cup,hier,3,44,1,0.0
+ramen,frame_00060,sake cup,hier,3,20,1,0.0
+ramen,frame_00060,sake cup,hier,3,24,1,0.0
+ramen,frame_00060,sake cup,hier,3,10,1,0.0
+ramen,frame_00060,sake cup,hier,3,32,1,0.944853
+ramen,frame_00060,sake cup,deep,1,161,1,0.0
+ramen,frame_00060,sake cup,deep,1,378,1,0.0
+ramen,frame_00060,sake cup,deep,1,1085,1,0.0
+ramen,frame_00060,sake cup,deep,1,1165,1,0.0
+ramen,frame_00060,sake cup,deep,1,1179,1,0.0
+ramen,frame_00060,sake cup,deep,1,67,1,0.0
+ramen,frame_00060,sake cup,deep,2,65,1,0.0
+ramen,frame_00060,sake cup,deep,2,24,1,0.0
+ramen,frame_00060,sake cup,deep,2,29,1,0.0
+ramen,frame_00060,sake cup,deep,2,45,1,0.944853
+ramen,frame_00060,sake cup,deep,2,37,1,0.0
+ramen,frame_00060,sake cup,deep,2,314,1,0.0
+ramen,frame_00060,sake cup,deep,2,12,1,0.0
+ramen,frame_00060,sake cup,deep,2,94,1,0.0
+ramen,frame_00060,sake cup,deep,2,328,1,0.0
+ramen,frame_00060,sake cup,deep,2,190,1,0.0
+ramen,frame_00060,sake cup,deep,3,44,1,0.0
+ramen,frame_00060,sake cup,deep,3,20,1,0.0
+ramen,frame_00060,sake cup,deep,3,24,1,0.0
+ramen,frame_00060,sake cup,deep,3,10,1,0.0
+ramen,frame_00060,sake cup,deep,3,32,1,0.944853
+ramen,frame_00060,sake cup,deep,3,34,1,0.0
+ramen,frame_00060,sake cup,deep,3,166,1,0.0
+ramen,frame_00060,sake cup,deep,3,139,1,0.0
+ramen,frame_00060,sake cup,deep,3,65,1,0.0
+ramen,frame_00060,sake cup,deep,3,173,1,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,3,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,4,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,4,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.944853
+ramen,frame_00060,sake cup,combo,-1,-1,2,0.944853
+ramen,frame_00060,napkin,c0,2,8,1,0.980999
+ramen,frame_00060,napkin,root,3,9,1,0.976713
+ramen,frame_00060,napkin,root,3,11,1,0.0
+ramen,frame_00060,napkin,root,3,23,1,0.0
+ramen,frame_00060,napkin,root,3,36,1,0.0
+ramen,frame_00060,napkin,root,3,145,1,0.0
+ramen,frame_00060,napkin,hier,2,8,1,0.980999
+ramen,frame_00060,napkin,hier,2,13,1,0.0
+ramen,frame_00060,napkin,hier,2,27,1,0.0
+ramen,frame_00060,napkin,hier,2,51,1,0.0
+ramen,frame_00060,napkin,hier,2,50,1,0.0
+ramen,frame_00060,napkin,hier,3,145,1,0.0
+ramen,frame_00060,napkin,deep,1,17,1,0.76668
+ramen,frame_00060,napkin,deep,1,801,1,0.0
+ramen,frame_00060,napkin,deep,1,1300,1,0.0
+ramen,frame_00060,napkin,deep,1,1183,1,0.006867
+ramen,frame_00060,napkin,deep,1,742,1,0.000346
+ramen,frame_00060,napkin,deep,1,1443,1,0.0
+ramen,frame_00060,napkin,deep,1,1157,1,0.0
+ramen,frame_00060,napkin,deep,1,39,1,0.0
+ramen,frame_00060,napkin,deep,1,113,1,0.0
+ramen,frame_00060,napkin,deep,1,130,1,0.0
+ramen,frame_00060,napkin,deep,2,8,1,0.980999
+ramen,frame_00060,napkin,deep,2,320,1,0.0
+ramen,frame_00060,napkin,deep,2,13,1,0.0
+ramen,frame_00060,napkin,deep,2,27,1,0.0
+ramen,frame_00060,napkin,deep,2,51,1,0.0
+ramen,frame_00060,napkin,deep,2,50,1,0.0
+ramen,frame_00060,napkin,deep,2,35,1,0.0
+ramen,frame_00060,napkin,deep,2,102,1,0.0
+ramen,frame_00060,napkin,deep,2,219,1,0.0
+ramen,frame_00060,napkin,deep,2,344,1,0.0
+ramen,frame_00060,napkin,deep,3,9,1,0.976713
+ramen,frame_00060,napkin,deep,3,11,1,0.0
+ramen,frame_00060,napkin,deep,3,23,1,0.0
+ramen,frame_00060,napkin,deep,3,36,1,0.0
+ramen,frame_00060,napkin,deep,3,145,1,0.0
+ramen,frame_00060,napkin,deep,3,193,1,0.0
+ramen,frame_00060,napkin,deep,3,17,1,0.0
+ramen,frame_00060,napkin,deep,3,222,1,0.0
+ramen,frame_00060,napkin,deep,3,31,1,0.0
+ramen,frame_00060,napkin,deep,3,74,1,0.0
+ramen,frame_00060,napkin,combo,2,13,1,0.0
+ramen,frame_00060,napkin,combo,2,27,1,0.0
+ramen,frame_00060,napkin,combo,2,51,1,0.0
+ramen,frame_00060,napkin,combo,2,50,1,0.0
+ramen,frame_00060,napkin,combo,3,145,1,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.852172
+ramen,frame_00060,napkin,combo,-1,-1,2,0.709506
+ramen,frame_00060,napkin,combo,-1,-1,2,0.980999
+ramen,frame_00060,napkin,combo,-1,-1,2,0.980999
+ramen,frame_00060,napkin,combo,-1,-1,2,0.980999
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,napkin,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,c0,-1,-1,2,0.830028
+ramen,frame_00060,wavy noodles,root,3,17,1,0.0
+ramen,frame_00060,wavy noodles,root,3,16,1,0.12923
+ramen,frame_00060,wavy noodles,root,3,65,1,0.0
+ramen,frame_00060,wavy noodles,root,3,73,1,0.0
+ramen,frame_00060,wavy noodles,root,3,91,1,0.0
+ramen,frame_00060,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00060,wavy noodles,hier,2,31,1,0.830028
+ramen,frame_00060,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00060,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00060,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00060,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00060,wavy noodles,deep,1,88,1,0.840824
+ramen,frame_00060,wavy noodles,deep,1,205,1,0.005383
+ramen,frame_00060,wavy noodles,deep,1,83,1,0.015986
+ramen,frame_00060,wavy noodles,deep,1,432,1,0.023164
+ramen,frame_00060,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,31,1,0.830028
+ramen,frame_00060,wavy noodles,deep,2,69,1,0.000154
+ramen,frame_00060,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00060,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,16,1,0.12923
+ramen,frame_00060,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00060,wavy noodles,deep,3,12,1,0.002445
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.82999
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.830028
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.830028
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,combo,-1,-1,3,0.82999
+ramen,frame_00060,wavy noodles,combo,-1,-1,3,0.830028
+ramen,frame_00060,wavy noodles,combo,-1,-1,3,0.830028
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.830028
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,c0,2,39,1,0.884565
+ramen,frame_00060,kamaboko,root,3,16,1,0.068185
+ramen,frame_00060,kamaboko,root,3,8,1,0.0
+ramen,frame_00060,kamaboko,root,3,145,1,0.0
+ramen,frame_00060,kamaboko,root,3,11,1,0.0
+ramen,frame_00060,kamaboko,root,3,36,1,0.0
+ramen,frame_00060,kamaboko,hier,2,39,1,0.884565
+ramen,frame_00060,kamaboko,hier,3,8,1,0.0
+ramen,frame_00060,kamaboko,hier,3,145,1,0.0
+ramen,frame_00060,kamaboko,hier,2,118,1,0.0
+ramen,frame_00060,kamaboko,hier,2,51,1,0.0
+ramen,frame_00060,kamaboko,hier,2,50,1,0.0
+ramen,frame_00060,kamaboko,hier,2,414,1,0.0
+ramen,frame_00060,kamaboko,hier,2,215,1,0.0
+ramen,frame_00060,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00060,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00060,kamaboko,deep,1,102,1,0.834348
+ramen,frame_00060,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00060,kamaboko,deep,1,129,1,0.0
+ramen,frame_00060,kamaboko,deep,1,358,1,0.025777
+ramen,frame_00060,kamaboko,deep,1,456,1,0.0
+ramen,frame_00060,kamaboko,deep,1,307,1,0.020556
+ramen,frame_00060,kamaboko,deep,1,16,1,0.0
+ramen,frame_00060,kamaboko,deep,1,15,1,0.0
+ramen,frame_00060,kamaboko,deep,2,39,1,0.884565
+ramen,frame_00060,kamaboko,deep,2,273,1,0.0
+ramen,frame_00060,kamaboko,deep,2,7,1,0.0
+ramen,frame_00060,kamaboko,deep,2,109,1,0.020556
+ramen,frame_00060,kamaboko,deep,2,251,1,0.0
+ramen,frame_00060,kamaboko,deep,2,20,1,0.00511
+ramen,frame_00060,kamaboko,deep,2,8,1,0.0
+ramen,frame_00060,kamaboko,deep,2,193,1,9.7e-05
+ramen,frame_00060,kamaboko,deep,2,118,1,0.0
+ramen,frame_00060,kamaboko,deep,2,51,1,0.0
+ramen,frame_00060,kamaboko,deep,3,16,1,0.068185
+ramen,frame_00060,kamaboko,deep,3,8,1,0.0
+ramen,frame_00060,kamaboko,deep,3,145,1,0.0
+ramen,frame_00060,kamaboko,deep,3,11,1,0.0
+ramen,frame_00060,kamaboko,deep,3,36,1,0.0
+ramen,frame_00060,kamaboko,deep,3,161,1,0.0
+ramen,frame_00060,kamaboko,deep,3,101,1,0.0
+ramen,frame_00060,kamaboko,deep,3,210,1,0.0
+ramen,frame_00060,kamaboko,deep,3,65,1,0.0
+ramen,frame_00060,kamaboko,deep,3,15,1,0.0
+ramen,frame_00060,kamaboko,combo,3,8,1,0.0
+ramen,frame_00060,kamaboko,combo,3,145,1,0.0
+ramen,frame_00060,kamaboko,combo,2,118,1,0.0
+ramen,frame_00060,kamaboko,combo,2,51,1,0.0
+ramen,frame_00060,kamaboko,combo,2,50,1,0.0
+ramen,frame_00060,kamaboko,combo,2,414,1,0.0
+ramen,frame_00060,kamaboko,combo,2,215,1,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.363813
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.884565
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.874627
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.884565
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.884565
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.87454
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.868411
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,c0,2,105,1,0.0
+ramen,frame_00060,corn,root,3,190,1,0.0
+ramen,frame_00060,corn,root,3,187,1,0.0
+ramen,frame_00060,corn,root,3,5,1,2.8e-05
+ramen,frame_00060,corn,root,3,63,1,0.0
+ramen,frame_00060,corn,root,3,12,1,0.0
+ramen,frame_00060,corn,hier,2,105,1,0.0
+ramen,frame_00060,corn,hier,2,11,1,0.0
+ramen,frame_00060,corn,hier,3,190,1,0.0
+ramen,frame_00060,corn,hier,2,4,1,0.0
+ramen,frame_00060,corn,hier,3,187,1,0.0
+ramen,frame_00060,corn,hier,2,15,1,0.0
+ramen,frame_00060,corn,hier,2,10,1,2.9e-05
+ramen,frame_00060,corn,hier,3,63,1,0.0
+ramen,frame_00060,corn,deep,1,255,1,0.0
+ramen,frame_00060,corn,deep,1,246,1,0.0
+ramen,frame_00060,corn,deep,1,83,1,0.0
+ramen,frame_00060,corn,deep,1,435,1,0.0
+ramen,frame_00060,corn,deep,1,458,1,0.0
+ramen,frame_00060,corn,deep,1,426,1,0.0
+ramen,frame_00060,corn,deep,1,245,1,0.0
+ramen,frame_00060,corn,deep,1,440,1,0.0
+ramen,frame_00060,corn,deep,2,40,1,0.0
+ramen,frame_00060,corn,deep,2,137,1,0.789345
+ramen,frame_00060,corn,deep,2,53,1,0.006542
+ramen,frame_00060,corn,deep,2,87,1,0.0
+ramen,frame_00060,corn,deep,2,80,1,0.0
+ramen,frame_00060,corn,deep,2,38,1,0.004081
+ramen,frame_00060,corn,deep,2,69,1,0.0
+ramen,frame_00060,corn,deep,2,36,1,0.0
+ramen,frame_00060,corn,deep,2,31,1,0.0
+ramen,frame_00060,corn,deep,2,47,1,0.0
+ramen,frame_00060,corn,deep,3,190,1,0.0
+ramen,frame_00060,corn,deep,3,187,1,0.0
+ramen,frame_00060,corn,deep,3,5,1,2.8e-05
+ramen,frame_00060,corn,deep,3,63,1,0.0
+ramen,frame_00060,corn,deep,3,12,1,0.0
+ramen,frame_00060,corn,deep,3,141,1,0.0
+ramen,frame_00060,corn,deep,3,161,1,0.0
+ramen,frame_00060,corn,deep,3,60,1,0.0
+ramen,frame_00060,corn,deep,3,78,1,0.0
+ramen,frame_00060,corn,deep,3,145,1,0.0
+ramen,frame_00060,corn,combo,2,11,1,0.0
+ramen,frame_00060,corn,combo,3,190,1,0.0
+ramen,frame_00060,corn,combo,2,4,1,0.0
+ramen,frame_00060,corn,combo,3,187,1,0.0
+ramen,frame_00060,corn,combo,2,15,1,0.0
+ramen,frame_00060,corn,combo,2,10,1,2.9e-05
+ramen,frame_00060,corn,combo,3,63,1,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,2.9e-05
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,2.9e-05
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,2.9e-05
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,corn,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00060,onion segments,root,3,7,1,0.0
+ramen,frame_00060,onion segments,root,3,190,1,0.0
+ramen,frame_00060,onion segments,root,3,187,1,0.0
+ramen,frame_00060,onion segments,root,3,73,1,0.0
+ramen,frame_00060,onion segments,root,3,109,1,0.0
+ramen,frame_00060,onion segments,hier,2,127,1,0.0
+ramen,frame_00060,onion segments,hier,2,6,1,0.0
+ramen,frame_00060,onion segments,hier,2,192,1,0.0
+ramen,frame_00060,onion segments,hier,3,190,1,0.0
+ramen,frame_00060,onion segments,hier,2,194,1,0.0
+ramen,frame_00060,onion segments,hier,3,187,1,0.0
+ramen,frame_00060,onion segments,hier,3,109,1,0.0
+ramen,frame_00060,onion segments,deep,1,96,1,0.0
+ramen,frame_00060,onion segments,deep,1,259,1,0.0
+ramen,frame_00060,onion segments,deep,1,61,1,0.001926
+ramen,frame_00060,onion segments,deep,1,230,1,0.001317
+ramen,frame_00060,onion segments,deep,1,104,1,0.0
+ramen,frame_00060,onion segments,deep,1,123,1,0.0
+ramen,frame_00060,onion segments,deep,1,358,1,0.0
+ramen,frame_00060,onion segments,deep,1,432,1,0.0
+ramen,frame_00060,onion segments,deep,1,421,1,0.0
+ramen,frame_00060,onion segments,deep,1,88,1,0.0
+ramen,frame_00060,onion segments,deep,2,36,1,0.0
+ramen,frame_00060,onion segments,deep,2,47,1,0.0
+ramen,frame_00060,onion segments,deep,2,193,1,0.0
+ramen,frame_00060,onion segments,deep,2,20,1,0.004719
+ramen,frame_00060,onion segments,deep,2,31,1,0.0
+ramen,frame_00060,onion segments,deep,2,39,1,0.0
+ramen,frame_00060,onion segments,deep,2,137,1,0.0
+ramen,frame_00060,onion segments,deep,2,87,1,0.0
+ramen,frame_00060,onion segments,deep,2,38,1,0.0
+ramen,frame_00060,onion segments,deep,2,40,1,0.734862
+ramen,frame_00060,onion segments,deep,3,7,1,0.0
+ramen,frame_00060,onion segments,deep,3,190,1,0.0
+ramen,frame_00060,onion segments,deep,3,187,1,0.0
+ramen,frame_00060,onion segments,deep,3,73,1,0.0
+ramen,frame_00060,onion segments,deep,3,109,1,0.0
+ramen,frame_00060,onion segments,deep,3,76,1,0.0
+ramen,frame_00060,onion segments,deep,3,18,1,0.0
+ramen,frame_00060,onion segments,deep,3,11,1,0.0
+ramen,frame_00060,onion segments,deep,3,110,1,0.0
+ramen,frame_00060,onion segments,deep,3,51,1,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00060,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,c0,3,44,1,0.0
+ramen,frame_00065,bowl,root,3,44,1,0.0
+ramen,frame_00065,bowl,root,3,65,1,0.0
+ramen,frame_00065,bowl,root,3,12,1,0.856231
+ramen,frame_00065,bowl,root,3,34,1,0.0
+ramen,frame_00065,bowl,root,3,73,1,0.0
+ramen,frame_00065,bowl,hier,3,44,1,0.0
+ramen,frame_00065,bowl,hier,3,65,1,0.0
+ramen,frame_00065,bowl,hier,3,12,1,0.856231
+ramen,frame_00065,bowl,hier,3,34,1,0.0
+ramen,frame_00065,bowl,hier,3,73,1,0.0
+ramen,frame_00065,bowl,deep,1,161,1,0.0
+ramen,frame_00065,bowl,deep,1,1085,1,0.0
+ramen,frame_00065,bowl,deep,1,378,1,0.0
+ramen,frame_00065,bowl,deep,1,111,1,0.0
+ramen,frame_00065,bowl,deep,1,1165,1,0.0
+ramen,frame_00065,bowl,deep,1,330,1,0.0
+ramen,frame_00065,bowl,deep,1,51,1,0.837041
+ramen,frame_00065,bowl,deep,1,1241,1,0.0
+ramen,frame_00065,bowl,deep,2,65,1,0.0
+ramen,frame_00065,bowl,deep,2,15,1,0.852894
+ramen,frame_00065,bowl,deep,2,190,1,0.0
+ramen,frame_00065,bowl,deep,2,250,1,0.0
+ramen,frame_00065,bowl,deep,2,114,1,0.0
+ramen,frame_00065,bowl,deep,2,17,1,0.0
+ramen,frame_00065,bowl,deep,2,314,1,0.0
+ramen,frame_00065,bowl,deep,2,57,1,0.0
+ramen,frame_00065,bowl,deep,2,97,1,0.0
+ramen,frame_00065,bowl,deep,2,192,1,0.0
+ramen,frame_00065,bowl,deep,3,44,1,0.0
+ramen,frame_00065,bowl,deep,3,65,1,0.0
+ramen,frame_00065,bowl,deep,3,12,1,0.856231
+ramen,frame_00065,bowl,deep,3,34,1,0.0
+ramen,frame_00065,bowl,deep,3,73,1,0.0
+ramen,frame_00065,bowl,deep,3,14,1,0.0
+ramen,frame_00065,bowl,deep,3,7,1,0.000694
+ramen,frame_00065,bowl,deep,3,51,1,0.0
+ramen,frame_00065,bowl,deep,3,204,1,0.0
+ramen,frame_00065,bowl,deep,3,77,1,0.0
+ramen,frame_00065,bowl,combo,3,65,1,0.0
+ramen,frame_00065,bowl,combo,3,12,1,0.856231
+ramen,frame_00065,bowl,combo,3,34,1,0.0
+ramen,frame_00065,bowl,combo,3,73,1,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.856231
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.85625
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,bowl,combo,-1,-1,2,0.856231
+ramen,frame_00065,bowl,combo,-1,-1,2,0.855953
+ramen,frame_00065,bowl,combo,-1,-1,2,0.0
+ramen,frame_00065,egg,c0,-1,-1,2,0.939437
+ramen,frame_00065,egg,root,3,16,1,0.146752
+ramen,frame_00065,egg,root,3,65,1,0.0
+ramen,frame_00065,egg,root,3,12,1,0.000357
+ramen,frame_00065,egg,root,3,73,1,0.0
+ramen,frame_00065,egg,root,3,92,1,0.0
+ramen,frame_00065,egg,hier,2,47,1,0.377997
+ramen,frame_00065,egg,hier,2,36,1,0.583467
+ramen,frame_00065,egg,hier,2,416,1,0.0
+ramen,frame_00065,egg,hier,3,12,1,0.000357
+ramen,frame_00065,egg,hier,3,73,1,0.0
+ramen,frame_00065,egg,hier,3,92,1,0.0
+ramen,frame_00065,egg,deep,1,123,1,0.374592
+ramen,frame_00065,egg,deep,1,96,1,0.580727
+ramen,frame_00065,egg,deep,1,180,1,0.0
+ramen,frame_00065,egg,deep,1,259,1,0.000745
+ramen,frame_00065,egg,deep,1,548,1,0.0
+ramen,frame_00065,egg,deep,2,47,1,0.377997
+ramen,frame_00065,egg,deep,2,36,1,0.583467
+ramen,frame_00065,egg,deep,2,193,1,0.001043
+ramen,frame_00065,egg,deep,2,66,1,0.0
+ramen,frame_00065,egg,deep,2,39,1,0.000161
+ramen,frame_00065,egg,deep,2,99,1,0.0
+ramen,frame_00065,egg,deep,2,15,1,0.000359
+ramen,frame_00065,egg,deep,2,109,1,0.0
+ramen,frame_00065,egg,deep,2,37,1,0.0
+ramen,frame_00065,egg,deep,2,69,1,0.0
+ramen,frame_00065,egg,deep,3,16,1,0.146752
+ramen,frame_00065,egg,deep,3,65,1,0.0
+ramen,frame_00065,egg,deep,3,12,1,0.000357
+ramen,frame_00065,egg,deep,3,73,1,0.0
+ramen,frame_00065,egg,deep,3,92,1,0.0
+ramen,frame_00065,egg,deep,3,51,1,0.0
+ramen,frame_00065,egg,deep,3,7,1,0.0
+ramen,frame_00065,egg,deep,3,17,1,0.0
+ramen,frame_00065,egg,deep,3,20,1,0.0
+ramen,frame_00065,egg,deep,3,76,1,0.0
+ramen,frame_00065,egg,combo,-1,-1,2,0.583467
+ramen,frame_00065,egg,combo,-1,-1,2,0.091678
+ramen,frame_00065,egg,combo,-1,-1,2,0.583467
+ramen,frame_00065,egg,combo,-1,-1,2,0.580453
+ramen,frame_00065,egg,combo,-1,-1,2,0.377969
+ramen,frame_00065,egg,combo,-1,-1,2,0.059522
+ramen,frame_00065,egg,combo,-1,-1,2,0.377997
+ramen,frame_00065,egg,combo,-1,-1,2,0.376033
+ramen,frame_00065,egg,combo,-1,-1,3,0.939437
+ramen,frame_00065,egg,combo,-1,-1,3,0.150194
+ramen,frame_00065,egg,combo,-1,-1,3,0.939437
+ramen,frame_00065,egg,combo,-1,-1,3,0.934687
+ramen,frame_00065,egg,combo,-1,-1,2,0.939437
+ramen,frame_00065,egg,combo,-1,-1,2,0.000357
+ramen,frame_00065,egg,combo,-1,-1,2,0.0
+ramen,frame_00065,egg,combo,-1,-1,2,0.0
+ramen,frame_00065,egg,combo,-1,-1,2,0.000357
+ramen,frame_00065,egg,combo,-1,-1,2,0.000356
+ramen,frame_00065,egg,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,c0,-1,-1,2,0.890083
+ramen,frame_00065,chopsticks,root,3,8,1,0.890083
+ramen,frame_00065,chopsticks,root,3,200,1,0.0
+ramen,frame_00065,chopsticks,root,3,187,1,0.0
+ramen,frame_00065,chopsticks,root,3,66,1,0.0
+ramen,frame_00065,chopsticks,root,3,190,1,0.0
+ramen,frame_00065,chopsticks,hier,3,8,1,0.890083
+ramen,frame_00065,chopsticks,hier,3,200,1,0.0
+ramen,frame_00065,chopsticks,hier,3,187,1,0.0
+ramen,frame_00065,chopsticks,hier,3,66,1,0.0
+ramen,frame_00065,chopsticks,hier,3,190,1,0.0
+ramen,frame_00065,chopsticks,deep,1,16,1,0.337678
+ramen,frame_00065,chopsticks,deep,1,456,1,0.0
+ramen,frame_00065,chopsticks,deep,1,15,1,0.57867
+ramen,frame_00065,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00065,chopsticks,deep,1,336,1,0.008727
+ramen,frame_00065,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00065,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00065,chopsticks,deep,1,638,1,0.0
+ramen,frame_00065,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00065,chopsticks,deep,2,7,1,0.890083
+ramen,frame_00065,chopsticks,deep,2,374,1,0.0
+ramen,frame_00065,chopsticks,deep,2,373,1,0.0
+ramen,frame_00065,chopsticks,deep,2,312,1,0.0
+ramen,frame_00065,chopsticks,deep,2,251,1,0.0
+ramen,frame_00065,chopsticks,deep,2,78,1,0.0
+ramen,frame_00065,chopsticks,deep,2,9,1,0.000567
+ramen,frame_00065,chopsticks,deep,2,481,1,0.0
+ramen,frame_00065,chopsticks,deep,2,215,1,0.000513
+ramen,frame_00065,chopsticks,deep,2,359,1,0.0
+ramen,frame_00065,chopsticks,deep,3,8,1,0.890083
+ramen,frame_00065,chopsticks,deep,3,200,1,0.0
+ramen,frame_00065,chopsticks,deep,3,187,1,0.0
+ramen,frame_00065,chopsticks,deep,3,66,1,0.0
+ramen,frame_00065,chopsticks,deep,3,190,1,0.0
+ramen,frame_00065,chopsticks,deep,3,106,1,0.0
+ramen,frame_00065,chopsticks,deep,3,156,1,0.0
+ramen,frame_00065,chopsticks,deep,3,213,1,0.0
+ramen,frame_00065,chopsticks,deep,3,186,1,0.0
+ramen,frame_00065,chopsticks,deep,3,43,1,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,3,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,3,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,3,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.890083
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,c0,-1,-1,3,0.0
+ramen,frame_00065,sake cup,root,3,44,1,0.0
+ramen,frame_00065,sake cup,root,3,20,1,0.0
+ramen,frame_00065,sake cup,root,3,24,1,0.0
+ramen,frame_00065,sake cup,root,3,10,1,0.0
+ramen,frame_00065,sake cup,root,3,32,1,0.958238
+ramen,frame_00065,sake cup,hier,3,44,1,0.0
+ramen,frame_00065,sake cup,hier,3,20,1,0.0
+ramen,frame_00065,sake cup,hier,3,24,1,0.0
+ramen,frame_00065,sake cup,hier,3,10,1,0.0
+ramen,frame_00065,sake cup,hier,3,32,1,0.958238
+ramen,frame_00065,sake cup,deep,1,161,1,0.0
+ramen,frame_00065,sake cup,deep,1,378,1,0.0
+ramen,frame_00065,sake cup,deep,1,1085,1,0.0
+ramen,frame_00065,sake cup,deep,1,1165,1,0.0
+ramen,frame_00065,sake cup,deep,1,1179,1,0.0
+ramen,frame_00065,sake cup,deep,1,67,1,0.0
+ramen,frame_00065,sake cup,deep,2,65,1,0.0
+ramen,frame_00065,sake cup,deep,2,24,1,0.0
+ramen,frame_00065,sake cup,deep,2,29,1,0.0
+ramen,frame_00065,sake cup,deep,2,45,1,0.958238
+ramen,frame_00065,sake cup,deep,2,37,1,0.0
+ramen,frame_00065,sake cup,deep,2,314,1,0.0
+ramen,frame_00065,sake cup,deep,2,12,1,0.0
+ramen,frame_00065,sake cup,deep,2,94,1,0.0
+ramen,frame_00065,sake cup,deep,2,328,1,0.0
+ramen,frame_00065,sake cup,deep,2,190,1,0.0
+ramen,frame_00065,sake cup,deep,3,44,1,0.0
+ramen,frame_00065,sake cup,deep,3,20,1,0.0
+ramen,frame_00065,sake cup,deep,3,24,1,0.0
+ramen,frame_00065,sake cup,deep,3,10,1,0.0
+ramen,frame_00065,sake cup,deep,3,32,1,0.958238
+ramen,frame_00065,sake cup,deep,3,34,1,0.0
+ramen,frame_00065,sake cup,deep,3,166,1,0.0
+ramen,frame_00065,sake cup,deep,3,139,1,0.0
+ramen,frame_00065,sake cup,deep,3,65,1,0.0
+ramen,frame_00065,sake cup,deep,3,173,1,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.290769
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.958238
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,3,0.290769
+ramen,frame_00065,sake cup,combo,-1,-1,4,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,4,0.290769
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.958238
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.290769
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.958238
+ramen,frame_00065,sake cup,combo,-1,-1,2,0.958238
+ramen,frame_00065,wavy noodles,c0,-1,-1,2,0.830589
+ramen,frame_00065,wavy noodles,root,3,17,1,0.0
+ramen,frame_00065,wavy noodles,root,3,16,1,0.106671
+ramen,frame_00065,wavy noodles,root,3,65,1,0.0
+ramen,frame_00065,wavy noodles,root,3,73,1,0.0
+ramen,frame_00065,wavy noodles,root,3,91,1,0.0
+ramen,frame_00065,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00065,wavy noodles,hier,2,31,1,0.830589
+ramen,frame_00065,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00065,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00065,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00065,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00065,wavy noodles,deep,1,88,1,0.819386
+ramen,frame_00065,wavy noodles,deep,1,205,1,0.000512
+ramen,frame_00065,wavy noodles,deep,1,83,1,0.028528
+ramen,frame_00065,wavy noodles,deep,1,432,1,0.025578
+ramen,frame_00065,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,31,1,0.830589
+ramen,frame_00065,wavy noodles,deep,2,69,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00065,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,16,1,0.106671
+ramen,frame_00065,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00065,wavy noodles,deep,3,12,1,0.000552
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,wavy noodles,combo,-1,-1,3,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,3,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,3,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.830589
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00065,nori,c0,-1,-1,3,0.571718
+ramen,frame_00065,nori,root,3,92,1,0.001554
+ramen,frame_00065,nori,root,3,5,1,0.801579
+ramen,frame_00065,nori,root,3,16,1,0.000539
+ramen,frame_00065,nori,root,3,141,1,0.0
+ramen,frame_00065,nori,root,3,63,1,0.0
+ramen,frame_00065,nori,hier,3,92,1,0.001554
+ramen,frame_00065,nori,hier,2,40,1,0.000953
+ramen,frame_00065,nori,hier,3,5,1,0.801579
+ramen,frame_00065,nori,hier,2,316,1,0.0
+ramen,frame_00065,nori,hier,3,63,1,0.0
+ramen,frame_00065,nori,deep,1,8,1,0.160855
+ramen,frame_00065,nori,deep,1,9,1,0.027556
+ramen,frame_00065,nori,deep,1,508,1,0.042979
+ramen,frame_00065,nori,deep,1,1588,1,0.006136
+ramen,frame_00065,nori,deep,1,10,1,0.016315
+ramen,frame_00065,nori,deep,1,246,1,0.0
+ramen,frame_00065,nori,deep,1,1499,1,0.0
+ramen,frame_00065,nori,deep,2,163,1,0.001554
+ramen,frame_00065,nori,deep,2,40,1,0.000953
+ramen,frame_00065,nori,deep,2,4,1,0.281686
+ramen,frame_00065,nori,deep,2,10,1,0.654329
+ramen,frame_00065,nori,deep,2,105,1,0.000843
+ramen,frame_00065,nori,deep,2,195,1,0.0
+ramen,frame_00065,nori,deep,2,316,1,0.0
+ramen,frame_00065,nori,deep,2,155,1,0.0
+ramen,frame_00065,nori,deep,2,87,1,0.0
+ramen,frame_00065,nori,deep,2,485,1,0.0
+ramen,frame_00065,nori,deep,3,92,1,0.001554
+ramen,frame_00065,nori,deep,3,5,1,0.801579
+ramen,frame_00065,nori,deep,3,16,1,0.000539
+ramen,frame_00065,nori,deep,3,141,1,0.0
+ramen,frame_00065,nori,deep,3,63,1,0.0
+ramen,frame_00065,nori,deep,3,8,1,0.0
+ramen,frame_00065,nori,deep,3,17,1,0.0
+ramen,frame_00065,nori,deep,3,42,1,0.0
+ramen,frame_00065,nori,deep,3,179,1,0.0
+ramen,frame_00065,nori,deep,3,91,1,0.0
+ramen,frame_00065,nori,combo,-1,-1,3,0.572672
+ramen,frame_00065,nori,combo,-1,-1,3,0.572672
+ramen,frame_00065,nori,combo,-1,-1,3,0.802344
+ramen,frame_00065,nori,combo,-1,-1,3,0.802344
+ramen,frame_00065,nori,combo,-1,-1,3,0.004145
+ramen,frame_00065,nori,combo,-1,-1,3,0.004145
+ramen,frame_00065,nori,combo,-1,-1,4,0.571718
+ramen,frame_00065,nori,combo,-1,-1,4,0.571718
+ramen,frame_00065,nori,combo,-1,-1,2,0.004145
+ramen,frame_00065,nori,combo,-1,-1,2,0.802344
+ramen,frame_00065,nori,combo,-1,-1,2,0.001554
+ramen,frame_00065,nori,combo,-1,-1,2,0.001554
+ramen,frame_00065,nori,combo,-1,-1,2,0.572672
+ramen,frame_00065,nori,combo,-1,-1,2,0.000953
+ramen,frame_00065,nori,combo,-1,-1,2,0.000953
+ramen,frame_00065,nori,combo,-1,-1,2,0.801579
+ramen,frame_00065,nori,combo,-1,-1,2,0.801579
+ramen,frame_00065,nori,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,c0,2,8,1,0.0
+ramen,frame_00065,napkin,root,3,9,1,0.0
+ramen,frame_00065,napkin,root,3,11,1,0.829555
+ramen,frame_00065,napkin,root,3,23,1,0.0
+ramen,frame_00065,napkin,root,3,36,1,0.0
+ramen,frame_00065,napkin,root,3,145,1,0.0
+ramen,frame_00065,napkin,hier,2,8,1,0.0
+ramen,frame_00065,napkin,hier,2,13,1,0.578611
+ramen,frame_00065,napkin,hier,2,27,1,0.0
+ramen,frame_00065,napkin,hier,2,51,1,0.0
+ramen,frame_00065,napkin,hier,2,50,1,0.0
+ramen,frame_00065,napkin,hier,3,145,1,0.0
+ramen,frame_00065,napkin,deep,1,17,1,0.0
+ramen,frame_00065,napkin,deep,1,801,1,0.0
+ramen,frame_00065,napkin,deep,1,1300,1,0.0
+ramen,frame_00065,napkin,deep,1,1183,1,0.0
+ramen,frame_00065,napkin,deep,1,742,1,0.0
+ramen,frame_00065,napkin,deep,1,1443,1,0.0
+ramen,frame_00065,napkin,deep,1,1157,1,0.0
+ramen,frame_00065,napkin,deep,1,39,1,0.321871
+ramen,frame_00065,napkin,deep,1,113,1,0.183957
+ramen,frame_00065,napkin,deep,1,130,1,0.0
+ramen,frame_00065,napkin,deep,2,8,1,0.0
+ramen,frame_00065,napkin,deep,2,320,1,0.0
+ramen,frame_00065,napkin,deep,2,13,1,0.578611
+ramen,frame_00065,napkin,deep,2,27,1,0.0
+ramen,frame_00065,napkin,deep,2,51,1,0.0
+ramen,frame_00065,napkin,deep,2,50,1,0.0
+ramen,frame_00065,napkin,deep,2,35,1,0.124611
+ramen,frame_00065,napkin,deep,2,102,1,0.0
+ramen,frame_00065,napkin,deep,2,219,1,0.0
+ramen,frame_00065,napkin,deep,2,344,1,0.0
+ramen,frame_00065,napkin,deep,3,9,1,0.0
+ramen,frame_00065,napkin,deep,3,11,1,0.829555
+ramen,frame_00065,napkin,deep,3,23,1,0.0
+ramen,frame_00065,napkin,deep,3,36,1,0.0
+ramen,frame_00065,napkin,deep,3,145,1,0.0
+ramen,frame_00065,napkin,deep,3,193,1,0.0
+ramen,frame_00065,napkin,deep,3,17,1,0.0
+ramen,frame_00065,napkin,deep,3,222,1,0.0
+ramen,frame_00065,napkin,deep,3,31,1,0.0
+ramen,frame_00065,napkin,deep,3,74,1,0.0
+ramen,frame_00065,napkin,combo,2,13,1,0.578611
+ramen,frame_00065,napkin,combo,2,27,1,0.0
+ramen,frame_00065,napkin,combo,2,51,1,0.0
+ramen,frame_00065,napkin,combo,2,50,1,0.0
+ramen,frame_00065,napkin,combo,3,145,1,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.263128
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0293
+ramen,frame_00065,napkin,combo,-1,-1,2,0.578611
+ramen,frame_00065,napkin,combo,-1,-1,2,0.578611
+ramen,frame_00065,napkin,combo,-1,-1,2,0.578611
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,napkin,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,c0,2,39,1,0.904151
+ramen,frame_00065,kamaboko,root,3,16,1,0.060777
+ramen,frame_00065,kamaboko,root,3,8,1,0.0
+ramen,frame_00065,kamaboko,root,3,145,1,0.0
+ramen,frame_00065,kamaboko,root,3,11,1,0.0
+ramen,frame_00065,kamaboko,root,3,36,1,0.0
+ramen,frame_00065,kamaboko,hier,2,39,1,0.904151
+ramen,frame_00065,kamaboko,hier,3,8,1,0.0
+ramen,frame_00065,kamaboko,hier,3,145,1,0.0
+ramen,frame_00065,kamaboko,hier,2,118,1,0.0
+ramen,frame_00065,kamaboko,hier,2,51,1,0.0
+ramen,frame_00065,kamaboko,hier,2,50,1,0.0
+ramen,frame_00065,kamaboko,hier,2,414,1,0.0
+ramen,frame_00065,kamaboko,hier,2,215,1,0.0
+ramen,frame_00065,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00065,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00065,kamaboko,deep,1,102,1,0.86345
+ramen,frame_00065,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00065,kamaboko,deep,1,129,1,0.0
+ramen,frame_00065,kamaboko,deep,1,358,1,0.0087
+ramen,frame_00065,kamaboko,deep,1,456,1,0.0
+ramen,frame_00065,kamaboko,deep,1,307,1,0.005084
+ramen,frame_00065,kamaboko,deep,1,16,1,0.0
+ramen,frame_00065,kamaboko,deep,1,15,1,0.0
+ramen,frame_00065,kamaboko,deep,2,39,1,0.904151
+ramen,frame_00065,kamaboko,deep,2,273,1,0.0
+ramen,frame_00065,kamaboko,deep,2,7,1,0.0
+ramen,frame_00065,kamaboko,deep,2,109,1,0.005084
+ramen,frame_00065,kamaboko,deep,2,251,1,0.0
+ramen,frame_00065,kamaboko,deep,2,20,1,0.003424
+ramen,frame_00065,kamaboko,deep,2,8,1,0.0
+ramen,frame_00065,kamaboko,deep,2,193,1,0.0
+ramen,frame_00065,kamaboko,deep,2,118,1,0.0
+ramen,frame_00065,kamaboko,deep,2,51,1,0.0
+ramen,frame_00065,kamaboko,deep,3,16,1,0.060777
+ramen,frame_00065,kamaboko,deep,3,8,1,0.0
+ramen,frame_00065,kamaboko,deep,3,145,1,0.0
+ramen,frame_00065,kamaboko,deep,3,11,1,0.0
+ramen,frame_00065,kamaboko,deep,3,36,1,0.0
+ramen,frame_00065,kamaboko,deep,3,161,1,0.0
+ramen,frame_00065,kamaboko,deep,3,101,1,0.0
+ramen,frame_00065,kamaboko,deep,3,210,1,0.0
+ramen,frame_00065,kamaboko,deep,3,65,1,0.0
+ramen,frame_00065,kamaboko,deep,3,15,1,0.0
+ramen,frame_00065,kamaboko,combo,3,8,1,0.0
+ramen,frame_00065,kamaboko,combo,3,145,1,0.0
+ramen,frame_00065,kamaboko,combo,2,118,1,0.0
+ramen,frame_00065,kamaboko,combo,2,51,1,0.0
+ramen,frame_00065,kamaboko,combo,2,50,1,0.0
+ramen,frame_00065,kamaboko,combo,2,414,1,0.0
+ramen,frame_00065,kamaboko,combo,2,215,1,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.435826
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.904151
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.824803
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.904151
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.904151
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.879104
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.87566
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,c0,-1,-1,4,0.92993
+ramen,frame_00065,plate,root,3,14,1,0.0
+ramen,frame_00065,plate,root,3,7,1,0.929367
+ramen,frame_00065,plate,root,3,126,1,0.0
+ramen,frame_00065,plate,root,3,73,1,0.0
+ramen,frame_00065,plate,root,3,51,1,0.0
+ramen,frame_00065,plate,hier,2,17,1,0.0
+ramen,frame_00065,plate,hier,3,7,1,0.929367
+ramen,frame_00065,plate,hier,3,126,1,0.0
+ramen,frame_00065,plate,hier,3,73,1,0.0
+ramen,frame_00065,plate,hier,3,51,1,0.0
+ramen,frame_00065,plate,deep,1,1208,1,0.0
+ramen,frame_00065,plate,deep,1,208,1,0.0
+ramen,frame_00065,plate,deep,1,1088,1,0.0
+ramen,frame_00065,plate,deep,1,957,1,0.0
+ramen,frame_00065,plate,deep,1,57,1,0.0
+ramen,frame_00065,plate,deep,1,912,1,0.0
+ramen,frame_00065,plate,deep,1,698,1,0.0
+ramen,frame_00065,plate,deep,1,1429,1,0.0
+ramen,frame_00065,plate,deep,1,22,1,0.33664
+ramen,frame_00065,plate,deep,1,434,1,0.017866
+ramen,frame_00065,plate,deep,2,301,1,0.0
+ramen,frame_00065,plate,deep,2,17,1,0.0
+ramen,frame_00065,plate,deep,2,57,1,0.0
+ramen,frame_00065,plate,deep,2,318,1,0.0
+ramen,frame_00065,plate,deep,2,6,1,0.929367
+ramen,frame_00065,plate,deep,2,250,1,0.0
+ramen,frame_00065,plate,deep,2,192,1,0.0
+ramen,frame_00065,plate,deep,2,239,1,0.0
+ramen,frame_00065,plate,deep,2,111,1,0.0
+ramen,frame_00065,plate,deep,2,190,1,0.0
+ramen,frame_00065,plate,deep,3,14,1,0.0
+ramen,frame_00065,plate,deep,3,7,1,0.929367
+ramen,frame_00065,plate,deep,3,126,1,0.0
+ramen,frame_00065,plate,deep,3,73,1,0.0
+ramen,frame_00065,plate,deep,3,51,1,0.0
+ramen,frame_00065,plate,deep,3,17,1,0.0
+ramen,frame_00065,plate,deep,3,34,1,0.0
+ramen,frame_00065,plate,deep,3,110,1,0.0
+ramen,frame_00065,plate,deep,3,172,1,0.0
+ramen,frame_00065,plate,deep,3,91,1,0.0
+ramen,frame_00065,plate,combo,-1,-1,4,0.92993
+ramen,frame_00065,plate,combo,-1,-1,4,0.0
+ramen,frame_00065,plate,combo,-1,-1,4,0.92993
+ramen,frame_00065,plate,combo,-1,-1,4,0.929367
+ramen,frame_00065,plate,combo,-1,-1,5,0.92993
+ramen,frame_00065,plate,combo,-1,-1,2,0.929367
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,combo,-1,-1,2,0.929367
+ramen,frame_00065,plate,combo,-1,-1,2,0.92993
+ramen,frame_00065,plate,combo,-1,-1,2,0.929367
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,plate,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,c0,2,105,1,0.0
+ramen,frame_00065,corn,root,3,190,1,0.0
+ramen,frame_00065,corn,root,3,187,1,0.0
+ramen,frame_00065,corn,root,3,5,1,0.001161
+ramen,frame_00065,corn,root,3,63,1,0.0
+ramen,frame_00065,corn,root,3,12,1,0.0
+ramen,frame_00065,corn,hier,2,105,1,0.0
+ramen,frame_00065,corn,hier,2,11,1,0.0
+ramen,frame_00065,corn,hier,3,190,1,0.0
+ramen,frame_00065,corn,hier,2,4,1,0.0
+ramen,frame_00065,corn,hier,3,187,1,0.0
+ramen,frame_00065,corn,hier,2,15,1,0.0
+ramen,frame_00065,corn,hier,2,10,1,0.001869
+ramen,frame_00065,corn,hier,3,63,1,0.0
+ramen,frame_00065,corn,deep,1,255,1,0.0
+ramen,frame_00065,corn,deep,1,246,1,0.0
+ramen,frame_00065,corn,deep,1,83,1,0.0
+ramen,frame_00065,corn,deep,1,435,1,0.0
+ramen,frame_00065,corn,deep,1,458,1,0.0
+ramen,frame_00065,corn,deep,1,426,1,0.0
+ramen,frame_00065,corn,deep,1,245,1,0.0
+ramen,frame_00065,corn,deep,1,440,1,0.0
+ramen,frame_00065,corn,deep,2,40,1,0.0
+ramen,frame_00065,corn,deep,2,137,1,0.800611
+ramen,frame_00065,corn,deep,2,53,1,0.017376
+ramen,frame_00065,corn,deep,2,87,1,0.0
+ramen,frame_00065,corn,deep,2,80,1,0.0
+ramen,frame_00065,corn,deep,2,38,1,0.00137
+ramen,frame_00065,corn,deep,2,69,1,0.0
+ramen,frame_00065,corn,deep,2,36,1,0.0
+ramen,frame_00065,corn,deep,2,31,1,0.0
+ramen,frame_00065,corn,deep,2,47,1,0.0
+ramen,frame_00065,corn,deep,3,190,1,0.0
+ramen,frame_00065,corn,deep,3,187,1,0.0
+ramen,frame_00065,corn,deep,3,5,1,0.001161
+ramen,frame_00065,corn,deep,3,63,1,0.0
+ramen,frame_00065,corn,deep,3,12,1,0.0
+ramen,frame_00065,corn,deep,3,141,1,0.0
+ramen,frame_00065,corn,deep,3,161,1,0.0
+ramen,frame_00065,corn,deep,3,60,1,0.0
+ramen,frame_00065,corn,deep,3,78,1,0.0
+ramen,frame_00065,corn,deep,3,145,1,0.0
+ramen,frame_00065,corn,combo,2,11,1,0.0
+ramen,frame_00065,corn,combo,3,190,1,0.0
+ramen,frame_00065,corn,combo,2,4,1,0.0
+ramen,frame_00065,corn,combo,3,187,1,0.0
+ramen,frame_00065,corn,combo,2,15,1,0.0
+ramen,frame_00065,corn,combo,2,10,1,0.001869
+ramen,frame_00065,corn,combo,3,63,1,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.001914
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.00186
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.001869
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,corn,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00065,onion segments,root,3,7,1,0.0
+ramen,frame_00065,onion segments,root,3,190,1,0.0
+ramen,frame_00065,onion segments,root,3,187,1,0.0
+ramen,frame_00065,onion segments,root,3,73,1,0.0
+ramen,frame_00065,onion segments,root,3,109,1,0.0
+ramen,frame_00065,onion segments,hier,2,127,1,0.0
+ramen,frame_00065,onion segments,hier,2,6,1,0.0
+ramen,frame_00065,onion segments,hier,2,192,1,0.0
+ramen,frame_00065,onion segments,hier,3,190,1,0.0
+ramen,frame_00065,onion segments,hier,2,194,1,0.0
+ramen,frame_00065,onion segments,hier,3,187,1,0.0
+ramen,frame_00065,onion segments,hier,3,109,1,0.0
+ramen,frame_00065,onion segments,deep,1,96,1,0.0
+ramen,frame_00065,onion segments,deep,1,259,1,0.0
+ramen,frame_00065,onion segments,deep,1,61,1,0.0
+ramen,frame_00065,onion segments,deep,1,230,1,0.00031
+ramen,frame_00065,onion segments,deep,1,104,1,0.0
+ramen,frame_00065,onion segments,deep,1,123,1,0.0
+ramen,frame_00065,onion segments,deep,1,358,1,0.0
+ramen,frame_00065,onion segments,deep,1,432,1,0.0
+ramen,frame_00065,onion segments,deep,1,421,1,0.0
+ramen,frame_00065,onion segments,deep,1,88,1,0.0
+ramen,frame_00065,onion segments,deep,2,36,1,0.0
+ramen,frame_00065,onion segments,deep,2,47,1,0.0
+ramen,frame_00065,onion segments,deep,2,193,1,0.0
+ramen,frame_00065,onion segments,deep,2,20,1,0.000174
+ramen,frame_00065,onion segments,deep,2,31,1,0.0
+ramen,frame_00065,onion segments,deep,2,39,1,0.0
+ramen,frame_00065,onion segments,deep,2,137,1,0.0
+ramen,frame_00065,onion segments,deep,2,87,1,0.0
+ramen,frame_00065,onion segments,deep,2,38,1,0.0
+ramen,frame_00065,onion segments,deep,2,40,1,0.727901
+ramen,frame_00065,onion segments,deep,3,7,1,0.0
+ramen,frame_00065,onion segments,deep,3,190,1,0.0
+ramen,frame_00065,onion segments,deep,3,187,1,0.0
+ramen,frame_00065,onion segments,deep,3,73,1,0.0
+ramen,frame_00065,onion segments,deep,3,109,1,0.0
+ramen,frame_00065,onion segments,deep,3,76,1,0.0
+ramen,frame_00065,onion segments,deep,3,18,1,0.0
+ramen,frame_00065,onion segments,deep,3,11,1,0.0
+ramen,frame_00065,onion segments,deep,3,110,1,0.0
+ramen,frame_00065,onion segments,deep,3,51,1,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00065,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,bowl,c0,3,44,1,0.461034
+ramen,frame_00081,bowl,root,3,44,1,0.461034
+ramen,frame_00081,bowl,root,3,65,1,0.046789
+ramen,frame_00081,bowl,root,3,12,1,0.401502
+ramen,frame_00081,bowl,root,3,34,1,0.016029
+ramen,frame_00081,bowl,root,3,73,1,0.0
+ramen,frame_00081,bowl,hier,3,44,1,0.461034
+ramen,frame_00081,bowl,hier,3,65,1,0.046789
+ramen,frame_00081,bowl,hier,3,12,1,0.401502
+ramen,frame_00081,bowl,hier,3,34,1,0.016029
+ramen,frame_00081,bowl,hier,3,73,1,0.0
+ramen,frame_00081,bowl,deep,1,161,1,0.358004
+ramen,frame_00081,bowl,deep,1,1085,1,0.004152
+ramen,frame_00081,bowl,deep,1,378,1,0.0
+ramen,frame_00081,bowl,deep,1,111,1,0.0
+ramen,frame_00081,bowl,deep,1,1165,1,0.0
+ramen,frame_00081,bowl,deep,1,330,1,0.0
+ramen,frame_00081,bowl,deep,1,51,1,0.390764
+ramen,frame_00081,bowl,deep,1,1241,1,0.001345
+ramen,frame_00081,bowl,deep,2,65,1,0.385558
+ramen,frame_00081,bowl,deep,2,15,1,0.399793
+ramen,frame_00081,bowl,deep,2,190,1,0.0
+ramen,frame_00081,bowl,deep,2,250,1,0.0
+ramen,frame_00081,bowl,deep,2,114,1,0.029407
+ramen,frame_00081,bowl,deep,2,17,1,0.0
+ramen,frame_00081,bowl,deep,2,314,1,0.0
+ramen,frame_00081,bowl,deep,2,57,1,0.0
+ramen,frame_00081,bowl,deep,2,97,1,0.0
+ramen,frame_00081,bowl,deep,2,192,1,0.0
+ramen,frame_00081,bowl,deep,3,44,1,0.461034
+ramen,frame_00081,bowl,deep,3,65,1,0.046789
+ramen,frame_00081,bowl,deep,3,12,1,0.401502
+ramen,frame_00081,bowl,deep,3,34,1,0.016029
+ramen,frame_00081,bowl,deep,3,73,1,0.0
+ramen,frame_00081,bowl,deep,3,14,1,0.0
+ramen,frame_00081,bowl,deep,3,7,1,0.003473
+ramen,frame_00081,bowl,deep,3,51,1,0.003143
+ramen,frame_00081,bowl,deep,3,204,1,0.0
+ramen,frame_00081,bowl,deep,3,77,1,0.0
+ramen,frame_00081,bowl,combo,3,65,1,0.046789
+ramen,frame_00081,bowl,combo,3,12,1,0.401502
+ramen,frame_00081,bowl,combo,3,34,1,0.016029
+ramen,frame_00081,bowl,combo,3,73,1,0.0
+ramen,frame_00081,bowl,combo,-1,-1,2,0.506874
+ramen,frame_00081,bowl,combo,-1,-1,2,0.85138
+ramen,frame_00081,bowl,combo,-1,-1,2,0.391709
+ramen,frame_00081,bowl,combo,-1,-1,2,0.461034
+ramen,frame_00081,bowl,combo,-1,-1,2,0.460307
+ramen,frame_00081,bowl,combo,-1,-1,2,0.05411
+ramen,frame_00081,bowl,combo,-1,-1,2,0.046789
+ramen,frame_00081,bowl,combo,-1,-1,2,0.343697
+ramen,frame_00081,bowl,combo,-1,-1,2,0.401502
+ramen,frame_00081,bowl,combo,-1,-1,2,0.016029
+ramen,frame_00081,chopsticks,c0,-1,-1,2,0.860393
+ramen,frame_00081,chopsticks,root,3,8,1,0.860393
+ramen,frame_00081,chopsticks,root,3,200,1,0.0
+ramen,frame_00081,chopsticks,root,3,187,1,0.0
+ramen,frame_00081,chopsticks,root,3,66,1,0.0
+ramen,frame_00081,chopsticks,root,3,190,1,0.0
+ramen,frame_00081,chopsticks,hier,3,8,1,0.860393
+ramen,frame_00081,chopsticks,hier,3,200,1,0.0
+ramen,frame_00081,chopsticks,hier,3,187,1,0.0
+ramen,frame_00081,chopsticks,hier,3,66,1,0.0
+ramen,frame_00081,chopsticks,hier,3,190,1,0.0
+ramen,frame_00081,chopsticks,deep,1,16,1,0.455565
+ramen,frame_00081,chopsticks,deep,1,456,1,0.0
+ramen,frame_00081,chopsticks,deep,1,15,1,0.468503
+ramen,frame_00081,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00081,chopsticks,deep,1,336,1,0.0
+ramen,frame_00081,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00081,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00081,chopsticks,deep,1,638,1,0.0
+ramen,frame_00081,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00081,chopsticks,deep,2,7,1,0.860393
+ramen,frame_00081,chopsticks,deep,2,374,1,0.0
+ramen,frame_00081,chopsticks,deep,2,373,1,0.0
+ramen,frame_00081,chopsticks,deep,2,312,1,0.0
+ramen,frame_00081,chopsticks,deep,2,251,1,0.0
+ramen,frame_00081,chopsticks,deep,2,78,1,0.0
+ramen,frame_00081,chopsticks,deep,2,9,1,0.0
+ramen,frame_00081,chopsticks,deep,2,481,1,0.0
+ramen,frame_00081,chopsticks,deep,2,215,1,0.0
+ramen,frame_00081,chopsticks,deep,2,359,1,0.0
+ramen,frame_00081,chopsticks,deep,3,8,1,0.860393
+ramen,frame_00081,chopsticks,deep,3,200,1,0.0
+ramen,frame_00081,chopsticks,deep,3,187,1,0.0
+ramen,frame_00081,chopsticks,deep,3,66,1,0.0
+ramen,frame_00081,chopsticks,deep,3,190,1,0.0
+ramen,frame_00081,chopsticks,deep,3,106,1,0.0
+ramen,frame_00081,chopsticks,deep,3,156,1,0.0
+ramen,frame_00081,chopsticks,deep,3,213,1,0.0
+ramen,frame_00081,chopsticks,deep,3,186,1,0.0
+ramen,frame_00081,chopsticks,deep,3,43,1,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,3,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,3,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,3,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.860393
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00081,sake cup,c0,-1,-1,3,0.074881
+ramen,frame_00081,sake cup,root,3,44,1,0.0
+ramen,frame_00081,sake cup,root,3,20,1,0.0
+ramen,frame_00081,sake cup,root,3,24,1,0.297713
+ramen,frame_00081,sake cup,root,3,10,1,0.0
+ramen,frame_00081,sake cup,root,3,32,1,0.675189
+ramen,frame_00081,sake cup,hier,3,44,1,0.0
+ramen,frame_00081,sake cup,hier,3,20,1,0.0
+ramen,frame_00081,sake cup,hier,3,24,1,0.297713
+ramen,frame_00081,sake cup,hier,3,10,1,0.0
+ramen,frame_00081,sake cup,hier,3,32,1,0.675189
+ramen,frame_00081,sake cup,deep,1,161,1,0.0
+ramen,frame_00081,sake cup,deep,1,378,1,0.0
+ramen,frame_00081,sake cup,deep,1,1085,1,0.0
+ramen,frame_00081,sake cup,deep,1,1165,1,0.0
+ramen,frame_00081,sake cup,deep,1,1179,1,0.0
+ramen,frame_00081,sake cup,deep,1,67,1,0.0
+ramen,frame_00081,sake cup,deep,2,65,1,0.0
+ramen,frame_00081,sake cup,deep,2,24,1,0.0
+ramen,frame_00081,sake cup,deep,2,29,1,0.297713
+ramen,frame_00081,sake cup,deep,2,45,1,0.675189
+ramen,frame_00081,sake cup,deep,2,37,1,0.0
+ramen,frame_00081,sake cup,deep,2,314,1,0.0
+ramen,frame_00081,sake cup,deep,2,12,1,0.0
+ramen,frame_00081,sake cup,deep,2,94,1,0.0
+ramen,frame_00081,sake cup,deep,2,328,1,0.0
+ramen,frame_00081,sake cup,deep,2,190,1,0.0
+ramen,frame_00081,sake cup,deep,3,44,1,0.0
+ramen,frame_00081,sake cup,deep,3,20,1,0.0
+ramen,frame_00081,sake cup,deep,3,24,1,0.297713
+ramen,frame_00081,sake cup,deep,3,10,1,0.0
+ramen,frame_00081,sake cup,deep,3,32,1,0.675189
+ramen,frame_00081,sake cup,deep,3,34,1,0.0
+ramen,frame_00081,sake cup,deep,3,166,1,0.0
+ramen,frame_00081,sake cup,deep,3,139,1,0.0
+ramen,frame_00081,sake cup,deep,3,65,1,0.0
+ramen,frame_00081,sake cup,deep,3,173,1,0.0
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.158218
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.509705
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.096174
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.310799
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00081,sake cup,combo,-1,-1,3,0.168878
+ramen,frame_00081,sake cup,combo,-1,-1,4,0.074855
+ramen,frame_00081,sake cup,combo,-1,-1,4,0.242307
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.096174
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.217017
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.158334
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.357837
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.297713
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.950174
+ramen,frame_00081,sake cup,combo,-1,-1,2,0.675189
+ramen,frame_00081,nori,c0,-1,-1,3,0.887563
+ramen,frame_00081,nori,root,3,92,1,8.5e-05
+ramen,frame_00081,nori,root,3,5,1,0.97345
+ramen,frame_00081,nori,root,3,16,1,0.000148
+ramen,frame_00081,nori,root,3,141,1,0.0
+ramen,frame_00081,nori,root,3,63,1,0.0
+ramen,frame_00081,nori,hier,3,92,1,8.5e-05
+ramen,frame_00081,nori,hier,2,40,1,0.0
+ramen,frame_00081,nori,hier,3,5,1,0.97345
+ramen,frame_00081,nori,hier,2,316,1,0.0
+ramen,frame_00081,nori,hier,3,63,1,0.0
+ramen,frame_00081,nori,deep,1,8,1,0.304571
+ramen,frame_00081,nori,deep,1,9,1,0.049702
+ramen,frame_00081,nori,deep,1,508,1,0.002821
+ramen,frame_00081,nori,deep,1,1588,1,0.00158
+ramen,frame_00081,nori,deep,1,10,1,0.0
+ramen,frame_00081,nori,deep,1,246,1,0.0
+ramen,frame_00081,nori,deep,1,1499,1,0.0
+ramen,frame_00081,nori,deep,2,163,1,8.5e-05
+ramen,frame_00081,nori,deep,2,40,1,0.0
+ramen,frame_00081,nori,deep,2,4,1,0.377671
+ramen,frame_00081,nori,deep,2,10,1,0.60533
+ramen,frame_00081,nori,deep,2,105,1,0.001408
+ramen,frame_00081,nori,deep,2,195,1,0.0
+ramen,frame_00081,nori,deep,2,316,1,0.0
+ramen,frame_00081,nori,deep,2,155,1,0.0
+ramen,frame_00081,nori,deep,2,87,1,0.0
+ramen,frame_00081,nori,deep,2,485,1,0.0
+ramen,frame_00081,nori,deep,3,92,1,8.5e-05
+ramen,frame_00081,nori,deep,3,5,1,0.97345
+ramen,frame_00081,nori,deep,3,16,1,0.000148
+ramen,frame_00081,nori,deep,3,141,1,0.0
+ramen,frame_00081,nori,deep,3,63,1,0.0
+ramen,frame_00081,nori,deep,3,8,1,0.0
+ramen,frame_00081,nori,deep,3,17,1,0.0
+ramen,frame_00081,nori,deep,3,42,1,0.0
+ramen,frame_00081,nori,deep,3,179,1,0.0
+ramen,frame_00081,nori,deep,3,91,1,0.0
+ramen,frame_00081,nori,combo,-1,-1,3,0.888367
+ramen,frame_00081,nori,combo,-1,-1,3,0.888367
+ramen,frame_00081,nori,combo,-1,-1,3,0.972114
+ramen,frame_00081,nori,combo,-1,-1,3,0.972114
+ramen,frame_00081,nori,combo,-1,-1,3,0.000195
+ramen,frame_00081,nori,combo,-1,-1,3,0.000195
+ramen,frame_00081,nori,combo,-1,-1,4,0.887563
+ramen,frame_00081,nori,combo,-1,-1,4,0.887563
+ramen,frame_00081,nori,combo,-1,-1,2,0.000195
+ramen,frame_00081,nori,combo,-1,-1,2,0.972114
+ramen,frame_00081,nori,combo,-1,-1,2,8.5e-05
+ramen,frame_00081,nori,combo,-1,-1,2,8.5e-05
+ramen,frame_00081,nori,combo,-1,-1,2,0.888367
+ramen,frame_00081,nori,combo,-1,-1,2,0.0
+ramen,frame_00081,nori,combo,-1,-1,2,0.0
+ramen,frame_00081,nori,combo,-1,-1,2,0.97345
+ramen,frame_00081,nori,combo,-1,-1,2,0.97345
+ramen,frame_00081,nori,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,c0,-1,-1,2,0.921678
+ramen,frame_00081,egg,root,3,16,1,0.179691
+ramen,frame_00081,egg,root,3,65,1,0.0
+ramen,frame_00081,egg,root,3,12,1,0.0
+ramen,frame_00081,egg,root,3,73,1,0.0
+ramen,frame_00081,egg,root,3,92,1,0.0
+ramen,frame_00081,egg,hier,2,47,1,0.600563
+ramen,frame_00081,egg,hier,2,36,1,0.358438
+ramen,frame_00081,egg,hier,2,416,1,0.0
+ramen,frame_00081,egg,hier,3,12,1,0.0
+ramen,frame_00081,egg,hier,3,73,1,0.0
+ramen,frame_00081,egg,hier,3,92,1,0.0
+ramen,frame_00081,egg,deep,1,123,1,0.594667
+ramen,frame_00081,egg,deep,1,96,1,0.357079
+ramen,frame_00081,egg,deep,1,180,1,0.000717
+ramen,frame_00081,egg,deep,1,259,1,0.001618
+ramen,frame_00081,egg,deep,1,548,1,0.0
+ramen,frame_00081,egg,deep,2,47,1,0.600563
+ramen,frame_00081,egg,deep,2,36,1,0.358438
+ramen,frame_00081,egg,deep,2,193,1,0.000526
+ramen,frame_00081,egg,deep,2,66,1,0.0
+ramen,frame_00081,egg,deep,2,39,1,0.000268
+ramen,frame_00081,egg,deep,2,99,1,0.0
+ramen,frame_00081,egg,deep,2,15,1,0.0
+ramen,frame_00081,egg,deep,2,109,1,0.0
+ramen,frame_00081,egg,deep,2,37,1,0.0
+ramen,frame_00081,egg,deep,2,69,1,0.0
+ramen,frame_00081,egg,deep,3,16,1,0.179691
+ramen,frame_00081,egg,deep,3,65,1,0.0
+ramen,frame_00081,egg,deep,3,12,1,0.0
+ramen,frame_00081,egg,deep,3,73,1,0.0
+ramen,frame_00081,egg,deep,3,92,1,0.0
+ramen,frame_00081,egg,deep,3,51,1,0.0
+ramen,frame_00081,egg,deep,3,7,1,0.0
+ramen,frame_00081,egg,deep,3,17,1,0.0
+ramen,frame_00081,egg,deep,3,20,1,0.0
+ramen,frame_00081,egg,deep,3,76,1,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.318809
+ramen,frame_00081,egg,combo,-1,-1,2,0.074406
+ramen,frame_00081,egg,combo,-1,-1,2,0.358438
+ramen,frame_00081,egg,combo,-1,-1,2,0.357503
+ramen,frame_00081,egg,combo,-1,-1,2,0.533615
+ramen,frame_00081,egg,combo,-1,-1,2,0.123606
+ramen,frame_00081,egg,combo,-1,-1,2,0.600563
+ramen,frame_00081,egg,combo,-1,-1,2,0.598982
+ramen,frame_00081,egg,combo,-1,-1,3,0.822857
+ramen,frame_00081,egg,combo,-1,-1,3,0.195996
+ramen,frame_00081,egg,combo,-1,-1,3,0.921678
+ramen,frame_00081,egg,combo,-1,-1,3,0.919355
+ramen,frame_00081,egg,combo,-1,-1,2,0.921678
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,egg,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,c0,-1,-1,2,0.851359
+ramen,frame_00081,wavy noodles,root,3,17,1,0.0
+ramen,frame_00081,wavy noodles,root,3,16,1,0.139771
+ramen,frame_00081,wavy noodles,root,3,65,1,0.0
+ramen,frame_00081,wavy noodles,root,3,73,1,0.0
+ramen,frame_00081,wavy noodles,root,3,91,1,0.0
+ramen,frame_00081,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00081,wavy noodles,hier,2,31,1,0.856117
+ramen,frame_00081,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00081,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00081,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00081,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00081,wavy noodles,deep,1,88,1,0.870394
+ramen,frame_00081,wavy noodles,deep,1,205,1,0.0
+ramen,frame_00081,wavy noodles,deep,1,83,1,0.013333
+ramen,frame_00081,wavy noodles,deep,1,432,1,0.021277
+ramen,frame_00081,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,31,1,0.856117
+ramen,frame_00081,wavy noodles,deep,2,69,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00081,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,16,1,0.139771
+ramen,frame_00081,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00081,wavy noodles,deep,3,12,1,0.000421
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.745439
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.856117
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.782704
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,combo,-1,-1,3,0.74183
+ramen,frame_00081,wavy noodles,combo,-1,-1,3,0.851359
+ramen,frame_00081,wavy noodles,combo,-1,-1,3,0.778726
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.851359
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00081,glass of water,c0,-1,-1,3,0.72645
+ramen,frame_00081,glass of water,root,3,20,1,0.72645
+ramen,frame_00081,glass of water,root,3,15,1,0.0
+ramen,frame_00081,glass of water,root,3,166,1,0.0
+ramen,frame_00081,glass of water,root,3,10,1,0.0
+ramen,frame_00081,glass of water,hier,3,20,1,0.72645
+ramen,frame_00081,glass of water,hier,3,15,1,0.0
+ramen,frame_00081,glass of water,hier,3,166,1,0.0
+ramen,frame_00081,glass of water,hier,3,10,1,0.0
+ramen,frame_00081,glass of water,deep,1,1797,1,0.0
+ramen,frame_00081,glass of water,deep,1,1179,1,0.0
+ramen,frame_00081,glass of water,deep,1,720,1,0.0
+ramen,frame_00081,glass of water,deep,1,685,1,0.0
+ramen,frame_00081,glass of water,deep,1,95,1,0.0
+ramen,frame_00081,glass of water,deep,1,873,1,0.0
+ramen,frame_00081,glass of water,deep,1,82,1,0.0
+ramen,frame_00081,glass of water,deep,2,388,1,0.0
+ramen,frame_00081,glass of water,deep,2,24,1,0.431506
+ramen,frame_00081,glass of water,deep,2,18,1,0.0
+ramen,frame_00081,glass of water,deep,2,328,1,0.0
+ramen,frame_00081,glass of water,deep,2,37,1,0.294789
+ramen,frame_00081,glass of water,deep,2,81,1,0.0
+ramen,frame_00081,glass of water,deep,2,314,1,0.0
+ramen,frame_00081,glass of water,deep,2,140,1,0.0
+ramen,frame_00081,glass of water,deep,2,321,1,0.0
+ramen,frame_00081,glass of water,deep,2,120,1,0.0
+ramen,frame_00081,glass of water,deep,3,20,1,0.72645
+ramen,frame_00081,glass of water,deep,3,15,1,0.0
+ramen,frame_00081,glass of water,deep,3,166,1,0.0
+ramen,frame_00081,glass of water,deep,3,10,1,0.0
+ramen,frame_00081,glass of water,deep,3,38,1,0.0
+ramen,frame_00081,glass of water,deep,3,223,1,0.0
+ramen,frame_00081,glass of water,deep,3,61,1,0.0
+ramen,frame_00081,glass of water,deep,3,210,1,0.0
+ramen,frame_00081,glass of water,deep,3,140,1,0.0
+ramen,frame_00081,glass of water,deep,3,41,1,0.0
+ramen,frame_00081,glass of water,combo,-1,-1,3,0.0
+ramen,frame_00081,glass of water,combo,-1,-1,3,0.727366
+ramen,frame_00081,glass of water,combo,-1,-1,3,0.727366
+ramen,frame_00081,glass of water,combo,-1,-1,4,0.727366
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.72645
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.72645
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.727366
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.0
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.0
+ramen,frame_00081,glass of water,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,c0,2,39,1,0.904762
+ramen,frame_00081,kamaboko,root,3,16,1,0.064143
+ramen,frame_00081,kamaboko,root,3,8,1,0.0
+ramen,frame_00081,kamaboko,root,3,145,1,0.0
+ramen,frame_00081,kamaboko,root,3,11,1,0.0
+ramen,frame_00081,kamaboko,root,3,36,1,0.0
+ramen,frame_00081,kamaboko,hier,2,39,1,0.904762
+ramen,frame_00081,kamaboko,hier,3,8,1,0.0
+ramen,frame_00081,kamaboko,hier,3,145,1,0.0
+ramen,frame_00081,kamaboko,hier,2,118,1,0.0
+ramen,frame_00081,kamaboko,hier,2,51,1,0.0
+ramen,frame_00081,kamaboko,hier,2,50,1,0.0
+ramen,frame_00081,kamaboko,hier,2,414,1,0.0
+ramen,frame_00081,kamaboko,hier,2,215,1,0.0
+ramen,frame_00081,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00081,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00081,kamaboko,deep,1,102,1,0.893932
+ramen,frame_00081,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00081,kamaboko,deep,1,129,1,0.0
+ramen,frame_00081,kamaboko,deep,1,358,1,0.000506
+ramen,frame_00081,kamaboko,deep,1,456,1,0.0
+ramen,frame_00081,kamaboko,deep,1,307,1,0.00152
+ramen,frame_00081,kamaboko,deep,1,16,1,0.0
+ramen,frame_00081,kamaboko,deep,1,15,1,0.0
+ramen,frame_00081,kamaboko,deep,2,39,1,0.904762
+ramen,frame_00081,kamaboko,deep,2,273,1,0.0
+ramen,frame_00081,kamaboko,deep,2,7,1,0.0
+ramen,frame_00081,kamaboko,deep,2,109,1,0.00152
+ramen,frame_00081,kamaboko,deep,2,251,1,0.0
+ramen,frame_00081,kamaboko,deep,2,20,1,0.001318
+ramen,frame_00081,kamaboko,deep,2,8,1,0.0
+ramen,frame_00081,kamaboko,deep,2,193,1,0.0
+ramen,frame_00081,kamaboko,deep,2,118,1,0.0
+ramen,frame_00081,kamaboko,deep,2,51,1,0.0
+ramen,frame_00081,kamaboko,deep,3,16,1,0.064143
+ramen,frame_00081,kamaboko,deep,3,8,1,0.0
+ramen,frame_00081,kamaboko,deep,3,145,1,0.0
+ramen,frame_00081,kamaboko,deep,3,11,1,0.0
+ramen,frame_00081,kamaboko,deep,3,36,1,0.0
+ramen,frame_00081,kamaboko,deep,3,161,1,0.0
+ramen,frame_00081,kamaboko,deep,3,101,1,0.0
+ramen,frame_00081,kamaboko,deep,3,210,1,0.0
+ramen,frame_00081,kamaboko,deep,3,65,1,0.0
+ramen,frame_00081,kamaboko,deep,3,15,1,0.0
+ramen,frame_00081,kamaboko,combo,3,8,1,0.0
+ramen,frame_00081,kamaboko,combo,3,145,1,0.0
+ramen,frame_00081,kamaboko,combo,2,118,1,0.0
+ramen,frame_00081,kamaboko,combo,2,51,1,0.0
+ramen,frame_00081,kamaboko,combo,2,50,1,0.0
+ramen,frame_00081,kamaboko,combo,2,414,1,0.0
+ramen,frame_00081,kamaboko,combo,2,215,1,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.164342
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.796067
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.904762
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.633118
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.904762
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.904762
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.904762
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,c0,-1,-1,2,0.395274
+ramen,frame_00081,spoon,root,3,51,1,0.763058
+ramen,frame_00081,spoon,root,3,7,1,0.003607
+ramen,frame_00081,spoon,root,3,73,1,0.0
+ramen,frame_00081,spoon,root,3,110,1,0.0
+ramen,frame_00081,spoon,root,3,176,1,0.0
+ramen,frame_00081,spoon,hier,3,51,1,0.763058
+ramen,frame_00081,spoon,hier,2,57,1,0.001256
+ramen,frame_00081,spoon,hier,3,73,1,0.0
+ramen,frame_00081,spoon,hier,2,382,1,0.0
+ramen,frame_00081,spoon,hier,2,379,1,0.0
+ramen,frame_00081,spoon,hier,2,473,1,0.0
+ramen,frame_00081,spoon,hier,3,110,1,0.0
+ramen,frame_00081,spoon,deep,1,780,1,0.393455
+ramen,frame_00081,spoon,deep,1,143,1,0.0
+ramen,frame_00081,spoon,deep,1,1508,1,0.025883
+ramen,frame_00081,spoon,deep,1,194,1,0.450525
+ramen,frame_00081,spoon,deep,1,538,1,0.0
+ramen,frame_00081,spoon,deep,1,133,1,0.000387
+ramen,frame_00081,spoon,deep,1,410,1,0.0
+ramen,frame_00081,spoon,deep,2,75,1,0.763058
+ramen,frame_00081,spoon,deep,2,57,1,0.001256
+ramen,frame_00081,spoon,deep,2,6,1,0.003701
+ramen,frame_00081,spoon,deep,2,192,1,0.0
+ramen,frame_00081,spoon,deep,2,48,1,0.0
+ramen,frame_00081,spoon,deep,2,127,1,0.0
+ramen,frame_00081,spoon,deep,2,30,1,0.0
+ramen,frame_00081,spoon,deep,2,199,1,0.0
+ramen,frame_00081,spoon,deep,2,265,1,0.0
+ramen,frame_00081,spoon,deep,3,51,1,0.763058
+ramen,frame_00081,spoon,deep,3,7,1,0.003607
+ramen,frame_00081,spoon,deep,3,73,1,0.0
+ramen,frame_00081,spoon,deep,3,110,1,0.0
+ramen,frame_00081,spoon,deep,3,176,1,0.0
+ramen,frame_00081,spoon,deep,3,34,1,0.0
+ramen,frame_00081,spoon,deep,3,65,1,0.000203
+ramen,frame_00081,spoon,deep,3,91,1,0.0
+ramen,frame_00081,spoon,deep,3,44,1,0.0
+ramen,frame_00081,spoon,deep,3,154,1,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.001256
+ramen,frame_00081,spoon,combo,-1,-1,2,0.001254
+ramen,frame_00081,spoon,combo,-1,-1,2,0.001224
+ramen,frame_00081,spoon,combo,-1,-1,2,0.001256
+ramen,frame_00081,spoon,combo,-1,-1,2,0.001186
+ramen,frame_00081,spoon,combo,-1,-1,2,0.763058
+ramen,frame_00081,spoon,combo,-1,-1,2,0.760975
+ramen,frame_00081,spoon,combo,-1,-1,2,0.744631
+ramen,frame_00081,spoon,combo,-1,-1,2,0.763058
+ramen,frame_00081,spoon,combo,-1,-1,2,0.722433
+ramen,frame_00081,spoon,combo,-1,-1,3,0.395274
+ramen,frame_00081,spoon,combo,-1,-1,3,0.394717
+ramen,frame_00081,spoon,combo,-1,-1,3,0.386458
+ramen,frame_00081,spoon,combo,-1,-1,3,0.395274
+ramen,frame_00081,spoon,combo,-1,-1,3,0.376072
+ramen,frame_00081,spoon,combo,-1,-1,2,0.395274
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,spoon,combo,-1,-1,2,0.0
+ramen,frame_00081,napkin,c0,2,8,1,0.0
+ramen,frame_00081,napkin,root,3,9,1,0.0
+ramen,frame_00081,napkin,root,3,11,1,0.503848
+ramen,frame_00081,napkin,root,3,23,1,0.0
+ramen,frame_00081,napkin,root,3,36,1,0.225831
+ramen,frame_00081,napkin,root,3,145,1,0.004939
+ramen,frame_00081,napkin,hier,2,8,1,0.0
+ramen,frame_00081,napkin,hier,2,13,1,0.27674
+ramen,frame_00081,napkin,hier,2,27,1,0.0
+ramen,frame_00081,napkin,hier,2,51,1,0.21875
+ramen,frame_00081,napkin,hier,2,50,1,0.0
+ramen,frame_00081,napkin,hier,3,145,1,0.004939
+ramen,frame_00081,napkin,deep,1,17,1,0.0
+ramen,frame_00081,napkin,deep,1,801,1,0.0
+ramen,frame_00081,napkin,deep,1,1300,1,0.0
+ramen,frame_00081,napkin,deep,1,1183,1,0.0
+ramen,frame_00081,napkin,deep,1,742,1,0.0
+ramen,frame_00081,napkin,deep,1,1443,1,0.0
+ramen,frame_00081,napkin,deep,1,1157,1,0.0
+ramen,frame_00081,napkin,deep,1,39,1,0.010539
+ramen,frame_00081,napkin,deep,1,113,1,0.150075
+ramen,frame_00081,napkin,deep,1,130,1,0.21625
+ramen,frame_00081,napkin,deep,2,8,1,0.0
+ramen,frame_00081,napkin,deep,2,320,1,0.0
+ramen,frame_00081,napkin,deep,2,13,1,0.27674
+ramen,frame_00081,napkin,deep,2,27,1,0.0
+ramen,frame_00081,napkin,deep,2,51,1,0.21875
+ramen,frame_00081,napkin,deep,2,50,1,0.0
+ramen,frame_00081,napkin,deep,2,35,1,0.23165
+ramen,frame_00081,napkin,deep,2,102,1,0.0
+ramen,frame_00081,napkin,deep,2,219,1,0.0
+ramen,frame_00081,napkin,deep,2,344,1,0.0
+ramen,frame_00081,napkin,deep,3,9,1,0.0
+ramen,frame_00081,napkin,deep,3,11,1,0.503848
+ramen,frame_00081,napkin,deep,3,23,1,0.0
+ramen,frame_00081,napkin,deep,3,36,1,0.225831
+ramen,frame_00081,napkin,deep,3,145,1,0.004939
+ramen,frame_00081,napkin,deep,3,193,1,0.0
+ramen,frame_00081,napkin,deep,3,17,1,0.0
+ramen,frame_00081,napkin,deep,3,222,1,0.0
+ramen,frame_00081,napkin,deep,3,31,1,0.0
+ramen,frame_00081,napkin,deep,3,74,1,0.0
+ramen,frame_00081,napkin,combo,2,13,1,0.27674
+ramen,frame_00081,napkin,combo,2,27,1,0.0
+ramen,frame_00081,napkin,combo,2,51,1,0.21875
+ramen,frame_00081,napkin,combo,2,50,1,0.0
+ramen,frame_00081,napkin,combo,3,145,1,0.004939
+ramen,frame_00081,napkin,combo,-1,-1,2,0.27674
+ramen,frame_00081,napkin,combo,-1,-1,2,0.0
+ramen,frame_00081,napkin,combo,-1,-1,2,0.21875
+ramen,frame_00081,napkin,combo,-1,-1,2,0.0
+ramen,frame_00081,napkin,combo,-1,-1,2,0.004939
+ramen,frame_00081,napkin,combo,-1,-1,2,0.27674
+ramen,frame_00081,napkin,combo,-1,-1,2,0.488017
+ramen,frame_00081,napkin,combo,-1,-1,2,0.27674
+ramen,frame_00081,napkin,combo,-1,-1,2,0.265115
+ramen,frame_00081,napkin,combo,-1,-1,2,0.21875
+ramen,frame_00081,napkin,combo,-1,-1,2,0.0
+ramen,frame_00081,napkin,combo,-1,-1,2,0.004939
+ramen,frame_00081,napkin,combo,-1,-1,2,0.225831
+ramen,frame_00081,napkin,combo,-1,-1,2,0.215521
+ramen,frame_00081,napkin,combo,-1,-1,2,0.010783
+ramen,frame_00081,plate,c0,-1,-1,4,0.585663
+ramen,frame_00081,plate,root,3,14,1,0.0
+ramen,frame_00081,plate,root,3,7,1,0.58568
+ramen,frame_00081,plate,root,3,126,1,0.0
+ramen,frame_00081,plate,root,3,73,1,0.0
+ramen,frame_00081,plate,root,3,51,1,0.048553
+ramen,frame_00081,plate,hier,2,17,1,0.0
+ramen,frame_00081,plate,hier,3,7,1,0.58568
+ramen,frame_00081,plate,hier,3,126,1,0.0
+ramen,frame_00081,plate,hier,3,73,1,0.0
+ramen,frame_00081,plate,hier,3,51,1,0.048553
+ramen,frame_00081,plate,deep,1,1208,1,0.0
+ramen,frame_00081,plate,deep,1,208,1,0.0
+ramen,frame_00081,plate,deep,1,1088,1,0.0
+ramen,frame_00081,plate,deep,1,957,1,0.0
+ramen,frame_00081,plate,deep,1,57,1,0.0
+ramen,frame_00081,plate,deep,1,912,1,0.0
+ramen,frame_00081,plate,deep,1,698,1,0.0
+ramen,frame_00081,plate,deep,1,1429,1,0.0
+ramen,frame_00081,plate,deep,1,22,1,0.060738
+ramen,frame_00081,plate,deep,1,434,1,0.0
+ramen,frame_00081,plate,deep,2,301,1,0.0
+ramen,frame_00081,plate,deep,2,17,1,0.0
+ramen,frame_00081,plate,deep,2,57,1,0.225076
+ramen,frame_00081,plate,deep,2,318,1,0.0
+ramen,frame_00081,plate,deep,2,6,1,0.351127
+ramen,frame_00081,plate,deep,2,250,1,0.0
+ramen,frame_00081,plate,deep,2,192,1,0.0
+ramen,frame_00081,plate,deep,2,239,1,0.0
+ramen,frame_00081,plate,deep,2,111,1,0.0
+ramen,frame_00081,plate,deep,2,190,1,0.0
+ramen,frame_00081,plate,deep,3,14,1,0.0
+ramen,frame_00081,plate,deep,3,7,1,0.58568
+ramen,frame_00081,plate,deep,3,126,1,0.0
+ramen,frame_00081,plate,deep,3,73,1,0.0
+ramen,frame_00081,plate,deep,3,51,1,0.048553
+ramen,frame_00081,plate,deep,3,17,1,0.0
+ramen,frame_00081,plate,deep,3,34,1,0.181328
+ramen,frame_00081,plate,deep,3,110,1,0.015827
+ramen,frame_00081,plate,deep,3,172,1,0.0
+ramen,frame_00081,plate,deep,3,91,1,0.0
+ramen,frame_00081,plate,combo,-1,-1,4,0.52654
+ramen,frame_00081,plate,combo,-1,-1,4,0.048553
+ramen,frame_00081,plate,combo,-1,-1,4,0.52654
+ramen,frame_00081,plate,combo,-1,-1,4,0.52654
+ramen,frame_00081,plate,combo,-1,-1,5,0.52654
+ramen,frame_00081,plate,combo,-1,-1,2,0.58568
+ramen,frame_00081,plate,combo,-1,-1,2,0.0
+ramen,frame_00081,plate,combo,-1,-1,2,0.0
+ramen,frame_00081,plate,combo,-1,-1,2,0.048553
+ramen,frame_00081,plate,combo,-1,-1,2,0.58568
+ramen,frame_00081,plate,combo,-1,-1,2,0.585663
+ramen,frame_00081,plate,combo,-1,-1,2,0.52654
+ramen,frame_00081,plate,combo,-1,-1,2,0.0
+ramen,frame_00081,plate,combo,-1,-1,2,0.048553
+ramen,frame_00081,plate,combo,-1,-1,2,0.048553
+ramen,frame_00081,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00081,onion segments,root,3,7,1,0.0
+ramen,frame_00081,onion segments,root,3,190,1,0.0
+ramen,frame_00081,onion segments,root,3,187,1,0.0
+ramen,frame_00081,onion segments,root,3,73,1,0.0
+ramen,frame_00081,onion segments,root,3,109,1,0.0
+ramen,frame_00081,onion segments,hier,2,127,1,0.0
+ramen,frame_00081,onion segments,hier,2,6,1,0.0
+ramen,frame_00081,onion segments,hier,2,192,1,0.0
+ramen,frame_00081,onion segments,hier,3,190,1,0.0
+ramen,frame_00081,onion segments,hier,2,194,1,0.0
+ramen,frame_00081,onion segments,hier,3,187,1,0.0
+ramen,frame_00081,onion segments,hier,3,109,1,0.0
+ramen,frame_00081,onion segments,deep,1,96,1,0.0
+ramen,frame_00081,onion segments,deep,1,259,1,0.0
+ramen,frame_00081,onion segments,deep,1,61,1,0.0
+ramen,frame_00081,onion segments,deep,1,230,1,0.0
+ramen,frame_00081,onion segments,deep,1,104,1,0.0
+ramen,frame_00081,onion segments,deep,1,123,1,0.0
+ramen,frame_00081,onion segments,deep,1,358,1,0.0
+ramen,frame_00081,onion segments,deep,1,432,1,0.0
+ramen,frame_00081,onion segments,deep,1,421,1,0.0
+ramen,frame_00081,onion segments,deep,1,88,1,0.0
+ramen,frame_00081,onion segments,deep,2,36,1,0.0
+ramen,frame_00081,onion segments,deep,2,47,1,0.0
+ramen,frame_00081,onion segments,deep,2,193,1,0.0
+ramen,frame_00081,onion segments,deep,2,20,1,0.002009
+ramen,frame_00081,onion segments,deep,2,31,1,0.0
+ramen,frame_00081,onion segments,deep,2,39,1,0.0
+ramen,frame_00081,onion segments,deep,2,137,1,0.0
+ramen,frame_00081,onion segments,deep,2,87,1,0.000478
+ramen,frame_00081,onion segments,deep,2,38,1,0.0
+ramen,frame_00081,onion segments,deep,2,40,1,0.850129
+ramen,frame_00081,onion segments,deep,3,7,1,0.0
+ramen,frame_00081,onion segments,deep,3,190,1,0.0
+ramen,frame_00081,onion segments,deep,3,187,1,0.0
+ramen,frame_00081,onion segments,deep,3,73,1,0.0
+ramen,frame_00081,onion segments,deep,3,109,1,0.0
+ramen,frame_00081,onion segments,deep,3,76,1,0.0
+ramen,frame_00081,onion segments,deep,3,18,1,0.0
+ramen,frame_00081,onion segments,deep,3,11,1,0.0
+ramen,frame_00081,onion segments,deep,3,110,1,0.0
+ramen,frame_00081,onion segments,deep,3,51,1,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00081,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,nori,c0,-1,-1,3,0.867805
+ramen,frame_00119,nori,root,3,92,1,0.000119
+ramen,frame_00119,nori,root,3,5,1,0.967732
+ramen,frame_00119,nori,root,3,16,1,9.8e-05
+ramen,frame_00119,nori,root,3,141,1,0.0
+ramen,frame_00119,nori,root,3,63,1,0.0
+ramen,frame_00119,nori,hier,3,92,1,0.000119
+ramen,frame_00119,nori,hier,2,40,1,0.000204
+ramen,frame_00119,nori,hier,3,5,1,0.967732
+ramen,frame_00119,nori,hier,2,316,1,0.0
+ramen,frame_00119,nori,hier,3,63,1,0.0
+ramen,frame_00119,nori,deep,1,8,1,0.286892
+ramen,frame_00119,nori,deep,1,9,1,0.042345
+ramen,frame_00119,nori,deep,1,508,1,0.003804
+ramen,frame_00119,nori,deep,1,1588,1,0.001724
+ramen,frame_00119,nori,deep,1,10,1,0.0
+ramen,frame_00119,nori,deep,1,246,1,0.0
+ramen,frame_00119,nori,deep,1,1499,1,0.0
+ramen,frame_00119,nori,deep,2,163,1,0.000119
+ramen,frame_00119,nori,deep,2,40,1,0.000204
+ramen,frame_00119,nori,deep,2,4,1,0.350947
+ramen,frame_00119,nori,deep,2,10,1,0.634018
+ramen,frame_00119,nori,deep,2,105,1,0.000411
+ramen,frame_00119,nori,deep,2,195,1,0.0
+ramen,frame_00119,nori,deep,2,316,1,0.0
+ramen,frame_00119,nori,deep,2,155,1,0.0
+ramen,frame_00119,nori,deep,2,87,1,0.0
+ramen,frame_00119,nori,deep,2,485,1,0.0
+ramen,frame_00119,nori,deep,3,92,1,0.000119
+ramen,frame_00119,nori,deep,3,5,1,0.967732
+ramen,frame_00119,nori,deep,3,16,1,9.8e-05
+ramen,frame_00119,nori,deep,3,141,1,0.0
+ramen,frame_00119,nori,deep,3,63,1,0.0
+ramen,frame_00119,nori,deep,3,8,1,0.0
+ramen,frame_00119,nori,deep,3,17,1,0.0
+ramen,frame_00119,nori,deep,3,42,1,0.0
+ramen,frame_00119,nori,deep,3,179,1,0.0
+ramen,frame_00119,nori,deep,3,91,1,0.0
+ramen,frame_00119,nori,combo,-1,-1,3,0.869076
+ramen,frame_00119,nori,combo,-1,-1,3,0.869076
+ramen,frame_00119,nori,combo,-1,-1,3,0.966265
+ramen,frame_00119,nori,combo,-1,-1,3,0.966265
+ramen,frame_00119,nori,combo,-1,-1,3,0.000601
+ramen,frame_00119,nori,combo,-1,-1,3,0.000601
+ramen,frame_00119,nori,combo,-1,-1,4,0.867805
+ramen,frame_00119,nori,combo,-1,-1,4,0.867805
+ramen,frame_00119,nori,combo,-1,-1,2,0.000601
+ramen,frame_00119,nori,combo,-1,-1,2,0.966265
+ramen,frame_00119,nori,combo,-1,-1,2,0.000119
+ramen,frame_00119,nori,combo,-1,-1,2,0.000119
+ramen,frame_00119,nori,combo,-1,-1,2,0.869076
+ramen,frame_00119,nori,combo,-1,-1,2,0.000204
+ramen,frame_00119,nori,combo,-1,-1,2,0.000204
+ramen,frame_00119,nori,combo,-1,-1,2,0.967732
+ramen,frame_00119,nori,combo,-1,-1,2,0.967732
+ramen,frame_00119,nori,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,c0,-1,-1,2,0.893161
+ramen,frame_00119,egg,root,3,16,1,0.193098
+ramen,frame_00119,egg,root,3,65,1,0.0
+ramen,frame_00119,egg,root,3,12,1,0.0
+ramen,frame_00119,egg,root,3,73,1,0.0
+ramen,frame_00119,egg,root,3,92,1,0.0
+ramen,frame_00119,egg,hier,2,47,1,0.577151
+ramen,frame_00119,egg,hier,2,36,1,0.367599
+ramen,frame_00119,egg,hier,2,416,1,0.0
+ramen,frame_00119,egg,hier,3,12,1,0.0
+ramen,frame_00119,egg,hier,3,73,1,0.0
+ramen,frame_00119,egg,hier,3,92,1,0.0
+ramen,frame_00119,egg,deep,1,123,1,0.580164
+ramen,frame_00119,egg,deep,1,96,1,0.379381
+ramen,frame_00119,egg,deep,1,180,1,0.002098
+ramen,frame_00119,egg,deep,1,259,1,0.000265
+ramen,frame_00119,egg,deep,1,548,1,0.0
+ramen,frame_00119,egg,deep,2,47,1,0.577151
+ramen,frame_00119,egg,deep,2,36,1,0.367599
+ramen,frame_00119,egg,deep,2,193,1,0.000183
+ramen,frame_00119,egg,deep,2,66,1,0.000168
+ramen,frame_00119,egg,deep,2,39,1,6.2e-05
+ramen,frame_00119,egg,deep,2,99,1,0.0
+ramen,frame_00119,egg,deep,2,15,1,0.0
+ramen,frame_00119,egg,deep,2,109,1,0.0
+ramen,frame_00119,egg,deep,2,37,1,0.0
+ramen,frame_00119,egg,deep,2,69,1,0.0
+ramen,frame_00119,egg,deep,3,16,1,0.193098
+ramen,frame_00119,egg,deep,3,65,1,0.0
+ramen,frame_00119,egg,deep,3,12,1,0.0
+ramen,frame_00119,egg,deep,3,73,1,0.0
+ramen,frame_00119,egg,deep,3,92,1,0.0
+ramen,frame_00119,egg,deep,3,51,1,0.0
+ramen,frame_00119,egg,deep,3,7,1,0.0
+ramen,frame_00119,egg,deep,3,17,1,0.0
+ramen,frame_00119,egg,deep,3,20,1,0.0
+ramen,frame_00119,egg,deep,3,76,1,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.367599
+ramen,frame_00119,egg,combo,-1,-1,2,0.069289
+ramen,frame_00119,egg,combo,-1,-1,2,0.367599
+ramen,frame_00119,egg,combo,-1,-1,2,0.366717
+ramen,frame_00119,egg,combo,-1,-1,2,0.577151
+ramen,frame_00119,egg,combo,-1,-1,2,0.107229
+ramen,frame_00119,egg,combo,-1,-1,2,0.577151
+ramen,frame_00119,egg,combo,-1,-1,2,0.575741
+ramen,frame_00119,egg,combo,-1,-1,3,0.893161
+ramen,frame_00119,egg,combo,-1,-1,3,0.174575
+ramen,frame_00119,egg,combo,-1,-1,3,0.893161
+ramen,frame_00119,egg,combo,-1,-1,3,0.891114
+ramen,frame_00119,egg,combo,-1,-1,2,0.893161
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,egg,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,c0,-1,-1,3,0.143931
+ramen,frame_00119,sake cup,root,3,44,1,0.0
+ramen,frame_00119,sake cup,root,3,20,1,0.0
+ramen,frame_00119,sake cup,root,3,24,1,0.928571
+ramen,frame_00119,sake cup,root,3,10,1,0.0
+ramen,frame_00119,sake cup,root,3,32,1,0.0
+ramen,frame_00119,sake cup,hier,3,44,1,0.0
+ramen,frame_00119,sake cup,hier,3,20,1,0.0
+ramen,frame_00119,sake cup,hier,3,24,1,0.928571
+ramen,frame_00119,sake cup,hier,3,10,1,0.0
+ramen,frame_00119,sake cup,hier,3,32,1,0.0
+ramen,frame_00119,sake cup,deep,1,161,1,0.0
+ramen,frame_00119,sake cup,deep,1,378,1,0.0
+ramen,frame_00119,sake cup,deep,1,1085,1,0.0
+ramen,frame_00119,sake cup,deep,1,1165,1,0.0
+ramen,frame_00119,sake cup,deep,1,1179,1,0.0
+ramen,frame_00119,sake cup,deep,1,67,1,0.0
+ramen,frame_00119,sake cup,deep,2,65,1,0.0
+ramen,frame_00119,sake cup,deep,2,24,1,0.0
+ramen,frame_00119,sake cup,deep,2,29,1,0.928571
+ramen,frame_00119,sake cup,deep,2,45,1,0.0
+ramen,frame_00119,sake cup,deep,2,37,1,0.0
+ramen,frame_00119,sake cup,deep,2,314,1,0.0
+ramen,frame_00119,sake cup,deep,2,12,1,0.0
+ramen,frame_00119,sake cup,deep,2,94,1,0.0
+ramen,frame_00119,sake cup,deep,2,328,1,0.0
+ramen,frame_00119,sake cup,deep,2,190,1,0.0
+ramen,frame_00119,sake cup,deep,3,44,1,0.0
+ramen,frame_00119,sake cup,deep,3,20,1,0.0
+ramen,frame_00119,sake cup,deep,3,24,1,0.928571
+ramen,frame_00119,sake cup,deep,3,10,1,0.0
+ramen,frame_00119,sake cup,deep,3,32,1,0.0
+ramen,frame_00119,sake cup,deep,3,34,1,0.000193
+ramen,frame_00119,sake cup,deep,3,166,1,0.0
+ramen,frame_00119,sake cup,deep,3,139,1,0.0
+ramen,frame_00119,sake cup,deep,3,65,1,0.0
+ramen,frame_00119,sake cup,deep,3,173,1,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.134267
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.141315
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.715899
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.829516
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,4,0.134267
+ramen,frame_00119,sake cup,combo,-1,-1,4,0.141315
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.928571
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.143931
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.715899
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.829516
+ramen,frame_00119,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,c0,-1,-1,2,0.847007
+ramen,frame_00119,chopsticks,root,3,8,1,0.847007
+ramen,frame_00119,chopsticks,root,3,200,1,0.0
+ramen,frame_00119,chopsticks,root,3,187,1,0.0
+ramen,frame_00119,chopsticks,root,3,66,1,0.0
+ramen,frame_00119,chopsticks,root,3,190,1,0.0
+ramen,frame_00119,chopsticks,hier,3,8,1,0.847007
+ramen,frame_00119,chopsticks,hier,3,200,1,0.0
+ramen,frame_00119,chopsticks,hier,3,187,1,0.0
+ramen,frame_00119,chopsticks,hier,3,66,1,0.0
+ramen,frame_00119,chopsticks,hier,3,190,1,0.0
+ramen,frame_00119,chopsticks,deep,1,16,1,0.532979
+ramen,frame_00119,chopsticks,deep,1,456,1,0.0
+ramen,frame_00119,chopsticks,deep,1,15,1,0.378364
+ramen,frame_00119,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00119,chopsticks,deep,1,336,1,0.0
+ramen,frame_00119,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00119,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00119,chopsticks,deep,1,638,1,0.0
+ramen,frame_00119,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00119,chopsticks,deep,2,7,1,0.847007
+ramen,frame_00119,chopsticks,deep,2,374,1,0.0
+ramen,frame_00119,chopsticks,deep,2,373,1,0.0
+ramen,frame_00119,chopsticks,deep,2,312,1,0.0
+ramen,frame_00119,chopsticks,deep,2,251,1,0.0
+ramen,frame_00119,chopsticks,deep,2,78,1,0.0
+ramen,frame_00119,chopsticks,deep,2,9,1,0.0
+ramen,frame_00119,chopsticks,deep,2,481,1,0.0
+ramen,frame_00119,chopsticks,deep,2,215,1,0.0
+ramen,frame_00119,chopsticks,deep,2,359,1,0.0
+ramen,frame_00119,chopsticks,deep,3,8,1,0.847007
+ramen,frame_00119,chopsticks,deep,3,200,1,0.0
+ramen,frame_00119,chopsticks,deep,3,187,1,0.0
+ramen,frame_00119,chopsticks,deep,3,66,1,0.0
+ramen,frame_00119,chopsticks,deep,3,190,1,0.0
+ramen,frame_00119,chopsticks,deep,3,106,1,0.0
+ramen,frame_00119,chopsticks,deep,3,156,1,0.0
+ramen,frame_00119,chopsticks,deep,3,213,1,0.0
+ramen,frame_00119,chopsticks,deep,3,186,1,0.0
+ramen,frame_00119,chopsticks,deep,3,43,1,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,3,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,3,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,3,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.847007
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,c0,-1,-1,2,0.74175
+ramen,frame_00119,wavy noodles,root,3,17,1,0.0
+ramen,frame_00119,wavy noodles,root,3,16,1,0.180771
+ramen,frame_00119,wavy noodles,root,3,65,1,0.0
+ramen,frame_00119,wavy noodles,root,3,73,1,0.0
+ramen,frame_00119,wavy noodles,root,3,91,1,0.0
+ramen,frame_00119,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00119,wavy noodles,hier,2,31,1,0.789883
+ramen,frame_00119,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00119,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00119,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00119,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00119,wavy noodles,deep,1,88,1,0.810371
+ramen,frame_00119,wavy noodles,deep,1,205,1,0.007218
+ramen,frame_00119,wavy noodles,deep,1,83,1,0.02756
+ramen,frame_00119,wavy noodles,deep,1,432,1,0.018113
+ramen,frame_00119,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,31,1,0.789883
+ramen,frame_00119,wavy noodles,deep,2,69,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00119,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,16,1,0.180771
+ramen,frame_00119,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00119,wavy noodles,deep,3,12,1,0.007306
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.789865
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.789883
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.789883
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,combo,-1,-1,3,0.741735
+ramen,frame_00119,wavy noodles,combo,-1,-1,3,0.74175
+ramen,frame_00119,wavy noodles,combo,-1,-1,3,0.74175
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.74175
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,c0,2,39,1,0.877196
+ramen,frame_00119,kamaboko,root,3,16,1,0.063658
+ramen,frame_00119,kamaboko,root,3,8,1,0.0
+ramen,frame_00119,kamaboko,root,3,145,1,0.0
+ramen,frame_00119,kamaboko,root,3,11,1,0.0
+ramen,frame_00119,kamaboko,root,3,36,1,0.0
+ramen,frame_00119,kamaboko,hier,2,39,1,0.877196
+ramen,frame_00119,kamaboko,hier,3,8,1,0.0
+ramen,frame_00119,kamaboko,hier,3,145,1,0.0
+ramen,frame_00119,kamaboko,hier,2,118,1,0.0
+ramen,frame_00119,kamaboko,hier,2,51,1,0.0
+ramen,frame_00119,kamaboko,hier,2,50,1,0.0
+ramen,frame_00119,kamaboko,hier,2,414,1,0.0
+ramen,frame_00119,kamaboko,hier,2,215,1,0.0
+ramen,frame_00119,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00119,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00119,kamaboko,deep,1,102,1,0.86263
+ramen,frame_00119,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00119,kamaboko,deep,1,129,1,0.0
+ramen,frame_00119,kamaboko,deep,1,358,1,0.0
+ramen,frame_00119,kamaboko,deep,1,456,1,0.0
+ramen,frame_00119,kamaboko,deep,1,307,1,0.0068
+ramen,frame_00119,kamaboko,deep,1,16,1,0.0
+ramen,frame_00119,kamaboko,deep,1,15,1,0.0
+ramen,frame_00119,kamaboko,deep,2,39,1,0.877196
+ramen,frame_00119,kamaboko,deep,2,273,1,0.0
+ramen,frame_00119,kamaboko,deep,2,7,1,0.0
+ramen,frame_00119,kamaboko,deep,2,109,1,0.0068
+ramen,frame_00119,kamaboko,deep,2,251,1,0.0
+ramen,frame_00119,kamaboko,deep,2,20,1,0.000966
+ramen,frame_00119,kamaboko,deep,2,8,1,0.0
+ramen,frame_00119,kamaboko,deep,2,193,1,0.001524
+ramen,frame_00119,kamaboko,deep,2,118,1,0.0
+ramen,frame_00119,kamaboko,deep,2,51,1,0.0
+ramen,frame_00119,kamaboko,deep,3,16,1,0.063658
+ramen,frame_00119,kamaboko,deep,3,8,1,0.0
+ramen,frame_00119,kamaboko,deep,3,145,1,0.0
+ramen,frame_00119,kamaboko,deep,3,11,1,0.0
+ramen,frame_00119,kamaboko,deep,3,36,1,0.0
+ramen,frame_00119,kamaboko,deep,3,161,1,0.0
+ramen,frame_00119,kamaboko,deep,3,101,1,0.0
+ramen,frame_00119,kamaboko,deep,3,210,1,0.0
+ramen,frame_00119,kamaboko,deep,3,65,1,0.0
+ramen,frame_00119,kamaboko,deep,3,15,1,0.0
+ramen,frame_00119,kamaboko,combo,3,8,1,0.0
+ramen,frame_00119,kamaboko,combo,3,145,1,0.0
+ramen,frame_00119,kamaboko,combo,2,118,1,0.0
+ramen,frame_00119,kamaboko,combo,2,51,1,0.0
+ramen,frame_00119,kamaboko,combo,2,50,1,0.0
+ramen,frame_00119,kamaboko,combo,2,414,1,0.0
+ramen,frame_00119,kamaboko,combo,2,215,1,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.607776
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.877196
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.877196
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.828529
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.577016
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.877196
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.877196
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,c0,2,105,1,0.0
+ramen,frame_00119,corn,root,3,190,1,0.0
+ramen,frame_00119,corn,root,3,187,1,0.0
+ramen,frame_00119,corn,root,3,5,1,0.0
+ramen,frame_00119,corn,root,3,63,1,0.0
+ramen,frame_00119,corn,root,3,12,1,0.0
+ramen,frame_00119,corn,hier,2,105,1,0.0
+ramen,frame_00119,corn,hier,2,11,1,0.0
+ramen,frame_00119,corn,hier,3,190,1,0.0
+ramen,frame_00119,corn,hier,2,4,1,0.0
+ramen,frame_00119,corn,hier,3,187,1,0.0
+ramen,frame_00119,corn,hier,2,15,1,0.0
+ramen,frame_00119,corn,hier,2,10,1,0.0
+ramen,frame_00119,corn,hier,3,63,1,0.0
+ramen,frame_00119,corn,deep,1,255,1,0.0
+ramen,frame_00119,corn,deep,1,246,1,0.0
+ramen,frame_00119,corn,deep,1,83,1,0.0
+ramen,frame_00119,corn,deep,1,435,1,0.0
+ramen,frame_00119,corn,deep,1,458,1,0.0
+ramen,frame_00119,corn,deep,1,426,1,0.0
+ramen,frame_00119,corn,deep,1,245,1,0.0
+ramen,frame_00119,corn,deep,1,440,1,0.0
+ramen,frame_00119,corn,deep,2,40,1,0.0
+ramen,frame_00119,corn,deep,2,137,1,0.444285
+ramen,frame_00119,corn,deep,2,53,1,0.003835
+ramen,frame_00119,corn,deep,2,87,1,0.0
+ramen,frame_00119,corn,deep,2,80,1,0.0
+ramen,frame_00119,corn,deep,2,38,1,0.008814
+ramen,frame_00119,corn,deep,2,69,1,0.0
+ramen,frame_00119,corn,deep,2,36,1,0.0
+ramen,frame_00119,corn,deep,2,31,1,0.0
+ramen,frame_00119,corn,deep,2,47,1,0.0
+ramen,frame_00119,corn,deep,3,190,1,0.0
+ramen,frame_00119,corn,deep,3,187,1,0.0
+ramen,frame_00119,corn,deep,3,5,1,0.0
+ramen,frame_00119,corn,deep,3,63,1,0.0
+ramen,frame_00119,corn,deep,3,12,1,0.0
+ramen,frame_00119,corn,deep,3,141,1,0.0
+ramen,frame_00119,corn,deep,3,161,1,0.0
+ramen,frame_00119,corn,deep,3,60,1,0.0
+ramen,frame_00119,corn,deep,3,78,1,0.0
+ramen,frame_00119,corn,deep,3,145,1,0.0
+ramen,frame_00119,corn,combo,2,11,1,0.0
+ramen,frame_00119,corn,combo,3,190,1,0.0
+ramen,frame_00119,corn,combo,2,4,1,0.0
+ramen,frame_00119,corn,combo,3,187,1,0.0
+ramen,frame_00119,corn,combo,2,15,1,0.0
+ramen,frame_00119,corn,combo,2,10,1,0.0
+ramen,frame_00119,corn,combo,3,63,1,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,corn,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00119,onion segments,root,3,7,1,0.0
+ramen,frame_00119,onion segments,root,3,190,1,0.0
+ramen,frame_00119,onion segments,root,3,187,1,0.0
+ramen,frame_00119,onion segments,root,3,73,1,0.0
+ramen,frame_00119,onion segments,root,3,109,1,0.0
+ramen,frame_00119,onion segments,hier,2,127,1,0.0
+ramen,frame_00119,onion segments,hier,2,6,1,0.0
+ramen,frame_00119,onion segments,hier,2,192,1,0.0
+ramen,frame_00119,onion segments,hier,3,190,1,0.0
+ramen,frame_00119,onion segments,hier,2,194,1,0.0
+ramen,frame_00119,onion segments,hier,3,187,1,0.0
+ramen,frame_00119,onion segments,hier,3,109,1,0.0
+ramen,frame_00119,onion segments,deep,1,96,1,0.0
+ramen,frame_00119,onion segments,deep,1,259,1,0.0
+ramen,frame_00119,onion segments,deep,1,61,1,0.001031
+ramen,frame_00119,onion segments,deep,1,230,1,0.0
+ramen,frame_00119,onion segments,deep,1,104,1,0.0
+ramen,frame_00119,onion segments,deep,1,123,1,0.0
+ramen,frame_00119,onion segments,deep,1,358,1,0.0
+ramen,frame_00119,onion segments,deep,1,432,1,0.0
+ramen,frame_00119,onion segments,deep,1,421,1,0.0
+ramen,frame_00119,onion segments,deep,1,88,1,0.0
+ramen,frame_00119,onion segments,deep,2,36,1,0.0
+ramen,frame_00119,onion segments,deep,2,47,1,0.0
+ramen,frame_00119,onion segments,deep,2,193,1,0.0
+ramen,frame_00119,onion segments,deep,2,20,1,0.002481
+ramen,frame_00119,onion segments,deep,2,31,1,0.0
+ramen,frame_00119,onion segments,deep,2,39,1,0.0
+ramen,frame_00119,onion segments,deep,2,137,1,0.0
+ramen,frame_00119,onion segments,deep,2,87,1,0.009065
+ramen,frame_00119,onion segments,deep,2,38,1,0.0
+ramen,frame_00119,onion segments,deep,2,40,1,0.856366
+ramen,frame_00119,onion segments,deep,3,7,1,0.0
+ramen,frame_00119,onion segments,deep,3,190,1,0.0
+ramen,frame_00119,onion segments,deep,3,187,1,0.0
+ramen,frame_00119,onion segments,deep,3,73,1,0.0
+ramen,frame_00119,onion segments,deep,3,109,1,0.0
+ramen,frame_00119,onion segments,deep,3,76,1,0.0
+ramen,frame_00119,onion segments,deep,3,18,1,0.0
+ramen,frame_00119,onion segments,deep,3,11,1,0.0
+ramen,frame_00119,onion segments,deep,3,110,1,0.0
+ramen,frame_00119,onion segments,deep,3,51,1,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00119,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,glass of water,c0,-1,-1,3,0.734823
+ramen,frame_00128,glass of water,root,3,20,1,0.734823
+ramen,frame_00128,glass of water,root,3,15,1,0.0
+ramen,frame_00128,glass of water,root,3,166,1,0.0
+ramen,frame_00128,glass of water,root,3,10,1,0.023522
+ramen,frame_00128,glass of water,hier,3,20,1,0.734823
+ramen,frame_00128,glass of water,hier,3,15,1,0.0
+ramen,frame_00128,glass of water,hier,3,166,1,0.0
+ramen,frame_00128,glass of water,hier,3,10,1,0.023522
+ramen,frame_00128,glass of water,deep,1,1797,1,0.0
+ramen,frame_00128,glass of water,deep,1,1179,1,0.0
+ramen,frame_00128,glass of water,deep,1,720,1,0.0
+ramen,frame_00128,glass of water,deep,1,685,1,0.0
+ramen,frame_00128,glass of water,deep,1,95,1,0.0
+ramen,frame_00128,glass of water,deep,1,873,1,0.0
+ramen,frame_00128,glass of water,deep,1,82,1,0.0
+ramen,frame_00128,glass of water,deep,2,388,1,0.0
+ramen,frame_00128,glass of water,deep,2,24,1,0.40692
+ramen,frame_00128,glass of water,deep,2,18,1,0.0
+ramen,frame_00128,glass of water,deep,2,328,1,0.0
+ramen,frame_00128,glass of water,deep,2,37,1,0.324109
+ramen,frame_00128,glass of water,deep,2,81,1,0.0
+ramen,frame_00128,glass of water,deep,2,314,1,0.0
+ramen,frame_00128,glass of water,deep,2,140,1,0.0
+ramen,frame_00128,glass of water,deep,2,321,1,0.0
+ramen,frame_00128,glass of water,deep,2,120,1,0.0
+ramen,frame_00128,glass of water,deep,3,20,1,0.734823
+ramen,frame_00128,glass of water,deep,3,15,1,0.0
+ramen,frame_00128,glass of water,deep,3,166,1,0.0
+ramen,frame_00128,glass of water,deep,3,10,1,0.023522
+ramen,frame_00128,glass of water,deep,3,38,1,0.0
+ramen,frame_00128,glass of water,deep,3,223,1,0.0
+ramen,frame_00128,glass of water,deep,3,61,1,0.0
+ramen,frame_00128,glass of water,deep,3,210,1,0.0
+ramen,frame_00128,glass of water,deep,3,140,1,0.0
+ramen,frame_00128,glass of water,deep,3,41,1,0.0
+ramen,frame_00128,glass of water,combo,-1,-1,3,0.023522
+ramen,frame_00128,glass of water,combo,-1,-1,3,0.78363
+ramen,frame_00128,glass of water,combo,-1,-1,3,0.78363
+ramen,frame_00128,glass of water,combo,-1,-1,4,0.78363
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.734823
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.734823
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.78363
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.0
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.023522
+ramen,frame_00128,glass of water,combo,-1,-1,2,0.023522
+ramen,frame_00128,nori,c0,-1,-1,3,0.864631
+ramen,frame_00128,nori,root,3,92,1,0.0
+ramen,frame_00128,nori,root,3,5,1,0.954403
+ramen,frame_00128,nori,root,3,16,1,8.5e-05
+ramen,frame_00128,nori,root,3,141,1,0.0
+ramen,frame_00128,nori,root,3,63,1,0.0
+ramen,frame_00128,nori,hier,3,92,1,0.0
+ramen,frame_00128,nori,hier,2,40,1,0.000179
+ramen,frame_00128,nori,hier,3,5,1,0.954403
+ramen,frame_00128,nori,hier,2,316,1,0.0
+ramen,frame_00128,nori,hier,3,63,1,0.0
+ramen,frame_00128,nori,deep,1,8,1,0.301709
+ramen,frame_00128,nori,deep,1,9,1,0.042608
+ramen,frame_00128,nori,deep,1,508,1,0.001258
+ramen,frame_00128,nori,deep,1,1588,1,0.001522
+ramen,frame_00128,nori,deep,1,10,1,0.0
+ramen,frame_00128,nori,deep,1,246,1,0.0
+ramen,frame_00128,nori,deep,1,1499,1,0.0
+ramen,frame_00128,nori,deep,2,163,1,0.0
+ramen,frame_00128,nori,deep,2,40,1,0.000179
+ramen,frame_00128,nori,deep,2,4,1,0.370075
+ramen,frame_00128,nori,deep,2,10,1,0.605166
+ramen,frame_00128,nori,deep,2,105,1,0.001012
+ramen,frame_00128,nori,deep,2,195,1,0.0
+ramen,frame_00128,nori,deep,2,316,1,0.0
+ramen,frame_00128,nori,deep,2,155,1,0.0
+ramen,frame_00128,nori,deep,2,87,1,0.0
+ramen,frame_00128,nori,deep,2,485,1,0.0
+ramen,frame_00128,nori,deep,3,92,1,0.0
+ramen,frame_00128,nori,deep,3,5,1,0.954403
+ramen,frame_00128,nori,deep,3,16,1,8.5e-05
+ramen,frame_00128,nori,deep,3,141,1,0.0
+ramen,frame_00128,nori,deep,3,63,1,0.0
+ramen,frame_00128,nori,deep,3,8,1,0.0
+ramen,frame_00128,nori,deep,3,17,1,0.0
+ramen,frame_00128,nori,deep,3,42,1,0.0
+ramen,frame_00128,nori,deep,3,179,1,0.0
+ramen,frame_00128,nori,deep,3,91,1,0.0
+ramen,frame_00128,nori,combo,-1,-1,3,0.865925
+ramen,frame_00128,nori,combo,-1,-1,3,0.865925
+ramen,frame_00128,nori,combo,-1,-1,3,0.95337
+ramen,frame_00128,nori,combo,-1,-1,3,0.95337
+ramen,frame_00128,nori,combo,-1,-1,3,0.000796
+ramen,frame_00128,nori,combo,-1,-1,3,0.000796
+ramen,frame_00128,nori,combo,-1,-1,4,0.864631
+ramen,frame_00128,nori,combo,-1,-1,4,0.864631
+ramen,frame_00128,nori,combo,-1,-1,2,0.000796
+ramen,frame_00128,nori,combo,-1,-1,2,0.95337
+ramen,frame_00128,nori,combo,-1,-1,2,0.0
+ramen,frame_00128,nori,combo,-1,-1,2,0.0
+ramen,frame_00128,nori,combo,-1,-1,2,0.865925
+ramen,frame_00128,nori,combo,-1,-1,2,0.000179
+ramen,frame_00128,nori,combo,-1,-1,2,0.000179
+ramen,frame_00128,nori,combo,-1,-1,2,0.954403
+ramen,frame_00128,nori,combo,-1,-1,2,0.954403
+ramen,frame_00128,nori,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,c0,-1,-1,2,0.905153
+ramen,frame_00128,egg,root,3,16,1,0.203702
+ramen,frame_00128,egg,root,3,65,1,0.0
+ramen,frame_00128,egg,root,3,12,1,0.0
+ramen,frame_00128,egg,root,3,73,1,0.0
+ramen,frame_00128,egg,root,3,92,1,0.0
+ramen,frame_00128,egg,hier,2,47,1,0.60419
+ramen,frame_00128,egg,hier,2,36,1,0.344835
+ramen,frame_00128,egg,hier,2,416,1,0.0
+ramen,frame_00128,egg,hier,3,12,1,0.0
+ramen,frame_00128,egg,hier,3,73,1,0.0
+ramen,frame_00128,egg,hier,3,92,1,0.0
+ramen,frame_00128,egg,deep,1,123,1,0.59584
+ramen,frame_00128,egg,deep,1,96,1,0.345678
+ramen,frame_00128,egg,deep,1,180,1,0.008438
+ramen,frame_00128,egg,deep,1,259,1,0.001228
+ramen,frame_00128,egg,deep,1,548,1,0.0
+ramen,frame_00128,egg,deep,2,47,1,0.60419
+ramen,frame_00128,egg,deep,2,36,1,0.344835
+ramen,frame_00128,egg,deep,2,193,1,0.000402
+ramen,frame_00128,egg,deep,2,66,1,0.00058
+ramen,frame_00128,egg,deep,2,39,1,0.000318
+ramen,frame_00128,egg,deep,2,99,1,0.0
+ramen,frame_00128,egg,deep,2,15,1,0.0
+ramen,frame_00128,egg,deep,2,109,1,0.0
+ramen,frame_00128,egg,deep,2,37,1,0.0
+ramen,frame_00128,egg,deep,2,69,1,0.0
+ramen,frame_00128,egg,deep,3,16,1,0.203702
+ramen,frame_00128,egg,deep,3,65,1,0.0
+ramen,frame_00128,egg,deep,3,12,1,0.0
+ramen,frame_00128,egg,deep,3,73,1,0.0
+ramen,frame_00128,egg,deep,3,92,1,0.0
+ramen,frame_00128,egg,deep,3,51,1,0.0
+ramen,frame_00128,egg,deep,3,7,1,0.0
+ramen,frame_00128,egg,deep,3,17,1,0.0
+ramen,frame_00128,egg,deep,3,20,1,0.0
+ramen,frame_00128,egg,deep,3,76,1,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.344835
+ramen,frame_00128,egg,combo,-1,-1,2,0.082213
+ramen,frame_00128,egg,combo,-1,-1,2,0.344835
+ramen,frame_00128,egg,combo,-1,-1,2,0.344109
+ramen,frame_00128,egg,combo,-1,-1,2,0.60419
+ramen,frame_00128,egg,combo,-1,-1,2,0.142023
+ramen,frame_00128,egg,combo,-1,-1,2,0.60419
+ramen,frame_00128,egg,combo,-1,-1,2,0.602893
+ramen,frame_00128,egg,combo,-1,-1,3,0.905153
+ramen,frame_00128,egg,combo,-1,-1,3,0.221632
+ramen,frame_00128,egg,combo,-1,-1,3,0.905153
+ramen,frame_00128,egg,combo,-1,-1,3,0.903312
+ramen,frame_00128,egg,combo,-1,-1,2,0.905153
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,egg,combo,-1,-1,2,0.0
+ramen,frame_00128,sake cup,c0,-1,-1,3,0.032848
+ramen,frame_00128,sake cup,root,3,44,1,0.0
+ramen,frame_00128,sake cup,root,3,20,1,0.0
+ramen,frame_00128,sake cup,root,3,24,1,0.199531
+ramen,frame_00128,sake cup,root,3,10,1,0.0
+ramen,frame_00128,sake cup,root,3,32,1,0.769001
+ramen,frame_00128,sake cup,hier,3,44,1,0.0
+ramen,frame_00128,sake cup,hier,3,20,1,0.0
+ramen,frame_00128,sake cup,hier,3,24,1,0.199531
+ramen,frame_00128,sake cup,hier,3,10,1,0.0
+ramen,frame_00128,sake cup,hier,3,32,1,0.769001
+ramen,frame_00128,sake cup,deep,1,161,1,0.0
+ramen,frame_00128,sake cup,deep,1,378,1,0.0
+ramen,frame_00128,sake cup,deep,1,1085,1,0.0
+ramen,frame_00128,sake cup,deep,1,1165,1,0.0
+ramen,frame_00128,sake cup,deep,1,1179,1,0.0
+ramen,frame_00128,sake cup,deep,1,67,1,0.0
+ramen,frame_00128,sake cup,deep,2,65,1,0.0
+ramen,frame_00128,sake cup,deep,2,24,1,0.0
+ramen,frame_00128,sake cup,deep,2,29,1,0.199531
+ramen,frame_00128,sake cup,deep,2,45,1,0.769001
+ramen,frame_00128,sake cup,deep,2,37,1,0.0
+ramen,frame_00128,sake cup,deep,2,314,1,0.0
+ramen,frame_00128,sake cup,deep,2,12,1,0.0
+ramen,frame_00128,sake cup,deep,2,94,1,0.0
+ramen,frame_00128,sake cup,deep,2,328,1,0.0
+ramen,frame_00128,sake cup,deep,2,190,1,0.0
+ramen,frame_00128,sake cup,deep,3,44,1,0.0
+ramen,frame_00128,sake cup,deep,3,20,1,0.0
+ramen,frame_00128,sake cup,deep,3,24,1,0.199531
+ramen,frame_00128,sake cup,deep,3,10,1,0.0
+ramen,frame_00128,sake cup,deep,3,32,1,0.769001
+ramen,frame_00128,sake cup,deep,3,34,1,0.000949
+ramen,frame_00128,sake cup,deep,3,166,1,0.0
+ramen,frame_00128,sake cup,deep,3,139,1,0.0
+ramen,frame_00128,sake cup,deep,3,65,1,0.0
+ramen,frame_00128,sake cup,deep,3,173,1,0.0
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.046052
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.238942
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.064452
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.326864
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.0
+ramen,frame_00128,sake cup,combo,-1,-1,3,0.128905
+ramen,frame_00128,sake cup,combo,-1,-1,4,0.031595
+ramen,frame_00128,sake cup,combo,-1,-1,4,0.161366
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.066899
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.261559
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.048763
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.0
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.191029
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.179231
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.954756
+ramen,frame_00128,sake cup,combo,-1,-1,2,0.692276
+ramen,frame_00128,bowl,c0,3,44,1,0.311601
+ramen,frame_00128,bowl,root,3,44,1,0.311601
+ramen,frame_00128,bowl,root,3,65,1,0.0
+ramen,frame_00128,bowl,root,3,12,1,0.612516
+ramen,frame_00128,bowl,root,3,34,1,0.007472
+ramen,frame_00128,bowl,root,3,73,1,0.0
+ramen,frame_00128,bowl,hier,3,44,1,0.311601
+ramen,frame_00128,bowl,hier,3,65,1,0.0
+ramen,frame_00128,bowl,hier,3,12,1,0.612516
+ramen,frame_00128,bowl,hier,3,34,1,0.007472
+ramen,frame_00128,bowl,hier,3,73,1,0.0
+ramen,frame_00128,bowl,deep,1,161,1,0.253041
+ramen,frame_00128,bowl,deep,1,1085,1,0.003765
+ramen,frame_00128,bowl,deep,1,378,1,0.0
+ramen,frame_00128,bowl,deep,1,111,1,0.0
+ramen,frame_00128,bowl,deep,1,1165,1,0.0
+ramen,frame_00128,bowl,deep,1,330,1,0.0
+ramen,frame_00128,bowl,deep,1,51,1,0.621867
+ramen,frame_00128,bowl,deep,1,1241,1,0.0
+ramen,frame_00128,bowl,deep,2,65,1,0.268547
+ramen,frame_00128,bowl,deep,2,15,1,0.616769
+ramen,frame_00128,bowl,deep,2,190,1,0.0
+ramen,frame_00128,bowl,deep,2,250,1,0.0
+ramen,frame_00128,bowl,deep,2,114,1,0.0
+ramen,frame_00128,bowl,deep,2,17,1,0.0
+ramen,frame_00128,bowl,deep,2,314,1,0.0
+ramen,frame_00128,bowl,deep,2,57,1,0.0
+ramen,frame_00128,bowl,deep,2,97,1,0.0
+ramen,frame_00128,bowl,deep,2,192,1,0.0
+ramen,frame_00128,bowl,deep,3,44,1,0.311601
+ramen,frame_00128,bowl,deep,3,65,1,0.0
+ramen,frame_00128,bowl,deep,3,12,1,0.612516
+ramen,frame_00128,bowl,deep,3,34,1,0.007472
+ramen,frame_00128,bowl,deep,3,73,1,0.0
+ramen,frame_00128,bowl,deep,3,14,1,0.0
+ramen,frame_00128,bowl,deep,3,7,1,0.0
+ramen,frame_00128,bowl,deep,3,51,1,0.000151
+ramen,frame_00128,bowl,deep,3,204,1,0.0
+ramen,frame_00128,bowl,deep,3,77,1,0.0
+ramen,frame_00128,bowl,combo,3,65,1,0.0
+ramen,frame_00128,bowl,combo,3,12,1,0.612516
+ramen,frame_00128,bowl,combo,3,34,1,0.007472
+ramen,frame_00128,bowl,combo,3,73,1,0.0
+ramen,frame_00128,bowl,combo,-1,-1,2,0.311601
+ramen,frame_00128,bowl,combo,-1,-1,2,0.89232
+ramen,frame_00128,bowl,combo,-1,-1,2,0.274339
+ramen,frame_00128,bowl,combo,-1,-1,2,0.311601
+ramen,frame_00128,bowl,combo,-1,-1,2,0.612877
+ramen,frame_00128,bowl,combo,-1,-1,2,0.007472
+ramen,frame_00128,bowl,combo,-1,-1,2,0.0
+ramen,frame_00128,bowl,combo,-1,-1,2,0.536464
+ramen,frame_00128,bowl,combo,-1,-1,2,0.612487
+ramen,frame_00128,bowl,combo,-1,-1,2,0.007472
+ramen,frame_00128,chopsticks,c0,-1,-1,2,0.877485
+ramen,frame_00128,chopsticks,root,3,8,1,0.877485
+ramen,frame_00128,chopsticks,root,3,200,1,0.0
+ramen,frame_00128,chopsticks,root,3,187,1,0.0
+ramen,frame_00128,chopsticks,root,3,66,1,0.0
+ramen,frame_00128,chopsticks,root,3,190,1,0.0
+ramen,frame_00128,chopsticks,hier,3,8,1,0.877485
+ramen,frame_00128,chopsticks,hier,3,200,1,0.0
+ramen,frame_00128,chopsticks,hier,3,187,1,0.0
+ramen,frame_00128,chopsticks,hier,3,66,1,0.0
+ramen,frame_00128,chopsticks,hier,3,190,1,0.0
+ramen,frame_00128,chopsticks,deep,1,16,1,0.371931
+ramen,frame_00128,chopsticks,deep,1,456,1,0.0
+ramen,frame_00128,chopsticks,deep,1,15,1,0.527636
+ramen,frame_00128,chopsticks,deep,1,1182,1,0.0
+ramen,frame_00128,chopsticks,deep,1,336,1,0.0
+ramen,frame_00128,chopsticks,deep,1,1538,1,0.0
+ramen,frame_00128,chopsticks,deep,1,1135,1,0.0
+ramen,frame_00128,chopsticks,deep,1,638,1,0.006162
+ramen,frame_00128,chopsticks,deep,1,1140,1,0.0
+ramen,frame_00128,chopsticks,deep,2,7,1,0.877485
+ramen,frame_00128,chopsticks,deep,2,374,1,0.0
+ramen,frame_00128,chopsticks,deep,2,373,1,0.0
+ramen,frame_00128,chopsticks,deep,2,312,1,0.0
+ramen,frame_00128,chopsticks,deep,2,251,1,0.0
+ramen,frame_00128,chopsticks,deep,2,78,1,0.0
+ramen,frame_00128,chopsticks,deep,2,9,1,0.02252
+ramen,frame_00128,chopsticks,deep,2,481,1,0.0
+ramen,frame_00128,chopsticks,deep,2,215,1,0.0
+ramen,frame_00128,chopsticks,deep,2,359,1,0.0
+ramen,frame_00128,chopsticks,deep,3,8,1,0.877485
+ramen,frame_00128,chopsticks,deep,3,200,1,0.0
+ramen,frame_00128,chopsticks,deep,3,187,1,0.0
+ramen,frame_00128,chopsticks,deep,3,66,1,0.0
+ramen,frame_00128,chopsticks,deep,3,190,1,0.0
+ramen,frame_00128,chopsticks,deep,3,106,1,0.0
+ramen,frame_00128,chopsticks,deep,3,156,1,0.0
+ramen,frame_00128,chopsticks,deep,3,213,1,0.0
+ramen,frame_00128,chopsticks,deep,3,186,1,0.0
+ramen,frame_00128,chopsticks,deep,3,43,1,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,3,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,3,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,3,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.877485
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,chopsticks,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,c0,-1,-1,2,0.504143
+ramen,frame_00128,wavy noodles,root,3,17,1,0.0
+ramen,frame_00128,wavy noodles,root,3,16,1,0.181981
+ramen,frame_00128,wavy noodles,root,3,65,1,0.0
+ramen,frame_00128,wavy noodles,root,3,73,1,0.0
+ramen,frame_00128,wavy noodles,root,3,91,1,0.0
+ramen,frame_00128,wavy noodles,hier,2,21,1,0.0
+ramen,frame_00128,wavy noodles,hier,2,31,1,0.812144
+ramen,frame_00128,wavy noodles,hier,2,416,1,0.0
+ramen,frame_00128,wavy noodles,hier,3,73,1,0.0
+ramen,frame_00128,wavy noodles,hier,3,91,1,0.0
+ramen,frame_00128,wavy noodles,deep,1,63,1,0.0
+ramen,frame_00128,wavy noodles,deep,1,88,1,0.782483
+ramen,frame_00128,wavy noodles,deep,1,205,1,0.013821
+ramen,frame_00128,wavy noodles,deep,1,83,1,0.034955
+ramen,frame_00128,wavy noodles,deep,1,432,1,0.015147
+ramen,frame_00128,wavy noodles,deep,1,1488,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,21,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,31,1,0.812144
+ramen,frame_00128,wavy noodles,deep,2,69,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,240,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,292,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,193,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,64,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,114,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,288,1,0.0
+ramen,frame_00128,wavy noodles,deep,2,251,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,17,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,16,1,0.181981
+ramen,frame_00128,wavy noodles,deep,3,65,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,73,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,91,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,51,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,7,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,92,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,44,1,0.0
+ramen,frame_00128,wavy noodles,deep,3,12,1,0.015628
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.810348
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.812144
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.787186
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,combo,-1,-1,3,0.50345
+ramen,frame_00128,wavy noodles,combo,-1,-1,3,0.504143
+ramen,frame_00128,wavy noodles,combo,-1,-1,3,0.494364
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.504143
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,wavy noodles,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,c0,-1,-1,2,0.276158
+ramen,frame_00128,spoon,root,3,51,1,0.593273
+ramen,frame_00128,spoon,root,3,7,1,0.001362
+ramen,frame_00128,spoon,root,3,73,1,0.0
+ramen,frame_00128,spoon,root,3,110,1,0.0
+ramen,frame_00128,spoon,root,3,176,1,0.0
+ramen,frame_00128,spoon,hier,3,51,1,0.593273
+ramen,frame_00128,spoon,hier,2,57,1,0.000604
+ramen,frame_00128,spoon,hier,3,73,1,0.0
+ramen,frame_00128,spoon,hier,2,382,1,0.0
+ramen,frame_00128,spoon,hier,2,379,1,0.0
+ramen,frame_00128,spoon,hier,2,473,1,0.0
+ramen,frame_00128,spoon,hier,3,110,1,0.0
+ramen,frame_00128,spoon,deep,1,780,1,0.342827
+ramen,frame_00128,spoon,deep,1,143,1,0.0
+ramen,frame_00128,spoon,deep,1,1508,1,0.052885
+ramen,frame_00128,spoon,deep,1,194,1,0.291084
+ramen,frame_00128,spoon,deep,1,538,1,0.00056
+ramen,frame_00128,spoon,deep,1,133,1,0.0
+ramen,frame_00128,spoon,deep,1,410,1,0.0
+ramen,frame_00128,spoon,deep,2,75,1,0.593273
+ramen,frame_00128,spoon,deep,2,57,1,0.000604
+ramen,frame_00128,spoon,deep,2,6,1,0.000591
+ramen,frame_00128,spoon,deep,2,192,1,0.0
+ramen,frame_00128,spoon,deep,2,48,1,0.008196
+ramen,frame_00128,spoon,deep,2,127,1,0.0
+ramen,frame_00128,spoon,deep,2,30,1,0.0
+ramen,frame_00128,spoon,deep,2,199,1,0.0
+ramen,frame_00128,spoon,deep,2,265,1,0.0
+ramen,frame_00128,spoon,deep,3,51,1,0.593273
+ramen,frame_00128,spoon,deep,3,7,1,0.001362
+ramen,frame_00128,spoon,deep,3,73,1,0.0
+ramen,frame_00128,spoon,deep,3,110,1,0.0
+ramen,frame_00128,spoon,deep,3,176,1,0.0
+ramen,frame_00128,spoon,deep,3,34,1,0.124718
+ramen,frame_00128,spoon,deep,3,65,1,0.0
+ramen,frame_00128,spoon,deep,3,91,1,0.0
+ramen,frame_00128,spoon,deep,3,44,1,0.001778
+ramen,frame_00128,spoon,deep,3,154,1,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.000604
+ramen,frame_00128,spoon,combo,-1,-1,2,0.000604
+ramen,frame_00128,spoon,combo,-1,-1,2,0.000603
+ramen,frame_00128,spoon,combo,-1,-1,2,0.000604
+ramen,frame_00128,spoon,combo,-1,-1,2,0.000583
+ramen,frame_00128,spoon,combo,-1,-1,2,0.593273
+ramen,frame_00128,spoon,combo,-1,-1,2,0.593206
+ramen,frame_00128,spoon,combo,-1,-1,2,0.593273
+ramen,frame_00128,spoon,combo,-1,-1,2,0.593273
+ramen,frame_00128,spoon,combo,-1,-1,2,0.571735
+ramen,frame_00128,spoon,combo,-1,-1,3,0.276158
+ramen,frame_00128,spoon,combo,-1,-1,3,0.276139
+ramen,frame_00128,spoon,combo,-1,-1,3,0.275999
+ramen,frame_00128,spoon,combo,-1,-1,3,0.276158
+ramen,frame_00128,spoon,combo,-1,-1,3,0.268127
+ramen,frame_00128,spoon,combo,-1,-1,2,0.276158
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,spoon,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,c0,2,105,1,0.020455
+ramen,frame_00128,corn,root,3,190,1,0.0
+ramen,frame_00128,corn,root,3,187,1,0.0
+ramen,frame_00128,corn,root,3,5,1,0.001847
+ramen,frame_00128,corn,root,3,63,1,0.0
+ramen,frame_00128,corn,root,3,12,1,0.0
+ramen,frame_00128,corn,hier,2,105,1,0.020455
+ramen,frame_00128,corn,hier,2,11,1,0.0
+ramen,frame_00128,corn,hier,3,190,1,0.0
+ramen,frame_00128,corn,hier,2,4,1,0.0
+ramen,frame_00128,corn,hier,3,187,1,0.0
+ramen,frame_00128,corn,hier,2,15,1,0.0
+ramen,frame_00128,corn,hier,2,10,1,0.002093
+ramen,frame_00128,corn,hier,3,63,1,0.0
+ramen,frame_00128,corn,deep,1,255,1,0.0
+ramen,frame_00128,corn,deep,1,246,1,0.0
+ramen,frame_00128,corn,deep,1,83,1,0.0
+ramen,frame_00128,corn,deep,1,435,1,0.0
+ramen,frame_00128,corn,deep,1,458,1,0.0
+ramen,frame_00128,corn,deep,1,426,1,0.0
+ramen,frame_00128,corn,deep,1,245,1,0.0
+ramen,frame_00128,corn,deep,1,440,1,0.0
+ramen,frame_00128,corn,deep,2,40,1,0.0
+ramen,frame_00128,corn,deep,2,137,1,0.760274
+ramen,frame_00128,corn,deep,2,53,1,0.00684
+ramen,frame_00128,corn,deep,2,87,1,0.0
+ramen,frame_00128,corn,deep,2,80,1,0.005256
+ramen,frame_00128,corn,deep,2,38,1,0.003201
+ramen,frame_00128,corn,deep,2,69,1,0.0
+ramen,frame_00128,corn,deep,2,36,1,0.0
+ramen,frame_00128,corn,deep,2,31,1,0.0
+ramen,frame_00128,corn,deep,2,47,1,0.0
+ramen,frame_00128,corn,deep,3,190,1,0.0
+ramen,frame_00128,corn,deep,3,187,1,0.0
+ramen,frame_00128,corn,deep,3,5,1,0.001847
+ramen,frame_00128,corn,deep,3,63,1,0.0
+ramen,frame_00128,corn,deep,3,12,1,0.0
+ramen,frame_00128,corn,deep,3,141,1,0.0
+ramen,frame_00128,corn,deep,3,161,1,0.0
+ramen,frame_00128,corn,deep,3,60,1,0.0
+ramen,frame_00128,corn,deep,3,78,1,0.0
+ramen,frame_00128,corn,deep,3,145,1,0.0
+ramen,frame_00128,corn,combo,2,11,1,0.0
+ramen,frame_00128,corn,combo,3,190,1,0.0
+ramen,frame_00128,corn,combo,2,4,1,0.0
+ramen,frame_00128,corn,combo,3,187,1,0.0
+ramen,frame_00128,corn,combo,2,15,1,0.0
+ramen,frame_00128,corn,combo,2,10,1,0.002093
+ramen,frame_00128,corn,combo,3,63,1,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.014754
+ramen,frame_00128,corn,combo,-1,-1,2,0.020455
+ramen,frame_00128,corn,combo,-1,-1,2,0.001009
+ramen,frame_00128,corn,combo,-1,-1,2,0.020455
+ramen,frame_00128,corn,combo,-1,-1,2,0.000312
+ramen,frame_00128,corn,combo,-1,-1,2,0.002907
+ramen,frame_00128,corn,combo,-1,-1,2,0.020455
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.002069
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.002093
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,corn,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,c0,-1,-1,6,0.0
+ramen,frame_00128,onion segments,root,3,7,1,0.0
+ramen,frame_00128,onion segments,root,3,190,1,0.0
+ramen,frame_00128,onion segments,root,3,187,1,0.0
+ramen,frame_00128,onion segments,root,3,73,1,0.0
+ramen,frame_00128,onion segments,root,3,109,1,0.0
+ramen,frame_00128,onion segments,hier,2,127,1,0.0
+ramen,frame_00128,onion segments,hier,2,6,1,0.0
+ramen,frame_00128,onion segments,hier,2,192,1,0.0
+ramen,frame_00128,onion segments,hier,3,190,1,0.0
+ramen,frame_00128,onion segments,hier,2,194,1,0.0
+ramen,frame_00128,onion segments,hier,3,187,1,0.0
+ramen,frame_00128,onion segments,hier,3,109,1,0.0
+ramen,frame_00128,onion segments,deep,1,96,1,0.0
+ramen,frame_00128,onion segments,deep,1,259,1,0.0
+ramen,frame_00128,onion segments,deep,1,61,1,0.001558
+ramen,frame_00128,onion segments,deep,1,230,1,0.000193
+ramen,frame_00128,onion segments,deep,1,104,1,0.0
+ramen,frame_00128,onion segments,deep,1,123,1,0.0
+ramen,frame_00128,onion segments,deep,1,358,1,0.0
+ramen,frame_00128,onion segments,deep,1,432,1,0.0
+ramen,frame_00128,onion segments,deep,1,421,1,0.0
+ramen,frame_00128,onion segments,deep,1,88,1,0.0
+ramen,frame_00128,onion segments,deep,2,36,1,0.0
+ramen,frame_00128,onion segments,deep,2,47,1,0.0
+ramen,frame_00128,onion segments,deep,2,193,1,0.0
+ramen,frame_00128,onion segments,deep,2,20,1,0.005047
+ramen,frame_00128,onion segments,deep,2,31,1,0.0
+ramen,frame_00128,onion segments,deep,2,39,1,0.0
+ramen,frame_00128,onion segments,deep,2,137,1,0.0
+ramen,frame_00128,onion segments,deep,2,87,1,0.03721
+ramen,frame_00128,onion segments,deep,2,38,1,0.0
+ramen,frame_00128,onion segments,deep,2,40,1,0.829815
+ramen,frame_00128,onion segments,deep,3,7,1,0.0
+ramen,frame_00128,onion segments,deep,3,190,1,0.0
+ramen,frame_00128,onion segments,deep,3,187,1,0.0
+ramen,frame_00128,onion segments,deep,3,73,1,0.0
+ramen,frame_00128,onion segments,deep,3,109,1,0.0
+ramen,frame_00128,onion segments,deep,3,76,1,0.0
+ramen,frame_00128,onion segments,deep,3,18,1,0.0
+ramen,frame_00128,onion segments,deep,3,11,1,0.0
+ramen,frame_00128,onion segments,deep,3,110,1,0.0
+ramen,frame_00128,onion segments,deep,3,51,1,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,6,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,7,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,onion segments,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,c0,-1,-1,4,0.0
+ramen,frame_00128,hand,root,3,127,1,0.0
+ramen,frame_00128,hand,root,3,60,1,0.0
+ramen,frame_00128,hand,root,3,185,1,0.0
+ramen,frame_00128,hand,hier,2,399,1,0.0
+ramen,frame_00128,hand,hier,2,505,1,0.0
+ramen,frame_00128,hand,hier,2,487,1,0.0
+ramen,frame_00128,hand,hier,3,60,1,0.0
+ramen,frame_00128,hand,hier,3,185,1,0.0
+ramen,frame_00128,hand,deep,1,1411,1,0.0
+ramen,frame_00128,hand,deep,1,917,1,0.0
+ramen,frame_00128,hand,deep,1,1524,1,0.0
+ramen,frame_00128,hand,deep,1,78,1,0.0
+ramen,frame_00128,hand,deep,2,95,1,0.0
+ramen,frame_00128,hand,deep,2,241,1,0.0
+ramen,frame_00128,hand,deep,2,251,1,0.0
+ramen,frame_00128,hand,deep,2,273,1,0.0
+ramen,frame_00128,hand,deep,2,179,1,0.325868
+ramen,frame_00128,hand,deep,2,322,1,0.0
+ramen,frame_00128,hand,deep,2,414,1,0.0
+ramen,frame_00128,hand,deep,2,318,1,0.0
+ramen,frame_00128,hand,deep,2,404,1,0.0
+ramen,frame_00128,hand,deep,2,119,1,0.0
+ramen,frame_00128,hand,deep,3,127,1,0.0
+ramen,frame_00128,hand,deep,3,60,1,0.0
+ramen,frame_00128,hand,deep,3,185,1,0.0
+ramen,frame_00128,hand,deep,3,78,1,0.0
+ramen,frame_00128,hand,deep,3,98,1,0.325868
+ramen,frame_00128,hand,deep,3,43,1,0.0
+ramen,frame_00128,hand,deep,3,55,1,0.0
+ramen,frame_00128,hand,deep,3,224,1,0.0
+ramen,frame_00128,hand,deep,3,46,1,0.0
+ramen,frame_00128,hand,deep,3,170,1,0.0
+ramen,frame_00128,hand,combo,-1,-1,4,0.0
+ramen,frame_00128,hand,combo,-1,-1,4,0.0
+ramen,frame_00128,hand,combo,-1,-1,4,0.0
+ramen,frame_00128,hand,combo,-1,-1,4,0.0
+ramen,frame_00128,hand,combo,-1,-1,5,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,hand,combo,-1,-1,2,0.0
+ramen,frame_00128,plate,c0,-1,-1,4,0.622976
+ramen,frame_00128,plate,root,3,14,1,0.0
+ramen,frame_00128,plate,root,3,7,1,0.622933
+ramen,frame_00128,plate,root,3,126,1,0.0
+ramen,frame_00128,plate,root,3,73,1,0.0
+ramen,frame_00128,plate,root,3,51,1,0.071899
+ramen,frame_00128,plate,hier,2,17,1,0.0
+ramen,frame_00128,plate,hier,3,7,1,0.622933
+ramen,frame_00128,plate,hier,3,126,1,0.0
+ramen,frame_00128,plate,hier,3,73,1,0.0
+ramen,frame_00128,plate,hier,3,51,1,0.071899
+ramen,frame_00128,plate,deep,1,1208,1,0.0
+ramen,frame_00128,plate,deep,1,208,1,0.0
+ramen,frame_00128,plate,deep,1,1088,1,0.0
+ramen,frame_00128,plate,deep,1,957,1,0.0
+ramen,frame_00128,plate,deep,1,57,1,0.0
+ramen,frame_00128,plate,deep,1,912,1,0.0
+ramen,frame_00128,plate,deep,1,698,1,0.0
+ramen,frame_00128,plate,deep,1,1429,1,0.0
+ramen,frame_00128,plate,deep,1,22,1,0.0
+ramen,frame_00128,plate,deep,1,434,1,0.0
+ramen,frame_00128,plate,deep,2,301,1,0.0
+ramen,frame_00128,plate,deep,2,17,1,0.0
+ramen,frame_00128,plate,deep,2,57,1,0.439988
+ramen,frame_00128,plate,deep,2,318,1,0.0
+ramen,frame_00128,plate,deep,2,6,1,0.19587
+ramen,frame_00128,plate,deep,2,250,1,0.0
+ramen,frame_00128,plate,deep,2,192,1,0.0
+ramen,frame_00128,plate,deep,2,239,1,0.0
+ramen,frame_00128,plate,deep,2,111,1,0.0
+ramen,frame_00128,plate,deep,2,190,1,0.0
+ramen,frame_00128,plate,deep,3,14,1,0.0
+ramen,frame_00128,plate,deep,3,7,1,0.622933
+ramen,frame_00128,plate,deep,3,126,1,0.0
+ramen,frame_00128,plate,deep,3,73,1,0.0
+ramen,frame_00128,plate,deep,3,51,1,0.071899
+ramen,frame_00128,plate,deep,3,17,1,3.7e-05
+ramen,frame_00128,plate,deep,3,34,1,0.122907
+ramen,frame_00128,plate,deep,3,110,1,0.008871
+ramen,frame_00128,plate,deep,3,172,1,0.0
+ramen,frame_00128,plate,deep,3,91,1,0.0
+ramen,frame_00128,plate,combo,-1,-1,4,0.56891
+ramen,frame_00128,plate,combo,-1,-1,4,0.071899
+ramen,frame_00128,plate,combo,-1,-1,4,0.56891
+ramen,frame_00128,plate,combo,-1,-1,4,0.568881
+ramen,frame_00128,plate,combo,-1,-1,5,0.56891
+ramen,frame_00128,plate,combo,-1,-1,2,0.622933
+ramen,frame_00128,plate,combo,-1,-1,2,0.0
+ramen,frame_00128,plate,combo,-1,-1,2,0.0
+ramen,frame_00128,plate,combo,-1,-1,2,0.071899
+ramen,frame_00128,plate,combo,-1,-1,2,0.622933
+ramen,frame_00128,plate,combo,-1,-1,2,0.622976
+ramen,frame_00128,plate,combo,-1,-1,2,0.568881
+ramen,frame_00128,plate,combo,-1,-1,2,0.0
+ramen,frame_00128,plate,combo,-1,-1,2,0.071899
+ramen,frame_00128,plate,combo,-1,-1,2,0.071899
+ramen,frame_00128,kamaboko,c0,2,39,1,0.894981
+ramen,frame_00128,kamaboko,root,3,16,1,0.062496
+ramen,frame_00128,kamaboko,root,3,8,1,0.0
+ramen,frame_00128,kamaboko,root,3,145,1,0.0
+ramen,frame_00128,kamaboko,root,3,11,1,0.0
+ramen,frame_00128,kamaboko,root,3,36,1,0.0
+ramen,frame_00128,kamaboko,hier,2,39,1,0.894981
+ramen,frame_00128,kamaboko,hier,3,8,1,0.0
+ramen,frame_00128,kamaboko,hier,3,145,1,0.0
+ramen,frame_00128,kamaboko,hier,2,118,1,0.0
+ramen,frame_00128,kamaboko,hier,2,51,1,0.0
+ramen,frame_00128,kamaboko,hier,2,50,1,0.0
+ramen,frame_00128,kamaboko,hier,2,414,1,0.0
+ramen,frame_00128,kamaboko,hier,2,215,1,0.0
+ramen,frame_00128,kamaboko,deep,1,1031,1,0.0
+ramen,frame_00128,kamaboko,deep,1,1182,1,0.0
+ramen,frame_00128,kamaboko,deep,1,102,1,0.886693
+ramen,frame_00128,kamaboko,deep,1,1034,1,0.0
+ramen,frame_00128,kamaboko,deep,1,129,1,0.0
+ramen,frame_00128,kamaboko,deep,1,358,1,0.0
+ramen,frame_00128,kamaboko,deep,1,456,1,0.0
+ramen,frame_00128,kamaboko,deep,1,307,1,0.0
+ramen,frame_00128,kamaboko,deep,1,16,1,0.0
+ramen,frame_00128,kamaboko,deep,1,15,1,0.0
+ramen,frame_00128,kamaboko,deep,2,39,1,0.894981
+ramen,frame_00128,kamaboko,deep,2,273,1,0.0
+ramen,frame_00128,kamaboko,deep,2,7,1,0.0
+ramen,frame_00128,kamaboko,deep,2,109,1,0.0
+ramen,frame_00128,kamaboko,deep,2,251,1,0.0
+ramen,frame_00128,kamaboko,deep,2,20,1,0.000379
+ramen,frame_00128,kamaboko,deep,2,8,1,0.0
+ramen,frame_00128,kamaboko,deep,2,193,1,0.001783
+ramen,frame_00128,kamaboko,deep,2,118,1,0.0
+ramen,frame_00128,kamaboko,deep,2,51,1,0.0
+ramen,frame_00128,kamaboko,deep,3,16,1,0.062496
+ramen,frame_00128,kamaboko,deep,3,8,1,0.0
+ramen,frame_00128,kamaboko,deep,3,145,1,0.0
+ramen,frame_00128,kamaboko,deep,3,11,1,0.0
+ramen,frame_00128,kamaboko,deep,3,36,1,0.0
+ramen,frame_00128,kamaboko,deep,3,161,1,0.0
+ramen,frame_00128,kamaboko,deep,3,101,1,0.0
+ramen,frame_00128,kamaboko,deep,3,210,1,0.0
+ramen,frame_00128,kamaboko,deep,3,65,1,0.0
+ramen,frame_00128,kamaboko,deep,3,15,1,0.0
+ramen,frame_00128,kamaboko,combo,3,8,1,0.0
+ramen,frame_00128,kamaboko,combo,3,145,1,0.0
+ramen,frame_00128,kamaboko,combo,2,118,1,0.0
+ramen,frame_00128,kamaboko,combo,2,51,1,0.0
+ramen,frame_00128,kamaboko,combo,2,50,1,0.0
+ramen,frame_00128,kamaboko,combo,2,414,1,0.0
+ramen,frame_00128,kamaboko,combo,2,215,1,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.305803
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.832529
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.894981
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.860093
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.619726
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.894981
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.890691
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,kamaboko,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,c0,2,8,1,0.0
+ramen,frame_00128,napkin,root,3,9,1,0.0
+ramen,frame_00128,napkin,root,3,11,1,0.0
+ramen,frame_00128,napkin,root,3,23,1,0.0
+ramen,frame_00128,napkin,root,3,36,1,0.822738
+ramen,frame_00128,napkin,root,3,145,1,0.0
+ramen,frame_00128,napkin,hier,2,8,1,0.0
+ramen,frame_00128,napkin,hier,2,13,1,0.0
+ramen,frame_00128,napkin,hier,2,27,1,0.0
+ramen,frame_00128,napkin,hier,2,51,1,0.0
+ramen,frame_00128,napkin,hier,2,50,1,0.781408
+ramen,frame_00128,napkin,hier,3,145,1,0.0
+ramen,frame_00128,napkin,deep,1,17,1,0.0
+ramen,frame_00128,napkin,deep,1,801,1,0.0
+ramen,frame_00128,napkin,deep,1,1300,1,0.0
+ramen,frame_00128,napkin,deep,1,1183,1,0.0
+ramen,frame_00128,napkin,deep,1,742,1,0.0
+ramen,frame_00128,napkin,deep,1,1443,1,0.0
+ramen,frame_00128,napkin,deep,1,1157,1,0.0
+ramen,frame_00128,napkin,deep,1,39,1,0.0
+ramen,frame_00128,napkin,deep,1,113,1,0.0
+ramen,frame_00128,napkin,deep,1,130,1,0.0
+ramen,frame_00128,napkin,deep,2,8,1,0.0
+ramen,frame_00128,napkin,deep,2,320,1,0.0
+ramen,frame_00128,napkin,deep,2,13,1,0.0
+ramen,frame_00128,napkin,deep,2,27,1,0.0
+ramen,frame_00128,napkin,deep,2,51,1,0.0
+ramen,frame_00128,napkin,deep,2,50,1,0.781408
+ramen,frame_00128,napkin,deep,2,35,1,0.0
+ramen,frame_00128,napkin,deep,2,102,1,0.080717
+ramen,frame_00128,napkin,deep,2,219,1,0.0
+ramen,frame_00128,napkin,deep,2,344,1,0.0
+ramen,frame_00128,napkin,deep,3,9,1,0.0
+ramen,frame_00128,napkin,deep,3,11,1,0.0
+ramen,frame_00128,napkin,deep,3,23,1,0.0
+ramen,frame_00128,napkin,deep,3,36,1,0.822738
+ramen,frame_00128,napkin,deep,3,145,1,0.0
+ramen,frame_00128,napkin,deep,3,193,1,0.0
+ramen,frame_00128,napkin,deep,3,17,1,0.0
+ramen,frame_00128,napkin,deep,3,222,1,0.0
+ramen,frame_00128,napkin,deep,3,31,1,0.0
+ramen,frame_00128,napkin,deep,3,74,1,0.0
+ramen,frame_00128,napkin,combo,2,13,1,0.0
+ramen,frame_00128,napkin,combo,2,27,1,0.0
+ramen,frame_00128,napkin,combo,2,51,1,0.0
+ramen,frame_00128,napkin,combo,2,50,1,0.781408
+ramen,frame_00128,napkin,combo,3,145,1,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.781408
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.777219
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.781408
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.715605
+ramen,frame_00128,napkin,combo,-1,-1,2,0.0
+ramen,frame_00128,napkin,combo,-1,-1,2,0.6754

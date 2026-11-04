@@ -1,0 +1,3304 @@
+scene,image,prompt,kind,level,index,n_nodes,iou
+figurines,frame_00041,old camera,c0,3,8,1,0.313153
+figurines,frame_00041,old camera,root,3,8,1,0.313153
+figurines,frame_00041,old camera,root,3,19,1,0.611384
+figurines,frame_00041,old camera,root,3,103,1,0.0
+figurines,frame_00041,old camera,root,3,38,1,0.0
+figurines,frame_00041,old camera,root,3,33,1,0.0
+figurines,frame_00041,old camera,hier,3,8,1,0.313153
+figurines,frame_00041,old camera,hier,3,19,1,0.611384
+figurines,frame_00041,old camera,hier,2,43,1,0.0
+figurines,frame_00041,old camera,hier,3,103,1,0.0
+figurines,frame_00041,old camera,hier,3,38,1,0.0
+figurines,frame_00041,old camera,deep,1,265,1,0.000242
+figurines,frame_00041,old camera,deep,1,25,1,0.024235
+figurines,frame_00041,old camera,deep,1,23,1,0.006952
+figurines,frame_00041,old camera,deep,1,278,1,0.0
+figurines,frame_00041,old camera,deep,1,24,1,0.016652
+figurines,frame_00041,old camera,deep,1,22,1,0.001698
+figurines,frame_00041,old camera,deep,1,279,1,0.000485
+figurines,frame_00041,old camera,deep,1,313,1,0.021098
+figurines,frame_00041,old camera,deep,1,139,1,0.0
+figurines,frame_00041,old camera,deep,2,13,1,0.293023
+figurines,frame_00041,old camera,deep,2,43,1,0.0
+figurines,frame_00041,old camera,deep,2,349,1,0.0
+figurines,frame_00041,old camera,deep,2,45,1,0.0
+figurines,frame_00041,old camera,deep,2,264,1,0.0
+figurines,frame_00041,old camera,deep,2,344,1,0.0
+figurines,frame_00041,old camera,deep,2,107,1,0.0
+figurines,frame_00041,old camera,deep,2,77,1,0.0
+figurines,frame_00041,old camera,deep,2,362,1,0.0
+figurines,frame_00041,old camera,deep,2,53,1,0.0
+figurines,frame_00041,old camera,deep,3,8,1,0.313153
+figurines,frame_00041,old camera,deep,3,19,1,0.611384
+figurines,frame_00041,old camera,deep,3,103,1,0.0
+figurines,frame_00041,old camera,deep,3,38,1,0.0
+figurines,frame_00041,old camera,deep,3,33,1,0.0
+figurines,frame_00041,old camera,deep,3,42,1,0.0
+figurines,frame_00041,old camera,deep,3,54,1,0.0
+figurines,frame_00041,old camera,deep,3,120,1,0.0
+figurines,frame_00041,old camera,deep,3,151,1,0.0
+figurines,frame_00041,old camera,deep,3,106,1,0.0
+figurines,frame_00041,old camera,combo,3,19,1,0.611384
+figurines,frame_00041,old camera,combo,2,43,1,0.0
+figurines,frame_00041,old camera,combo,3,103,1,0.0
+figurines,frame_00041,old camera,combo,3,38,1,0.0
+figurines,frame_00041,old camera,combo,-1,-1,2,0.919974
+figurines,frame_00041,old camera,combo,-1,-1,2,0.313153
+figurines,frame_00041,old camera,combo,-1,-1,2,0.313153
+figurines,frame_00041,old camera,combo,-1,-1,2,0.313153
+figurines,frame_00041,old camera,combo,-1,-1,2,0.611384
+figurines,frame_00041,old camera,combo,-1,-1,2,0.611384
+figurines,frame_00041,old camera,combo,-1,-1,2,0.611384
+figurines,frame_00041,old camera,combo,-1,-1,2,0.0
+figurines,frame_00041,old camera,combo,-1,-1,2,0.0
+figurines,frame_00041,old camera,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,c0,3,14,1,0.910418
+figurines,frame_00041,toy elephant,root,3,14,1,0.910418
+figurines,frame_00041,toy elephant,root,3,28,1,0.0
+figurines,frame_00041,toy elephant,root,3,68,1,0.0
+figurines,frame_00041,toy elephant,root,3,77,1,0.0
+figurines,frame_00041,toy elephant,root,3,47,1,0.0
+figurines,frame_00041,toy elephant,hier,3,14,1,0.910418
+figurines,frame_00041,toy elephant,hier,3,28,1,0.0
+figurines,frame_00041,toy elephant,hier,3,68,1,0.0
+figurines,frame_00041,toy elephant,hier,3,77,1,0.0
+figurines,frame_00041,toy elephant,hier,3,47,1,0.0
+figurines,frame_00041,toy elephant,deep,1,558,1,0.096923
+figurines,frame_00041,toy elephant,deep,1,39,1,0.060456
+figurines,frame_00041,toy elephant,deep,1,552,1,0.020167
+figurines,frame_00041,toy elephant,deep,1,38,1,0.574732
+figurines,frame_00041,toy elephant,deep,1,223,1,0.0
+figurines,frame_00041,toy elephant,deep,1,114,1,0.0
+figurines,frame_00041,toy elephant,deep,1,301,1,0.0
+figurines,frame_00041,toy elephant,deep,1,329,1,0.0
+figurines,frame_00041,toy elephant,deep,1,165,1,0.0
+figurines,frame_00041,toy elephant,deep,1,103,1,0.0
+figurines,frame_00041,toy elephant,deep,2,19,1,0.796699
+figurines,frame_00041,toy elephant,deep,2,148,1,0.098102
+figurines,frame_00041,toy elephant,deep,2,36,1,0.0
+figurines,frame_00041,toy elephant,deep,2,111,1,0.0
+figurines,frame_00041,toy elephant,deep,2,15,1,0.0
+figurines,frame_00041,toy elephant,deep,2,68,1,0.0
+figurines,frame_00041,toy elephant,deep,2,130,1,0.0
+figurines,frame_00041,toy elephant,deep,2,70,1,0.0
+figurines,frame_00041,toy elephant,deep,2,89,1,0.0
+figurines,frame_00041,toy elephant,deep,2,140,1,0.0
+figurines,frame_00041,toy elephant,deep,3,14,1,0.910418
+figurines,frame_00041,toy elephant,deep,3,28,1,0.0
+figurines,frame_00041,toy elephant,deep,3,68,1,0.0
+figurines,frame_00041,toy elephant,deep,3,77,1,0.0
+figurines,frame_00041,toy elephant,deep,3,47,1,0.0
+figurines,frame_00041,toy elephant,deep,3,49,1,0.0
+figurines,frame_00041,toy elephant,deep,3,10,1,0.0
+figurines,frame_00041,toy elephant,deep,3,7,1,0.002151
+figurines,frame_00041,toy elephant,deep,3,41,1,0.0
+figurines,frame_00041,toy elephant,deep,3,11,1,0.0
+figurines,frame_00041,toy elephant,combo,3,28,1,0.0
+figurines,frame_00041,toy elephant,combo,3,68,1,0.0
+figurines,frame_00041,toy elephant,combo,3,77,1,0.0
+figurines,frame_00041,toy elephant,combo,3,47,1,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.506103
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.831201
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.884467
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.393349
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,c0,2,56,1,0.730107
+figurines,frame_00041,waldo,root,3,17,1,0.032444
+figurines,frame_00041,waldo,root,3,33,1,0.0
+figurines,frame_00041,waldo,root,3,37,1,0.0
+figurines,frame_00041,waldo,root,3,120,1,0.0
+figurines,frame_00041,waldo,root,3,39,1,0.0
+figurines,frame_00041,waldo,hier,2,56,1,0.730107
+figurines,frame_00041,waldo,hier,3,33,1,0.0
+figurines,frame_00041,waldo,hier,3,37,1,0.0
+figurines,frame_00041,waldo,hier,3,120,1,0.0
+figurines,frame_00041,waldo,hier,3,39,1,0.0
+figurines,frame_00041,waldo,deep,1,418,1,0.0
+figurines,frame_00041,waldo,deep,1,1893,1,0.0
+figurines,frame_00041,waldo,deep,1,1255,1,0.0
+figurines,frame_00041,waldo,deep,1,165,1,0.0
+figurines,frame_00041,waldo,deep,1,61,1,0.000282
+figurines,frame_00041,waldo,deep,1,1550,1,0.0
+figurines,frame_00041,waldo,deep,1,976,1,0.0
+figurines,frame_00041,waldo,deep,1,345,1,0.0
+figurines,frame_00041,waldo,deep,1,60,1,0.0
+figurines,frame_00041,waldo,deep,1,56,1,0.0
+figurines,frame_00041,waldo,deep,2,77,1,0.0
+figurines,frame_00041,waldo,deep,2,22,1,0.007851
+figurines,frame_00041,waldo,deep,2,118,1,0.0
+figurines,frame_00041,waldo,deep,2,43,1,0.0
+figurines,frame_00041,waldo,deep,2,253,1,0.0
+figurines,frame_00041,waldo,deep,2,365,1,0.0
+figurines,frame_00041,waldo,deep,2,45,1,0.0
+figurines,frame_00041,waldo,deep,2,54,1,0.0
+figurines,frame_00041,waldo,deep,2,28,1,0.0
+figurines,frame_00041,waldo,deep,2,404,1,0.0
+figurines,frame_00041,waldo,deep,3,17,1,0.032444
+figurines,frame_00041,waldo,deep,3,33,1,0.0
+figurines,frame_00041,waldo,deep,3,37,1,0.0
+figurines,frame_00041,waldo,deep,3,120,1,0.0
+figurines,frame_00041,waldo,deep,3,39,1,0.0
+figurines,frame_00041,waldo,deep,3,85,1,0.0
+figurines,frame_00041,waldo,deep,3,84,1,0.0
+figurines,frame_00041,waldo,deep,3,67,1,0.0
+figurines,frame_00041,waldo,deep,3,2,1,0.0
+figurines,frame_00041,waldo,deep,3,110,1,0.0
+figurines,frame_00041,waldo,combo,3,33,1,0.0
+figurines,frame_00041,waldo,combo,3,37,1,0.0
+figurines,frame_00041,waldo,combo,3,120,1,0.0
+figurines,frame_00041,waldo,combo,3,39,1,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.730107
+figurines,frame_00041,waldo,combo,-1,-1,2,0.730107
+figurines,frame_00041,waldo,combo,-1,-1,2,0.730107
+figurines,frame_00041,waldo,combo,-1,-1,2,0.730107
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,waldo,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,c0,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,root,3,74,1,0.0
+figurines,frame_00041,tesla door handle,root,3,161,1,0.0
+figurines,frame_00041,tesla door handle,root,3,29,1,0.0
+figurines,frame_00041,tesla door handle,root,3,16,1,0.0
+figurines,frame_00041,tesla door handle,root,3,69,1,0.0
+figurines,frame_00041,tesla door handle,hier,2,115,1,0.0
+figurines,frame_00041,tesla door handle,hier,2,132,1,0.0
+figurines,frame_00041,tesla door handle,hier,2,38,1,0.0
+figurines,frame_00041,tesla door handle,hier,2,135,1,0.0
+figurines,frame_00041,tesla door handle,hier,3,161,1,0.0
+figurines,frame_00041,tesla door handle,hier,2,21,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,1121,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,363,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,1543,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,1276,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,1147,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,66,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,232,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,1250,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,140,1,0.0
+figurines,frame_00041,tesla door handle,deep,1,69,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,115,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,268,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,132,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,120,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,38,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,20,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,24,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,135,1,0.0
+figurines,frame_00041,tesla door handle,deep,2,33,1,0.550967
+figurines,frame_00041,tesla door handle,deep,2,27,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,74,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,161,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,29,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,16,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,69,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,103,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,86,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,3,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,15,1,0.0
+figurines,frame_00041,tesla door handle,deep,3,26,1,0.606216
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,c0,3,77,1,0.053666
+figurines,frame_00041,porcelain hand,root,3,77,1,0.053666
+figurines,frame_00041,porcelain hand,root,3,47,1,0.0
+figurines,frame_00041,porcelain hand,root,3,49,1,0.0
+figurines,frame_00041,porcelain hand,root,3,68,1,0.0
+figurines,frame_00041,porcelain hand,root,3,65,1,0.0
+figurines,frame_00041,porcelain hand,hier,3,77,1,0.053666
+figurines,frame_00041,porcelain hand,hier,2,111,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,130,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,67,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,82,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,70,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,68,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,105,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,89,1,0.0
+figurines,frame_00041,porcelain hand,hier,2,198,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,165,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,507,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,1683,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,567,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,1547,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,943,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,220,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,256,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,1122,1,0.0
+figurines,frame_00041,porcelain hand,deep,1,1306,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,140,1,0.053666
+figurines,frame_00041,porcelain hand,deep,2,111,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,130,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,67,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,82,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,70,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,68,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,271,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,105,1,0.0
+figurines,frame_00041,porcelain hand,deep,2,282,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,77,1,0.053666
+figurines,frame_00041,porcelain hand,deep,3,47,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,49,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,68,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,65,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,111,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,130,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,10,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,78,1,0.0
+figurines,frame_00041,porcelain hand,deep,3,55,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,111,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,130,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,67,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,82,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,70,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,68,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,105,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,89,1,0.0
+figurines,frame_00041,porcelain hand,combo,2,198,1,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.04423
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.049852
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.03257
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.050174
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.044386
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.032996
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.048982
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.050984
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with hat,c0,-1,-1,3,0.418889
+figurines,frame_00041,rubber duck with hat,root,3,51,1,0.0
+figurines,frame_00041,rubber duck with hat,root,3,46,1,0.875996
+figurines,frame_00041,rubber duck with hat,root,3,49,1,0.0
+figurines,frame_00041,rubber duck with hat,root,3,68,1,0.0
+figurines,frame_00041,rubber duck with hat,root,3,14,1,0.0
+figurines,frame_00041,rubber duck with hat,hier,2,75,1,0.281836
+figurines,frame_00041,rubber duck with hat,hier,3,51,1,0.0
+figurines,frame_00041,rubber duck with hat,hier,2,64,1,0.610741
+figurines,frame_00041,rubber duck with hat,hier,3,49,1,0.0
+figurines,frame_00041,rubber duck with hat,hier,2,111,1,0.0
+figurines,frame_00041,rubber duck with hat,hier,2,19,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,1,191,1,0.335536
+figurines,frame_00041,rubber duck with hat,deep,1,388,1,0.07105
+figurines,frame_00041,rubber duck with hat,deep,1,247,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,1,386,1,0.078441
+figurines,frame_00041,rubber duck with hat,deep,1,767,1,0.005797
+figurines,frame_00041,rubber duck with hat,deep,1,186,1,0.001473
+figurines,frame_00041,rubber duck with hat,deep,1,114,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,1,103,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,1,270,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,1,258,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,75,1,0.281836
+figurines,frame_00041,rubber duck with hat,deep,2,64,1,0.610741
+figurines,frame_00041,rubber duck with hat,deep,2,76,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,86,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,70,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,130,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,111,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,36,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,19,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,2,15,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,51,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,46,1,0.875996
+figurines,frame_00041,rubber duck with hat,deep,3,49,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,68,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,14,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,77,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,47,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,28,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,10,1,0.0
+figurines,frame_00041,rubber duck with hat,deep,3,45,1,0.015428
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.268864
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.275131
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.194535
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.747659
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.781652
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.430587
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.118277
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.121137
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,3,0.084718
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,4,0.387037
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,4,0.396032
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,4,0.28026
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.12843
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.875996
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.237258
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.248946
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.132176
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.29106
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.520769
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.544584
+figurines,frame_00041,rubber duck with hat,combo,-1,-1,2,0.299214
+figurines,frame_00041,rubber duck with buoy,c0,-1,-1,2,0.778076
+figurines,frame_00041,rubber duck with buoy,root,3,51,1,0.958686
+figurines,frame_00041,rubber duck with buoy,root,3,46,1,0.0
+figurines,frame_00041,rubber duck with buoy,root,3,68,1,0.0
+figurines,frame_00041,rubber duck with buoy,root,3,49,1,0.0
+figurines,frame_00041,rubber duck with buoy,root,3,14,1,0.0
+figurines,frame_00041,rubber duck with buoy,hier,2,75,1,0.0
+figurines,frame_00041,rubber duck with buoy,hier,3,51,1,0.958686
+figurines,frame_00041,rubber duck with buoy,hier,3,68,1,0.0
+figurines,frame_00041,rubber duck with buoy,hier,3,49,1,0.0
+figurines,frame_00041,rubber duck with buoy,hier,2,19,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,247,1,0.297531
+figurines,frame_00041,rubber duck with buoy,deep,1,191,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,388,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,767,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,386,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,258,1,0.003319
+figurines,frame_00041,rubber duck with buoy,deep,1,114,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,186,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,103,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,1,270,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,75,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,64,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,76,1,0.954184
+figurines,frame_00041,rubber duck with buoy,deep,2,86,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,111,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,36,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,19,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,70,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,130,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,2,57,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,51,1,0.958686
+figurines,frame_00041,rubber duck with buoy,deep,3,46,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,68,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,49,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,14,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,28,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,45,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,77,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,47,1,0.0
+figurines,frame_00041,rubber duck with buoy,deep,3,10,1,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.865201
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.832892
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.501593
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,3,0.715344
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,3,0.693147
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,3,0.447273
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.778076
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,c0,2,90,1,0.954883
+figurines,frame_00041,pink ice cream,root,3,60,1,0.963977
+figurines,frame_00041,pink ice cream,root,3,12,1,0.0
+figurines,frame_00041,pink ice cream,root,3,41,1,0.0
+figurines,frame_00041,pink ice cream,root,3,17,1,0.0
+figurines,frame_00041,pink ice cream,root,3,43,1,0.0
+figurines,frame_00041,pink ice cream,hier,2,90,1,0.954883
+figurines,frame_00041,pink ice cream,hier,2,17,1,0.0
+figurines,frame_00041,pink ice cream,hier,2,22,1,0.0
+figurines,frame_00041,pink ice cream,hier,3,41,1,0.0
+figurines,frame_00041,pink ice cream,hier,3,43,1,0.0
+figurines,frame_00041,pink ice cream,deep,1,306,1,0.507956
+figurines,frame_00041,pink ice cream,deep,1,32,1,0.0
+figurines,frame_00041,pink ice cream,deep,1,246,1,0.0
+figurines,frame_00041,pink ice cream,deep,1,172,1,0.0
+figurines,frame_00041,pink ice cream,deep,1,257,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,90,1,0.954883
+figurines,frame_00041,pink ice cream,deep,2,17,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,158,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,60,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,22,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,40,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,82,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,68,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,67,1,0.0
+figurines,frame_00041,pink ice cream,deep,2,111,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,60,1,0.963977
+figurines,frame_00041,pink ice cream,deep,3,12,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,41,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,17,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,43,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,51,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,30,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,110,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,154,1,0.0
+figurines,frame_00041,pink ice cream,deep,3,47,1,0.0
+figurines,frame_00041,pink ice cream,combo,2,17,1,0.0
+figurines,frame_00041,pink ice cream,combo,2,22,1,0.0
+figurines,frame_00041,pink ice cream,combo,3,41,1,0.0
+figurines,frame_00041,pink ice cream,combo,3,43,1,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.28474
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.041936
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.954883
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.368237
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,c0,3,48,1,0.825423
+figurines,frame_00041,red toy chair,root,3,48,1,0.825423
+figurines,frame_00041,red toy chair,root,3,59,1,0.0
+figurines,frame_00041,red toy chair,root,3,18,1,0.0
+figurines,frame_00041,red toy chair,root,3,68,1,0.0
+figurines,frame_00041,red toy chair,root,3,66,1,0.0
+figurines,frame_00041,red toy chair,hier,3,48,1,0.825423
+figurines,frame_00041,red toy chair,hier,3,59,1,0.0
+figurines,frame_00041,red toy chair,hier,2,111,1,0.0
+figurines,frame_00041,red toy chair,hier,3,18,1,0.0
+figurines,frame_00041,red toy chair,hier,3,66,1,0.0
+figurines,frame_00041,red toy chair,deep,1,215,1,0.09559
+figurines,frame_00041,red toy chair,deep,1,254,1,0.222882
+figurines,frame_00041,red toy chair,deep,1,1202,1,0.121353
+figurines,frame_00041,red toy chair,deep,1,291,1,0.028051
+figurines,frame_00041,red toy chair,deep,1,1854,1,0.265325
+figurines,frame_00041,red toy chair,deep,1,246,1,0.0
+figurines,frame_00041,red toy chair,deep,1,172,1,0.0
+figurines,frame_00041,red toy chair,deep,1,257,1,0.0
+figurines,frame_00041,red toy chair,deep,2,69,1,0.824864
+figurines,frame_00041,red toy chair,deep,2,111,1,0.0
+figurines,frame_00041,red toy chair,deep,2,88,1,0.0
+figurines,frame_00041,red toy chair,deep,2,60,1,0.0
+figurines,frame_00041,red toy chair,deep,2,94,1,0.0
+figurines,frame_00041,red toy chair,deep,2,22,1,0.0
+figurines,frame_00041,red toy chair,deep,2,75,1,0.0
+figurines,frame_00041,red toy chair,deep,2,40,1,0.0
+figurines,frame_00041,red toy chair,deep,2,178,1,0.0
+figurines,frame_00041,red toy chair,deep,2,225,1,0.0
+figurines,frame_00041,red toy chair,deep,3,48,1,0.825423
+figurines,frame_00041,red toy chair,deep,3,59,1,0.0
+figurines,frame_00041,red toy chair,deep,3,18,1,0.0
+figurines,frame_00041,red toy chair,deep,3,68,1,0.0
+figurines,frame_00041,red toy chair,deep,3,66,1,0.0
+figurines,frame_00041,red toy chair,deep,3,43,1,0.0
+figurines,frame_00041,red toy chair,deep,3,82,1,0.0
+figurines,frame_00041,red toy chair,deep,3,107,1,0.0
+figurines,frame_00041,red toy chair,deep,3,30,1,0.0
+figurines,frame_00041,red toy chair,deep,3,17,1,0.0
+figurines,frame_00041,red toy chair,combo,3,59,1,0.0
+figurines,frame_00041,red toy chair,combo,2,111,1,0.0
+figurines,frame_00041,red toy chair,combo,3,18,1,0.0
+figurines,frame_00041,red toy chair,combo,3,66,1,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.825423
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.799768
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.475184
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.825423
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,red toy chair,combo,-1,-1,2,0.0
+figurines,frame_00041,green apple,c0,3,24,1,0.958138
+figurines,frame_00041,green apple,root,3,24,1,0.958138
+figurines,frame_00041,green apple,root,3,18,1,0.0
+figurines,frame_00041,green apple,root,3,139,1,0.0
+figurines,frame_00041,green apple,root,3,43,1,0.0
+figurines,frame_00041,green apple,root,3,10,1,0.000623
+figurines,frame_00041,green apple,hier,3,24,1,0.958138
+figurines,frame_00041,green apple,hier,3,18,1,0.0
+figurines,frame_00041,green apple,hier,3,139,1,0.0
+figurines,frame_00041,green apple,hier,3,43,1,0.0
+figurines,frame_00041,green apple,hier,3,10,1,0.000623
+figurines,frame_00041,green apple,deep,1,152,1,0.210724
+figurines,frame_00041,green apple,deep,1,324,1,0.23349
+figurines,frame_00041,green apple,deep,1,305,1,0.326698
+figurines,frame_00041,green apple,deep,1,79,1,0.005647
+figurines,frame_00041,green apple,deep,1,78,1,0.003631
+figurines,frame_00041,green apple,deep,1,394,1,0.0
+figurines,frame_00041,green apple,deep,1,1857,1,0.0
+figurines,frame_00041,green apple,deep,1,418,1,0.0
+figurines,frame_00041,green apple,deep,1,307,1,0.0
+figurines,frame_00041,green apple,deep,1,129,1,0.0
+figurines,frame_00041,green apple,deep,2,31,1,0.954637
+figurines,frame_00041,green apple,deep,2,23,1,0.0
+figurines,frame_00041,green apple,deep,2,118,1,0.0
+figurines,frame_00041,green apple,deep,2,307,1,0.0
+figurines,frame_00041,green apple,deep,2,60,1,0.0
+figurines,frame_00041,green apple,deep,2,15,1,0.000623
+figurines,frame_00041,green apple,deep,2,55,1,0.0
+figurines,frame_00041,green apple,deep,2,36,1,0.000515
+figurines,frame_00041,green apple,deep,2,77,1,0.0
+figurines,frame_00041,green apple,deep,2,277,1,0.0
+figurines,frame_00041,green apple,deep,3,24,1,0.958138
+figurines,frame_00041,green apple,deep,3,18,1,0.0
+figurines,frame_00041,green apple,deep,3,139,1,0.0
+figurines,frame_00041,green apple,deep,3,43,1,0.0
+figurines,frame_00041,green apple,deep,3,10,1,0.000623
+figurines,frame_00041,green apple,deep,3,103,1,0.0
+figurines,frame_00041,green apple,deep,3,54,1,0.0
+figurines,frame_00041,green apple,deep,3,106,1,0.0
+figurines,frame_00041,green apple,deep,3,134,1,0.0
+figurines,frame_00041,green apple,deep,3,38,1,0.0
+figurines,frame_00041,green apple,combo,3,18,1,0.0
+figurines,frame_00041,green apple,combo,3,139,1,0.0
+figurines,frame_00041,green apple,combo,3,43,1,0.0
+figurines,frame_00041,green apple,combo,3,10,1,0.000623
+figurines,frame_00041,green apple,combo,-1,-1,2,0.276112
+figurines,frame_00041,green apple,combo,-1,-1,2,0.958138
+figurines,frame_00041,green apple,combo,-1,-1,2,0.471006
+figurines,frame_00041,green apple,combo,-1,-1,2,0.636331
+figurines,frame_00041,green apple,combo,-1,-1,2,0.0
+figurines,frame_00041,green apple,combo,-1,-1,2,0.0
+figurines,frame_00041,green apple,combo,-1,-1,2,0.000236
+figurines,frame_00041,green apple,combo,-1,-1,2,0.0
+figurines,frame_00041,green apple,combo,-1,-1,2,0.000623
+figurines,frame_00041,green apple,combo,-1,-1,2,0.000369
+figurines,frame_00041,pikachu,c0,-1,-1,4,0.0
+figurines,frame_00041,pikachu,root,3,28,1,0.0
+figurines,frame_00041,pikachu,root,3,51,1,0.0
+figurines,frame_00041,pikachu,root,3,46,1,0.0
+figurines,frame_00041,pikachu,root,3,102,1,0.0
+figurines,frame_00041,pikachu,root,3,12,1,0.928322
+figurines,frame_00041,pikachu,hier,2,36,1,0.0
+figurines,frame_00041,pikachu,hier,2,64,1,0.0
+figurines,frame_00041,pikachu,hier,2,75,1,0.0
+figurines,frame_00041,pikachu,hier,3,51,1,0.0
+figurines,frame_00041,pikachu,hier,3,102,1,0.0
+figurines,frame_00041,pikachu,hier,3,12,1,0.928322
+figurines,frame_00041,pikachu,deep,1,135,1,0.350744
+figurines,frame_00041,pikachu,deep,1,114,1,0.0
+figurines,frame_00041,pikachu,deep,1,103,1,0.0
+figurines,frame_00041,pikachu,deep,1,247,1,0.0
+figurines,frame_00041,pikachu,deep,1,104,1,0.0
+figurines,frame_00041,pikachu,deep,1,191,1,0.0
+figurines,frame_00041,pikachu,deep,1,1893,1,0.0
+figurines,frame_00041,pikachu,deep,1,357,1,0.0
+figurines,frame_00041,pikachu,deep,1,258,1,0.0
+figurines,frame_00041,pikachu,deep,1,33,1,0.01381
+figurines,frame_00041,pikachu,deep,2,36,1,0.0
+figurines,frame_00041,pikachu,deep,2,64,1,0.0
+figurines,frame_00041,pikachu,deep,2,75,1,0.0
+figurines,frame_00041,pikachu,deep,2,76,1,0.0
+figurines,frame_00041,pikachu,deep,2,195,1,0.0
+figurines,frame_00041,pikachu,deep,2,17,1,0.906098
+figurines,frame_00041,pikachu,deep,2,111,1,0.0
+figurines,frame_00041,pikachu,deep,2,86,1,0.0
+figurines,frame_00041,pikachu,deep,2,118,1,0.0
+figurines,frame_00041,pikachu,deep,2,105,1,0.0
+figurines,frame_00041,pikachu,deep,3,28,1,0.0
+figurines,frame_00041,pikachu,deep,3,51,1,0.0
+figurines,frame_00041,pikachu,deep,3,46,1,0.0
+figurines,frame_00041,pikachu,deep,3,102,1,0.0
+figurines,frame_00041,pikachu,deep,3,12,1,0.928322
+figurines,frame_00041,pikachu,deep,3,65,1,0.0
+figurines,frame_00041,pikachu,deep,3,68,1,0.0
+figurines,frame_00041,pikachu,deep,3,49,1,0.0
+figurines,frame_00041,pikachu,deep,3,54,1,0.0
+figurines,frame_00041,pikachu,deep,3,33,1,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.439737
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.416055
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.376934
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,4,0.458915
+figurines,frame_00041,pikachu,combo,-1,-1,5,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,5,0.355471
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.618698
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.675776
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00041,pikachu,combo,-1,-1,2,0.812793
+figurines,frame_00041,red apple,c0,3,43,1,0.954801
+figurines,frame_00041,red apple,root,3,43,1,0.954801
+figurines,frame_00041,red apple,root,3,24,1,0.0
+figurines,frame_00041,red apple,root,3,48,1,0.0
+figurines,frame_00041,red apple,root,3,17,1,0.0
+figurines,frame_00041,red apple,root,3,68,1,0.0
+figurines,frame_00041,red apple,hier,3,43,1,0.954801
+figurines,frame_00041,red apple,hier,2,69,1,0.0
+figurines,frame_00041,red apple,hier,3,24,1,0.0
+figurines,frame_00041,red apple,hier,2,22,1,0.0
+figurines,frame_00041,red apple,hier,2,111,1,0.0
+figurines,frame_00041,red apple,deep,1,172,1,0.271236
+figurines,frame_00041,red apple,deep,1,257,1,0.333417
+figurines,frame_00041,red apple,deep,1,464,1,0.006814
+figurines,frame_00041,red apple,deep,1,254,1,0.0
+figurines,frame_00041,red apple,deep,1,215,1,0.0
+figurines,frame_00041,red apple,deep,1,246,1,0.0
+figurines,frame_00041,red apple,deep,1,291,1,0.0
+figurines,frame_00041,red apple,deep,1,1854,1,0.0
+figurines,frame_00041,red apple,deep,1,1202,1,0.0
+figurines,frame_00041,red apple,deep,1,498,1,0.02966
+figurines,frame_00041,red apple,deep,2,60,1,0.954801
+figurines,frame_00041,red apple,deep,2,69,1,0.0
+figurines,frame_00041,red apple,deep,2,31,1,0.0
+figurines,frame_00041,red apple,deep,2,22,1,0.0
+figurines,frame_00041,red apple,deep,2,111,1,0.0
+figurines,frame_00041,red apple,deep,2,40,1,0.0
+figurines,frame_00041,red apple,deep,2,75,1,0.0
+figurines,frame_00041,red apple,deep,2,225,1,0.0
+figurines,frame_00041,red apple,deep,2,64,1,0.0
+figurines,frame_00041,red apple,deep,2,90,1,0.0
+figurines,frame_00041,red apple,deep,3,43,1,0.954801
+figurines,frame_00041,red apple,deep,3,24,1,0.0
+figurines,frame_00041,red apple,deep,3,48,1,0.0
+figurines,frame_00041,red apple,deep,3,17,1,0.0
+figurines,frame_00041,red apple,deep,3,68,1,0.0
+figurines,frame_00041,red apple,deep,3,110,1,0.0
+figurines,frame_00041,red apple,deep,3,30,1,0.0
+figurines,frame_00041,red apple,deep,3,41,1,0.0
+figurines,frame_00041,red apple,deep,3,60,1,0.0
+figurines,frame_00041,red apple,deep,3,154,1,0.0
+figurines,frame_00041,red apple,combo,2,69,1,0.0
+figurines,frame_00041,red apple,combo,3,24,1,0.0
+figurines,frame_00041,red apple,combo,2,22,1,0.0
+figurines,frame_00041,red apple,combo,2,111,1,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.265798
+figurines,frame_00041,red apple,combo,-1,-1,2,0.502596
+figurines,frame_00041,red apple,combo,-1,-1,2,0.067239
+figurines,frame_00041,red apple,combo,-1,-1,2,0.867794
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,red apple,combo,-1,-1,2,0.0
+figurines,frame_00041,spatula,c0,-1,-1,3,0.554389
+figurines,frame_00041,spatula,root,3,30,1,0.554389
+figurines,frame_00041,spatula,root,3,41,1,0.0
+figurines,frame_00041,spatula,root,3,59,1,0.0
+figurines,frame_00041,spatula,root,3,102,1,0.0
+figurines,frame_00041,spatula,root,3,34,1,0.0
+figurines,frame_00041,spatula,hier,3,30,1,0.554389
+figurines,frame_00041,spatula,hier,2,206,1,0.0
+figurines,frame_00041,spatula,hier,2,88,1,0.0
+figurines,frame_00041,spatula,hier,2,178,1,0.0
+figurines,frame_00041,spatula,hier,3,41,1,0.0
+figurines,frame_00041,spatula,hier,2,94,1,0.0
+figurines,frame_00041,spatula,hier,3,102,1,0.0
+figurines,frame_00041,spatula,hier,3,34,1,0.0
+figurines,frame_00041,spatula,deep,1,583,1,0.0
+figurines,frame_00041,spatula,deep,1,1546,1,0.0
+figurines,frame_00041,spatula,deep,1,1022,1,0.0
+figurines,frame_00041,spatula,deep,1,101,1,0.0
+figurines,frame_00041,spatula,deep,1,48,1,0.0
+figurines,frame_00041,spatula,deep,1,141,1,0.0
+figurines,frame_00041,spatula,deep,1,999,1,0.0
+figurines,frame_00041,spatula,deep,2,40,1,0.406433
+figurines,frame_00041,spatula,deep,2,367,1,0.0
+figurines,frame_00041,spatula,deep,2,96,1,0.0
+figurines,frame_00041,spatula,deep,2,120,1,0.0
+figurines,frame_00041,spatula,deep,2,7,1,0.0
+figurines,frame_00041,spatula,deep,2,237,1,0.0
+figurines,frame_00041,spatula,deep,2,88,1,0.0
+figurines,frame_00041,spatula,deep,2,132,1,0.0
+figurines,frame_00041,spatula,deep,2,27,1,0.0
+figurines,frame_00041,spatula,deep,3,30,1,0.554389
+figurines,frame_00041,spatula,deep,3,41,1,0.0
+figurines,frame_00041,spatula,deep,3,59,1,0.0
+figurines,frame_00041,spatula,deep,3,102,1,0.0
+figurines,frame_00041,spatula,deep,3,34,1,0.0
+figurines,frame_00041,spatula,deep,3,21,1,0.0
+figurines,frame_00041,spatula,deep,3,107,1,0.0
+figurines,frame_00041,spatula,deep,3,5,1,0.0
+figurines,frame_00041,spatula,deep,3,82,1,0.0
+figurines,frame_00041,spatula,deep,3,65,1,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.0
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,3,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,4,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,4,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,4,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,4,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,4,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.554389
+figurines,frame_00041,spatula,combo,-1,-1,2,0.0
+figurines,frame_00041,spatula,combo,-1,-1,2,0.0
+figurines,frame_00041,spatula,combo,-1,-1,2,0.0
+figurines,frame_00041,spatula,combo,-1,-1,2,0.0
+figurines,frame_00041,spatula,combo,-1,-1,2,0.0
+figurines,frame_00041,jake,c0,-1,-1,5,0.442281
+figurines,frame_00041,jake,root,3,28,1,0.849195
+figurines,frame_00041,jake,root,3,67,1,0.0
+figurines,frame_00041,jake,root,3,51,1,0.0
+figurines,frame_00041,jake,root,3,73,1,0.0
+figurines,frame_00041,jake,root,3,94,1,0.0
+figurines,frame_00041,jake,hier,2,36,1,0.766109
+figurines,frame_00041,jake,hier,2,199,1,0.056502
+figurines,frame_00041,jake,hier,2,426,1,0.014577
+figurines,frame_00041,jake,hier,3,67,1,0.0
+figurines,frame_00041,jake,hier,3,51,1,0.0
+figurines,frame_00041,jake,hier,3,73,1,0.0
+figurines,frame_00041,jake,hier,3,94,1,0.0
+figurines,frame_00041,jake,deep,1,322,1,0.0
+figurines,frame_00041,jake,deep,1,197,1,0.0
+figurines,frame_00041,jake,deep,1,195,1,0.0
+figurines,frame_00041,jake,deep,1,494,1,0.0
+figurines,frame_00041,jake,deep,1,104,1,0.0
+figurines,frame_00041,jake,deep,2,36,1,0.766109
+figurines,frame_00041,jake,deep,2,109,1,0.0
+figurines,frame_00041,jake,deep,2,68,1,0.0
+figurines,frame_00041,jake,deep,2,89,1,0.0
+figurines,frame_00041,jake,deep,2,77,1,0.0
+figurines,frame_00041,jake,deep,2,365,1,0.0
+figurines,frame_00041,jake,deep,2,76,1,0.0
+figurines,frame_00041,jake,deep,2,66,1,0.0
+figurines,frame_00041,jake,deep,2,64,1,0.0
+figurines,frame_00041,jake,deep,2,75,1,0.0
+figurines,frame_00041,jake,deep,3,28,1,0.849195
+figurines,frame_00041,jake,deep,3,67,1,0.0
+figurines,frame_00041,jake,deep,3,51,1,0.0
+figurines,frame_00041,jake,deep,3,73,1,0.0
+figurines,frame_00041,jake,deep,3,94,1,0.0
+figurines,frame_00041,jake,deep,3,39,1,0.0
+figurines,frame_00041,jake,deep,3,85,1,0.0
+figurines,frame_00041,jake,deep,3,61,1,0.0
+figurines,frame_00041,jake,deep,3,38,1,0.0
+figurines,frame_00041,jake,deep,3,33,1,0.0
+figurines,frame_00041,jake,combo,-1,-1,5,0.036704
+figurines,frame_00041,jake,combo,-1,-1,5,0.036704
+figurines,frame_00041,jake,combo,-1,-1,5,0.411062
+figurines,frame_00041,jake,combo,-1,-1,5,0.411062
+figurines,frame_00041,jake,combo,-1,-1,5,0.430071
+figurines,frame_00041,jake,combo,-1,-1,5,0.430071
+figurines,frame_00041,jake,combo,-1,-1,5,0.442281
+figurines,frame_00041,jake,combo,-1,-1,5,0.442281
+figurines,frame_00041,jake,combo,-1,-1,5,0.849195
+figurines,frame_00041,jake,combo,-1,-1,5,0.849195
+figurines,frame_00041,jake,combo,-1,-1,6,0.442281
+figurines,frame_00041,jake,combo,-1,-1,6,0.442281
+figurines,frame_00041,jake,combo,-1,-1,2,0.826104
+figurines,frame_00041,jake,combo,-1,-1,2,0.789254
+figurines,frame_00041,jake,combo,-1,-1,2,0.766109
+figurines,frame_00041,jake,combo,-1,-1,2,0.398838
+figurines,frame_00041,jake,combo,-1,-1,2,0.766109
+figurines,frame_00041,jake,combo,-1,-1,2,0.766109
+figurines,frame_00041,jake,combo,-1,-1,2,0.071078
+figurines,frame_00041,jake,combo,-1,-1,2,0.056502
+figurines,frame_00041,jake,combo,-1,-1,2,0.029177
+figurines,frame_00041,jake,combo,-1,-1,2,0.056502
+figurines,frame_00041,jake,combo,-1,-1,2,0.056502
+figurines,frame_00041,jake,combo,-1,-1,2,0.014577
+figurines,frame_00041,toy cat statue,c0,3,49,1,0.721494
+figurines,frame_00041,toy cat statue,root,3,49,1,0.721494
+figurines,frame_00041,toy cat statue,root,3,14,1,0.0
+figurines,frame_00041,toy cat statue,root,3,68,1,0.0
+figurines,frame_00041,toy cat statue,root,3,28,1,0.015244
+figurines,frame_00041,toy cat statue,root,3,77,1,0.0
+figurines,frame_00041,toy cat statue,hier,3,49,1,0.721494
+figurines,frame_00041,toy cat statue,hier,3,14,1,0.0
+figurines,frame_00041,toy cat statue,hier,3,68,1,0.0
+figurines,frame_00041,toy cat statue,hier,3,28,1,0.015244
+figurines,frame_00041,toy cat statue,hier,3,77,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,223,1,0.341611
+figurines,frame_00041,toy cat statue,deep,1,301,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,329,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,302,1,0.090236
+figurines,frame_00041,toy cat statue,deep,1,328,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,507,1,0.007407
+figurines,frame_00041,toy cat statue,deep,1,165,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,558,1,0.0
+figurines,frame_00041,toy cat statue,deep,1,39,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,70,1,0.516689
+figurines,frame_00041,toy cat statue,deep,2,130,1,0.174172
+figurines,frame_00041,toy cat statue,deep,2,148,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,19,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,111,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,140,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,36,1,0.016596
+figurines,frame_00041,toy cat statue,deep,2,15,1,0.0
+figurines,frame_00041,toy cat statue,deep,2,11,1,0.000824
+figurines,frame_00041,toy cat statue,deep,2,75,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,49,1,0.721494
+figurines,frame_00041,toy cat statue,deep,3,14,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,68,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,28,1,0.015244
+figurines,frame_00041,toy cat statue,deep,3,77,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,7,1,0.000818
+figurines,frame_00041,toy cat statue,deep,3,10,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,47,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,46,1,0.0
+figurines,frame_00041,toy cat statue,deep,3,11,1,0.0
+figurines,frame_00041,toy cat statue,combo,3,14,1,0.0
+figurines,frame_00041,toy cat statue,combo,3,68,1,0.0
+figurines,frame_00041,toy cat statue,combo,3,28,1,0.015244
+figurines,frame_00041,toy cat statue,combo,3,77,1,0.0
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.116953
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.470111
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.148493
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.636416
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.00777
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.013864
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00041,toy cat statue,combo,-1,-1,2,0.014874
+figurines,frame_00041,pirate hat,c0,2,75,1,0.915643
+figurines,frame_00041,pirate hat,root,3,91,1,0.0
+figurines,frame_00041,pirate hat,root,3,129,1,0.0
+figurines,frame_00041,pirate hat,root,3,49,1,0.0
+figurines,frame_00041,pirate hat,root,3,46,1,0.279839
+figurines,frame_00041,pirate hat,root,3,105,1,0.0
+figurines,frame_00041,pirate hat,hier,2,75,1,0.915643
+figurines,frame_00041,pirate hat,hier,3,91,1,0.0
+figurines,frame_00041,pirate hat,hier,2,130,1,0.0
+figurines,frame_00041,pirate hat,hier,2,70,1,0.0
+figurines,frame_00041,pirate hat,hier,2,64,1,0.012571
+figurines,frame_00041,pirate hat,hier,3,129,1,0.0
+figurines,frame_00041,pirate hat,hier,3,105,1,0.0
+figurines,frame_00041,pirate hat,deep,1,199,1,0.0
+figurines,frame_00041,pirate hat,deep,1,246,1,0.915643
+figurines,frame_00041,pirate hat,deep,1,319,1,0.0
+figurines,frame_00041,pirate hat,deep,1,314,1,0.0
+figurines,frame_00041,pirate hat,deep,1,256,1,0.0
+figurines,frame_00041,pirate hat,deep,1,374,1,0.0
+figurines,frame_00041,pirate hat,deep,1,512,1,0.0
+figurines,frame_00041,pirate hat,deep,1,297,1,0.0
+figurines,frame_00041,pirate hat,deep,1,1113,1,0.0
+figurines,frame_00041,pirate hat,deep,2,75,1,0.915643
+figurines,frame_00041,pirate hat,deep,2,171,1,0.0
+figurines,frame_00041,pirate hat,deep,2,68,1,0.0
+figurines,frame_00041,pirate hat,deep,2,89,1,0.0
+figurines,frame_00041,pirate hat,deep,2,130,1,0.0
+figurines,frame_00041,pirate hat,deep,2,67,1,0.0
+figurines,frame_00041,pirate hat,deep,2,70,1,0.0
+figurines,frame_00041,pirate hat,deep,2,138,1,0.0
+figurines,frame_00041,pirate hat,deep,2,82,1,0.0
+figurines,frame_00041,pirate hat,deep,2,64,1,0.012571
+figurines,frame_00041,pirate hat,deep,3,91,1,0.0
+figurines,frame_00041,pirate hat,deep,3,129,1,0.0
+figurines,frame_00041,pirate hat,deep,3,49,1,0.0
+figurines,frame_00041,pirate hat,deep,3,46,1,0.279839
+figurines,frame_00041,pirate hat,deep,3,105,1,0.0
+figurines,frame_00041,pirate hat,deep,3,71,1,0.0
+figurines,frame_00041,pirate hat,deep,3,47,1,0.0
+figurines,frame_00041,pirate hat,deep,3,57,1,0.0
+figurines,frame_00041,pirate hat,deep,3,44,1,0.0
+figurines,frame_00041,pirate hat,deep,3,150,1,0.0
+figurines,frame_00041,pirate hat,combo,3,91,1,0.0
+figurines,frame_00041,pirate hat,combo,2,130,1,0.0
+figurines,frame_00041,pirate hat,combo,2,70,1,0.0
+figurines,frame_00041,pirate hat,combo,2,64,1,0.012571
+figurines,frame_00041,pirate hat,combo,3,129,1,0.0
+figurines,frame_00041,pirate hat,combo,3,105,1,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.915643
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.793614
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.644737
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.279839
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.915643
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.915643
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.012571
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.012026
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.011187
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00041,miffy,c0,-1,-1,2,0.362345
+figurines,frame_00041,miffy,root,3,68,1,0.362345
+figurines,frame_00041,miffy,root,3,134,1,0.0
+figurines,frame_00041,miffy,root,3,140,1,0.0
+figurines,frame_00041,miffy,root,3,7,1,0.004813
+figurines,frame_00041,miffy,root,3,147,1,0.0
+figurines,frame_00041,miffy,hier,3,68,1,0.362345
+figurines,frame_00041,miffy,hier,3,134,1,0.0
+figurines,frame_00041,miffy,hier,2,11,1,0.004852
+figurines,frame_00041,miffy,hier,3,140,1,0.0
+figurines,frame_00041,miffy,hier,3,147,1,0.0
+figurines,frame_00041,miffy,deep,1,418,1,0.0
+figurines,frame_00041,miffy,deep,1,28,1,0.0
+figurines,frame_00041,miffy,deep,1,277,1,0.0
+figurines,frame_00041,miffy,deep,1,149,1,0.0
+figurines,frame_00041,miffy,deep,1,15,1,0.001392
+figurines,frame_00041,miffy,deep,1,1303,1,0.0
+figurines,frame_00041,miffy,deep,1,148,1,0.0
+figurines,frame_00041,miffy,deep,1,1003,1,0.0
+figurines,frame_00041,miffy,deep,1,29,1,0.0
+figurines,frame_00041,miffy,deep,1,1383,1,0.0
+figurines,frame_00041,miffy,deep,2,15,1,0.0
+figurines,frame_00041,miffy,deep,2,118,1,0.0
+figurines,frame_00041,miffy,deep,2,277,1,0.0
+figurines,frame_00041,miffy,deep,2,11,1,0.004852
+figurines,frame_00041,miffy,deep,2,77,1,0.0
+figurines,frame_00041,miffy,deep,2,111,1,0.356572
+figurines,frame_00041,miffy,deep,2,243,1,0.0
+figurines,frame_00041,miffy,deep,2,43,1,0.0
+figurines,frame_00041,miffy,deep,2,109,1,0.0
+figurines,frame_00041,miffy,deep,2,18,1,0.0
+figurines,frame_00041,miffy,deep,3,68,1,0.362345
+figurines,frame_00041,miffy,deep,3,134,1,0.0
+figurines,frame_00041,miffy,deep,3,140,1,0.0
+figurines,frame_00041,miffy,deep,3,7,1,0.004813
+figurines,frame_00041,miffy,deep,3,147,1,0.0
+figurines,frame_00041,miffy,deep,3,33,1,0.0
+figurines,frame_00041,miffy,deep,3,10,1,0.0
+figurines,frame_00041,miffy,deep,3,67,1,0.0
+figurines,frame_00041,miffy,deep,3,13,1,0.0
+figurines,frame_00041,miffy,deep,3,94,1,0.0
+figurines,frame_00041,miffy,combo,-1,-1,2,0.004852
+figurines,frame_00041,miffy,combo,-1,-1,2,0.0
+figurines,frame_00041,miffy,combo,-1,-1,2,0.0
+figurines,frame_00041,miffy,combo,-1,-1,2,0.00762
+figurines,frame_00041,miffy,combo,-1,-1,2,0.362345
+figurines,frame_00041,miffy,combo,-1,-1,2,0.362345
+figurines,frame_00041,miffy,combo,-1,-1,3,0.00762
+figurines,frame_00041,miffy,combo,-1,-1,3,0.362345
+figurines,frame_00041,miffy,combo,-1,-1,3,0.362345
+figurines,frame_00041,miffy,combo,-1,-1,2,0.362345
+figurines,frame_00041,miffy,combo,-1,-1,2,0.004852
+figurines,frame_00041,miffy,combo,-1,-1,2,0.004852
+figurines,frame_00041,miffy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubics cube,c0,2,63,1,0.892495
+figurines,frame_00105,rubics cube,root,3,45,1,0.892328
+figurines,frame_00105,rubics cube,root,3,133,1,0.0
+figurines,frame_00105,rubics cube,root,3,39,1,0.0
+figurines,frame_00105,rubics cube,root,3,140,1,0.0
+figurines,frame_00105,rubics cube,hier,2,63,1,0.892495
+figurines,frame_00105,rubics cube,hier,3,133,1,0.0
+figurines,frame_00105,rubics cube,hier,3,39,1,0.0
+figurines,frame_00105,rubics cube,hier,3,140,1,0.0
+figurines,frame_00105,rubics cube,deep,1,238,1,0.16088
+figurines,frame_00105,rubics cube,deep,1,418,1,0.0
+figurines,frame_00105,rubics cube,deep,1,1770,1,0.0
+figurines,frame_00105,rubics cube,deep,1,410,1,0.037142
+figurines,frame_00105,rubics cube,deep,1,1893,1,0.0
+figurines,frame_00105,rubics cube,deep,1,526,1,0.019828
+figurines,frame_00105,rubics cube,deep,1,901,1,0.0
+figurines,frame_00105,rubics cube,deep,1,992,1,0.0
+figurines,frame_00105,rubics cube,deep,1,1311,1,0.0
+figurines,frame_00105,rubics cube,deep,2,63,1,0.892495
+figurines,frame_00105,rubics cube,deep,2,134,1,0.0
+figurines,frame_00105,rubics cube,deep,2,276,1,0.0
+figurines,frame_00105,rubics cube,deep,2,12,1,0.0
+figurines,frame_00105,rubics cube,deep,2,251,1,0.0
+figurines,frame_00105,rubics cube,deep,2,266,1,0.0
+figurines,frame_00105,rubics cube,deep,2,294,1,0.0
+figurines,frame_00105,rubics cube,deep,3,45,1,0.892328
+figurines,frame_00105,rubics cube,deep,3,133,1,0.0
+figurines,frame_00105,rubics cube,deep,3,39,1,0.0
+figurines,frame_00105,rubics cube,deep,3,140,1,0.0
+figurines,frame_00105,rubics cube,deep,3,128,1,0.0
+figurines,frame_00105,rubics cube,deep,3,132,1,0.0
+figurines,frame_00105,rubics cube,deep,3,122,1,0.0
+figurines,frame_00105,rubics cube,deep,3,85,1,0.0
+figurines,frame_00105,rubics cube,deep,3,2,1,0.0
+figurines,frame_00105,rubics cube,deep,3,147,1,0.0
+figurines,frame_00105,rubics cube,combo,3,133,1,0.0
+figurines,frame_00105,rubics cube,combo,3,39,1,0.0
+figurines,frame_00105,rubics cube,combo,3,140,1,0.0
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.892495
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.892495
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.892495
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00105,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,c0,3,24,1,0.958776
+figurines,frame_00105,green apple,root,3,24,1,0.958776
+figurines,frame_00105,green apple,root,3,18,1,0.0
+figurines,frame_00105,green apple,root,3,139,1,0.0
+figurines,frame_00105,green apple,root,3,43,1,0.0
+figurines,frame_00105,green apple,root,3,10,1,0.0
+figurines,frame_00105,green apple,hier,3,24,1,0.958776
+figurines,frame_00105,green apple,hier,3,18,1,0.0
+figurines,frame_00105,green apple,hier,3,139,1,0.0
+figurines,frame_00105,green apple,hier,3,43,1,0.0
+figurines,frame_00105,green apple,hier,3,10,1,0.0
+figurines,frame_00105,green apple,deep,1,152,1,0.062381
+figurines,frame_00105,green apple,deep,1,324,1,0.009852
+figurines,frame_00105,green apple,deep,1,305,1,0.112423
+figurines,frame_00105,green apple,deep,1,79,1,0.377751
+figurines,frame_00105,green apple,deep,1,78,1,0.001124
+figurines,frame_00105,green apple,deep,1,394,1,0.0
+figurines,frame_00105,green apple,deep,1,1857,1,0.0
+figurines,frame_00105,green apple,deep,1,418,1,0.0
+figurines,frame_00105,green apple,deep,1,307,1,0.0
+figurines,frame_00105,green apple,deep,1,129,1,0.0
+figurines,frame_00105,green apple,deep,2,31,1,0.962862
+figurines,frame_00105,green apple,deep,2,23,1,0.0
+figurines,frame_00105,green apple,deep,2,118,1,0.0
+figurines,frame_00105,green apple,deep,2,307,1,0.0
+figurines,frame_00105,green apple,deep,2,60,1,0.0
+figurines,frame_00105,green apple,deep,2,15,1,0.0
+figurines,frame_00105,green apple,deep,2,55,1,0.0
+figurines,frame_00105,green apple,deep,2,36,1,0.0
+figurines,frame_00105,green apple,deep,2,77,1,0.0
+figurines,frame_00105,green apple,deep,2,277,1,0.0
+figurines,frame_00105,green apple,deep,3,24,1,0.958776
+figurines,frame_00105,green apple,deep,3,18,1,0.0
+figurines,frame_00105,green apple,deep,3,139,1,0.0
+figurines,frame_00105,green apple,deep,3,43,1,0.0
+figurines,frame_00105,green apple,deep,3,10,1,0.0
+figurines,frame_00105,green apple,deep,3,103,1,0.0
+figurines,frame_00105,green apple,deep,3,54,1,0.0
+figurines,frame_00105,green apple,deep,3,106,1,0.0
+figurines,frame_00105,green apple,deep,3,134,1,0.0
+figurines,frame_00105,green apple,deep,3,38,1,0.0
+figurines,frame_00105,green apple,combo,3,18,1,0.0
+figurines,frame_00105,green apple,combo,3,139,1,0.0
+figurines,frame_00105,green apple,combo,3,43,1,0.0
+figurines,frame_00105,green apple,combo,3,10,1,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.64212
+figurines,frame_00105,green apple,combo,-1,-1,2,0.958776
+figurines,frame_00105,green apple,combo,-1,-1,2,0.297186
+figurines,frame_00105,green apple,combo,-1,-1,2,0.475541
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green apple,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,c0,3,18,1,0.715411
+figurines,frame_00105,green toy chair,root,3,18,1,0.715411
+figurines,frame_00105,green toy chair,root,3,59,1,0.0
+figurines,frame_00105,green toy chair,root,3,48,1,0.0
+figurines,frame_00105,green toy chair,root,3,66,1,0.0
+figurines,frame_00105,green toy chair,root,3,40,1,0.0
+figurines,frame_00105,green toy chair,hier,3,18,1,0.715411
+figurines,frame_00105,green toy chair,hier,3,59,1,0.0
+figurines,frame_00105,green toy chair,hier,3,48,1,0.0
+figurines,frame_00105,green toy chair,hier,3,66,1,0.0
+figurines,frame_00105,green toy chair,hier,3,40,1,0.0
+figurines,frame_00105,green toy chair,deep,1,394,1,0.0
+figurines,frame_00105,green toy chair,deep,1,307,1,0.020353
+figurines,frame_00105,green toy chair,deep,1,129,1,0.002451
+figurines,frame_00105,green toy chair,deep,1,1857,1,0.047041
+figurines,frame_00105,green toy chair,deep,1,64,1,0.642147
+figurines,frame_00105,green toy chair,deep,1,418,1,0.0
+figurines,frame_00105,green toy chair,deep,1,468,1,0.0
+figurines,frame_00105,green toy chair,deep,1,152,1,0.0
+figurines,frame_00105,green toy chair,deep,1,324,1,0.0
+figurines,frame_00105,green toy chair,deep,1,79,1,0.0
+figurines,frame_00105,green toy chair,deep,2,23,1,0.715411
+figurines,frame_00105,green toy chair,deep,2,118,1,0.0
+figurines,frame_00105,green toy chair,deep,2,88,1,0.0
+figurines,frame_00105,green toy chair,deep,2,94,1,0.0
+figurines,frame_00105,green toy chair,deep,2,178,1,0.0
+figurines,frame_00105,green toy chair,deep,2,55,1,0.0
+figurines,frame_00105,green toy chair,deep,2,31,1,0.0
+figurines,frame_00105,green toy chair,deep,2,307,1,0.0
+figurines,frame_00105,green toy chair,deep,2,19,1,0.0
+figurines,frame_00105,green toy chair,deep,2,148,1,0.0
+figurines,frame_00105,green toy chair,deep,3,18,1,0.715411
+figurines,frame_00105,green toy chair,deep,3,59,1,0.0
+figurines,frame_00105,green toy chair,deep,3,48,1,0.0
+figurines,frame_00105,green toy chair,deep,3,66,1,0.0
+figurines,frame_00105,green toy chair,deep,3,40,1,0.0
+figurines,frame_00105,green toy chair,deep,3,24,1,0.0
+figurines,frame_00105,green toy chair,deep,3,14,1,0.0
+figurines,frame_00105,green toy chair,deep,3,28,1,0.0
+figurines,frame_00105,green toy chair,deep,3,107,1,0.0
+figurines,frame_00105,green toy chair,deep,3,82,1,0.0
+figurines,frame_00105,green toy chair,combo,3,59,1,0.0
+figurines,frame_00105,green toy chair,combo,3,48,1,0.0
+figurines,frame_00105,green toy chair,combo,3,66,1,0.0
+figurines,frame_00105,green toy chair,combo,3,40,1,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.715411
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.387602
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.715411
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.685039
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00105,jake,c0,-1,-1,5,0.423114
+figurines,frame_00105,jake,root,3,28,1,0.850301
+figurines,frame_00105,jake,root,3,67,1,0.0
+figurines,frame_00105,jake,root,3,51,1,0.0
+figurines,frame_00105,jake,root,3,73,1,0.0
+figurines,frame_00105,jake,root,3,94,1,0.0
+figurines,frame_00105,jake,hier,2,36,1,0.796095
+figurines,frame_00105,jake,hier,2,199,1,0.0
+figurines,frame_00105,jake,hier,2,426,1,0.038881
+figurines,frame_00105,jake,hier,3,67,1,0.0
+figurines,frame_00105,jake,hier,3,51,1,0.0
+figurines,frame_00105,jake,hier,3,73,1,0.0
+figurines,frame_00105,jake,hier,3,94,1,0.0
+figurines,frame_00105,jake,deep,1,322,1,0.0
+figurines,frame_00105,jake,deep,1,197,1,0.0
+figurines,frame_00105,jake,deep,1,195,1,0.0
+figurines,frame_00105,jake,deep,1,494,1,0.0
+figurines,frame_00105,jake,deep,1,104,1,0.0
+figurines,frame_00105,jake,deep,2,36,1,0.796095
+figurines,frame_00105,jake,deep,2,109,1,0.0
+figurines,frame_00105,jake,deep,2,68,1,0.0
+figurines,frame_00105,jake,deep,2,89,1,0.0
+figurines,frame_00105,jake,deep,2,77,1,0.0
+figurines,frame_00105,jake,deep,2,365,1,0.0
+figurines,frame_00105,jake,deep,2,76,1,0.0
+figurines,frame_00105,jake,deep,2,66,1,0.0
+figurines,frame_00105,jake,deep,2,64,1,0.0
+figurines,frame_00105,jake,deep,2,75,1,0.0
+figurines,frame_00105,jake,deep,3,28,1,0.850301
+figurines,frame_00105,jake,deep,3,67,1,0.0
+figurines,frame_00105,jake,deep,3,51,1,0.0
+figurines,frame_00105,jake,deep,3,73,1,0.0
+figurines,frame_00105,jake,deep,3,94,1,0.0
+figurines,frame_00105,jake,deep,3,39,1,0.0
+figurines,frame_00105,jake,deep,3,85,1,0.0
+figurines,frame_00105,jake,deep,3,61,1,0.0
+figurines,frame_00105,jake,deep,3,38,1,0.0
+figurines,frame_00105,jake,deep,3,33,1,0.0
+figurines,frame_00105,jake,combo,-1,-1,5,0.01907
+figurines,frame_00105,jake,combo,-1,-1,5,0.01907
+figurines,frame_00105,jake,combo,-1,-1,5,0.423114
+figurines,frame_00105,jake,combo,-1,-1,5,0.423114
+figurines,frame_00105,jake,combo,-1,-1,5,0.395853
+figurines,frame_00105,jake,combo,-1,-1,5,0.395853
+figurines,frame_00105,jake,combo,-1,-1,5,0.423114
+figurines,frame_00105,jake,combo,-1,-1,5,0.423114
+figurines,frame_00105,jake,combo,-1,-1,5,0.850301
+figurines,frame_00105,jake,combo,-1,-1,5,0.850301
+figurines,frame_00105,jake,combo,-1,-1,6,0.423114
+figurines,frame_00105,jake,combo,-1,-1,6,0.423114
+figurines,frame_00105,jake,combo,-1,-1,2,0.796095
+figurines,frame_00105,jake,combo,-1,-1,2,0.850301
+figurines,frame_00105,jake,combo,-1,-1,2,0.796095
+figurines,frame_00105,jake,combo,-1,-1,2,0.395853
+figurines,frame_00105,jake,combo,-1,-1,2,0.796095
+figurines,frame_00105,jake,combo,-1,-1,2,0.796095
+figurines,frame_00105,jake,combo,-1,-1,2,0.038881
+figurines,frame_00105,jake,combo,-1,-1,2,0.0
+figurines,frame_00105,jake,combo,-1,-1,2,0.0
+figurines,frame_00105,jake,combo,-1,-1,2,0.0
+figurines,frame_00105,jake,combo,-1,-1,2,0.0
+figurines,frame_00105,jake,combo,-1,-1,2,0.038881
+figurines,frame_00105,old camera,c0,3,8,1,0.585095
+figurines,frame_00105,old camera,root,3,8,1,0.585095
+figurines,frame_00105,old camera,root,3,19,1,0.375022
+figurines,frame_00105,old camera,root,3,103,1,0.0
+figurines,frame_00105,old camera,root,3,38,1,0.0
+figurines,frame_00105,old camera,root,3,33,1,0.0
+figurines,frame_00105,old camera,hier,3,8,1,0.585095
+figurines,frame_00105,old camera,hier,3,19,1,0.375022
+figurines,frame_00105,old camera,hier,2,43,1,0.0
+figurines,frame_00105,old camera,hier,3,103,1,0.0
+figurines,frame_00105,old camera,hier,3,38,1,0.0
+figurines,frame_00105,old camera,deep,1,265,1,0.0
+figurines,frame_00105,old camera,deep,1,25,1,0.002365
+figurines,frame_00105,old camera,deep,1,23,1,0.000975
+figurines,frame_00105,old camera,deep,1,278,1,0.105522
+figurines,frame_00105,old camera,deep,1,24,1,0.0
+figurines,frame_00105,old camera,deep,1,22,1,0.020241
+figurines,frame_00105,old camera,deep,1,279,1,0.004406
+figurines,frame_00105,old camera,deep,1,313,1,0.02434
+figurines,frame_00105,old camera,deep,1,139,1,0.091399
+figurines,frame_00105,old camera,deep,2,13,1,0.577886
+figurines,frame_00105,old camera,deep,2,43,1,0.0
+figurines,frame_00105,old camera,deep,2,349,1,0.0
+figurines,frame_00105,old camera,deep,2,45,1,0.0
+figurines,frame_00105,old camera,deep,2,264,1,0.0
+figurines,frame_00105,old camera,deep,2,344,1,0.0
+figurines,frame_00105,old camera,deep,2,107,1,0.0
+figurines,frame_00105,old camera,deep,2,77,1,0.0
+figurines,frame_00105,old camera,deep,2,362,1,0.0
+figurines,frame_00105,old camera,deep,2,53,1,0.0
+figurines,frame_00105,old camera,deep,3,8,1,0.585095
+figurines,frame_00105,old camera,deep,3,19,1,0.375022
+figurines,frame_00105,old camera,deep,3,103,1,0.0
+figurines,frame_00105,old camera,deep,3,38,1,0.0
+figurines,frame_00105,old camera,deep,3,33,1,0.0
+figurines,frame_00105,old camera,deep,3,42,1,0.0
+figurines,frame_00105,old camera,deep,3,54,1,0.0
+figurines,frame_00105,old camera,deep,3,120,1,0.0
+figurines,frame_00105,old camera,deep,3,151,1,0.0
+figurines,frame_00105,old camera,deep,3,106,1,0.0
+figurines,frame_00105,old camera,combo,3,19,1,0.375022
+figurines,frame_00105,old camera,combo,2,43,1,0.0
+figurines,frame_00105,old camera,combo,3,103,1,0.0
+figurines,frame_00105,old camera,combo,3,38,1,0.0
+figurines,frame_00105,old camera,combo,-1,-1,2,0.943652
+figurines,frame_00105,old camera,combo,-1,-1,2,0.382406
+figurines,frame_00105,old camera,combo,-1,-1,2,0.585095
+figurines,frame_00105,old camera,combo,-1,-1,2,0.585095
+figurines,frame_00105,old camera,combo,-1,-1,2,0.243705
+figurines,frame_00105,old camera,combo,-1,-1,2,0.375022
+figurines,frame_00105,old camera,combo,-1,-1,2,0.375022
+figurines,frame_00105,old camera,combo,-1,-1,2,0.0
+figurines,frame_00105,old camera,combo,-1,-1,2,0.0
+figurines,frame_00105,old camera,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,c0,2,90,1,0.768864
+figurines,frame_00105,pink ice cream,root,3,60,1,0.891019
+figurines,frame_00105,pink ice cream,root,3,12,1,0.0
+figurines,frame_00105,pink ice cream,root,3,41,1,0.0
+figurines,frame_00105,pink ice cream,root,3,17,1,0.0
+figurines,frame_00105,pink ice cream,root,3,43,1,0.0
+figurines,frame_00105,pink ice cream,hier,2,90,1,0.768864
+figurines,frame_00105,pink ice cream,hier,2,17,1,0.0
+figurines,frame_00105,pink ice cream,hier,2,22,1,0.0
+figurines,frame_00105,pink ice cream,hier,3,41,1,0.0
+figurines,frame_00105,pink ice cream,hier,3,43,1,0.0
+figurines,frame_00105,pink ice cream,deep,1,306,1,0.253369
+figurines,frame_00105,pink ice cream,deep,1,32,1,0.0
+figurines,frame_00105,pink ice cream,deep,1,246,1,0.0
+figurines,frame_00105,pink ice cream,deep,1,172,1,0.0
+figurines,frame_00105,pink ice cream,deep,1,257,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,90,1,0.768864
+figurines,frame_00105,pink ice cream,deep,2,17,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,158,1,0.079013
+figurines,frame_00105,pink ice cream,deep,2,60,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,22,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,40,1,0.009502
+figurines,frame_00105,pink ice cream,deep,2,82,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,68,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,67,1,0.0
+figurines,frame_00105,pink ice cream,deep,2,111,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,60,1,0.891019
+figurines,frame_00105,pink ice cream,deep,3,12,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,41,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,17,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,43,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,51,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,30,1,0.008989
+figurines,frame_00105,pink ice cream,deep,3,110,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,154,1,0.0
+figurines,frame_00105,pink ice cream,deep,3,47,1,0.0
+figurines,frame_00105,pink ice cream,combo,2,17,1,0.0
+figurines,frame_00105,pink ice cream,combo,2,22,1,0.0
+figurines,frame_00105,pink ice cream,combo,3,41,1,0.0
+figurines,frame_00105,pink ice cream,combo,3,43,1,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.253036
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.150963
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.768864
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.094562
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,c0,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,root,3,24,1,0.0
+figurines,frame_00105,pumpkin,root,3,47,1,0.913545
+figurines,frame_00105,pumpkin,root,3,28,1,0.0
+figurines,frame_00105,pumpkin,root,3,43,1,0.0
+figurines,frame_00105,pumpkin,root,3,102,1,0.0
+figurines,frame_00105,pumpkin,hier,2,31,1,0.0
+figurines,frame_00105,pumpkin,hier,2,36,1,0.0
+figurines,frame_00105,pumpkin,hier,3,47,1,0.913545
+figurines,frame_00105,pumpkin,hier,3,43,1,0.0
+figurines,frame_00105,pumpkin,hier,3,102,1,0.0
+figurines,frame_00105,pumpkin,deep,1,191,1,0.0
+figurines,frame_00105,pumpkin,deep,1,1893,1,0.0
+figurines,frame_00105,pumpkin,deep,1,114,1,0.0
+figurines,frame_00105,pumpkin,deep,1,152,1,0.0
+figurines,frame_00105,pumpkin,deep,1,103,1,0.0
+figurines,frame_00105,pumpkin,deep,1,258,1,0.0
+figurines,frame_00105,pumpkin,deep,1,79,1,0.0
+figurines,frame_00105,pumpkin,deep,1,324,1,0.0
+figurines,frame_00105,pumpkin,deep,1,388,1,0.0
+figurines,frame_00105,pumpkin,deep,1,287,1,0.0
+figurines,frame_00105,pumpkin,deep,2,31,1,0.0
+figurines,frame_00105,pumpkin,deep,2,36,1,0.0
+figurines,frame_00105,pumpkin,deep,2,111,1,0.0
+figurines,frame_00105,pumpkin,deep,2,60,1,0.0
+figurines,frame_00105,pumpkin,deep,2,195,1,0.0
+figurines,frame_00105,pumpkin,deep,2,89,1,0.195424
+figurines,frame_00105,pumpkin,deep,2,68,1,0.159765
+figurines,frame_00105,pumpkin,deep,2,82,1,0.224566
+figurines,frame_00105,pumpkin,deep,2,64,1,0.0
+figurines,frame_00105,pumpkin,deep,2,365,1,0.0
+figurines,frame_00105,pumpkin,deep,3,24,1,0.0
+figurines,frame_00105,pumpkin,deep,3,47,1,0.913545
+figurines,frame_00105,pumpkin,deep,3,28,1,0.0
+figurines,frame_00105,pumpkin,deep,3,43,1,0.0
+figurines,frame_00105,pumpkin,deep,3,102,1,0.0
+figurines,frame_00105,pumpkin,deep,3,68,1,0.0
+figurines,frame_00105,pumpkin,deep,3,41,1,0.0
+figurines,frame_00105,pumpkin,deep,3,154,1,0.0
+figurines,frame_00105,pumpkin,deep,3,5,1,0.0
+figurines,frame_00105,pumpkin,deep,3,49,1,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.870445
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.749821
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,3,0.720538
+figurines,frame_00105,pumpkin,combo,-1,-1,3,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,3,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.609015
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.913545
+figurines,frame_00105,pumpkin,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,c0,3,43,1,0.98066
+figurines,frame_00105,red apple,root,3,43,1,0.98066
+figurines,frame_00105,red apple,root,3,24,1,0.0
+figurines,frame_00105,red apple,root,3,48,1,0.0
+figurines,frame_00105,red apple,root,3,17,1,0.0
+figurines,frame_00105,red apple,root,3,68,1,0.0
+figurines,frame_00105,red apple,hier,3,43,1,0.98066
+figurines,frame_00105,red apple,hier,2,69,1,0.0
+figurines,frame_00105,red apple,hier,3,24,1,0.0
+figurines,frame_00105,red apple,hier,2,22,1,0.0
+figurines,frame_00105,red apple,hier,2,111,1,0.0
+figurines,frame_00105,red apple,deep,1,172,1,0.724348
+figurines,frame_00105,red apple,deep,1,257,1,0.000401
+figurines,frame_00105,red apple,deep,1,464,1,0.090828
+figurines,frame_00105,red apple,deep,1,254,1,0.0
+figurines,frame_00105,red apple,deep,1,215,1,0.0
+figurines,frame_00105,red apple,deep,1,246,1,0.0
+figurines,frame_00105,red apple,deep,1,291,1,0.0
+figurines,frame_00105,red apple,deep,1,1854,1,0.0
+figurines,frame_00105,red apple,deep,1,1202,1,0.0
+figurines,frame_00105,red apple,deep,1,498,1,0.000544
+figurines,frame_00105,red apple,deep,2,60,1,0.98066
+figurines,frame_00105,red apple,deep,2,69,1,0.0
+figurines,frame_00105,red apple,deep,2,31,1,0.0
+figurines,frame_00105,red apple,deep,2,22,1,0.0
+figurines,frame_00105,red apple,deep,2,111,1,0.0
+figurines,frame_00105,red apple,deep,2,40,1,0.0
+figurines,frame_00105,red apple,deep,2,75,1,0.0
+figurines,frame_00105,red apple,deep,2,225,1,0.0
+figurines,frame_00105,red apple,deep,2,64,1,0.0
+figurines,frame_00105,red apple,deep,2,90,1,0.0
+figurines,frame_00105,red apple,deep,3,43,1,0.98066
+figurines,frame_00105,red apple,deep,3,24,1,0.0
+figurines,frame_00105,red apple,deep,3,48,1,0.0
+figurines,frame_00105,red apple,deep,3,17,1,0.0
+figurines,frame_00105,red apple,deep,3,68,1,0.0
+figurines,frame_00105,red apple,deep,3,110,1,0.0
+figurines,frame_00105,red apple,deep,3,30,1,0.0
+figurines,frame_00105,red apple,deep,3,41,1,0.0
+figurines,frame_00105,red apple,deep,3,60,1,0.0
+figurines,frame_00105,red apple,deep,3,154,1,0.0
+figurines,frame_00105,red apple,combo,2,69,1,0.0
+figurines,frame_00105,red apple,combo,3,24,1,0.0
+figurines,frame_00105,red apple,combo,2,22,1,0.0
+figurines,frame_00105,red apple,combo,2,111,1,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.785915
+figurines,frame_00105,red apple,combo,-1,-1,2,0.684534
+figurines,frame_00105,red apple,combo,-1,-1,2,0.626995
+figurines,frame_00105,red apple,combo,-1,-1,2,0.98066
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,red apple,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with hat,c0,-1,-1,3,0.289702
+figurines,frame_00105,rubber duck with hat,root,3,51,1,0.0
+figurines,frame_00105,rubber duck with hat,root,3,46,1,0.829117
+figurines,frame_00105,rubber duck with hat,root,3,49,1,0.0
+figurines,frame_00105,rubber duck with hat,root,3,68,1,0.0
+figurines,frame_00105,rubber duck with hat,root,3,14,1,0.0
+figurines,frame_00105,rubber duck with hat,hier,2,75,1,0.329091
+figurines,frame_00105,rubber duck with hat,hier,3,51,1,0.0
+figurines,frame_00105,rubber duck with hat,hier,2,64,1,0.508559
+figurines,frame_00105,rubber duck with hat,hier,3,49,1,0.0
+figurines,frame_00105,rubber duck with hat,hier,2,111,1,0.0
+figurines,frame_00105,rubber duck with hat,hier,2,19,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,191,1,0.472376
+figurines,frame_00105,rubber duck with hat,deep,1,388,1,0.009208
+figurines,frame_00105,rubber duck with hat,deep,1,247,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,386,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,767,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,186,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,114,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,103,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,1,270,1,0.029826
+figurines,frame_00105,rubber duck with hat,deep,1,258,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,75,1,0.329091
+figurines,frame_00105,rubber duck with hat,deep,2,64,1,0.508559
+figurines,frame_00105,rubber duck with hat,deep,2,76,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,86,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,70,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,130,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,111,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,36,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,19,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,2,15,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,51,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,46,1,0.829117
+figurines,frame_00105,rubber duck with hat,deep,3,49,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,68,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,14,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,77,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,47,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,28,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,10,1,0.0
+figurines,frame_00105,rubber duck with hat,deep,3,45,1,0.029014
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.131142
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.175994
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.115593
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.420058
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.829117
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.333274
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.084294
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.113213
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,3,0.074279
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,4,0.216154
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,4,0.289702
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,4,0.190612
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.113213
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.829117
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.16477
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.329091
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.130403
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.175994
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.255777
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.508559
+figurines,frame_00105,rubber duck with hat,combo,-1,-1,2,0.20262
+figurines,frame_00105,tesla door handle,c0,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,root,3,74,1,0.0
+figurines,frame_00105,tesla door handle,root,3,161,1,0.0
+figurines,frame_00105,tesla door handle,root,3,29,1,0.0
+figurines,frame_00105,tesla door handle,root,3,16,1,0.0
+figurines,frame_00105,tesla door handle,root,3,69,1,0.0
+figurines,frame_00105,tesla door handle,hier,2,115,1,0.0
+figurines,frame_00105,tesla door handle,hier,2,132,1,0.0
+figurines,frame_00105,tesla door handle,hier,2,38,1,0.0
+figurines,frame_00105,tesla door handle,hier,2,135,1,0.0
+figurines,frame_00105,tesla door handle,hier,3,161,1,0.0
+figurines,frame_00105,tesla door handle,hier,2,21,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,1121,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,363,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,1543,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,1276,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,1147,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,66,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,232,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,1250,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,140,1,0.0
+figurines,frame_00105,tesla door handle,deep,1,69,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,115,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,268,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,132,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,120,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,38,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,20,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,24,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,135,1,0.0
+figurines,frame_00105,tesla door handle,deep,2,33,1,0.25904
+figurines,frame_00105,tesla door handle,deep,2,27,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,74,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,161,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,29,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,16,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,69,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,103,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,86,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,3,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,15,1,0.0
+figurines,frame_00105,tesla door handle,deep,3,26,1,0.511826
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,3,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,4,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,tesla door handle,combo,-1,-1,2,0.0
+figurines,frame_00105,spatula,c0,-1,-1,3,0.764944
+figurines,frame_00105,spatula,root,3,30,1,0.764944
+figurines,frame_00105,spatula,root,3,41,1,0.0
+figurines,frame_00105,spatula,root,3,59,1,0.0
+figurines,frame_00105,spatula,root,3,102,1,0.0
+figurines,frame_00105,spatula,root,3,34,1,0.0
+figurines,frame_00105,spatula,hier,3,30,1,0.764944
+figurines,frame_00105,spatula,hier,2,206,1,0.0
+figurines,frame_00105,spatula,hier,2,88,1,0.0
+figurines,frame_00105,spatula,hier,2,178,1,0.0
+figurines,frame_00105,spatula,hier,3,41,1,0.0
+figurines,frame_00105,spatula,hier,2,94,1,0.0
+figurines,frame_00105,spatula,hier,3,102,1,0.0
+figurines,frame_00105,spatula,hier,3,34,1,0.0
+figurines,frame_00105,spatula,deep,1,583,1,0.0
+figurines,frame_00105,spatula,deep,1,1546,1,0.0
+figurines,frame_00105,spatula,deep,1,1022,1,0.0
+figurines,frame_00105,spatula,deep,1,101,1,0.0
+figurines,frame_00105,spatula,deep,1,48,1,0.0
+figurines,frame_00105,spatula,deep,1,141,1,0.0
+figurines,frame_00105,spatula,deep,1,999,1,0.0
+figurines,frame_00105,spatula,deep,2,40,1,0.628823
+figurines,frame_00105,spatula,deep,2,367,1,0.0
+figurines,frame_00105,spatula,deep,2,96,1,0.0
+figurines,frame_00105,spatula,deep,2,120,1,0.0
+figurines,frame_00105,spatula,deep,2,7,1,0.0
+figurines,frame_00105,spatula,deep,2,237,1,0.0
+figurines,frame_00105,spatula,deep,2,88,1,0.0
+figurines,frame_00105,spatula,deep,2,132,1,0.0
+figurines,frame_00105,spatula,deep,2,27,1,0.0
+figurines,frame_00105,spatula,deep,3,30,1,0.764944
+figurines,frame_00105,spatula,deep,3,41,1,0.0
+figurines,frame_00105,spatula,deep,3,59,1,0.0
+figurines,frame_00105,spatula,deep,3,102,1,0.0
+figurines,frame_00105,spatula,deep,3,34,1,0.0
+figurines,frame_00105,spatula,deep,3,21,1,0.0
+figurines,frame_00105,spatula,deep,3,107,1,0.0
+figurines,frame_00105,spatula,deep,3,5,1,0.0
+figurines,frame_00105,spatula,deep,3,82,1,0.0
+figurines,frame_00105,spatula,deep,3,65,1,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.0
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,3,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,4,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,4,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,4,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,4,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,4,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.764944
+figurines,frame_00105,spatula,combo,-1,-1,2,0.0
+figurines,frame_00105,spatula,combo,-1,-1,2,0.0
+figurines,frame_00105,spatula,combo,-1,-1,2,0.0
+figurines,frame_00105,spatula,combo,-1,-1,2,0.0
+figurines,frame_00105,spatula,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,c0,-1,-1,2,0.811302
+figurines,frame_00105,rubber duck with buoy,root,3,51,1,0.94949
+figurines,frame_00105,rubber duck with buoy,root,3,46,1,0.0
+figurines,frame_00105,rubber duck with buoy,root,3,68,1,0.0
+figurines,frame_00105,rubber duck with buoy,root,3,49,1,0.0
+figurines,frame_00105,rubber duck with buoy,root,3,14,1,0.0
+figurines,frame_00105,rubber duck with buoy,hier,2,75,1,0.0
+figurines,frame_00105,rubber duck with buoy,hier,3,51,1,0.94949
+figurines,frame_00105,rubber duck with buoy,hier,3,68,1,0.0
+figurines,frame_00105,rubber duck with buoy,hier,3,49,1,0.0
+figurines,frame_00105,rubber duck with buoy,hier,2,19,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,247,1,0.170444
+figurines,frame_00105,rubber duck with buoy,deep,1,191,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,388,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,767,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,386,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,258,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,114,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,186,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,103,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,1,270,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,75,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,64,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,76,1,0.948811
+figurines,frame_00105,rubber duck with buoy,deep,2,86,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,111,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,36,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,19,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,70,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,130,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,2,57,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,51,1,0.94949
+figurines,frame_00105,rubber duck with buoy,deep,3,46,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,68,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,49,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,14,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,28,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,45,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,77,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,47,1,0.0
+figurines,frame_00105,rubber duck with buoy,deep,3,10,1,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.94949
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.634287
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.539719
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,3,0.811302
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,3,0.569488
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,3,0.492077
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.811302
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,c0,2,75,1,0.820287
+figurines,frame_00105,pirate hat,root,3,91,1,0.0
+figurines,frame_00105,pirate hat,root,3,129,1,0.0
+figurines,frame_00105,pirate hat,root,3,49,1,0.0
+figurines,frame_00105,pirate hat,root,3,46,1,0.414101
+figurines,frame_00105,pirate hat,root,3,105,1,0.0
+figurines,frame_00105,pirate hat,hier,2,75,1,0.820287
+figurines,frame_00105,pirate hat,hier,3,91,1,0.0
+figurines,frame_00105,pirate hat,hier,2,130,1,0.0
+figurines,frame_00105,pirate hat,hier,2,70,1,0.0
+figurines,frame_00105,pirate hat,hier,2,64,1,0.041646
+figurines,frame_00105,pirate hat,hier,3,129,1,0.0
+figurines,frame_00105,pirate hat,hier,3,105,1,0.0
+figurines,frame_00105,pirate hat,deep,1,199,1,0.0
+figurines,frame_00105,pirate hat,deep,1,246,1,0.820287
+figurines,frame_00105,pirate hat,deep,1,319,1,0.0
+figurines,frame_00105,pirate hat,deep,1,314,1,0.0
+figurines,frame_00105,pirate hat,deep,1,256,1,0.0
+figurines,frame_00105,pirate hat,deep,1,374,1,0.0
+figurines,frame_00105,pirate hat,deep,1,512,1,0.0
+figurines,frame_00105,pirate hat,deep,1,297,1,0.0
+figurines,frame_00105,pirate hat,deep,1,1113,1,0.0
+figurines,frame_00105,pirate hat,deep,2,75,1,0.820287
+figurines,frame_00105,pirate hat,deep,2,171,1,0.0
+figurines,frame_00105,pirate hat,deep,2,68,1,0.0
+figurines,frame_00105,pirate hat,deep,2,89,1,0.0
+figurines,frame_00105,pirate hat,deep,2,130,1,0.0
+figurines,frame_00105,pirate hat,deep,2,67,1,0.0
+figurines,frame_00105,pirate hat,deep,2,70,1,0.0
+figurines,frame_00105,pirate hat,deep,2,138,1,0.0
+figurines,frame_00105,pirate hat,deep,2,82,1,0.0
+figurines,frame_00105,pirate hat,deep,2,64,1,0.041646
+figurines,frame_00105,pirate hat,deep,3,91,1,0.0
+figurines,frame_00105,pirate hat,deep,3,129,1,0.0
+figurines,frame_00105,pirate hat,deep,3,49,1,0.0
+figurines,frame_00105,pirate hat,deep,3,46,1,0.414101
+figurines,frame_00105,pirate hat,deep,3,105,1,0.0
+figurines,frame_00105,pirate hat,deep,3,71,1,0.0
+figurines,frame_00105,pirate hat,deep,3,47,1,0.0
+figurines,frame_00105,pirate hat,deep,3,57,1,0.0
+figurines,frame_00105,pirate hat,deep,3,44,1,0.0
+figurines,frame_00105,pirate hat,deep,3,150,1,0.0
+figurines,frame_00105,pirate hat,combo,3,91,1,0.0
+figurines,frame_00105,pirate hat,combo,2,130,1,0.0
+figurines,frame_00105,pirate hat,combo,2,70,1,0.0
+figurines,frame_00105,pirate hat,combo,2,64,1,0.041646
+figurines,frame_00105,pirate hat,combo,3,129,1,0.0
+figurines,frame_00105,pirate hat,combo,3,105,1,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.820287
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.804324
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.243137
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.414101
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.820287
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.820287
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.041646
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.041273
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.020019
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00105,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,rubber duck with hat,c0,-1,-1,3,0.866872
+figurines,frame_00152,rubber duck with hat,root,3,51,1,0.0
+figurines,frame_00152,rubber duck with hat,root,3,46,1,0.866872
+figurines,frame_00152,rubber duck with hat,root,3,49,1,0.0
+figurines,frame_00152,rubber duck with hat,root,3,68,1,0.0
+figurines,frame_00152,rubber duck with hat,root,3,14,1,0.0
+figurines,frame_00152,rubber duck with hat,hier,2,75,1,0.246135
+figurines,frame_00152,rubber duck with hat,hier,3,51,1,0.0
+figurines,frame_00152,rubber duck with hat,hier,2,64,1,0.635688
+figurines,frame_00152,rubber duck with hat,hier,3,49,1,0.0
+figurines,frame_00152,rubber duck with hat,hier,2,111,1,0.0
+figurines,frame_00152,rubber duck with hat,hier,2,19,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,1,191,1,0.374328
+figurines,frame_00152,rubber duck with hat,deep,1,388,1,0.076392
+figurines,frame_00152,rubber duck with hat,deep,1,247,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,1,386,1,0.04503
+figurines,frame_00152,rubber duck with hat,deep,1,767,1,0.030288
+figurines,frame_00152,rubber duck with hat,deep,1,186,1,0.001771
+figurines,frame_00152,rubber duck with hat,deep,1,114,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,1,103,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,1,270,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,1,258,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,75,1,0.246135
+figurines,frame_00152,rubber duck with hat,deep,2,64,1,0.635688
+figurines,frame_00152,rubber duck with hat,deep,2,76,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,86,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,70,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,130,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,111,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,36,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,19,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,2,15,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,51,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,46,1,0.866872
+figurines,frame_00152,rubber duck with hat,deep,3,49,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,68,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,14,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,77,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,47,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,28,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,10,1,0.0
+figurines,frame_00152,rubber duck with hat,deep,3,45,1,0.0129
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.380864
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.635688
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.196356
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.520159
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.866872
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.268463
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.14373
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.246135
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,3,0.072765
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,4,0.520159
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,4,0.866872
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,4,0.268463
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.246135
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.866872
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.14373
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.246135
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.072765
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.635688
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.380864
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.635688
+figurines,frame_00152,rubber duck with hat,combo,-1,-1,2,0.196356
+figurines,frame_00152,rubics cube,c0,2,63,1,0.78229
+figurines,frame_00152,rubics cube,root,3,45,1,0.825529
+figurines,frame_00152,rubics cube,root,3,133,1,0.0
+figurines,frame_00152,rubics cube,root,3,39,1,0.0
+figurines,frame_00152,rubics cube,root,3,140,1,0.0
+figurines,frame_00152,rubics cube,hier,2,63,1,0.78229
+figurines,frame_00152,rubics cube,hier,3,133,1,0.0
+figurines,frame_00152,rubics cube,hier,3,39,1,0.0
+figurines,frame_00152,rubics cube,hier,3,140,1,0.0
+figurines,frame_00152,rubics cube,deep,1,238,1,0.0
+figurines,frame_00152,rubics cube,deep,1,418,1,0.0
+figurines,frame_00152,rubics cube,deep,1,1770,1,0.0
+figurines,frame_00152,rubics cube,deep,1,410,1,0.0
+figurines,frame_00152,rubics cube,deep,1,1893,1,0.0
+figurines,frame_00152,rubics cube,deep,1,526,1,0.0
+figurines,frame_00152,rubics cube,deep,1,901,1,0.0
+figurines,frame_00152,rubics cube,deep,1,992,1,0.0
+figurines,frame_00152,rubics cube,deep,1,1311,1,0.0
+figurines,frame_00152,rubics cube,deep,2,63,1,0.78229
+figurines,frame_00152,rubics cube,deep,2,134,1,0.0
+figurines,frame_00152,rubics cube,deep,2,276,1,0.0
+figurines,frame_00152,rubics cube,deep,2,12,1,0.0
+figurines,frame_00152,rubics cube,deep,2,251,1,0.0
+figurines,frame_00152,rubics cube,deep,2,266,1,0.0
+figurines,frame_00152,rubics cube,deep,2,294,1,0.0
+figurines,frame_00152,rubics cube,deep,3,45,1,0.825529
+figurines,frame_00152,rubics cube,deep,3,133,1,0.0
+figurines,frame_00152,rubics cube,deep,3,39,1,0.0
+figurines,frame_00152,rubics cube,deep,3,140,1,0.0
+figurines,frame_00152,rubics cube,deep,3,128,1,0.0
+figurines,frame_00152,rubics cube,deep,3,132,1,0.0
+figurines,frame_00152,rubics cube,deep,3,122,1,0.0
+figurines,frame_00152,rubics cube,deep,3,85,1,0.0
+figurines,frame_00152,rubics cube,deep,3,2,1,0.0
+figurines,frame_00152,rubics cube,deep,3,147,1,0.0
+figurines,frame_00152,rubics cube,combo,3,133,1,0.0
+figurines,frame_00152,rubics cube,combo,3,39,1,0.0
+figurines,frame_00152,rubics cube,combo,3,140,1,0.0
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.78229
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.78229
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.78229
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00152,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,c0,3,14,1,0.933415
+figurines,frame_00152,toy elephant,root,3,14,1,0.933415
+figurines,frame_00152,toy elephant,root,3,28,1,0.0
+figurines,frame_00152,toy elephant,root,3,68,1,0.0
+figurines,frame_00152,toy elephant,root,3,77,1,0.0
+figurines,frame_00152,toy elephant,root,3,47,1,0.0
+figurines,frame_00152,toy elephant,hier,3,14,1,0.933415
+figurines,frame_00152,toy elephant,hier,3,28,1,0.0
+figurines,frame_00152,toy elephant,hier,3,68,1,0.0
+figurines,frame_00152,toy elephant,hier,3,77,1,0.0
+figurines,frame_00152,toy elephant,hier,3,47,1,0.0
+figurines,frame_00152,toy elephant,deep,1,558,1,0.001664
+figurines,frame_00152,toy elephant,deep,1,39,1,0.009844
+figurines,frame_00152,toy elephant,deep,1,552,1,0.080734
+figurines,frame_00152,toy elephant,deep,1,38,1,0.611763
+figurines,frame_00152,toy elephant,deep,1,223,1,0.0
+figurines,frame_00152,toy elephant,deep,1,114,1,0.0
+figurines,frame_00152,toy elephant,deep,1,301,1,0.0
+figurines,frame_00152,toy elephant,deep,1,329,1,0.0
+figurines,frame_00152,toy elephant,deep,1,165,1,0.0
+figurines,frame_00152,toy elephant,deep,1,103,1,0.0
+figurines,frame_00152,toy elephant,deep,2,19,1,0.917812
+figurines,frame_00152,toy elephant,deep,2,148,1,0.001807
+figurines,frame_00152,toy elephant,deep,2,36,1,0.0
+figurines,frame_00152,toy elephant,deep,2,111,1,0.0
+figurines,frame_00152,toy elephant,deep,2,15,1,0.0
+figurines,frame_00152,toy elephant,deep,2,68,1,0.0
+figurines,frame_00152,toy elephant,deep,2,130,1,0.0
+figurines,frame_00152,toy elephant,deep,2,70,1,0.0
+figurines,frame_00152,toy elephant,deep,2,89,1,0.0
+figurines,frame_00152,toy elephant,deep,2,140,1,0.0
+figurines,frame_00152,toy elephant,deep,3,14,1,0.933415
+figurines,frame_00152,toy elephant,deep,3,28,1,0.0
+figurines,frame_00152,toy elephant,deep,3,68,1,0.0
+figurines,frame_00152,toy elephant,deep,3,77,1,0.0
+figurines,frame_00152,toy elephant,deep,3,47,1,0.0
+figurines,frame_00152,toy elephant,deep,3,49,1,0.0
+figurines,frame_00152,toy elephant,deep,3,10,1,0.0
+figurines,frame_00152,toy elephant,deep,3,7,1,0.00611
+figurines,frame_00152,toy elephant,deep,3,41,1,0.0
+figurines,frame_00152,toy elephant,deep,3,11,1,0.0
+figurines,frame_00152,toy elephant,combo,3,28,1,0.0
+figurines,frame_00152,toy elephant,combo,3,68,1,0.0
+figurines,frame_00152,toy elephant,combo,3,77,1,0.0
+figurines,frame_00152,toy elephant,combo,3,47,1,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.631838
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.933415
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.925513
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.683601
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00152,green apple,c0,3,24,1,0.912543
+figurines,frame_00152,green apple,root,3,24,1,0.912543
+figurines,frame_00152,green apple,root,3,18,1,0.0
+figurines,frame_00152,green apple,root,3,139,1,0.0
+figurines,frame_00152,green apple,root,3,43,1,0.0
+figurines,frame_00152,green apple,root,3,10,1,0.024237
+figurines,frame_00152,green apple,hier,3,24,1,0.912543
+figurines,frame_00152,green apple,hier,3,18,1,0.0
+figurines,frame_00152,green apple,hier,3,139,1,0.0
+figurines,frame_00152,green apple,hier,3,43,1,0.0
+figurines,frame_00152,green apple,hier,3,10,1,0.024237
+figurines,frame_00152,green apple,deep,1,152,1,0.595405
+figurines,frame_00152,green apple,deep,1,324,1,0.089038
+figurines,frame_00152,green apple,deep,1,305,1,0.032912
+figurines,frame_00152,green apple,deep,1,79,1,0.001525
+figurines,frame_00152,green apple,deep,1,78,1,0.006556
+figurines,frame_00152,green apple,deep,1,394,1,0.0
+figurines,frame_00152,green apple,deep,1,1857,1,0.0
+figurines,frame_00152,green apple,deep,1,418,1,0.0
+figurines,frame_00152,green apple,deep,1,307,1,0.0
+figurines,frame_00152,green apple,deep,1,129,1,0.0
+figurines,frame_00152,green apple,deep,2,31,1,0.913655
+figurines,frame_00152,green apple,deep,2,23,1,0.0
+figurines,frame_00152,green apple,deep,2,118,1,0.0
+figurines,frame_00152,green apple,deep,2,307,1,0.0
+figurines,frame_00152,green apple,deep,2,60,1,0.0
+figurines,frame_00152,green apple,deep,2,15,1,0.024237
+figurines,frame_00152,green apple,deep,2,55,1,0.0
+figurines,frame_00152,green apple,deep,2,36,1,0.010497
+figurines,frame_00152,green apple,deep,2,77,1,0.0
+figurines,frame_00152,green apple,deep,2,277,1,0.0
+figurines,frame_00152,green apple,deep,3,24,1,0.912543
+figurines,frame_00152,green apple,deep,3,18,1,0.0
+figurines,frame_00152,green apple,deep,3,139,1,0.0
+figurines,frame_00152,green apple,deep,3,43,1,0.0
+figurines,frame_00152,green apple,deep,3,10,1,0.024237
+figurines,frame_00152,green apple,deep,3,103,1,0.0
+figurines,frame_00152,green apple,deep,3,54,1,0.0
+figurines,frame_00152,green apple,deep,3,106,1,0.0
+figurines,frame_00152,green apple,deep,3,134,1,0.0
+figurines,frame_00152,green apple,deep,3,38,1,0.0
+figurines,frame_00152,green apple,combo,3,18,1,0.0
+figurines,frame_00152,green apple,combo,3,139,1,0.0
+figurines,frame_00152,green apple,combo,3,43,1,0.0
+figurines,frame_00152,green apple,combo,3,10,1,0.024237
+figurines,frame_00152,green apple,combo,-1,-1,2,0.37693
+figurines,frame_00152,green apple,combo,-1,-1,2,0.912543
+figurines,frame_00152,green apple,combo,-1,-1,2,0.636231
+figurines,frame_00152,green apple,combo,-1,-1,2,0.65295
+figurines,frame_00152,green apple,combo,-1,-1,2,0.0
+figurines,frame_00152,green apple,combo,-1,-1,2,0.0
+figurines,frame_00152,green apple,combo,-1,-1,2,0.012161
+figurines,frame_00152,green apple,combo,-1,-1,2,0.0
+figurines,frame_00152,green apple,combo,-1,-1,2,0.024237
+figurines,frame_00152,green apple,combo,-1,-1,2,0.018594
+figurines,frame_00152,jake,c0,-1,-1,5,0.898663
+figurines,frame_00152,jake,root,3,28,1,0.898663
+figurines,frame_00152,jake,root,3,67,1,0.0
+figurines,frame_00152,jake,root,3,51,1,0.0
+figurines,frame_00152,jake,root,3,73,1,0.0
+figurines,frame_00152,jake,root,3,94,1,0.0
+figurines,frame_00152,jake,hier,2,36,1,0.832984
+figurines,frame_00152,jake,hier,2,199,1,0.012677
+figurines,frame_00152,jake,hier,2,426,1,0.039156
+figurines,frame_00152,jake,hier,3,67,1,0.0
+figurines,frame_00152,jake,hier,3,51,1,0.0
+figurines,frame_00152,jake,hier,3,73,1,0.0
+figurines,frame_00152,jake,hier,3,94,1,0.0
+figurines,frame_00152,jake,deep,1,322,1,0.0
+figurines,frame_00152,jake,deep,1,197,1,0.0
+figurines,frame_00152,jake,deep,1,195,1,0.0
+figurines,frame_00152,jake,deep,1,494,1,0.0
+figurines,frame_00152,jake,deep,1,104,1,0.008424
+figurines,frame_00152,jake,deep,2,36,1,0.832984
+figurines,frame_00152,jake,deep,2,109,1,0.0
+figurines,frame_00152,jake,deep,2,68,1,0.0
+figurines,frame_00152,jake,deep,2,89,1,0.0
+figurines,frame_00152,jake,deep,2,77,1,0.0
+figurines,frame_00152,jake,deep,2,365,1,0.0
+figurines,frame_00152,jake,deep,2,76,1,0.0
+figurines,frame_00152,jake,deep,2,66,1,0.0
+figurines,frame_00152,jake,deep,2,64,1,0.0
+figurines,frame_00152,jake,deep,2,75,1,0.0
+figurines,frame_00152,jake,deep,3,28,1,0.898663
+figurines,frame_00152,jake,deep,3,67,1,0.0
+figurines,frame_00152,jake,deep,3,51,1,0.0
+figurines,frame_00152,jake,deep,3,73,1,0.0
+figurines,frame_00152,jake,deep,3,94,1,0.0
+figurines,frame_00152,jake,deep,3,39,1,0.0
+figurines,frame_00152,jake,deep,3,85,1,0.0
+figurines,frame_00152,jake,deep,3,61,1,0.0
+figurines,frame_00152,jake,deep,3,38,1,0.0
+figurines,frame_00152,jake,deep,3,33,1,0.0
+figurines,frame_00152,jake,combo,-1,-1,5,0.051818
+figurines,frame_00152,jake,combo,-1,-1,5,0.051818
+figurines,frame_00152,jake,combo,-1,-1,5,0.879505
+figurines,frame_00152,jake,combo,-1,-1,5,0.879505
+figurines,frame_00152,jake,combo,-1,-1,5,0.852175
+figurines,frame_00152,jake,combo,-1,-1,5,0.852175
+figurines,frame_00152,jake,combo,-1,-1,5,0.898663
+figurines,frame_00152,jake,combo,-1,-1,5,0.898663
+figurines,frame_00152,jake,combo,-1,-1,5,0.898663
+figurines,frame_00152,jake,combo,-1,-1,5,0.898663
+figurines,frame_00152,jake,combo,-1,-1,6,0.898663
+figurines,frame_00152,jake,combo,-1,-1,6,0.898663
+figurines,frame_00152,jake,combo,-1,-1,2,0.852175
+figurines,frame_00152,jake,combo,-1,-1,2,0.879505
+figurines,frame_00152,jake,combo,-1,-1,2,0.832984
+figurines,frame_00152,jake,combo,-1,-1,2,0.832984
+figurines,frame_00152,jake,combo,-1,-1,2,0.832984
+figurines,frame_00152,jake,combo,-1,-1,2,0.832984
+figurines,frame_00152,jake,combo,-1,-1,2,0.051818
+figurines,frame_00152,jake,combo,-1,-1,2,0.012677
+figurines,frame_00152,jake,combo,-1,-1,2,0.012677
+figurines,frame_00152,jake,combo,-1,-1,2,0.012677
+figurines,frame_00152,jake,combo,-1,-1,2,0.012677
+figurines,frame_00152,jake,combo,-1,-1,2,0.039156
+figurines,frame_00152,toy cat statue,c0,3,49,1,0.853226
+figurines,frame_00152,toy cat statue,root,3,49,1,0.853226
+figurines,frame_00152,toy cat statue,root,3,14,1,0.0
+figurines,frame_00152,toy cat statue,root,3,68,1,0.0
+figurines,frame_00152,toy cat statue,root,3,28,1,0.0
+figurines,frame_00152,toy cat statue,root,3,77,1,0.0
+figurines,frame_00152,toy cat statue,hier,3,49,1,0.853226
+figurines,frame_00152,toy cat statue,hier,3,14,1,0.0
+figurines,frame_00152,toy cat statue,hier,3,68,1,0.0
+figurines,frame_00152,toy cat statue,hier,3,28,1,0.0
+figurines,frame_00152,toy cat statue,hier,3,77,1,0.0
+figurines,frame_00152,toy cat statue,deep,1,223,1,0.382847
+figurines,frame_00152,toy cat statue,deep,1,301,1,0.000737
+figurines,frame_00152,toy cat statue,deep,1,329,1,0.012231
+figurines,frame_00152,toy cat statue,deep,1,302,1,0.043472
+figurines,frame_00152,toy cat statue,deep,1,328,1,0.003671
+figurines,frame_00152,toy cat statue,deep,1,507,1,0.046861
+figurines,frame_00152,toy cat statue,deep,1,165,1,0.0
+figurines,frame_00152,toy cat statue,deep,1,558,1,0.0
+figurines,frame_00152,toy cat statue,deep,1,39,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,70,1,0.646316
+figurines,frame_00152,toy cat statue,deep,2,130,1,0.159593
+figurines,frame_00152,toy cat statue,deep,2,148,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,19,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,111,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,140,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,36,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,15,1,0.0
+figurines,frame_00152,toy cat statue,deep,2,11,1,0.006628
+figurines,frame_00152,toy cat statue,deep,2,75,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,49,1,0.853226
+figurines,frame_00152,toy cat statue,deep,3,14,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,68,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,28,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,77,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,7,1,0.0064
+figurines,frame_00152,toy cat statue,deep,3,10,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,47,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,46,1,0.0
+figurines,frame_00152,toy cat statue,deep,3,11,1,0.0
+figurines,frame_00152,toy cat statue,combo,3,14,1,0.0
+figurines,frame_00152,toy cat statue,combo,3,68,1,0.0
+figurines,frame_00152,toy cat statue,combo,3,28,1,0.0
+figurines,frame_00152,toy cat statue,combo,3,77,1,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.217435
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.853226
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.344544
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.831048
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,c0,-1,-1,4,0.0
+figurines,frame_00152,pikachu,root,3,28,1,0.0
+figurines,frame_00152,pikachu,root,3,51,1,0.0
+figurines,frame_00152,pikachu,root,3,46,1,0.0
+figurines,frame_00152,pikachu,root,3,102,1,0.0
+figurines,frame_00152,pikachu,root,3,12,1,0.902946
+figurines,frame_00152,pikachu,hier,2,36,1,0.0
+figurines,frame_00152,pikachu,hier,2,64,1,0.0
+figurines,frame_00152,pikachu,hier,2,75,1,0.0
+figurines,frame_00152,pikachu,hier,3,51,1,0.0
+figurines,frame_00152,pikachu,hier,3,102,1,0.0
+figurines,frame_00152,pikachu,hier,3,12,1,0.902946
+figurines,frame_00152,pikachu,deep,1,135,1,0.334065
+figurines,frame_00152,pikachu,deep,1,114,1,0.0
+figurines,frame_00152,pikachu,deep,1,103,1,0.0
+figurines,frame_00152,pikachu,deep,1,247,1,0.0
+figurines,frame_00152,pikachu,deep,1,104,1,0.0
+figurines,frame_00152,pikachu,deep,1,191,1,0.0
+figurines,frame_00152,pikachu,deep,1,1893,1,0.0
+figurines,frame_00152,pikachu,deep,1,357,1,0.0
+figurines,frame_00152,pikachu,deep,1,258,1,0.0
+figurines,frame_00152,pikachu,deep,1,33,1,0.025602
+figurines,frame_00152,pikachu,deep,2,36,1,0.0
+figurines,frame_00152,pikachu,deep,2,64,1,0.0
+figurines,frame_00152,pikachu,deep,2,75,1,0.0
+figurines,frame_00152,pikachu,deep,2,76,1,0.0
+figurines,frame_00152,pikachu,deep,2,195,1,0.0
+figurines,frame_00152,pikachu,deep,2,17,1,0.88804
+figurines,frame_00152,pikachu,deep,2,111,1,0.0
+figurines,frame_00152,pikachu,deep,2,86,1,0.0
+figurines,frame_00152,pikachu,deep,2,118,1,0.0
+figurines,frame_00152,pikachu,deep,2,105,1,0.0
+figurines,frame_00152,pikachu,deep,3,28,1,0.0
+figurines,frame_00152,pikachu,deep,3,51,1,0.0
+figurines,frame_00152,pikachu,deep,3,46,1,0.0
+figurines,frame_00152,pikachu,deep,3,102,1,0.0
+figurines,frame_00152,pikachu,deep,3,12,1,0.902946
+figurines,frame_00152,pikachu,deep,3,65,1,0.0
+figurines,frame_00152,pikachu,deep,3,68,1,0.0
+figurines,frame_00152,pikachu,deep,3,49,1,0.0
+figurines,frame_00152,pikachu,deep,3,54,1,0.0
+figurines,frame_00152,pikachu,deep,3,33,1,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.640553
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.575914
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.509809
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,4,0.481523
+figurines,frame_00152,pikachu,combo,-1,-1,5,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,5,0.481523
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.616113
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.691599
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.0
+figurines,frame_00152,pikachu,combo,-1,-1,2,0.819149
+figurines,frame_00152,porcelain hand,c0,3,77,1,0.032356
+figurines,frame_00152,porcelain hand,root,3,77,1,0.032356
+figurines,frame_00152,porcelain hand,root,3,47,1,0.0
+figurines,frame_00152,porcelain hand,root,3,49,1,0.0
+figurines,frame_00152,porcelain hand,root,3,68,1,0.0
+figurines,frame_00152,porcelain hand,root,3,65,1,0.0
+figurines,frame_00152,porcelain hand,hier,3,77,1,0.032356
+figurines,frame_00152,porcelain hand,hier,2,111,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,130,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,67,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,82,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,70,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,68,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,105,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,89,1,0.0
+figurines,frame_00152,porcelain hand,hier,2,198,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,165,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,507,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,1683,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,567,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,1547,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,943,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,220,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,256,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,1122,1,0.0
+figurines,frame_00152,porcelain hand,deep,1,1306,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,140,1,0.032356
+figurines,frame_00152,porcelain hand,deep,2,111,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,130,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,67,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,82,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,70,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,68,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,271,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,105,1,0.0
+figurines,frame_00152,porcelain hand,deep,2,282,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,77,1,0.032356
+figurines,frame_00152,porcelain hand,deep,3,47,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,49,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,68,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,65,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,111,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,130,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,10,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,78,1,0.0
+figurines,frame_00152,porcelain hand,deep,3,55,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,111,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,130,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,67,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,82,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,70,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,68,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,105,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,89,1,0.0
+figurines,frame_00152,porcelain hand,combo,2,198,1,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.032356
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.027132
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.028384
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.032258
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.018097
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.025366
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.032356
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.032054
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,c0,3,43,1,0.878971
+figurines,frame_00152,red apple,root,3,43,1,0.878971
+figurines,frame_00152,red apple,root,3,24,1,0.0
+figurines,frame_00152,red apple,root,3,48,1,0.0
+figurines,frame_00152,red apple,root,3,17,1,0.0
+figurines,frame_00152,red apple,root,3,68,1,0.0
+figurines,frame_00152,red apple,hier,3,43,1,0.878971
+figurines,frame_00152,red apple,hier,2,69,1,0.0
+figurines,frame_00152,red apple,hier,3,24,1,0.0
+figurines,frame_00152,red apple,hier,2,22,1,0.0
+figurines,frame_00152,red apple,hier,2,111,1,0.0
+figurines,frame_00152,red apple,deep,1,172,1,0.400066
+figurines,frame_00152,red apple,deep,1,257,1,0.004306
+figurines,frame_00152,red apple,deep,1,464,1,0.002326
+figurines,frame_00152,red apple,deep,1,254,1,0.0
+figurines,frame_00152,red apple,deep,1,215,1,0.0
+figurines,frame_00152,red apple,deep,1,246,1,0.0
+figurines,frame_00152,red apple,deep,1,291,1,0.0
+figurines,frame_00152,red apple,deep,1,1854,1,0.0
+figurines,frame_00152,red apple,deep,1,1202,1,0.0
+figurines,frame_00152,red apple,deep,1,498,1,0.002318
+figurines,frame_00152,red apple,deep,2,60,1,0.878971
+figurines,frame_00152,red apple,deep,2,69,1,0.0
+figurines,frame_00152,red apple,deep,2,31,1,0.0
+figurines,frame_00152,red apple,deep,2,22,1,0.0
+figurines,frame_00152,red apple,deep,2,111,1,0.0
+figurines,frame_00152,red apple,deep,2,40,1,0.0
+figurines,frame_00152,red apple,deep,2,75,1,0.0
+figurines,frame_00152,red apple,deep,2,225,1,0.0
+figurines,frame_00152,red apple,deep,2,64,1,0.0
+figurines,frame_00152,red apple,deep,2,90,1,0.0
+figurines,frame_00152,red apple,deep,3,43,1,0.878971
+figurines,frame_00152,red apple,deep,3,24,1,0.0
+figurines,frame_00152,red apple,deep,3,48,1,0.0
+figurines,frame_00152,red apple,deep,3,17,1,0.0
+figurines,frame_00152,red apple,deep,3,68,1,0.0
+figurines,frame_00152,red apple,deep,3,110,1,0.0
+figurines,frame_00152,red apple,deep,3,30,1,0.0
+figurines,frame_00152,red apple,deep,3,41,1,0.0
+figurines,frame_00152,red apple,deep,3,60,1,0.0
+figurines,frame_00152,red apple,deep,3,154,1,0.0
+figurines,frame_00152,red apple,combo,2,69,1,0.0
+figurines,frame_00152,red apple,combo,3,24,1,0.0
+figurines,frame_00152,red apple,combo,2,22,1,0.0
+figurines,frame_00152,red apple,combo,2,111,1,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.176591
+figurines,frame_00152,red apple,combo,-1,-1,2,0.294926
+figurines,frame_00152,red apple,combo,-1,-1,2,0.054852
+figurines,frame_00152,red apple,combo,-1,-1,2,0.878971
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,red apple,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,c0,2,56,1,0.444995
+figurines,frame_00152,waldo,root,3,17,1,0.102726
+figurines,frame_00152,waldo,root,3,33,1,0.0
+figurines,frame_00152,waldo,root,3,37,1,0.0
+figurines,frame_00152,waldo,root,3,120,1,0.0
+figurines,frame_00152,waldo,root,3,39,1,0.0
+figurines,frame_00152,waldo,hier,2,56,1,0.444995
+figurines,frame_00152,waldo,hier,3,33,1,0.0
+figurines,frame_00152,waldo,hier,3,37,1,0.0
+figurines,frame_00152,waldo,hier,3,120,1,0.0
+figurines,frame_00152,waldo,hier,3,39,1,0.0
+figurines,frame_00152,waldo,deep,1,418,1,0.0
+figurines,frame_00152,waldo,deep,1,1893,1,0.0
+figurines,frame_00152,waldo,deep,1,1255,1,0.0
+figurines,frame_00152,waldo,deep,1,165,1,0.0
+figurines,frame_00152,waldo,deep,1,61,1,0.0
+figurines,frame_00152,waldo,deep,1,1550,1,0.0
+figurines,frame_00152,waldo,deep,1,976,1,0.0
+figurines,frame_00152,waldo,deep,1,345,1,0.0
+figurines,frame_00152,waldo,deep,1,60,1,0.0
+figurines,frame_00152,waldo,deep,1,56,1,0.002892
+figurines,frame_00152,waldo,deep,2,77,1,0.0
+figurines,frame_00152,waldo,deep,2,22,1,0.046098
+figurines,frame_00152,waldo,deep,2,118,1,0.0
+figurines,frame_00152,waldo,deep,2,43,1,0.0
+figurines,frame_00152,waldo,deep,2,253,1,0.0
+figurines,frame_00152,waldo,deep,2,365,1,0.0
+figurines,frame_00152,waldo,deep,2,45,1,0.0
+figurines,frame_00152,waldo,deep,2,54,1,0.0
+figurines,frame_00152,waldo,deep,2,28,1,0.0
+figurines,frame_00152,waldo,deep,2,404,1,0.0
+figurines,frame_00152,waldo,deep,3,17,1,0.102726
+figurines,frame_00152,waldo,deep,3,33,1,0.0
+figurines,frame_00152,waldo,deep,3,37,1,0.0
+figurines,frame_00152,waldo,deep,3,120,1,0.0
+figurines,frame_00152,waldo,deep,3,39,1,0.0
+figurines,frame_00152,waldo,deep,3,85,1,0.0
+figurines,frame_00152,waldo,deep,3,84,1,0.0
+figurines,frame_00152,waldo,deep,3,67,1,0.0
+figurines,frame_00152,waldo,deep,3,2,1,0.0
+figurines,frame_00152,waldo,deep,3,110,1,0.0
+figurines,frame_00152,waldo,combo,3,33,1,0.0
+figurines,frame_00152,waldo,combo,3,37,1,0.0
+figurines,frame_00152,waldo,combo,3,120,1,0.0
+figurines,frame_00152,waldo,combo,3,39,1,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.444995
+figurines,frame_00152,waldo,combo,-1,-1,2,0.444995
+figurines,frame_00152,waldo,combo,-1,-1,2,0.444995
+figurines,frame_00152,waldo,combo,-1,-1,2,0.444995
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,waldo,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,c0,2,75,1,0.945806
+figurines,frame_00152,pirate hat,root,3,91,1,0.0
+figurines,frame_00152,pirate hat,root,3,129,1,0.0
+figurines,frame_00152,pirate hat,root,3,49,1,0.0
+figurines,frame_00152,pirate hat,root,3,46,1,0.243351
+figurines,frame_00152,pirate hat,root,3,105,1,0.0
+figurines,frame_00152,pirate hat,hier,2,75,1,0.945806
+figurines,frame_00152,pirate hat,hier,3,91,1,0.0
+figurines,frame_00152,pirate hat,hier,2,130,1,0.0
+figurines,frame_00152,pirate hat,hier,2,70,1,0.0
+figurines,frame_00152,pirate hat,hier,2,64,1,0.000122
+figurines,frame_00152,pirate hat,hier,3,129,1,0.0
+figurines,frame_00152,pirate hat,hier,3,105,1,0.0
+figurines,frame_00152,pirate hat,deep,1,199,1,0.0
+figurines,frame_00152,pirate hat,deep,1,246,1,0.945806
+figurines,frame_00152,pirate hat,deep,1,319,1,0.0
+figurines,frame_00152,pirate hat,deep,1,314,1,0.0
+figurines,frame_00152,pirate hat,deep,1,256,1,0.0
+figurines,frame_00152,pirate hat,deep,1,374,1,0.0
+figurines,frame_00152,pirate hat,deep,1,512,1,0.0
+figurines,frame_00152,pirate hat,deep,1,297,1,0.0
+figurines,frame_00152,pirate hat,deep,1,1113,1,0.0
+figurines,frame_00152,pirate hat,deep,2,75,1,0.945806
+figurines,frame_00152,pirate hat,deep,2,171,1,0.0
+figurines,frame_00152,pirate hat,deep,2,68,1,0.0
+figurines,frame_00152,pirate hat,deep,2,89,1,0.0
+figurines,frame_00152,pirate hat,deep,2,130,1,0.0
+figurines,frame_00152,pirate hat,deep,2,67,1,0.0
+figurines,frame_00152,pirate hat,deep,2,70,1,0.0
+figurines,frame_00152,pirate hat,deep,2,138,1,0.0
+figurines,frame_00152,pirate hat,deep,2,82,1,0.0
+figurines,frame_00152,pirate hat,deep,2,64,1,0.000122
+figurines,frame_00152,pirate hat,deep,3,91,1,0.0
+figurines,frame_00152,pirate hat,deep,3,129,1,0.0
+figurines,frame_00152,pirate hat,deep,3,49,1,0.0
+figurines,frame_00152,pirate hat,deep,3,46,1,0.243351
+figurines,frame_00152,pirate hat,deep,3,105,1,0.0
+figurines,frame_00152,pirate hat,deep,3,71,1,0.0
+figurines,frame_00152,pirate hat,deep,3,47,1,0.0
+figurines,frame_00152,pirate hat,deep,3,57,1,0.0
+figurines,frame_00152,pirate hat,deep,3,44,1,0.0
+figurines,frame_00152,pirate hat,deep,3,150,1,0.0
+figurines,frame_00152,pirate hat,combo,3,91,1,0.0
+figurines,frame_00152,pirate hat,combo,2,130,1,0.0
+figurines,frame_00152,pirate hat,combo,2,70,1,0.0
+figurines,frame_00152,pirate hat,combo,2,64,1,0.000122
+figurines,frame_00152,pirate hat,combo,3,129,1,0.0
+figurines,frame_00152,pirate hat,combo,3,105,1,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.945806
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.626209
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.306225
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.243351
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.945806
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.945806
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.000122
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.000108
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,7.9e-05
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00152,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,c0,3,14,1,0.881811
+figurines,frame_00195,toy elephant,root,3,14,1,0.881811
+figurines,frame_00195,toy elephant,root,3,28,1,0.0
+figurines,frame_00195,toy elephant,root,3,68,1,0.0
+figurines,frame_00195,toy elephant,root,3,77,1,0.0
+figurines,frame_00195,toy elephant,root,3,47,1,0.0
+figurines,frame_00195,toy elephant,hier,3,14,1,0.881811
+figurines,frame_00195,toy elephant,hier,3,28,1,0.0
+figurines,frame_00195,toy elephant,hier,3,68,1,0.0
+figurines,frame_00195,toy elephant,hier,3,77,1,0.0
+figurines,frame_00195,toy elephant,hier,3,47,1,0.0
+figurines,frame_00195,toy elephant,deep,1,558,1,0.07221
+figurines,frame_00195,toy elephant,deep,1,39,1,0.216786
+figurines,frame_00195,toy elephant,deep,1,552,1,0.000199
+figurines,frame_00195,toy elephant,deep,1,38,1,0.24616
+figurines,frame_00195,toy elephant,deep,1,223,1,0.0
+figurines,frame_00195,toy elephant,deep,1,114,1,0.0
+figurines,frame_00195,toy elephant,deep,1,301,1,0.0
+figurines,frame_00195,toy elephant,deep,1,329,1,0.0
+figurines,frame_00195,toy elephant,deep,1,165,1,0.0
+figurines,frame_00195,toy elephant,deep,1,103,1,0.0
+figurines,frame_00195,toy elephant,deep,2,19,1,0.765778
+figurines,frame_00195,toy elephant,deep,2,148,1,0.086931
+figurines,frame_00195,toy elephant,deep,2,36,1,0.0
+figurines,frame_00195,toy elephant,deep,2,111,1,0.0
+figurines,frame_00195,toy elephant,deep,2,15,1,0.0
+figurines,frame_00195,toy elephant,deep,2,68,1,0.0
+figurines,frame_00195,toy elephant,deep,2,130,1,0.0
+figurines,frame_00195,toy elephant,deep,2,70,1,0.0
+figurines,frame_00195,toy elephant,deep,2,89,1,0.0
+figurines,frame_00195,toy elephant,deep,2,140,1,0.0
+figurines,frame_00195,toy elephant,deep,3,14,1,0.881811
+figurines,frame_00195,toy elephant,deep,3,28,1,0.0
+figurines,frame_00195,toy elephant,deep,3,68,1,0.0
+figurines,frame_00195,toy elephant,deep,3,77,1,0.0
+figurines,frame_00195,toy elephant,deep,3,47,1,0.0
+figurines,frame_00195,toy elephant,deep,3,49,1,0.0
+figurines,frame_00195,toy elephant,deep,3,10,1,0.0
+figurines,frame_00195,toy elephant,deep,3,7,1,0.00195
+figurines,frame_00195,toy elephant,deep,3,41,1,0.0
+figurines,frame_00195,toy elephant,deep,3,11,1,0.0
+figurines,frame_00195,toy elephant,combo,3,28,1,0.0
+figurines,frame_00195,toy elephant,combo,3,68,1,0.0
+figurines,frame_00195,toy elephant,combo,3,77,1,0.0
+figurines,frame_00195,toy elephant,combo,3,47,1,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.483296
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.792636
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.838926
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.150157
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,toy elephant,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,c0,2,90,1,0.942546
+figurines,frame_00195,pink ice cream,root,3,60,1,0.944822
+figurines,frame_00195,pink ice cream,root,3,12,1,0.0
+figurines,frame_00195,pink ice cream,root,3,41,1,0.0
+figurines,frame_00195,pink ice cream,root,3,17,1,0.0
+figurines,frame_00195,pink ice cream,root,3,43,1,0.0
+figurines,frame_00195,pink ice cream,hier,2,90,1,0.942546
+figurines,frame_00195,pink ice cream,hier,2,17,1,0.0
+figurines,frame_00195,pink ice cream,hier,2,22,1,0.0
+figurines,frame_00195,pink ice cream,hier,3,41,1,0.0
+figurines,frame_00195,pink ice cream,hier,3,43,1,0.0
+figurines,frame_00195,pink ice cream,deep,1,306,1,0.61091
+figurines,frame_00195,pink ice cream,deep,1,32,1,0.0
+figurines,frame_00195,pink ice cream,deep,1,246,1,0.0
+figurines,frame_00195,pink ice cream,deep,1,172,1,0.0
+figurines,frame_00195,pink ice cream,deep,1,257,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,90,1,0.942546
+figurines,frame_00195,pink ice cream,deep,2,17,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,158,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,60,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,22,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,40,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,82,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,68,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,67,1,0.0
+figurines,frame_00195,pink ice cream,deep,2,111,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,60,1,0.944822
+figurines,frame_00195,pink ice cream,deep,3,12,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,41,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,17,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,43,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,51,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,30,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,110,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,154,1,0.0
+figurines,frame_00195,pink ice cream,deep,3,47,1,0.0
+figurines,frame_00195,pink ice cream,combo,2,17,1,0.0
+figurines,frame_00195,pink ice cream,combo,2,22,1,0.0
+figurines,frame_00195,pink ice cream,combo,3,41,1,0.0
+figurines,frame_00195,pink ice cream,combo,3,43,1,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.483833
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.104027
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.942546
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.942546
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,pink ice cream,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,c0,3,77,1,0.134084
+figurines,frame_00195,porcelain hand,root,3,77,1,0.134084
+figurines,frame_00195,porcelain hand,root,3,47,1,0.0
+figurines,frame_00195,porcelain hand,root,3,49,1,0.0
+figurines,frame_00195,porcelain hand,root,3,68,1,0.0
+figurines,frame_00195,porcelain hand,root,3,65,1,0.0
+figurines,frame_00195,porcelain hand,hier,3,77,1,0.134084
+figurines,frame_00195,porcelain hand,hier,2,111,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,130,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,67,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,82,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,70,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,68,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,105,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,89,1,0.0
+figurines,frame_00195,porcelain hand,hier,2,198,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,165,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,507,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,1683,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,567,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,1547,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,943,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,220,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,256,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,1122,1,0.0
+figurines,frame_00195,porcelain hand,deep,1,1306,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,140,1,0.134084
+figurines,frame_00195,porcelain hand,deep,2,111,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,130,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,67,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,82,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,70,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,68,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,271,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,105,1,0.0
+figurines,frame_00195,porcelain hand,deep,2,282,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,77,1,0.134084
+figurines,frame_00195,porcelain hand,deep,3,47,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,49,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,68,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,65,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,111,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,130,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,10,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,78,1,0.0
+figurines,frame_00195,porcelain hand,deep,3,55,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,111,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,130,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,67,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,82,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,70,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,68,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,105,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,89,1,0.0
+figurines,frame_00195,porcelain hand,combo,2,198,1,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.103721
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.118124
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.021192
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.134084
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.064548
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.048474
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.134084
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.134084
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,porcelain hand,combo,-1,-1,2,0.0
+figurines,frame_00195,green apple,c0,3,24,1,0.960232
+figurines,frame_00195,green apple,root,3,24,1,0.960232
+figurines,frame_00195,green apple,root,3,18,1,0.0
+figurines,frame_00195,green apple,root,3,139,1,0.0
+figurines,frame_00195,green apple,root,3,43,1,0.0
+figurines,frame_00195,green apple,root,3,10,1,9e-05
+figurines,frame_00195,green apple,hier,3,24,1,0.960232
+figurines,frame_00195,green apple,hier,3,18,1,0.0
+figurines,frame_00195,green apple,hier,3,139,1,0.0
+figurines,frame_00195,green apple,hier,3,43,1,0.0
+figurines,frame_00195,green apple,hier,3,10,1,9e-05
+figurines,frame_00195,green apple,deep,1,152,1,0.107228
+figurines,frame_00195,green apple,deep,1,324,1,0.07587
+figurines,frame_00195,green apple,deep,1,305,1,0.449641
+figurines,frame_00195,green apple,deep,1,79,1,0.023089
+figurines,frame_00195,green apple,deep,1,78,1,0.00279
+figurines,frame_00195,green apple,deep,1,394,1,0.0
+figurines,frame_00195,green apple,deep,1,1857,1,0.0
+figurines,frame_00195,green apple,deep,1,418,1,0.0
+figurines,frame_00195,green apple,deep,1,307,1,0.0
+figurines,frame_00195,green apple,deep,1,129,1,0.0
+figurines,frame_00195,green apple,deep,2,31,1,0.959178
+figurines,frame_00195,green apple,deep,2,23,1,0.0
+figurines,frame_00195,green apple,deep,2,118,1,0.0
+figurines,frame_00195,green apple,deep,2,307,1,0.0
+figurines,frame_00195,green apple,deep,2,60,1,0.0
+figurines,frame_00195,green apple,deep,2,15,1,9e-05
+figurines,frame_00195,green apple,deep,2,55,1,0.0
+figurines,frame_00195,green apple,deep,2,36,1,0.0
+figurines,frame_00195,green apple,deep,2,77,1,0.0
+figurines,frame_00195,green apple,deep,2,277,1,0.0
+figurines,frame_00195,green apple,deep,3,24,1,0.960232
+figurines,frame_00195,green apple,deep,3,18,1,0.0
+figurines,frame_00195,green apple,deep,3,139,1,0.0
+figurines,frame_00195,green apple,deep,3,43,1,0.0
+figurines,frame_00195,green apple,deep,3,10,1,9e-05
+figurines,frame_00195,green apple,deep,3,103,1,0.0
+figurines,frame_00195,green apple,deep,3,54,1,0.0
+figurines,frame_00195,green apple,deep,3,106,1,0.0
+figurines,frame_00195,green apple,deep,3,134,1,0.0
+figurines,frame_00195,green apple,deep,3,38,1,0.0
+figurines,frame_00195,green apple,combo,3,18,1,0.0
+figurines,frame_00195,green apple,combo,3,139,1,0.0
+figurines,frame_00195,green apple,combo,3,43,1,0.0
+figurines,frame_00195,green apple,combo,3,10,1,9e-05
+figurines,frame_00195,green apple,combo,-1,-1,2,0.194422
+figurines,frame_00195,green apple,combo,-1,-1,2,0.960232
+figurines,frame_00195,green apple,combo,-1,-1,2,0.960232
+figurines,frame_00195,green apple,combo,-1,-1,2,0.326761
+figurines,frame_00195,green apple,combo,-1,-1,2,0.0
+figurines,frame_00195,green apple,combo,-1,-1,2,0.0
+figurines,frame_00195,green apple,combo,-1,-1,2,3.8e-05
+figurines,frame_00195,green apple,combo,-1,-1,2,0.0
+figurines,frame_00195,green apple,combo,-1,-1,2,9e-05
+figurines,frame_00195,green apple,combo,-1,-1,2,9e-05
+figurines,frame_00195,green toy chair,c0,3,18,1,0.931916
+figurines,frame_00195,green toy chair,root,3,18,1,0.931916
+figurines,frame_00195,green toy chair,root,3,59,1,0.0
+figurines,frame_00195,green toy chair,root,3,48,1,0.0
+figurines,frame_00195,green toy chair,root,3,66,1,0.0
+figurines,frame_00195,green toy chair,root,3,40,1,0.0
+figurines,frame_00195,green toy chair,hier,3,18,1,0.931916
+figurines,frame_00195,green toy chair,hier,3,59,1,0.0
+figurines,frame_00195,green toy chair,hier,3,48,1,0.0
+figurines,frame_00195,green toy chair,hier,3,66,1,0.0
+figurines,frame_00195,green toy chair,hier,3,40,1,0.0
+figurines,frame_00195,green toy chair,deep,1,394,1,0.058298
+figurines,frame_00195,green toy chair,deep,1,307,1,0.185588
+figurines,frame_00195,green toy chair,deep,1,129,1,0.138049
+figurines,frame_00195,green toy chair,deep,1,1857,1,0.196395
+figurines,frame_00195,green toy chair,deep,1,64,1,0.307212
+figurines,frame_00195,green toy chair,deep,1,418,1,0.0
+figurines,frame_00195,green toy chair,deep,1,468,1,0.0
+figurines,frame_00195,green toy chair,deep,1,152,1,0.0
+figurines,frame_00195,green toy chair,deep,1,324,1,0.0
+figurines,frame_00195,green toy chair,deep,1,79,1,0.0
+figurines,frame_00195,green toy chair,deep,2,23,1,0.931916
+figurines,frame_00195,green toy chair,deep,2,118,1,0.0
+figurines,frame_00195,green toy chair,deep,2,88,1,0.0
+figurines,frame_00195,green toy chair,deep,2,94,1,0.0
+figurines,frame_00195,green toy chair,deep,2,178,1,0.0
+figurines,frame_00195,green toy chair,deep,2,55,1,0.0
+figurines,frame_00195,green toy chair,deep,2,31,1,0.0
+figurines,frame_00195,green toy chair,deep,2,307,1,0.0
+figurines,frame_00195,green toy chair,deep,2,19,1,0.0
+figurines,frame_00195,green toy chair,deep,2,148,1,0.0
+figurines,frame_00195,green toy chair,deep,3,18,1,0.931916
+figurines,frame_00195,green toy chair,deep,3,59,1,0.0
+figurines,frame_00195,green toy chair,deep,3,48,1,0.0
+figurines,frame_00195,green toy chair,deep,3,66,1,0.0
+figurines,frame_00195,green toy chair,deep,3,40,1,0.0
+figurines,frame_00195,green toy chair,deep,3,24,1,0.0
+figurines,frame_00195,green toy chair,deep,3,14,1,0.0
+figurines,frame_00195,green toy chair,deep,3,28,1,0.0
+figurines,frame_00195,green toy chair,deep,3,107,1,0.0
+figurines,frame_00195,green toy chair,deep,3,82,1,0.0
+figurines,frame_00195,green toy chair,combo,3,59,1,0.0
+figurines,frame_00195,green toy chair,combo,3,48,1,0.0
+figurines,frame_00195,green toy chair,combo,3,66,1,0.0
+figurines,frame_00195,green toy chair,combo,3,40,1,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.931916
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.517203
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.931916
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.815134
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,green toy chair,combo,-1,-1,2,0.0
+figurines,frame_00195,old camera,c0,3,8,1,0.323452
+figurines,frame_00195,old camera,root,3,8,1,0.323452
+figurines,frame_00195,old camera,root,3,19,1,0.619846
+figurines,frame_00195,old camera,root,3,103,1,0.0
+figurines,frame_00195,old camera,root,3,38,1,0.0
+figurines,frame_00195,old camera,root,3,33,1,0.0
+figurines,frame_00195,old camera,hier,3,8,1,0.323452
+figurines,frame_00195,old camera,hier,3,19,1,0.619846
+figurines,frame_00195,old camera,hier,2,43,1,0.0
+figurines,frame_00195,old camera,hier,3,103,1,0.0
+figurines,frame_00195,old camera,hier,3,38,1,0.0
+figurines,frame_00195,old camera,deep,1,265,1,0.0
+figurines,frame_00195,old camera,deep,1,25,1,0.000207
+figurines,frame_00195,old camera,deep,1,23,1,0.000207
+figurines,frame_00195,old camera,deep,1,278,1,0.000984
+figurines,frame_00195,old camera,deep,1,24,1,0.0
+figurines,frame_00195,old camera,deep,1,22,1,0.017408
+figurines,frame_00195,old camera,deep,1,279,1,0.000674
+figurines,frame_00195,old camera,deep,1,313,1,0.001605
+figurines,frame_00195,old camera,deep,1,139,1,0.099271
+figurines,frame_00195,old camera,deep,2,13,1,0.338487
+figurines,frame_00195,old camera,deep,2,43,1,0.0
+figurines,frame_00195,old camera,deep,2,349,1,0.0
+figurines,frame_00195,old camera,deep,2,45,1,0.0
+figurines,frame_00195,old camera,deep,2,264,1,0.0
+figurines,frame_00195,old camera,deep,2,344,1,0.0
+figurines,frame_00195,old camera,deep,2,107,1,0.0
+figurines,frame_00195,old camera,deep,2,77,1,0.0
+figurines,frame_00195,old camera,deep,2,362,1,0.0
+figurines,frame_00195,old camera,deep,2,53,1,0.0
+figurines,frame_00195,old camera,deep,3,8,1,0.323452
+figurines,frame_00195,old camera,deep,3,19,1,0.619846
+figurines,frame_00195,old camera,deep,3,103,1,0.0
+figurines,frame_00195,old camera,deep,3,38,1,0.0
+figurines,frame_00195,old camera,deep,3,33,1,0.0
+figurines,frame_00195,old camera,deep,3,42,1,0.0
+figurines,frame_00195,old camera,deep,3,54,1,0.0
+figurines,frame_00195,old camera,deep,3,120,1,0.0
+figurines,frame_00195,old camera,deep,3,151,1,0.0
+figurines,frame_00195,old camera,deep,3,106,1,0.0
+figurines,frame_00195,old camera,combo,3,19,1,0.619846
+figurines,frame_00195,old camera,combo,2,43,1,0.0
+figurines,frame_00195,old camera,combo,3,103,1,0.0
+figurines,frame_00195,old camera,combo,3,38,1,0.0
+figurines,frame_00195,old camera,combo,-1,-1,2,0.903441
+figurines,frame_00195,old camera,combo,-1,-1,2,0.323452
+figurines,frame_00195,old camera,combo,-1,-1,2,0.323452
+figurines,frame_00195,old camera,combo,-1,-1,2,0.323452
+figurines,frame_00195,old camera,combo,-1,-1,2,0.619846
+figurines,frame_00195,old camera,combo,-1,-1,2,0.619846
+figurines,frame_00195,old camera,combo,-1,-1,2,0.619846
+figurines,frame_00195,old camera,combo,-1,-1,2,0.0
+figurines,frame_00195,old camera,combo,-1,-1,2,0.0
+figurines,frame_00195,old camera,combo,-1,-1,2,0.0
+figurines,frame_00195,rubics cube,c0,2,63,1,0.868421
+figurines,frame_00195,rubics cube,root,3,45,1,0.874232
+figurines,frame_00195,rubics cube,root,3,133,1,0.0
+figurines,frame_00195,rubics cube,root,3,39,1,0.0
+figurines,frame_00195,rubics cube,root,3,140,1,0.0
+figurines,frame_00195,rubics cube,hier,2,63,1,0.868421
+figurines,frame_00195,rubics cube,hier,3,133,1,0.0
+figurines,frame_00195,rubics cube,hier,3,39,1,0.0
+figurines,frame_00195,rubics cube,hier,3,140,1,0.0
+figurines,frame_00195,rubics cube,deep,1,238,1,0.00102
+figurines,frame_00195,rubics cube,deep,1,418,1,0.0
+figurines,frame_00195,rubics cube,deep,1,1770,1,0.0
+figurines,frame_00195,rubics cube,deep,1,410,1,0.001603
+figurines,frame_00195,rubics cube,deep,1,1893,1,0.0
+figurines,frame_00195,rubics cube,deep,1,526,1,0.055232
+figurines,frame_00195,rubics cube,deep,1,901,1,0.0
+figurines,frame_00195,rubics cube,deep,1,992,1,0.0
+figurines,frame_00195,rubics cube,deep,1,1311,1,0.0
+figurines,frame_00195,rubics cube,deep,2,63,1,0.868421
+figurines,frame_00195,rubics cube,deep,2,134,1,0.0
+figurines,frame_00195,rubics cube,deep,2,276,1,0.0
+figurines,frame_00195,rubics cube,deep,2,12,1,0.0
+figurines,frame_00195,rubics cube,deep,2,251,1,0.0
+figurines,frame_00195,rubics cube,deep,2,266,1,0.0
+figurines,frame_00195,rubics cube,deep,2,294,1,0.0
+figurines,frame_00195,rubics cube,deep,3,45,1,0.874232
+figurines,frame_00195,rubics cube,deep,3,133,1,0.0
+figurines,frame_00195,rubics cube,deep,3,39,1,0.0
+figurines,frame_00195,rubics cube,deep,3,140,1,0.0
+figurines,frame_00195,rubics cube,deep,3,128,1,0.0
+figurines,frame_00195,rubics cube,deep,3,132,1,0.0
+figurines,frame_00195,rubics cube,deep,3,122,1,0.0
+figurines,frame_00195,rubics cube,deep,3,85,1,0.0
+figurines,frame_00195,rubics cube,deep,3,2,1,0.0
+figurines,frame_00195,rubics cube,deep,3,147,1,0.0
+figurines,frame_00195,rubics cube,combo,3,133,1,0.0
+figurines,frame_00195,rubics cube,combo,3,39,1,0.0
+figurines,frame_00195,rubics cube,combo,3,140,1,0.0
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.868421
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.868421
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.868421
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00195,rubics cube,combo,-1,-1,2,0.0
+figurines,frame_00195,spatula,c0,-1,-1,3,0.734337
+figurines,frame_00195,spatula,root,3,30,1,0.734337
+figurines,frame_00195,spatula,root,3,41,1,0.0
+figurines,frame_00195,spatula,root,3,59,1,0.0
+figurines,frame_00195,spatula,root,3,102,1,0.0
+figurines,frame_00195,spatula,root,3,34,1,0.0
+figurines,frame_00195,spatula,hier,3,30,1,0.734337
+figurines,frame_00195,spatula,hier,2,206,1,0.0
+figurines,frame_00195,spatula,hier,2,88,1,0.0
+figurines,frame_00195,spatula,hier,2,178,1,0.0
+figurines,frame_00195,spatula,hier,3,41,1,0.0
+figurines,frame_00195,spatula,hier,2,94,1,0.0
+figurines,frame_00195,spatula,hier,3,102,1,0.0
+figurines,frame_00195,spatula,hier,3,34,1,0.0
+figurines,frame_00195,spatula,deep,1,583,1,0.0
+figurines,frame_00195,spatula,deep,1,1546,1,0.0
+figurines,frame_00195,spatula,deep,1,1022,1,0.0
+figurines,frame_00195,spatula,deep,1,101,1,0.0
+figurines,frame_00195,spatula,deep,1,48,1,0.0
+figurines,frame_00195,spatula,deep,1,141,1,0.0
+figurines,frame_00195,spatula,deep,1,999,1,0.0
+figurines,frame_00195,spatula,deep,2,40,1,0.520693
+figurines,frame_00195,spatula,deep,2,367,1,0.0
+figurines,frame_00195,spatula,deep,2,96,1,0.0
+figurines,frame_00195,spatula,deep,2,120,1,0.0
+figurines,frame_00195,spatula,deep,2,7,1,0.0
+figurines,frame_00195,spatula,deep,2,237,1,0.0
+figurines,frame_00195,spatula,deep,2,88,1,0.0
+figurines,frame_00195,spatula,deep,2,132,1,0.0
+figurines,frame_00195,spatula,deep,2,27,1,0.0
+figurines,frame_00195,spatula,deep,3,30,1,0.734337
+figurines,frame_00195,spatula,deep,3,41,1,0.0
+figurines,frame_00195,spatula,deep,3,59,1,0.0
+figurines,frame_00195,spatula,deep,3,102,1,0.0
+figurines,frame_00195,spatula,deep,3,34,1,0.0
+figurines,frame_00195,spatula,deep,3,21,1,0.0
+figurines,frame_00195,spatula,deep,3,107,1,0.0
+figurines,frame_00195,spatula,deep,3,5,1,0.0
+figurines,frame_00195,spatula,deep,3,82,1,0.0
+figurines,frame_00195,spatula,deep,3,65,1,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.0
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,3,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,4,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,4,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,4,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,4,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,4,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.734337
+figurines,frame_00195,spatula,combo,-1,-1,2,0.0
+figurines,frame_00195,spatula,combo,-1,-1,2,0.0
+figurines,frame_00195,spatula,combo,-1,-1,2,0.0
+figurines,frame_00195,spatula,combo,-1,-1,2,0.0
+figurines,frame_00195,spatula,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,c0,3,49,1,0.803941
+figurines,frame_00195,toy cat statue,root,3,49,1,0.803941
+figurines,frame_00195,toy cat statue,root,3,14,1,0.0
+figurines,frame_00195,toy cat statue,root,3,68,1,0.0
+figurines,frame_00195,toy cat statue,root,3,28,1,0.0
+figurines,frame_00195,toy cat statue,root,3,77,1,0.0
+figurines,frame_00195,toy cat statue,hier,3,49,1,0.803941
+figurines,frame_00195,toy cat statue,hier,3,14,1,0.0
+figurines,frame_00195,toy cat statue,hier,3,68,1,0.0
+figurines,frame_00195,toy cat statue,hier,3,28,1,0.0
+figurines,frame_00195,toy cat statue,hier,3,77,1,0.0
+figurines,frame_00195,toy cat statue,deep,1,223,1,0.118514
+figurines,frame_00195,toy cat statue,deep,1,301,1,0.007373
+figurines,frame_00195,toy cat statue,deep,1,329,1,0.071046
+figurines,frame_00195,toy cat statue,deep,1,302,1,0.111558
+figurines,frame_00195,toy cat statue,deep,1,328,1,0.072313
+figurines,frame_00195,toy cat statue,deep,1,507,1,0.02748
+figurines,frame_00195,toy cat statue,deep,1,165,1,0.0
+figurines,frame_00195,toy cat statue,deep,1,558,1,0.0
+figurines,frame_00195,toy cat statue,deep,1,39,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,70,1,0.700301
+figurines,frame_00195,toy cat statue,deep,2,130,1,0.088472
+figurines,frame_00195,toy cat statue,deep,2,148,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,19,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,111,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,140,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,36,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,15,1,0.0
+figurines,frame_00195,toy cat statue,deep,2,11,1,0.001921
+figurines,frame_00195,toy cat statue,deep,2,75,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,49,1,0.803941
+figurines,frame_00195,toy cat statue,deep,3,14,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,68,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,28,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,77,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,7,1,0.001834
+figurines,frame_00195,toy cat statue,deep,3,10,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,47,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,46,1,0.0
+figurines,frame_00195,toy cat statue,deep,3,11,1,0.0
+figurines,frame_00195,toy cat statue,combo,3,14,1,0.0
+figurines,frame_00195,toy cat statue,combo,3,68,1,0.0
+figurines,frame_00195,toy cat statue,combo,3,28,1,0.0
+figurines,frame_00195,toy cat statue,combo,3,77,1,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.31805
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.674608
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.334306
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.739251
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,toy cat statue,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,c0,2,56,1,0.521753
+figurines,frame_00195,waldo,root,3,17,1,0.060568
+figurines,frame_00195,waldo,root,3,33,1,0.0
+figurines,frame_00195,waldo,root,3,37,1,0.0
+figurines,frame_00195,waldo,root,3,120,1,0.0
+figurines,frame_00195,waldo,root,3,39,1,0.0
+figurines,frame_00195,waldo,hier,2,56,1,0.521753
+figurines,frame_00195,waldo,hier,3,33,1,0.0
+figurines,frame_00195,waldo,hier,3,37,1,0.0
+figurines,frame_00195,waldo,hier,3,120,1,0.0
+figurines,frame_00195,waldo,hier,3,39,1,0.0
+figurines,frame_00195,waldo,deep,1,418,1,0.0
+figurines,frame_00195,waldo,deep,1,1893,1,0.0
+figurines,frame_00195,waldo,deep,1,1255,1,0.0
+figurines,frame_00195,waldo,deep,1,165,1,0.0
+figurines,frame_00195,waldo,deep,1,61,1,0.0
+figurines,frame_00195,waldo,deep,1,1550,1,0.0
+figurines,frame_00195,waldo,deep,1,976,1,0.0
+figurines,frame_00195,waldo,deep,1,345,1,0.0
+figurines,frame_00195,waldo,deep,1,60,1,0.0
+figurines,frame_00195,waldo,deep,1,56,1,0.01572
+figurines,frame_00195,waldo,deep,2,77,1,0.0
+figurines,frame_00195,waldo,deep,2,22,1,0.028697
+figurines,frame_00195,waldo,deep,2,118,1,0.0
+figurines,frame_00195,waldo,deep,2,43,1,0.0
+figurines,frame_00195,waldo,deep,2,253,1,0.0
+figurines,frame_00195,waldo,deep,2,365,1,0.0
+figurines,frame_00195,waldo,deep,2,45,1,0.0
+figurines,frame_00195,waldo,deep,2,54,1,0.0
+figurines,frame_00195,waldo,deep,2,28,1,0.0
+figurines,frame_00195,waldo,deep,2,404,1,0.0
+figurines,frame_00195,waldo,deep,3,17,1,0.060568
+figurines,frame_00195,waldo,deep,3,33,1,0.0
+figurines,frame_00195,waldo,deep,3,37,1,0.0
+figurines,frame_00195,waldo,deep,3,120,1,0.0
+figurines,frame_00195,waldo,deep,3,39,1,0.0
+figurines,frame_00195,waldo,deep,3,85,1,0.0
+figurines,frame_00195,waldo,deep,3,84,1,0.0
+figurines,frame_00195,waldo,deep,3,67,1,0.0
+figurines,frame_00195,waldo,deep,3,2,1,0.0
+figurines,frame_00195,waldo,deep,3,110,1,0.0
+figurines,frame_00195,waldo,combo,3,33,1,0.0
+figurines,frame_00195,waldo,combo,3,37,1,0.0
+figurines,frame_00195,waldo,combo,3,120,1,0.0
+figurines,frame_00195,waldo,combo,3,39,1,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.521753
+figurines,frame_00195,waldo,combo,-1,-1,2,0.521753
+figurines,frame_00195,waldo,combo,-1,-1,2,0.521753
+figurines,frame_00195,waldo,combo,-1,-1,2,0.521753
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,waldo,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with buoy,c0,-1,-1,2,0.636227
+figurines,frame_00195,rubber duck with buoy,root,3,51,1,0.901472
+figurines,frame_00195,rubber duck with buoy,root,3,46,1,0.0
+figurines,frame_00195,rubber duck with buoy,root,3,68,1,0.0
+figurines,frame_00195,rubber duck with buoy,root,3,49,1,0.007177
+figurines,frame_00195,rubber duck with buoy,root,3,14,1,0.0
+figurines,frame_00195,rubber duck with buoy,hier,2,75,1,0.0
+figurines,frame_00195,rubber duck with buoy,hier,3,51,1,0.901472
+figurines,frame_00195,rubber duck with buoy,hier,3,68,1,0.0
+figurines,frame_00195,rubber duck with buoy,hier,3,49,1,0.007177
+figurines,frame_00195,rubber duck with buoy,hier,2,19,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,247,1,0.315626
+figurines,frame_00195,rubber duck with buoy,deep,1,191,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,388,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,767,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,386,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,258,1,0.000239
+figurines,frame_00195,rubber duck with buoy,deep,1,114,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,186,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,103,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,1,270,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,75,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,64,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,76,1,0.899573
+figurines,frame_00195,rubber duck with buoy,deep,2,86,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,111,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,36,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,19,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,70,1,0.007536
+figurines,frame_00195,rubber duck with buoy,deep,2,130,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,2,57,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,51,1,0.901472
+figurines,frame_00195,rubber duck with buoy,deep,3,46,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,68,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,49,1,0.007177
+figurines,frame_00195,rubber duck with buoy,deep,3,14,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,28,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,45,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,77,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,47,1,0.0
+figurines,frame_00195,rubber duck with buoy,deep,3,10,1,0.0
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.793356
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.583814
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.463388
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.005659
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,3,0.579252
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,3,0.460921
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,3,0.381608
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.636227
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.006598
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with buoy,combo,-1,-1,2,0.004463
+figurines,frame_00195,pirate hat,c0,2,75,1,0.913021
+figurines,frame_00195,pirate hat,root,3,91,1,0.0
+figurines,frame_00195,pirate hat,root,3,129,1,0.0
+figurines,frame_00195,pirate hat,root,3,49,1,0.0
+figurines,frame_00195,pirate hat,root,3,46,1,0.390271
+figurines,frame_00195,pirate hat,root,3,105,1,0.0
+figurines,frame_00195,pirate hat,hier,2,75,1,0.913021
+figurines,frame_00195,pirate hat,hier,3,91,1,0.0
+figurines,frame_00195,pirate hat,hier,2,130,1,0.0
+figurines,frame_00195,pirate hat,hier,2,70,1,0.0
+figurines,frame_00195,pirate hat,hier,2,64,1,0.001568
+figurines,frame_00195,pirate hat,hier,3,129,1,0.0
+figurines,frame_00195,pirate hat,hier,3,105,1,0.0
+figurines,frame_00195,pirate hat,deep,1,199,1,0.0
+figurines,frame_00195,pirate hat,deep,1,246,1,0.913021
+figurines,frame_00195,pirate hat,deep,1,319,1,0.0
+figurines,frame_00195,pirate hat,deep,1,314,1,0.0
+figurines,frame_00195,pirate hat,deep,1,256,1,0.0
+figurines,frame_00195,pirate hat,deep,1,374,1,0.0
+figurines,frame_00195,pirate hat,deep,1,512,1,0.0
+figurines,frame_00195,pirate hat,deep,1,297,1,0.0
+figurines,frame_00195,pirate hat,deep,1,1113,1,0.0
+figurines,frame_00195,pirate hat,deep,2,75,1,0.913021
+figurines,frame_00195,pirate hat,deep,2,171,1,0.0
+figurines,frame_00195,pirate hat,deep,2,68,1,0.0
+figurines,frame_00195,pirate hat,deep,2,89,1,0.0
+figurines,frame_00195,pirate hat,deep,2,130,1,0.0
+figurines,frame_00195,pirate hat,deep,2,67,1,0.0
+figurines,frame_00195,pirate hat,deep,2,70,1,0.0
+figurines,frame_00195,pirate hat,deep,2,138,1,0.0
+figurines,frame_00195,pirate hat,deep,2,82,1,0.0
+figurines,frame_00195,pirate hat,deep,2,64,1,0.001568
+figurines,frame_00195,pirate hat,deep,3,91,1,0.0
+figurines,frame_00195,pirate hat,deep,3,129,1,0.0
+figurines,frame_00195,pirate hat,deep,3,49,1,0.0
+figurines,frame_00195,pirate hat,deep,3,46,1,0.390271
+figurines,frame_00195,pirate hat,deep,3,105,1,0.0
+figurines,frame_00195,pirate hat,deep,3,71,1,0.0
+figurines,frame_00195,pirate hat,deep,3,47,1,0.0
+figurines,frame_00195,pirate hat,deep,3,57,1,0.0
+figurines,frame_00195,pirate hat,deep,3,44,1,0.0
+figurines,frame_00195,pirate hat,deep,3,150,1,0.0
+figurines,frame_00195,pirate hat,combo,3,91,1,0.0
+figurines,frame_00195,pirate hat,combo,2,130,1,0.0
+figurines,frame_00195,pirate hat,combo,2,70,1,0.0
+figurines,frame_00195,pirate hat,combo,2,64,1,0.001568
+figurines,frame_00195,pirate hat,combo,3,129,1,0.0
+figurines,frame_00195,pirate hat,combo,3,105,1,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.464842
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.801481
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.432784
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.390271
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.913021
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.550191
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.001112
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.00148
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.001065
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,pirate hat,combo,-1,-1,2,0.0
+figurines,frame_00195,miffy,c0,-1,-1,2,0.589322
+figurines,frame_00195,miffy,root,3,68,1,0.589322
+figurines,frame_00195,miffy,root,3,134,1,0.0
+figurines,frame_00195,miffy,root,3,140,1,0.0
+figurines,frame_00195,miffy,root,3,7,1,0.001444
+figurines,frame_00195,miffy,root,3,147,1,0.0
+figurines,frame_00195,miffy,hier,3,68,1,0.589322
+figurines,frame_00195,miffy,hier,3,134,1,0.0
+figurines,frame_00195,miffy,hier,2,11,1,0.001514
+figurines,frame_00195,miffy,hier,3,140,1,0.0
+figurines,frame_00195,miffy,hier,3,147,1,0.0
+figurines,frame_00195,miffy,deep,1,418,1,0.0
+figurines,frame_00195,miffy,deep,1,28,1,0.0
+figurines,frame_00195,miffy,deep,1,277,1,0.0
+figurines,frame_00195,miffy,deep,1,149,1,0.0
+figurines,frame_00195,miffy,deep,1,15,1,0.001093
+figurines,frame_00195,miffy,deep,1,1303,1,0.0
+figurines,frame_00195,miffy,deep,1,148,1,0.0
+figurines,frame_00195,miffy,deep,1,1003,1,0.0
+figurines,frame_00195,miffy,deep,1,29,1,0.0
+figurines,frame_00195,miffy,deep,1,1383,1,0.0
+figurines,frame_00195,miffy,deep,2,15,1,0.0
+figurines,frame_00195,miffy,deep,2,118,1,0.0
+figurines,frame_00195,miffy,deep,2,277,1,0.0
+figurines,frame_00195,miffy,deep,2,11,1,0.001514
+figurines,frame_00195,miffy,deep,2,77,1,0.0
+figurines,frame_00195,miffy,deep,2,111,1,0.587269
+figurines,frame_00195,miffy,deep,2,243,1,0.0
+figurines,frame_00195,miffy,deep,2,43,1,0.0
+figurines,frame_00195,miffy,deep,2,109,1,0.0
+figurines,frame_00195,miffy,deep,2,18,1,0.0
+figurines,frame_00195,miffy,deep,3,68,1,0.589322
+figurines,frame_00195,miffy,deep,3,134,1,0.0
+figurines,frame_00195,miffy,deep,3,140,1,0.0
+figurines,frame_00195,miffy,deep,3,7,1,0.001444
+figurines,frame_00195,miffy,deep,3,147,1,0.0
+figurines,frame_00195,miffy,deep,3,33,1,0.0
+figurines,frame_00195,miffy,deep,3,10,1,0.0
+figurines,frame_00195,miffy,deep,3,67,1,0.0
+figurines,frame_00195,miffy,deep,3,13,1,0.0
+figurines,frame_00195,miffy,deep,3,94,1,0.0
+figurines,frame_00195,miffy,combo,-1,-1,2,0.001514
+figurines,frame_00195,miffy,combo,-1,-1,2,0.0
+figurines,frame_00195,miffy,combo,-1,-1,2,0.0
+figurines,frame_00195,miffy,combo,-1,-1,2,0.003815
+figurines,frame_00195,miffy,combo,-1,-1,2,0.589322
+figurines,frame_00195,miffy,combo,-1,-1,2,0.589322
+figurines,frame_00195,miffy,combo,-1,-1,3,0.003815
+figurines,frame_00195,miffy,combo,-1,-1,3,0.589322
+figurines,frame_00195,miffy,combo,-1,-1,3,0.589322
+figurines,frame_00195,miffy,combo,-1,-1,2,0.589322
+figurines,frame_00195,miffy,combo,-1,-1,2,0.001514
+figurines,frame_00195,miffy,combo,-1,-1,2,0.001514
+figurines,frame_00195,miffy,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,c0,-1,-1,2,0.0
+figurines,frame_00195,bag,root,3,91,1,0.0
+figurines,frame_00195,bag,root,3,103,1,0.0
+figurines,frame_00195,bag,root,3,54,1,0.0
+figurines,frame_00195,bag,root,3,12,1,0.878075
+figurines,frame_00195,bag,root,3,4,1,0.0
+figurines,frame_00195,bag,hier,2,264,1,0.0
+figurines,frame_00195,bag,hier,2,349,1,0.0
+figurines,frame_00195,bag,hier,2,107,1,0.0
+figurines,frame_00195,bag,hier,2,362,1,0.0
+figurines,frame_00195,bag,hier,2,259,1,0.0
+figurines,frame_00195,bag,hier,2,201,1,0.0
+figurines,frame_00195,bag,hier,3,91,1,0.0
+figurines,frame_00195,bag,hier,2,298,1,0.0
+figurines,frame_00195,bag,hier,2,17,1,0.858767
+figurines,frame_00195,bag,hier,3,4,1,0.0
+figurines,frame_00195,bag,deep,1,726,1,0.0
+figurines,frame_00195,bag,deep,1,1137,1,0.0
+figurines,frame_00195,bag,deep,1,814,1,0.0
+figurines,frame_00195,bag,deep,1,364,1,0.0
+figurines,frame_00195,bag,deep,1,1155,1,0.0
+figurines,frame_00195,bag,deep,1,278,1,0.0
+figurines,frame_00195,bag,deep,1,139,1,0.0
+figurines,frame_00195,bag,deep,1,1447,1,0.0
+figurines,frame_00195,bag,deep,2,264,1,0.0
+figurines,frame_00195,bag,deep,2,349,1,0.0
+figurines,frame_00195,bag,deep,2,107,1,0.0
+figurines,frame_00195,bag,deep,2,362,1,0.0
+figurines,frame_00195,bag,deep,2,259,1,0.0
+figurines,frame_00195,bag,deep,2,201,1,0.0
+figurines,frame_00195,bag,deep,2,171,1,0.0
+figurines,frame_00195,bag,deep,2,13,1,0.0
+figurines,frame_00195,bag,deep,2,118,1,0.0
+figurines,frame_00195,bag,deep,2,80,1,0.0
+figurines,frame_00195,bag,deep,3,91,1,0.0
+figurines,frame_00195,bag,deep,3,103,1,0.0
+figurines,frame_00195,bag,deep,3,54,1,0.0
+figurines,frame_00195,bag,deep,3,12,1,0.878075
+figurines,frame_00195,bag,deep,3,4,1,0.0
+figurines,frame_00195,bag,deep,3,8,1,0.0
+figurines,frame_00195,bag,deep,3,150,1,0.0
+figurines,frame_00195,bag,deep,3,17,1,0.0
+figurines,frame_00195,bag,deep,3,81,1,0.0
+figurines,frame_00195,bag,deep,3,6,1,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.858767
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.858767
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,3,0.858767
+figurines,frame_00195,bag,combo,-1,-1,3,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,bag,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with hat,c0,-1,-1,3,0.464148
+figurines,frame_00195,rubber duck with hat,root,3,51,1,0.0
+figurines,frame_00195,rubber duck with hat,root,3,46,1,0.840856
+figurines,frame_00195,rubber duck with hat,root,3,49,1,0.0
+figurines,frame_00195,rubber duck with hat,root,3,68,1,0.0
+figurines,frame_00195,rubber duck with hat,root,3,14,1,0.0
+figurines,frame_00195,rubber duck with hat,hier,2,75,1,0.405989
+figurines,frame_00195,rubber duck with hat,hier,3,51,1,0.0
+figurines,frame_00195,rubber duck with hat,hier,2,64,1,0.466213
+figurines,frame_00195,rubber duck with hat,hier,3,49,1,0.0
+figurines,frame_00195,rubber duck with hat,hier,2,111,1,0.0
+figurines,frame_00195,rubber duck with hat,hier,2,19,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,191,1,0.415388
+figurines,frame_00195,rubber duck with hat,deep,1,388,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,247,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,386,1,0.001122
+figurines,frame_00195,rubber duck with hat,deep,1,767,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,186,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,114,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,103,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,1,270,1,0.009294
+figurines,frame_00195,rubber duck with hat,deep,1,258,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,75,1,0.405989
+figurines,frame_00195,rubber duck with hat,deep,2,64,1,0.466213
+figurines,frame_00195,rubber duck with hat,deep,2,76,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,86,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,70,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,130,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,111,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,36,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,19,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,2,15,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,51,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,46,1,0.840856
+figurines,frame_00195,rubber duck with hat,deep,3,49,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,68,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,14,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,77,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,47,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,28,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,10,1,0.0
+figurines,frame_00195,rubber duck with hat,deep,3,45,1,0.015511
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.200219
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.240887
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.175268
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.556054
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.751654
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.45604
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.165625
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.201837
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,3,0.144307
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,4,0.361681
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,4,0.436027
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,4,0.316655
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.214918
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.840856
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.260074
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.360246
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.210977
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.257029
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.0
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.308016
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.415688
+figurines,frame_00195,rubber duck with hat,combo,-1,-1,2,0.252532

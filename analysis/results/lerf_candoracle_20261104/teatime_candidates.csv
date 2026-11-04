@@ -1,0 +1,2623 @@
+scene,image,prompt,kind,level,index,n_nodes,iou
+teatime,frame_00002,stuffed bear,c0,3,2,1,0.925275
+teatime,frame_00002,stuffed bear,root,3,2,1,0.925275
+teatime,frame_00002,stuffed bear,root,3,5,1,0.0
+teatime,frame_00002,stuffed bear,root,3,0,1,0.0
+teatime,frame_00002,stuffed bear,hier,3,2,1,0.925275
+teatime,frame_00002,stuffed bear,hier,3,5,1,0.0
+teatime,frame_00002,stuffed bear,deep,1,1590,1,0.005163
+teatime,frame_00002,stuffed bear,deep,1,8,1,0.293311
+teatime,frame_00002,stuffed bear,deep,1,81,1,0.0
+teatime,frame_00002,stuffed bear,deep,1,49,1,0.090192
+teatime,frame_00002,stuffed bear,deep,1,462,1,0.001595
+teatime,frame_00002,stuffed bear,deep,1,6021,1,0.000158
+teatime,frame_00002,stuffed bear,deep,1,14,1,0.062302
+teatime,frame_00002,stuffed bear,deep,1,4083,1,0.0
+teatime,frame_00002,stuffed bear,deep,1,1279,1,0.0
+teatime,frame_00002,stuffed bear,deep,2,5,1,0.293651
+teatime,frame_00002,stuffed bear,deep,2,1,1,0.35161
+teatime,frame_00002,stuffed bear,deep,2,3,1,0.054687
+teatime,frame_00002,stuffed bear,deep,2,463,1,0.177736
+teatime,frame_00002,stuffed bear,deep,2,1782,1,0.0
+teatime,frame_00002,stuffed bear,deep,2,7,1,0.0
+teatime,frame_00002,stuffed bear,deep,2,21,1,0.0
+teatime,frame_00002,stuffed bear,deep,2,45,1,0.063941
+teatime,frame_00002,stuffed bear,deep,2,17,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,2,1,0.925275
+teatime,frame_00002,stuffed bear,deep,3,5,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,0,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,618,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,565,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,14,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,262,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,732,1,0.0
+teatime,frame_00002,stuffed bear,deep,3,289,1,0.037619
+teatime,frame_00002,stuffed bear,combo,3,5,1,0.0
+teatime,frame_00002,stuffed bear,combo,-1,-1,2,0.650976
+teatime,frame_00002,coffee mug,c0,2,37,1,0.872376
+teatime,frame_00002,coffee mug,root,3,27,1,0.773245
+teatime,frame_00002,coffee mug,root,3,0,1,0.0
+teatime,frame_00002,coffee mug,root,3,944,1,0.0
+teatime,frame_00002,coffee mug,hier,2,37,1,0.872376
+teatime,frame_00002,coffee mug,hier,3,944,1,0.0
+teatime,frame_00002,coffee mug,deep,1,58,1,0.583602
+teatime,frame_00002,coffee mug,deep,1,1366,1,0.114831
+teatime,frame_00002,coffee mug,deep,1,180,1,0.011347
+teatime,frame_00002,coffee mug,deep,1,501,1,0.008047
+teatime,frame_00002,coffee mug,deep,1,3376,1,0.081625
+teatime,frame_00002,coffee mug,deep,1,201,1,0.021369
+teatime,frame_00002,coffee mug,deep,2,37,1,0.872376
+teatime,frame_00002,coffee mug,deep,2,1782,1,0.0
+teatime,frame_00002,coffee mug,deep,2,2483,1,0.0
+teatime,frame_00002,coffee mug,deep,2,56,1,0.000322
+teatime,frame_00002,coffee mug,deep,2,18,1,0.0
+teatime,frame_00002,coffee mug,deep,2,610,1,0.0
+teatime,frame_00002,coffee mug,deep,2,1087,1,0.0
+teatime,frame_00002,coffee mug,deep,2,749,1,0.0
+teatime,frame_00002,coffee mug,deep,2,1912,1,0.0
+teatime,frame_00002,coffee mug,deep,3,27,1,0.773245
+teatime,frame_00002,coffee mug,deep,3,0,1,0.0
+teatime,frame_00002,coffee mug,deep,3,944,1,0.0
+teatime,frame_00002,coffee mug,deep,3,115,1,0.0
+teatime,frame_00002,coffee mug,deep,3,178,1,0.0
+teatime,frame_00002,coffee mug,deep,3,856,1,0.0
+teatime,frame_00002,coffee mug,deep,3,106,1,0.0
+teatime,frame_00002,coffee mug,deep,3,153,1,0.0
+teatime,frame_00002,coffee mug,deep,3,610,1,0.0
+teatime,frame_00002,coffee mug,deep,3,822,1,0.0
+teatime,frame_00002,coffee mug,combo,3,944,1,0.0
+teatime,frame_00002,coffee mug,combo,-1,-1,2,0.872376
+teatime,frame_00002,bag of cookies,c0,-1,-1,3,0.761115
+teatime,frame_00002,bag of cookies,root,3,8,1,0.965382
+teatime,frame_00002,bag of cookies,root,3,23,1,0.0
+teatime,frame_00002,bag of cookies,root,3,0,1,0.0
+teatime,frame_00002,bag of cookies,root,3,6,1,0.0
+teatime,frame_00002,bag of cookies,hier,3,8,1,0.965382
+teatime,frame_00002,bag of cookies,hier,2,43,1,0.0
+teatime,frame_00002,bag of cookies,hier,2,32,1,0.0
+teatime,frame_00002,bag of cookies,hier,2,8,1,0.0
+teatime,frame_00002,bag of cookies,deep,1,68,1,0.0
+teatime,frame_00002,bag of cookies,deep,1,52,1,0.0
+teatime,frame_00002,bag of cookies,deep,1,340,1,0.0
+teatime,frame_00002,bag of cookies,deep,1,186,1,0.0
+teatime,frame_00002,bag of cookies,deep,1,15,1,0.199423
+teatime,frame_00002,bag of cookies,deep,1,3968,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,43,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,10,1,0.966462
+teatime,frame_00002,bag of cookies,deep,2,32,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,1782,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,8,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,1031,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,593,1,0.0
+teatime,frame_00002,bag of cookies,deep,2,11,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,8,1,0.965382
+teatime,frame_00002,bag of cookies,deep,3,23,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,0,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,6,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,277,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,248,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,44,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,944,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,31,1,0.0
+teatime,frame_00002,bag of cookies,deep,3,612,1,0.0
+teatime,frame_00002,bag of cookies,combo,-1,-1,3,0.0
+teatime,frame_00002,bag of cookies,combo,-1,-1,3,0.821508
+teatime,frame_00002,bag of cookies,combo,-1,-1,3,0.792634
+teatime,frame_00002,bag of cookies,combo,-1,-1,4,0.725353
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.835535
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.867681
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.908565
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00002,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00002,sheep,c0,3,5,1,0.96174
+teatime,frame_00002,sheep,root,3,5,1,0.96174
+teatime,frame_00002,sheep,root,3,2,1,0.0
+teatime,frame_00002,sheep,root,3,0,1,0.0
+teatime,frame_00002,sheep,hier,3,5,1,0.96174
+teatime,frame_00002,sheep,hier,3,2,1,0.0
+teatime,frame_00002,sheep,deep,1,6261,1,0.0
+teatime,frame_00002,sheep,deep,1,2366,1,0.0
+teatime,frame_00002,sheep,deep,1,11,1,0.45275
+teatime,frame_00002,sheep,deep,1,218,1,0.013491
+teatime,frame_00002,sheep,deep,1,35,1,0.047702
+teatime,frame_00002,sheep,deep,1,909,1,0.0
+teatime,frame_00002,sheep,deep,1,114,1,0.01472
+teatime,frame_00002,sheep,deep,1,36,1,0.120691
+teatime,frame_00002,sheep,deep,1,681,1,0.001436
+teatime,frame_00002,sheep,deep,1,252,1,0.040379
+teatime,frame_00002,sheep,deep,2,21,1,0.161226
+teatime,frame_00002,sheep,deep,2,7,1,0.594692
+teatime,frame_00002,sheep,deep,2,58,1,0.053805
+teatime,frame_00002,sheep,deep,2,36,1,0.077728
+teatime,frame_00002,sheep,deep,2,6,1,0.016252
+teatime,frame_00002,sheep,deep,2,422,1,0.0
+teatime,frame_00002,sheep,deep,2,1782,1,0.0
+teatime,frame_00002,sheep,deep,2,45,1,0.0
+teatime,frame_00002,sheep,deep,2,427,1,0.041352
+teatime,frame_00002,sheep,deep,2,215,1,0.025807
+teatime,frame_00002,sheep,deep,3,5,1,0.96174
+teatime,frame_00002,sheep,deep,3,2,1,0.0
+teatime,frame_00002,sheep,deep,3,0,1,0.0
+teatime,frame_00002,sheep,deep,3,421,1,0.0
+teatime,frame_00002,sheep,deep,3,944,1,0.0
+teatime,frame_00002,sheep,deep,3,235,1,0.0
+teatime,frame_00002,sheep,deep,3,236,1,0.0
+teatime,frame_00002,sheep,deep,3,856,1,0.0
+teatime,frame_00002,sheep,deep,3,367,1,0.0
+teatime,frame_00002,sheep,deep,3,390,1,0.0
+teatime,frame_00002,sheep,combo,3,2,1,0.0
+teatime,frame_00002,sheep,combo,-1,-1,2,0.295927
+teatime,frame_00002,apple,c0,2,127,1,0.968605
+teatime,frame_00002,apple,root,3,85,1,0.973898
+teatime,frame_00002,apple,root,3,7,1,0.0
+teatime,frame_00002,apple,root,3,370,1,0.0
+teatime,frame_00002,apple,root,3,763,1,0.0
+teatime,frame_00002,apple,root,3,3,1,0.0
+teatime,frame_00002,apple,hier,2,127,1,0.968605
+teatime,frame_00002,apple,hier,2,9,1,0.0
+teatime,frame_00002,apple,hier,2,2,1,0.0
+teatime,frame_00002,apple,hier,3,370,1,0.0
+teatime,frame_00002,apple,hier,3,763,1,0.0
+teatime,frame_00002,apple,hier,2,960,1,0.0
+teatime,frame_00002,apple,deep,1,229,1,0.960465
+teatime,frame_00002,apple,deep,1,1665,1,0.0
+teatime,frame_00002,apple,deep,1,13,1,0.0
+teatime,frame_00002,apple,deep,1,948,1,0.0
+teatime,frame_00002,apple,deep,1,4935,1,0.0
+teatime,frame_00002,apple,deep,1,7015,1,0.0
+teatime,frame_00002,apple,deep,2,127,1,0.968605
+teatime,frame_00002,apple,deep,2,9,1,0.0
+teatime,frame_00002,apple,deep,2,846,1,0.0
+teatime,frame_00002,apple,deep,2,2,1,0.0
+teatime,frame_00002,apple,deep,2,655,1,0.0
+teatime,frame_00002,apple,deep,2,189,1,0.0
+teatime,frame_00002,apple,deep,2,960,1,0.0
+teatime,frame_00002,apple,deep,2,594,1,0.0
+teatime,frame_00002,apple,deep,2,137,1,0.0
+teatime,frame_00002,apple,deep,2,569,1,0.0
+teatime,frame_00002,apple,deep,3,85,1,0.973898
+teatime,frame_00002,apple,deep,3,7,1,0.0
+teatime,frame_00002,apple,deep,3,370,1,0.0
+teatime,frame_00002,apple,deep,3,763,1,0.0
+teatime,frame_00002,apple,deep,3,3,1,0.0
+teatime,frame_00002,apple,deep,3,123,1,0.0
+teatime,frame_00002,apple,deep,3,1162,1,0.0
+teatime,frame_00002,apple,deep,3,780,1,0.0
+teatime,frame_00002,apple,deep,3,367,1,0.0
+teatime,frame_00002,apple,deep,3,390,1,0.0
+teatime,frame_00002,apple,combo,2,9,1,0.0
+teatime,frame_00002,apple,combo,2,2,1,0.0
+teatime,frame_00002,apple,combo,3,370,1,0.0
+teatime,frame_00002,apple,combo,3,763,1,0.0
+teatime,frame_00002,apple,combo,2,960,1,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.280897
+teatime,frame_00002,apple,combo,-1,-1,2,0.277945
+teatime,frame_00002,apple,combo,-1,-1,2,0.968605
+teatime,frame_00002,apple,combo,-1,-1,2,0.968605
+teatime,frame_00002,apple,combo,-1,-1,2,0.615669
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,apple,combo,-1,-1,2,0.0
+teatime,frame_00002,paper napkin,c0,3,3,1,0.935484
+teatime,frame_00002,paper napkin,root,3,3,1,0.935484
+teatime,frame_00002,paper napkin,root,3,6,1,0.0
+teatime,frame_00002,paper napkin,root,3,248,1,0.0
+teatime,frame_00002,paper napkin,root,3,0,1,0.0
+teatime,frame_00002,paper napkin,hier,3,3,1,0.935484
+teatime,frame_00002,paper napkin,hier,3,6,1,0.0
+teatime,frame_00002,paper napkin,hier,3,248,1,0.0
+teatime,frame_00002,paper napkin,deep,1,345,1,0.298771
+teatime,frame_00002,paper napkin,deep,1,147,1,0.05218
+teatime,frame_00002,paper napkin,deep,1,903,1,0.0
+teatime,frame_00002,paper napkin,deep,1,449,1,0.0
+teatime,frame_00002,paper napkin,deep,1,801,1,0.0
+teatime,frame_00002,paper napkin,deep,1,1206,1,0.025421
+teatime,frame_00002,paper napkin,deep,1,979,1,0.0
+teatime,frame_00002,paper napkin,deep,1,735,1,0.14486
+teatime,frame_00002,paper napkin,deep,1,3,1,0.0
+teatime,frame_00002,paper napkin,deep,1,3870,1,0.0
+teatime,frame_00002,paper napkin,deep,2,960,1,0.184078
+teatime,frame_00002,paper napkin,deep,2,2,1,0.757487
+teatime,frame_00002,paper napkin,deep,2,401,1,0.0
+teatime,frame_00002,paper napkin,deep,2,8,1,0.0
+teatime,frame_00002,paper napkin,deep,2,11,1,0.0
+teatime,frame_00002,paper napkin,deep,2,1782,1,0.0
+teatime,frame_00002,paper napkin,deep,2,155,1,0.0
+teatime,frame_00002,paper napkin,deep,2,1340,1,0.0
+teatime,frame_00002,paper napkin,deep,2,341,1,0.0
+teatime,frame_00002,paper napkin,deep,3,3,1,0.935484
+teatime,frame_00002,paper napkin,deep,3,6,1,0.0
+teatime,frame_00002,paper napkin,deep,3,248,1,0.0
+teatime,frame_00002,paper napkin,deep,3,0,1,0.0
+teatime,frame_00002,paper napkin,deep,3,1106,1,0.0
+teatime,frame_00002,paper napkin,deep,3,277,1,0.0
+teatime,frame_00002,paper napkin,deep,3,178,1,0.0
+teatime,frame_00002,paper napkin,deep,3,600,1,0.0
+teatime,frame_00002,paper napkin,deep,3,26,1,0.0
+teatime,frame_00002,paper napkin,deep,3,445,1,0.0
+teatime,frame_00002,paper napkin,combo,3,6,1,0.0
+teatime,frame_00002,paper napkin,combo,3,248,1,0.0
+teatime,frame_00002,paper napkin,combo,-1,-1,2,0.823315
+teatime,frame_00002,paper napkin,combo,-1,-1,2,0.935484
+teatime,frame_00002,paper napkin,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,c0,-1,-1,4,0.916533
+teatime,frame_00002,plate,root,3,7,1,0.916533
+teatime,frame_00002,plate,root,3,1075,1,0.0
+teatime,frame_00002,plate,root,3,956,1,0.0
+teatime,frame_00002,plate,root,3,820,1,0.0
+teatime,frame_00002,plate,root,3,277,1,0.0
+teatime,frame_00002,plate,hier,2,9,1,0.916533
+teatime,frame_00002,plate,hier,3,1075,1,0.0
+teatime,frame_00002,plate,hier,3,956,1,0.0
+teatime,frame_00002,plate,hier,3,820,1,0.0
+teatime,frame_00002,plate,hier,3,277,1,0.0
+teatime,frame_00002,plate,deep,1,705,1,0.0
+teatime,frame_00002,plate,deep,1,4762,1,0.0
+teatime,frame_00002,plate,deep,1,3799,1,0.0
+teatime,frame_00002,plate,deep,1,13,1,0.910071
+teatime,frame_00002,plate,deep,1,948,1,0.0
+teatime,frame_00002,plate,deep,1,811,1,0.0
+teatime,frame_00002,plate,deep,1,5074,1,0.0
+teatime,frame_00002,plate,deep,1,3412,1,0.0
+teatime,frame_00002,plate,deep,2,9,1,0.916533
+teatime,frame_00002,plate,deep,2,846,1,0.0
+teatime,frame_00002,plate,deep,2,655,1,0.0
+teatime,frame_00002,plate,deep,2,1443,1,0.0
+teatime,frame_00002,plate,deep,2,649,1,0.0
+teatime,frame_00002,plate,deep,2,569,1,0.0
+teatime,frame_00002,plate,deep,2,1398,1,0.0
+teatime,frame_00002,plate,deep,2,139,1,0.0
+teatime,frame_00002,plate,deep,2,167,1,0.0
+teatime,frame_00002,plate,deep,2,392,1,0.0
+teatime,frame_00002,plate,deep,3,7,1,0.916533
+teatime,frame_00002,plate,deep,3,956,1,0.0
+teatime,frame_00002,plate,deep,3,1075,1,0.0
+teatime,frame_00002,plate,deep,3,820,1,0.0
+teatime,frame_00002,plate,deep,3,277,1,0.0
+teatime,frame_00002,plate,deep,3,763,1,0.0
+teatime,frame_00002,plate,deep,3,367,1,0.0
+teatime,frame_00002,plate,deep,3,121,1,0.0
+teatime,frame_00002,plate,deep,3,800,1,0.0
+teatime,frame_00002,plate,deep,3,944,1,0.0
+teatime,frame_00002,plate,combo,-1,-1,4,0.0
+teatime,frame_00002,plate,combo,-1,-1,4,0.916533
+teatime,frame_00002,plate,combo,-1,-1,4,0.916533
+teatime,frame_00002,plate,combo,-1,-1,4,0.916533
+teatime,frame_00002,plate,combo,-1,-1,5,0.916533
+teatime,frame_00002,plate,combo,-1,-1,2,0.916533
+teatime,frame_00002,plate,combo,-1,-1,2,0.916533
+teatime,frame_00002,plate,combo,-1,-1,2,0.916533
+teatime,frame_00002,plate,combo,-1,-1,2,0.916533
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,plate,combo,-1,-1,2,0.0
+teatime,frame_00002,tea in a glass,c0,3,115,1,0.759286
+teatime,frame_00002,tea in a glass,root,3,115,1,0.759286
+teatime,frame_00002,tea in a glass,root,3,0,1,0.0
+teatime,frame_00002,tea in a glass,root,3,27,1,0.0
+teatime,frame_00002,tea in a glass,hier,3,115,1,0.759286
+teatime,frame_00002,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,666,1,0.098346
+teatime,frame_00002,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00002,tea in a glass,deep,1,667,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,179,1,0.711337
+teatime,frame_00002,tea in a glass,deep,2,506,1,0.049868
+teatime,frame_00002,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00002,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,115,1,0.759286
+teatime,frame_00002,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00002,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00002,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00002,tea in a glass,combo,-1,-1,2,0.396363
+teatime,frame_00002,bear nose,c0,-1,-1,3,0.000926
+teatime,frame_00002,bear nose,root,3,2,1,0.066942
+teatime,frame_00002,bear nose,root,3,618,1,0.0
+teatime,frame_00002,bear nose,root,3,390,1,0.0
+teatime,frame_00002,bear nose,root,3,7,1,0.0
+teatime,frame_00002,bear nose,root,3,235,1,0.0
+teatime,frame_00002,bear nose,hier,2,5,1,0.001988
+teatime,frame_00002,bear nose,hier,2,3,1,0.0
+teatime,frame_00002,bear nose,hier,2,1,1,0.0
+teatime,frame_00002,bear nose,hier,3,618,1,0.0
+teatime,frame_00002,bear nose,hier,2,9,1,0.0
+teatime,frame_00002,bear nose,hier,2,378,1,0.0
+teatime,frame_00002,bear nose,hier,3,390,1,0.0
+teatime,frame_00002,bear nose,deep,1,8,1,0.001648
+teatime,frame_00002,bear nose,deep,1,81,1,0.0
+teatime,frame_00002,bear nose,deep,1,6021,1,0.0
+teatime,frame_00002,bear nose,deep,1,1279,1,0.0
+teatime,frame_00002,bear nose,deep,1,462,1,0.0
+teatime,frame_00002,bear nose,deep,1,4083,1,0.0
+teatime,frame_00002,bear nose,deep,1,5,1,0.0
+teatime,frame_00002,bear nose,deep,1,49,1,0.0
+teatime,frame_00002,bear nose,deep,1,1,1,0.0
+teatime,frame_00002,bear nose,deep,2,5,1,0.001988
+teatime,frame_00002,bear nose,deep,2,3,1,0.0
+teatime,frame_00002,bear nose,deep,2,1,1,0.0
+teatime,frame_00002,bear nose,deep,2,45,1,0.975394
+teatime,frame_00002,bear nose,deep,2,463,1,0.0
+teatime,frame_00002,bear nose,deep,2,121,1,0.0
+teatime,frame_00002,bear nose,deep,2,1381,1,0.0
+teatime,frame_00002,bear nose,deep,2,95,1,0.0
+teatime,frame_00002,bear nose,deep,2,1092,1,0.0
+teatime,frame_00002,bear nose,deep,2,9,1,0.0
+teatime,frame_00002,bear nose,deep,3,2,1,0.066942
+teatime,frame_00002,bear nose,deep,3,618,1,0.0
+teatime,frame_00002,bear nose,deep,3,390,1,0.0
+teatime,frame_00002,bear nose,deep,3,7,1,0.0
+teatime,frame_00002,bear nose,deep,3,235,1,0.0
+teatime,frame_00002,bear nose,deep,3,31,1,0.0
+teatime,frame_00002,bear nose,deep,3,0,1,0.0
+teatime,frame_00002,bear nose,deep,3,44,1,0.0
+teatime,frame_00002,bear nose,deep,3,66,1,0.0
+teatime,frame_00002,bear nose,deep,3,236,1,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.000999
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.000963
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.000954
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.000999
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.001718
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.001612
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.001588
+teatime,frame_00002,bear nose,combo,-1,-1,3,0.001718
+teatime,frame_00002,bear nose,combo,-1,-1,4,0.000926
+teatime,frame_00002,bear nose,combo,-1,-1,4,0.000894
+teatime,frame_00002,bear nose,combo,-1,-1,4,0.000887
+teatime,frame_00002,bear nose,combo,-1,-1,4,0.000926
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.001718
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.000999
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.001988
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.001847
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.001816
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.001988
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00002,three cookies,c0,-1,-1,2,0.922631
+teatime,frame_00002,three cookies,root,3,23,1,0.922631
+teatime,frame_00002,three cookies,root,3,944,1,0.0
+teatime,frame_00002,three cookies,root,3,0,1,0.0
+teatime,frame_00002,three cookies,hier,2,43,1,0.53127
+teatime,frame_00002,three cookies,hier,2,32,1,0.392857
+teatime,frame_00002,three cookies,hier,3,944,1,0.0
+teatime,frame_00002,three cookies,deep,1,68,1,0.383668
+teatime,frame_00002,three cookies,deep,1,52,1,0.392208
+teatime,frame_00002,three cookies,deep,1,186,1,0.0
+teatime,frame_00002,three cookies,deep,1,755,1,0.0
+teatime,frame_00002,three cookies,deep,1,340,1,0.093973
+teatime,frame_00002,three cookies,deep,1,636,1,0.035714
+teatime,frame_00002,three cookies,deep,2,43,1,0.53127
+teatime,frame_00002,three cookies,deep,2,32,1,0.392857
+teatime,frame_00002,three cookies,deep,2,1782,1,0.0
+teatime,frame_00002,three cookies,deep,2,473,1,0.0
+teatime,frame_00002,three cookies,deep,2,1081,1,0.0
+teatime,frame_00002,three cookies,deep,2,932,1,0.0
+teatime,frame_00002,three cookies,deep,2,42,1,0.0
+teatime,frame_00002,three cookies,deep,2,422,1,0.0
+teatime,frame_00002,three cookies,deep,2,77,1,0.0
+teatime,frame_00002,three cookies,deep,2,1518,1,0.0
+teatime,frame_00002,three cookies,deep,3,23,1,0.922631
+teatime,frame_00002,three cookies,deep,3,944,1,0.0
+teatime,frame_00002,three cookies,deep,3,0,1,0.0
+teatime,frame_00002,three cookies,deep,3,856,1,0.0
+teatime,frame_00002,three cookies,deep,3,7,1,0.017516
+teatime,frame_00002,three cookies,deep,3,390,1,0.0
+teatime,frame_00002,three cookies,deep,3,612,1,0.0
+teatime,frame_00002,three cookies,deep,3,44,1,0.0
+teatime,frame_00002,three cookies,deep,3,101,1,0.0
+teatime,frame_00002,three cookies,deep,3,123,1,0.0
+teatime,frame_00002,three cookies,combo,-1,-1,2,0.392857
+teatime,frame_00002,three cookies,combo,-1,-1,2,0.53127
+teatime,frame_00002,three cookies,combo,-1,-1,3,0.922631
+teatime,frame_00002,three cookies,combo,-1,-1,2,0.922631
+teatime,frame_00002,coffee,c0,-1,-1,2,0.784075
+teatime,frame_00002,coffee,root,3,27,1,0.830183
+teatime,frame_00002,coffee,root,3,115,1,0.0
+teatime,frame_00002,coffee,root,3,7,1,0.0
+teatime,frame_00002,coffee,root,3,782,1,0.0
+teatime,frame_00002,coffee,root,3,390,1,0.0
+teatime,frame_00002,coffee,hier,3,27,1,0.830183
+teatime,frame_00002,coffee,hier,2,506,1,0.0
+teatime,frame_00002,coffee,hier,2,9,1,0.0
+teatime,frame_00002,coffee,hier,3,782,1,0.0
+teatime,frame_00002,coffee,hier,3,390,1,0.0
+teatime,frame_00002,coffee,deep,1,58,1,0.563581
+teatime,frame_00002,coffee,deep,1,1366,1,0.106433
+teatime,frame_00002,coffee,deep,1,501,1,0.007529
+teatime,frame_00002,coffee,deep,1,180,1,0.010616
+teatime,frame_00002,coffee,deep,1,3376,1,0.07637
+teatime,frame_00002,coffee,deep,1,666,1,0.0
+teatime,frame_00002,coffee,deep,1,201,1,0.030137
+teatime,frame_00002,coffee,deep,1,320,1,0.0
+teatime,frame_00002,coffee,deep,1,1514,1,0.0
+teatime,frame_00002,coffee,deep,1,2631,1,0.0
+teatime,frame_00002,coffee,deep,2,37,1,0.875082
+teatime,frame_00002,coffee,deep,2,506,1,0.0
+teatime,frame_00002,coffee,deep,2,179,1,0.0
+teatime,frame_00002,coffee,deep,2,56,1,0.030625
+teatime,frame_00002,coffee,deep,2,25,1,0.0
+teatime,frame_00002,coffee,deep,2,9,1,0.0
+teatime,frame_00002,coffee,deep,2,1789,1,0.0
+teatime,frame_00002,coffee,deep,2,631,1,0.0
+teatime,frame_00002,coffee,deep,2,1554,1,0.0
+teatime,frame_00002,coffee,deep,2,821,1,0.0
+teatime,frame_00002,coffee,deep,3,27,1,0.830183
+teatime,frame_00002,coffee,deep,3,115,1,0.0
+teatime,frame_00002,coffee,deep,3,7,1,0.0
+teatime,frame_00002,coffee,deep,3,782,1,0.0
+teatime,frame_00002,coffee,deep,3,390,1,0.0
+teatime,frame_00002,coffee,deep,3,1146,1,0.0
+teatime,frame_00002,coffee,deep,3,977,1,0.0
+teatime,frame_00002,coffee,deep,3,706,1,0.0
+teatime,frame_00002,coffee,deep,3,2,1,0.0
+teatime,frame_00002,coffee,deep,3,475,1,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.366782
+teatime,frame_00002,coffee,combo,-1,-1,2,0.830183
+teatime,frame_00002,coffee,combo,-1,-1,2,0.830183
+teatime,frame_00002,coffee,combo,-1,-1,3,0.357447
+teatime,frame_00002,coffee,combo,-1,-1,3,0.784075
+teatime,frame_00002,coffee,combo,-1,-1,3,0.784075
+teatime,frame_00002,coffee,combo,-1,-1,2,0.784075
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00002,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,stuffed bear,c0,3,2,1,0.98355
+teatime,frame_00025,stuffed bear,root,3,2,1,0.98355
+teatime,frame_00025,stuffed bear,root,3,5,1,0.0
+teatime,frame_00025,stuffed bear,root,3,0,1,0.0
+teatime,frame_00025,stuffed bear,hier,3,2,1,0.98355
+teatime,frame_00025,stuffed bear,hier,3,5,1,0.0
+teatime,frame_00025,stuffed bear,deep,1,1590,1,0.0
+teatime,frame_00025,stuffed bear,deep,1,8,1,0.327926
+teatime,frame_00025,stuffed bear,deep,1,81,1,0.032334
+teatime,frame_00025,stuffed bear,deep,1,49,1,0.025758
+teatime,frame_00025,stuffed bear,deep,1,462,1,0.004178
+teatime,frame_00025,stuffed bear,deep,1,6021,1,0.000358
+teatime,frame_00025,stuffed bear,deep,1,14,1,0.175372
+teatime,frame_00025,stuffed bear,deep,1,4083,1,0.000272
+teatime,frame_00025,stuffed bear,deep,1,1279,1,3.7e-05
+teatime,frame_00025,stuffed bear,deep,2,5,1,0.360617
+teatime,frame_00025,stuffed bear,deep,2,1,1,0.37184
+teatime,frame_00025,stuffed bear,deep,2,3,1,0.166141
+teatime,frame_00025,stuffed bear,deep,2,463,1,0.0
+teatime,frame_00025,stuffed bear,deep,2,1782,1,0.0
+teatime,frame_00025,stuffed bear,deep,2,7,1,0.0
+teatime,frame_00025,stuffed bear,deep,2,21,1,0.0
+teatime,frame_00025,stuffed bear,deep,2,45,1,0.09376
+teatime,frame_00025,stuffed bear,deep,2,17,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,2,1,0.98355
+teatime,frame_00025,stuffed bear,deep,3,5,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,0,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,618,1,2.5e-05
+teatime,frame_00025,stuffed bear,deep,3,565,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,14,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,262,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,732,1,0.0
+teatime,frame_00025,stuffed bear,deep,3,289,1,0.0
+teatime,frame_00025,stuffed bear,combo,3,5,1,0.0
+teatime,frame_00025,stuffed bear,combo,-1,-1,2,0.459689
+teatime,frame_00025,sheep,c0,3,5,1,0.971013
+teatime,frame_00025,sheep,root,3,5,1,0.971013
+teatime,frame_00025,sheep,root,3,2,1,6e-06
+teatime,frame_00025,sheep,root,3,0,1,0.0
+teatime,frame_00025,sheep,hier,3,5,1,0.971013
+teatime,frame_00025,sheep,hier,3,2,1,6e-06
+teatime,frame_00025,sheep,deep,1,6261,1,0.0
+teatime,frame_00025,sheep,deep,1,2366,1,0.0
+teatime,frame_00025,sheep,deep,1,11,1,0.347002
+teatime,frame_00025,sheep,deep,1,218,1,0.0
+teatime,frame_00025,sheep,deep,1,35,1,0.351967
+teatime,frame_00025,sheep,deep,1,909,1,0.062567
+teatime,frame_00025,sheep,deep,1,114,1,0.0
+teatime,frame_00025,sheep,deep,1,36,1,0.115304
+teatime,frame_00025,sheep,deep,1,681,1,0.0
+teatime,frame_00025,sheep,deep,1,252,1,0.048216
+teatime,frame_00025,sheep,deep,2,21,1,0.226147
+teatime,frame_00025,sheep,deep,2,7,1,0.717195
+teatime,frame_00025,sheep,deep,2,58,1,0.042343
+teatime,frame_00025,sheep,deep,2,36,1,0.0
+teatime,frame_00025,sheep,deep,2,6,1,0.002831
+teatime,frame_00025,sheep,deep,2,422,1,0.0
+teatime,frame_00025,sheep,deep,2,1782,1,0.0
+teatime,frame_00025,sheep,deep,2,45,1,0.0
+teatime,frame_00025,sheep,deep,2,427,1,0.0
+teatime,frame_00025,sheep,deep,2,215,1,0.0
+teatime,frame_00025,sheep,deep,3,5,1,0.971013
+teatime,frame_00025,sheep,deep,3,2,1,6e-06
+teatime,frame_00025,sheep,deep,3,0,1,0.0
+teatime,frame_00025,sheep,deep,3,421,1,0.0
+teatime,frame_00025,sheep,deep,3,944,1,0.0
+teatime,frame_00025,sheep,deep,3,235,1,0.0
+teatime,frame_00025,sheep,deep,3,236,1,0.0
+teatime,frame_00025,sheep,deep,3,856,1,0.0
+teatime,frame_00025,sheep,deep,3,367,1,0.0
+teatime,frame_00025,sheep,deep,3,390,1,0.0
+teatime,frame_00025,sheep,combo,3,2,1,6e-06
+teatime,frame_00025,sheep,combo,-1,-1,2,0.517915
+teatime,frame_00025,bag of cookies,c0,-1,-1,3,0.65749
+teatime,frame_00025,bag of cookies,root,3,8,1,0.95784
+teatime,frame_00025,bag of cookies,root,3,23,1,0.0
+teatime,frame_00025,bag of cookies,root,3,0,1,0.0
+teatime,frame_00025,bag of cookies,root,3,6,1,0.0
+teatime,frame_00025,bag of cookies,hier,3,8,1,0.95784
+teatime,frame_00025,bag of cookies,hier,2,43,1,0.0
+teatime,frame_00025,bag of cookies,hier,2,32,1,0.0
+teatime,frame_00025,bag of cookies,hier,2,8,1,0.0
+teatime,frame_00025,bag of cookies,deep,1,68,1,0.0
+teatime,frame_00025,bag of cookies,deep,1,52,1,0.0
+teatime,frame_00025,bag of cookies,deep,1,340,1,0.0
+teatime,frame_00025,bag of cookies,deep,1,186,1,0.0
+teatime,frame_00025,bag of cookies,deep,1,15,1,0.14793
+teatime,frame_00025,bag of cookies,deep,1,3968,1,0.001305
+teatime,frame_00025,bag of cookies,deep,2,43,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,10,1,0.950503
+teatime,frame_00025,bag of cookies,deep,2,32,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,1782,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,8,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,1031,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,593,1,0.0
+teatime,frame_00025,bag of cookies,deep,2,11,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,8,1,0.95784
+teatime,frame_00025,bag of cookies,deep,3,23,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,0,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,6,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,277,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,248,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,44,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,944,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,31,1,0.0
+teatime,frame_00025,bag of cookies,deep,3,612,1,0.0
+teatime,frame_00025,bag of cookies,combo,-1,-1,3,0.0
+teatime,frame_00025,bag of cookies,combo,-1,-1,3,0.776697
+teatime,frame_00025,bag of cookies,combo,-1,-1,3,0.74075
+teatime,frame_00025,bag of cookies,combo,-1,-1,4,0.641973
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.761486
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.799526
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.925259
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00025,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00025,tea in a glass,c0,3,115,1,0.861616
+teatime,frame_00025,tea in a glass,root,3,115,1,0.861616
+teatime,frame_00025,tea in a glass,root,3,0,1,0.0
+teatime,frame_00025,tea in a glass,root,3,27,1,0.0
+teatime,frame_00025,tea in a glass,hier,3,115,1,0.861616
+teatime,frame_00025,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,666,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00025,tea in a glass,deep,1,667,1,0.050086
+teatime,frame_00025,tea in a glass,deep,2,179,1,0.810351
+teatime,frame_00025,tea in a glass,deep,2,506,1,0.028057
+teatime,frame_00025,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00025,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00025,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00025,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00025,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00025,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,115,1,0.861616
+teatime,frame_00025,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00025,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00025,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00025,tea in a glass,combo,-1,-1,2,0.415018
+teatime,frame_00025,coffee mug,c0,2,37,1,0.89983
+teatime,frame_00025,coffee mug,root,3,27,1,0.810852
+teatime,frame_00025,coffee mug,root,3,0,1,0.0
+teatime,frame_00025,coffee mug,root,3,944,1,0.0
+teatime,frame_00025,coffee mug,hier,2,37,1,0.89983
+teatime,frame_00025,coffee mug,hier,3,944,1,0.0
+teatime,frame_00025,coffee mug,deep,1,58,1,0.735719
+teatime,frame_00025,coffee mug,deep,1,1366,1,0.08817
+teatime,frame_00025,coffee mug,deep,1,180,1,0.080044
+teatime,frame_00025,coffee mug,deep,1,501,1,0.001106
+teatime,frame_00025,coffee mug,deep,1,3376,1,0.0
+teatime,frame_00025,coffee mug,deep,1,201,1,0.018175
+teatime,frame_00025,coffee mug,deep,2,37,1,0.89983
+teatime,frame_00025,coffee mug,deep,2,1782,1,0.0
+teatime,frame_00025,coffee mug,deep,2,2483,1,0.0
+teatime,frame_00025,coffee mug,deep,2,56,1,0.000989
+teatime,frame_00025,coffee mug,deep,2,18,1,0.0
+teatime,frame_00025,coffee mug,deep,2,610,1,0.0
+teatime,frame_00025,coffee mug,deep,2,1087,1,0.0
+teatime,frame_00025,coffee mug,deep,2,749,1,0.0
+teatime,frame_00025,coffee mug,deep,2,1912,1,0.0
+teatime,frame_00025,coffee mug,deep,3,27,1,0.810852
+teatime,frame_00025,coffee mug,deep,3,0,1,0.0
+teatime,frame_00025,coffee mug,deep,3,944,1,0.0
+teatime,frame_00025,coffee mug,deep,3,115,1,0.0
+teatime,frame_00025,coffee mug,deep,3,178,1,0.0
+teatime,frame_00025,coffee mug,deep,3,856,1,0.0
+teatime,frame_00025,coffee mug,deep,3,106,1,0.0
+teatime,frame_00025,coffee mug,deep,3,153,1,0.0
+teatime,frame_00025,coffee mug,deep,3,610,1,0.0
+teatime,frame_00025,coffee mug,deep,3,822,1,0.0
+teatime,frame_00025,coffee mug,combo,3,944,1,0.0
+teatime,frame_00025,coffee mug,combo,-1,-1,2,0.89983
+teatime,frame_00025,plate,c0,-1,-1,4,0.947757
+teatime,frame_00025,plate,root,3,7,1,0.947757
+teatime,frame_00025,plate,root,3,1075,1,0.0
+teatime,frame_00025,plate,root,3,956,1,0.0
+teatime,frame_00025,plate,root,3,820,1,0.0
+teatime,frame_00025,plate,root,3,277,1,0.0
+teatime,frame_00025,plate,hier,2,9,1,0.947757
+teatime,frame_00025,plate,hier,3,1075,1,0.0
+teatime,frame_00025,plate,hier,3,956,1,0.0
+teatime,frame_00025,plate,hier,3,820,1,0.0
+teatime,frame_00025,plate,hier,3,277,1,0.0
+teatime,frame_00025,plate,deep,1,705,1,0.0
+teatime,frame_00025,plate,deep,1,4762,1,0.0
+teatime,frame_00025,plate,deep,1,3799,1,0.0
+teatime,frame_00025,plate,deep,1,13,1,0.945173
+teatime,frame_00025,plate,deep,1,948,1,0.002459
+teatime,frame_00025,plate,deep,1,811,1,0.0
+teatime,frame_00025,plate,deep,1,5074,1,0.0
+teatime,frame_00025,plate,deep,1,3412,1,0.0
+teatime,frame_00025,plate,deep,2,9,1,0.947757
+teatime,frame_00025,plate,deep,2,846,1,0.0
+teatime,frame_00025,plate,deep,2,655,1,0.0
+teatime,frame_00025,plate,deep,2,1443,1,0.0
+teatime,frame_00025,plate,deep,2,649,1,0.0
+teatime,frame_00025,plate,deep,2,569,1,0.0
+teatime,frame_00025,plate,deep,2,1398,1,0.0
+teatime,frame_00025,plate,deep,2,139,1,0.0
+teatime,frame_00025,plate,deep,2,167,1,0.0
+teatime,frame_00025,plate,deep,2,392,1,0.0
+teatime,frame_00025,plate,deep,3,7,1,0.947757
+teatime,frame_00025,plate,deep,3,956,1,0.0
+teatime,frame_00025,plate,deep,3,1075,1,0.0
+teatime,frame_00025,plate,deep,3,820,1,0.0
+teatime,frame_00025,plate,deep,3,277,1,0.0
+teatime,frame_00025,plate,deep,3,763,1,0.0
+teatime,frame_00025,plate,deep,3,367,1,0.0
+teatime,frame_00025,plate,deep,3,121,1,0.0
+teatime,frame_00025,plate,deep,3,800,1,0.0
+teatime,frame_00025,plate,deep,3,944,1,0.0
+teatime,frame_00025,plate,combo,-1,-1,4,0.0
+teatime,frame_00025,plate,combo,-1,-1,4,0.947757
+teatime,frame_00025,plate,combo,-1,-1,4,0.947757
+teatime,frame_00025,plate,combo,-1,-1,4,0.947757
+teatime,frame_00025,plate,combo,-1,-1,5,0.947757
+teatime,frame_00025,plate,combo,-1,-1,2,0.947757
+teatime,frame_00025,plate,combo,-1,-1,2,0.947757
+teatime,frame_00025,plate,combo,-1,-1,2,0.947757
+teatime,frame_00025,plate,combo,-1,-1,2,0.947757
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,plate,combo,-1,-1,2,0.0
+teatime,frame_00025,three cookies,c0,-1,-1,2,0.922853
+teatime,frame_00025,three cookies,root,3,23,1,0.922853
+teatime,frame_00025,three cookies,root,3,944,1,0.0
+teatime,frame_00025,three cookies,root,3,0,1,0.0
+teatime,frame_00025,three cookies,hier,2,43,1,0.515899
+teatime,frame_00025,three cookies,hier,2,32,1,0.411243
+teatime,frame_00025,three cookies,hier,3,944,1,0.0
+teatime,frame_00025,three cookies,deep,1,68,1,0.392285
+teatime,frame_00025,three cookies,deep,1,52,1,0.388359
+teatime,frame_00025,three cookies,deep,1,186,1,0.012175
+teatime,frame_00025,three cookies,deep,1,755,1,0.0
+teatime,frame_00025,three cookies,deep,1,340,1,0.053338
+teatime,frame_00025,three cookies,deep,1,636,1,0.035526
+teatime,frame_00025,three cookies,deep,2,43,1,0.515899
+teatime,frame_00025,three cookies,deep,2,32,1,0.411243
+teatime,frame_00025,three cookies,deep,2,1782,1,0.0
+teatime,frame_00025,three cookies,deep,2,473,1,0.0
+teatime,frame_00025,three cookies,deep,2,1081,1,0.0
+teatime,frame_00025,three cookies,deep,2,932,1,0.0
+teatime,frame_00025,three cookies,deep,2,42,1,0.0
+teatime,frame_00025,three cookies,deep,2,422,1,0.0
+teatime,frame_00025,three cookies,deep,2,77,1,0.0
+teatime,frame_00025,three cookies,deep,2,1518,1,0.0
+teatime,frame_00025,three cookies,deep,3,23,1,0.922853
+teatime,frame_00025,three cookies,deep,3,944,1,0.0
+teatime,frame_00025,three cookies,deep,3,0,1,0.0
+teatime,frame_00025,three cookies,deep,3,856,1,0.0
+teatime,frame_00025,three cookies,deep,3,7,1,0.013603
+teatime,frame_00025,three cookies,deep,3,390,1,0.0
+teatime,frame_00025,three cookies,deep,3,612,1,0.0
+teatime,frame_00025,three cookies,deep,3,44,1,0.0
+teatime,frame_00025,three cookies,deep,3,101,1,0.0
+teatime,frame_00025,three cookies,deep,3,123,1,0.0
+teatime,frame_00025,three cookies,combo,-1,-1,2,0.411243
+teatime,frame_00025,three cookies,combo,-1,-1,2,0.515899
+teatime,frame_00025,three cookies,combo,-1,-1,3,0.922853
+teatime,frame_00025,three cookies,combo,-1,-1,2,0.922853
+teatime,frame_00025,hooves,c0,2,1516,1,0.0
+teatime,frame_00025,hooves,root,3,58,1,0.0
+teatime,frame_00025,hooves,root,3,101,1,0.0
+teatime,frame_00025,hooves,root,3,36,1,0.0
+teatime,frame_00025,hooves,root,3,144,1,0.0
+teatime,frame_00025,hooves,root,3,612,1,0.0
+teatime,frame_00025,hooves,hier,2,1516,1,0.0
+teatime,frame_00025,hooves,hier,3,101,1,0.0
+teatime,frame_00025,hooves,hier,3,36,1,0.0
+teatime,frame_00025,hooves,hier,3,144,1,0.0
+teatime,frame_00025,hooves,hier,3,612,1,0.0
+teatime,frame_00025,hooves,deep,1,1187,1,0.0
+teatime,frame_00025,hooves,deep,1,1415,1,0.0
+teatime,frame_00025,hooves,deep,1,1590,1,0.0
+teatime,frame_00025,hooves,deep,1,4051,1,0.0
+teatime,frame_00025,hooves,deep,1,2191,1,0.0
+teatime,frame_00025,hooves,deep,1,936,1,0.0
+teatime,frame_00025,hooves,deep,1,41,1,0.0
+teatime,frame_00025,hooves,deep,1,416,1,0.0
+teatime,frame_00025,hooves,deep,1,417,1,0.0
+teatime,frame_00025,hooves,deep,2,230,1,0.0
+teatime,frame_00025,hooves,deep,2,1516,1,0.0
+teatime,frame_00025,hooves,deep,2,1510,1,0.0
+teatime,frame_00025,hooves,deep,2,463,1,0.0
+teatime,frame_00025,hooves,deep,2,948,1,0.0
+teatime,frame_00025,hooves,deep,2,504,1,0.0
+teatime,frame_00025,hooves,deep,2,140,1,0.0
+teatime,frame_00025,hooves,deep,2,2111,1,0.0
+teatime,frame_00025,hooves,deep,2,121,1,0.0
+teatime,frame_00025,hooves,deep,2,110,1,0.0
+teatime,frame_00025,hooves,deep,3,58,1,0.0
+teatime,frame_00025,hooves,deep,3,101,1,0.0
+teatime,frame_00025,hooves,deep,3,36,1,0.0
+teatime,frame_00025,hooves,deep,3,144,1,0.0
+teatime,frame_00025,hooves,deep,3,612,1,0.0
+teatime,frame_00025,hooves,deep,3,2,1,0.0
+teatime,frame_00025,hooves,deep,3,793,1,0.0
+teatime,frame_00025,hooves,deep,3,89,1,0.0
+teatime,frame_00025,hooves,deep,3,599,1,0.0
+teatime,frame_00025,hooves,deep,3,390,1,0.0
+teatime,frame_00025,hooves,combo,3,101,1,0.0
+teatime,frame_00025,hooves,combo,3,36,1,0.0
+teatime,frame_00025,hooves,combo,3,144,1,0.0
+teatime,frame_00025,hooves,combo,3,612,1,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,hooves,combo,-1,-1,2,0.0
+teatime,frame_00025,paper napkin,c0,3,3,1,0.805153
+teatime,frame_00025,paper napkin,root,3,3,1,0.805153
+teatime,frame_00025,paper napkin,root,3,6,1,0.0
+teatime,frame_00025,paper napkin,root,3,248,1,0.0
+teatime,frame_00025,paper napkin,root,3,0,1,0.0
+teatime,frame_00025,paper napkin,hier,3,3,1,0.805153
+teatime,frame_00025,paper napkin,hier,3,6,1,0.0
+teatime,frame_00025,paper napkin,hier,3,248,1,0.0
+teatime,frame_00025,paper napkin,deep,1,345,1,0.224566
+teatime,frame_00025,paper napkin,deep,1,147,1,0.323821
+teatime,frame_00025,paper napkin,deep,1,903,1,0.0
+teatime,frame_00025,paper napkin,deep,1,449,1,0.0
+teatime,frame_00025,paper napkin,deep,1,801,1,0.0
+teatime,frame_00025,paper napkin,deep,1,1206,1,0.0
+teatime,frame_00025,paper napkin,deep,1,979,1,0.0
+teatime,frame_00025,paper napkin,deep,1,735,1,0.0
+teatime,frame_00025,paper napkin,deep,1,3,1,0.171305
+teatime,frame_00025,paper napkin,deep,1,3870,1,0.0
+teatime,frame_00025,paper napkin,deep,2,960,1,0.0
+teatime,frame_00025,paper napkin,deep,2,2,1,0.870438
+teatime,frame_00025,paper napkin,deep,2,401,1,0.0
+teatime,frame_00025,paper napkin,deep,2,8,1,0.0
+teatime,frame_00025,paper napkin,deep,2,11,1,0.0
+teatime,frame_00025,paper napkin,deep,2,1782,1,0.0
+teatime,frame_00025,paper napkin,deep,2,155,1,0.0
+teatime,frame_00025,paper napkin,deep,2,1340,1,0.0
+teatime,frame_00025,paper napkin,deep,2,341,1,0.0
+teatime,frame_00025,paper napkin,deep,3,3,1,0.805153
+teatime,frame_00025,paper napkin,deep,3,6,1,0.0
+teatime,frame_00025,paper napkin,deep,3,248,1,0.0
+teatime,frame_00025,paper napkin,deep,3,0,1,0.0
+teatime,frame_00025,paper napkin,deep,3,1106,1,0.0
+teatime,frame_00025,paper napkin,deep,3,277,1,0.0
+teatime,frame_00025,paper napkin,deep,3,178,1,0.0
+teatime,frame_00025,paper napkin,deep,3,600,1,0.0
+teatime,frame_00025,paper napkin,deep,3,26,1,0.0
+teatime,frame_00025,paper napkin,deep,3,445,1,0.0
+teatime,frame_00025,paper napkin,combo,3,6,1,0.0
+teatime,frame_00025,paper napkin,combo,3,248,1,0.0
+teatime,frame_00025,paper napkin,combo,-1,-1,2,0.619835
+teatime,frame_00025,paper napkin,combo,-1,-1,2,0.277572
+teatime,frame_00025,paper napkin,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,c0,-1,-1,2,0.90024
+teatime,frame_00025,coffee,root,3,27,1,0.924047
+teatime,frame_00025,coffee,root,3,115,1,0.0
+teatime,frame_00025,coffee,root,3,7,1,0.0
+teatime,frame_00025,coffee,root,3,782,1,0.0
+teatime,frame_00025,coffee,root,3,390,1,0.0
+teatime,frame_00025,coffee,hier,3,27,1,0.924047
+teatime,frame_00025,coffee,hier,2,506,1,0.0
+teatime,frame_00025,coffee,hier,2,9,1,0.0
+teatime,frame_00025,coffee,hier,3,782,1,0.0
+teatime,frame_00025,coffee,hier,3,390,1,0.0
+teatime,frame_00025,coffee,deep,1,58,1,0.664297
+teatime,frame_00025,coffee,deep,1,1366,1,0.077073
+teatime,frame_00025,coffee,deep,1,501,1,0.000979
+teatime,frame_00025,coffee,deep,1,180,1,0.070892
+teatime,frame_00025,coffee,deep,1,3376,1,0.0
+teatime,frame_00025,coffee,deep,1,666,1,0.0
+teatime,frame_00025,coffee,deep,1,201,1,0.029402
+teatime,frame_00025,coffee,deep,1,320,1,0.0
+teatime,frame_00025,coffee,deep,1,1514,1,0.0
+teatime,frame_00025,coffee,deep,1,2631,1,0.0
+teatime,frame_00025,coffee,deep,2,37,1,0.893291
+teatime,frame_00025,coffee,deep,2,506,1,0.0
+teatime,frame_00025,coffee,deep,2,179,1,0.0
+teatime,frame_00025,coffee,deep,2,56,1,0.06476
+teatime,frame_00025,coffee,deep,2,25,1,0.0
+teatime,frame_00025,coffee,deep,2,9,1,0.0
+teatime,frame_00025,coffee,deep,2,1789,1,0.0
+teatime,frame_00025,coffee,deep,2,631,1,0.0
+teatime,frame_00025,coffee,deep,2,1554,1,0.0
+teatime,frame_00025,coffee,deep,2,821,1,0.0
+teatime,frame_00025,coffee,deep,3,27,1,0.924047
+teatime,frame_00025,coffee,deep,3,115,1,0.0
+teatime,frame_00025,coffee,deep,3,7,1,0.0
+teatime,frame_00025,coffee,deep,3,782,1,0.0
+teatime,frame_00025,coffee,deep,3,390,1,0.0
+teatime,frame_00025,coffee,deep,3,1146,1,0.0
+teatime,frame_00025,coffee,deep,3,977,1,0.0
+teatime,frame_00025,coffee,deep,3,706,1,0.0
+teatime,frame_00025,coffee,deep,3,2,1,2.4e-05
+teatime,frame_00025,coffee,deep,3,475,1,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.230639
+teatime,frame_00025,coffee,combo,-1,-1,2,0.924047
+teatime,frame_00025,coffee,combo,-1,-1,2,0.924047
+teatime,frame_00025,coffee,combo,-1,-1,3,0.227548
+teatime,frame_00025,coffee,combo,-1,-1,3,0.90024
+teatime,frame_00025,coffee,combo,-1,-1,3,0.90024
+teatime,frame_00025,coffee,combo,-1,-1,2,0.90024
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,coffee,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,c0,-1,-1,3,0.001175
+teatime,frame_00025,bear nose,root,3,2,1,0.093439
+teatime,frame_00025,bear nose,root,3,618,1,0.0
+teatime,frame_00025,bear nose,root,3,390,1,0.0
+teatime,frame_00025,bear nose,root,3,7,1,0.0
+teatime,frame_00025,bear nose,root,3,235,1,0.0
+teatime,frame_00025,bear nose,hier,2,5,1,0.002583
+teatime,frame_00025,bear nose,hier,2,3,1,0.0
+teatime,frame_00025,bear nose,hier,2,1,1,0.0
+teatime,frame_00025,bear nose,hier,3,618,1,0.0
+teatime,frame_00025,bear nose,hier,2,9,1,0.0
+teatime,frame_00025,bear nose,hier,2,378,1,0.0
+teatime,frame_00025,bear nose,hier,3,390,1,0.0
+teatime,frame_00025,bear nose,deep,1,8,1,0.00221
+teatime,frame_00025,bear nose,deep,1,81,1,0.0
+teatime,frame_00025,bear nose,deep,1,6021,1,0.001044
+teatime,frame_00025,bear nose,deep,1,1279,1,0.0
+teatime,frame_00025,bear nose,deep,1,462,1,0.0
+teatime,frame_00025,bear nose,deep,1,4083,1,0.0
+teatime,frame_00025,bear nose,deep,1,5,1,0.0
+teatime,frame_00025,bear nose,deep,1,49,1,0.0
+teatime,frame_00025,bear nose,deep,1,1,1,0.0
+teatime,frame_00025,bear nose,deep,2,5,1,0.002583
+teatime,frame_00025,bear nose,deep,2,3,1,0.0
+teatime,frame_00025,bear nose,deep,2,1,1,0.0
+teatime,frame_00025,bear nose,deep,2,45,1,0.981906
+teatime,frame_00025,bear nose,deep,2,463,1,0.0
+teatime,frame_00025,bear nose,deep,2,121,1,0.0
+teatime,frame_00025,bear nose,deep,2,1381,1,0.0
+teatime,frame_00025,bear nose,deep,2,95,1,0.0
+teatime,frame_00025,bear nose,deep,2,1092,1,0.0
+teatime,frame_00025,bear nose,deep,2,9,1,0.0
+teatime,frame_00025,bear nose,deep,3,2,1,0.093439
+teatime,frame_00025,bear nose,deep,3,618,1,0.0
+teatime,frame_00025,bear nose,deep,3,390,1,0.0
+teatime,frame_00025,bear nose,deep,3,7,1,0.0
+teatime,frame_00025,bear nose,deep,3,235,1,0.0
+teatime,frame_00025,bear nose,deep,3,31,1,0.0
+teatime,frame_00025,bear nose,deep,3,0,1,0.0
+teatime,frame_00025,bear nose,deep,3,44,1,0.0
+teatime,frame_00025,bear nose,deep,3,66,1,0.0
+teatime,frame_00025,bear nose,deep,3,236,1,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001412
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001235
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001412
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001412
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001887
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001583
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001887
+teatime,frame_00025,bear nose,combo,-1,-1,3,0.001887
+teatime,frame_00025,bear nose,combo,-1,-1,4,0.001175
+teatime,frame_00025,bear nose,combo,-1,-1,4,0.001049
+teatime,frame_00025,bear nose,combo,-1,-1,4,0.001175
+teatime,frame_00025,bear nose,combo,-1,-1,4,0.001175
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.001887
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.001412
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.002583
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.002045
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.002583
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.002583
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00025,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00043,tea in a glass,c0,3,115,1,0.799076
+teatime,frame_00043,tea in a glass,root,3,115,1,0.799076
+teatime,frame_00043,tea in a glass,root,3,0,1,0.0
+teatime,frame_00043,tea in a glass,root,3,27,1,0.0
+teatime,frame_00043,tea in a glass,hier,3,115,1,0.799076
+teatime,frame_00043,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,666,1,0.019624
+teatime,frame_00043,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00043,tea in a glass,deep,1,667,1,0.066552
+teatime,frame_00043,tea in a glass,deep,2,179,1,0.74267
+teatime,frame_00043,tea in a glass,deep,2,506,1,0.048799
+teatime,frame_00043,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00043,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00043,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00043,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00043,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00043,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,115,1,0.799076
+teatime,frame_00043,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00043,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00043,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00043,tea in a glass,combo,-1,-1,2,0.487704
+teatime,frame_00043,hooves,c0,2,1516,1,0.0
+teatime,frame_00043,hooves,root,3,58,1,0.0
+teatime,frame_00043,hooves,root,3,101,1,0.0
+teatime,frame_00043,hooves,root,3,36,1,0.0
+teatime,frame_00043,hooves,root,3,144,1,0.0
+teatime,frame_00043,hooves,root,3,612,1,0.0
+teatime,frame_00043,hooves,hier,2,1516,1,0.0
+teatime,frame_00043,hooves,hier,3,101,1,0.0
+teatime,frame_00043,hooves,hier,3,36,1,0.0
+teatime,frame_00043,hooves,hier,3,144,1,0.0
+teatime,frame_00043,hooves,hier,3,612,1,0.0
+teatime,frame_00043,hooves,deep,1,1187,1,0.0
+teatime,frame_00043,hooves,deep,1,1415,1,0.0
+teatime,frame_00043,hooves,deep,1,1590,1,0.0
+teatime,frame_00043,hooves,deep,1,4051,1,0.0
+teatime,frame_00043,hooves,deep,1,2191,1,0.0
+teatime,frame_00043,hooves,deep,1,936,1,0.0
+teatime,frame_00043,hooves,deep,1,41,1,0.0
+teatime,frame_00043,hooves,deep,1,416,1,0.0
+teatime,frame_00043,hooves,deep,1,417,1,0.0
+teatime,frame_00043,hooves,deep,2,230,1,0.0
+teatime,frame_00043,hooves,deep,2,1516,1,0.0
+teatime,frame_00043,hooves,deep,2,1510,1,0.0
+teatime,frame_00043,hooves,deep,2,463,1,0.0
+teatime,frame_00043,hooves,deep,2,948,1,0.0
+teatime,frame_00043,hooves,deep,2,504,1,0.0
+teatime,frame_00043,hooves,deep,2,140,1,0.0
+teatime,frame_00043,hooves,deep,2,2111,1,0.0
+teatime,frame_00043,hooves,deep,2,121,1,0.0
+teatime,frame_00043,hooves,deep,2,110,1,0.0
+teatime,frame_00043,hooves,deep,3,58,1,0.0
+teatime,frame_00043,hooves,deep,3,101,1,0.0
+teatime,frame_00043,hooves,deep,3,36,1,0.0
+teatime,frame_00043,hooves,deep,3,144,1,0.0
+teatime,frame_00043,hooves,deep,3,612,1,0.0
+teatime,frame_00043,hooves,deep,3,2,1,0.0
+teatime,frame_00043,hooves,deep,3,793,1,0.0
+teatime,frame_00043,hooves,deep,3,89,1,0.0
+teatime,frame_00043,hooves,deep,3,599,1,0.0
+teatime,frame_00043,hooves,deep,3,390,1,0.0
+teatime,frame_00043,hooves,combo,3,101,1,0.0
+teatime,frame_00043,hooves,combo,3,36,1,0.0
+teatime,frame_00043,hooves,combo,3,144,1,0.0
+teatime,frame_00043,hooves,combo,3,612,1,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,hooves,combo,-1,-1,2,0.0
+teatime,frame_00043,stuffed bear,c0,3,2,1,0.982939
+teatime,frame_00043,stuffed bear,root,3,2,1,0.982939
+teatime,frame_00043,stuffed bear,root,3,5,1,0.0
+teatime,frame_00043,stuffed bear,root,3,0,1,0.0
+teatime,frame_00043,stuffed bear,hier,3,2,1,0.982939
+teatime,frame_00043,stuffed bear,hier,3,5,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,1590,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,8,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,81,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,49,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,462,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,6021,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,14,1,0.27208
+teatime,frame_00043,stuffed bear,deep,1,4083,1,0.0
+teatime,frame_00043,stuffed bear,deep,1,1279,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,5,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,1,1,0.570559
+teatime,frame_00043,stuffed bear,deep,2,3,1,0.418805
+teatime,frame_00043,stuffed bear,deep,2,463,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,1782,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,7,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,21,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,45,1,0.0
+teatime,frame_00043,stuffed bear,deep,2,17,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,2,1,0.982939
+teatime,frame_00043,stuffed bear,deep,3,5,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,0,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,618,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,565,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,14,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,262,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,732,1,0.0
+teatime,frame_00043,stuffed bear,deep,3,289,1,0.0
+teatime,frame_00043,stuffed bear,combo,3,5,1,0.0
+teatime,frame_00043,stuffed bear,combo,-1,-1,2,0.448333
+teatime,frame_00043,bag of cookies,c0,-1,-1,3,0.680797
+teatime,frame_00043,bag of cookies,root,3,8,1,0.907862
+teatime,frame_00043,bag of cookies,root,3,23,1,0.0
+teatime,frame_00043,bag of cookies,root,3,0,1,0.0
+teatime,frame_00043,bag of cookies,root,3,6,1,0.0
+teatime,frame_00043,bag of cookies,hier,3,8,1,0.907862
+teatime,frame_00043,bag of cookies,hier,2,43,1,0.0
+teatime,frame_00043,bag of cookies,hier,2,32,1,0.0
+teatime,frame_00043,bag of cookies,hier,2,8,1,0.0
+teatime,frame_00043,bag of cookies,deep,1,68,1,0.0
+teatime,frame_00043,bag of cookies,deep,1,52,1,0.0
+teatime,frame_00043,bag of cookies,deep,1,340,1,0.0
+teatime,frame_00043,bag of cookies,deep,1,186,1,0.0
+teatime,frame_00043,bag of cookies,deep,1,15,1,0.085106
+teatime,frame_00043,bag of cookies,deep,1,3968,1,0.073047
+teatime,frame_00043,bag of cookies,deep,2,43,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,10,1,0.92976
+teatime,frame_00043,bag of cookies,deep,2,32,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,1782,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,8,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,1031,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,593,1,0.0
+teatime,frame_00043,bag of cookies,deep,2,11,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,8,1,0.907862
+teatime,frame_00043,bag of cookies,deep,3,23,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,0,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,6,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,277,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,248,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,44,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,944,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,31,1,0.0
+teatime,frame_00043,bag of cookies,deep,3,612,1,0.0
+teatime,frame_00043,bag of cookies,combo,-1,-1,3,0.0
+teatime,frame_00043,bag of cookies,combo,-1,-1,3,0.77273
+teatime,frame_00043,bag of cookies,combo,-1,-1,3,0.751939
+teatime,frame_00043,bag of cookies,combo,-1,-1,4,0.668485
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.767553
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.789229
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.886099
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00043,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00043,paper napkin,c0,3,3,1,0.858839
+teatime,frame_00043,paper napkin,root,3,3,1,0.858839
+teatime,frame_00043,paper napkin,root,3,6,1,0.0
+teatime,frame_00043,paper napkin,root,3,248,1,0.0
+teatime,frame_00043,paper napkin,root,3,0,1,0.0
+teatime,frame_00043,paper napkin,hier,3,3,1,0.858839
+teatime,frame_00043,paper napkin,hier,3,6,1,0.0
+teatime,frame_00043,paper napkin,hier,3,248,1,0.0
+teatime,frame_00043,paper napkin,deep,1,345,1,0.244763
+teatime,frame_00043,paper napkin,deep,1,147,1,0.206034
+teatime,frame_00043,paper napkin,deep,1,903,1,0.0
+teatime,frame_00043,paper napkin,deep,1,449,1,0.0
+teatime,frame_00043,paper napkin,deep,1,801,1,0.0
+teatime,frame_00043,paper napkin,deep,1,1206,1,0.010268
+teatime,frame_00043,paper napkin,deep,1,979,1,0.0
+teatime,frame_00043,paper napkin,deep,1,735,1,0.066056
+teatime,frame_00043,paper napkin,deep,1,3,1,0.108509
+teatime,frame_00043,paper napkin,deep,1,3870,1,0.0
+teatime,frame_00043,paper napkin,deep,2,960,1,0.017537
+teatime,frame_00043,paper napkin,deep,2,2,1,0.891452
+teatime,frame_00043,paper napkin,deep,2,401,1,0.0
+teatime,frame_00043,paper napkin,deep,2,8,1,0.0
+teatime,frame_00043,paper napkin,deep,2,11,1,0.0
+teatime,frame_00043,paper napkin,deep,2,1782,1,0.0
+teatime,frame_00043,paper napkin,deep,2,155,1,0.0
+teatime,frame_00043,paper napkin,deep,2,1340,1,0.0
+teatime,frame_00043,paper napkin,deep,2,341,1,0.0
+teatime,frame_00043,paper napkin,deep,3,3,1,0.858839
+teatime,frame_00043,paper napkin,deep,3,6,1,0.0
+teatime,frame_00043,paper napkin,deep,3,248,1,0.0
+teatime,frame_00043,paper napkin,deep,3,0,1,0.0
+teatime,frame_00043,paper napkin,deep,3,1106,1,0.0
+teatime,frame_00043,paper napkin,deep,3,277,1,0.0
+teatime,frame_00043,paper napkin,deep,3,178,1,0.0
+teatime,frame_00043,paper napkin,deep,3,600,1,0.0
+teatime,frame_00043,paper napkin,deep,3,26,1,0.0
+teatime,frame_00043,paper napkin,deep,3,445,1,0.0
+teatime,frame_00043,paper napkin,combo,3,6,1,0.0
+teatime,frame_00043,paper napkin,combo,3,248,1,0.0
+teatime,frame_00043,paper napkin,combo,-1,-1,2,0.737398
+teatime,frame_00043,paper napkin,combo,-1,-1,2,0.858839
+teatime,frame_00043,paper napkin,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,c0,-1,-1,4,0.948885
+teatime,frame_00043,plate,root,3,7,1,0.948885
+teatime,frame_00043,plate,root,3,1075,1,0.0
+teatime,frame_00043,plate,root,3,956,1,0.0
+teatime,frame_00043,plate,root,3,820,1,0.0
+teatime,frame_00043,plate,root,3,277,1,0.0
+teatime,frame_00043,plate,hier,2,9,1,0.948885
+teatime,frame_00043,plate,hier,3,1075,1,0.0
+teatime,frame_00043,plate,hier,3,956,1,0.0
+teatime,frame_00043,plate,hier,3,820,1,0.0
+teatime,frame_00043,plate,hier,3,277,1,0.0
+teatime,frame_00043,plate,deep,1,705,1,0.0
+teatime,frame_00043,plate,deep,1,4762,1,0.0
+teatime,frame_00043,plate,deep,1,3799,1,0.0
+teatime,frame_00043,plate,deep,1,13,1,0.94713
+teatime,frame_00043,plate,deep,1,948,1,0.002115
+teatime,frame_00043,plate,deep,1,811,1,0.0
+teatime,frame_00043,plate,deep,1,5074,1,0.0
+teatime,frame_00043,plate,deep,1,3412,1,0.0
+teatime,frame_00043,plate,deep,2,9,1,0.948885
+teatime,frame_00043,plate,deep,2,846,1,0.0
+teatime,frame_00043,plate,deep,2,655,1,0.0
+teatime,frame_00043,plate,deep,2,1443,1,0.0
+teatime,frame_00043,plate,deep,2,649,1,0.0
+teatime,frame_00043,plate,deep,2,569,1,0.0
+teatime,frame_00043,plate,deep,2,1398,1,0.0
+teatime,frame_00043,plate,deep,2,139,1,0.0
+teatime,frame_00043,plate,deep,2,167,1,0.0
+teatime,frame_00043,plate,deep,2,392,1,0.0
+teatime,frame_00043,plate,deep,3,7,1,0.948885
+teatime,frame_00043,plate,deep,3,956,1,0.0
+teatime,frame_00043,plate,deep,3,1075,1,0.0
+teatime,frame_00043,plate,deep,3,820,1,0.0
+teatime,frame_00043,plate,deep,3,277,1,0.0
+teatime,frame_00043,plate,deep,3,763,1,0.0
+teatime,frame_00043,plate,deep,3,367,1,0.0
+teatime,frame_00043,plate,deep,3,121,1,0.0
+teatime,frame_00043,plate,deep,3,800,1,0.0
+teatime,frame_00043,plate,deep,3,944,1,0.0
+teatime,frame_00043,plate,combo,-1,-1,4,0.0
+teatime,frame_00043,plate,combo,-1,-1,4,0.948885
+teatime,frame_00043,plate,combo,-1,-1,4,0.948885
+teatime,frame_00043,plate,combo,-1,-1,4,0.948885
+teatime,frame_00043,plate,combo,-1,-1,5,0.948885
+teatime,frame_00043,plate,combo,-1,-1,2,0.948885
+teatime,frame_00043,plate,combo,-1,-1,2,0.948885
+teatime,frame_00043,plate,combo,-1,-1,2,0.948885
+teatime,frame_00043,plate,combo,-1,-1,2,0.948885
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,plate,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,c0,2,127,1,0.883381
+teatime,frame_00043,apple,root,3,85,1,0.883381
+teatime,frame_00043,apple,root,3,7,1,0.0
+teatime,frame_00043,apple,root,3,370,1,0.0
+teatime,frame_00043,apple,root,3,763,1,0.0
+teatime,frame_00043,apple,root,3,3,1,0.0
+teatime,frame_00043,apple,hier,2,127,1,0.883381
+teatime,frame_00043,apple,hier,2,9,1,0.0
+teatime,frame_00043,apple,hier,2,2,1,0.0
+teatime,frame_00043,apple,hier,3,370,1,0.0
+teatime,frame_00043,apple,hier,3,763,1,0.0
+teatime,frame_00043,apple,hier,2,960,1,0.0
+teatime,frame_00043,apple,deep,1,229,1,0.862813
+teatime,frame_00043,apple,deep,1,1665,1,0.001652
+teatime,frame_00043,apple,deep,1,13,1,0.0
+teatime,frame_00043,apple,deep,1,948,1,0.0
+teatime,frame_00043,apple,deep,1,4935,1,0.0
+teatime,frame_00043,apple,deep,1,7015,1,0.0
+teatime,frame_00043,apple,deep,2,127,1,0.883381
+teatime,frame_00043,apple,deep,2,9,1,0.0
+teatime,frame_00043,apple,deep,2,846,1,0.0
+teatime,frame_00043,apple,deep,2,2,1,0.0
+teatime,frame_00043,apple,deep,2,655,1,0.0
+teatime,frame_00043,apple,deep,2,189,1,0.0
+teatime,frame_00043,apple,deep,2,960,1,0.0
+teatime,frame_00043,apple,deep,2,594,1,0.0
+teatime,frame_00043,apple,deep,2,137,1,0.0
+teatime,frame_00043,apple,deep,2,569,1,0.0
+teatime,frame_00043,apple,deep,3,85,1,0.883381
+teatime,frame_00043,apple,deep,3,7,1,0.0
+teatime,frame_00043,apple,deep,3,370,1,0.0
+teatime,frame_00043,apple,deep,3,763,1,0.0
+teatime,frame_00043,apple,deep,3,3,1,0.0
+teatime,frame_00043,apple,deep,3,123,1,0.0
+teatime,frame_00043,apple,deep,3,1162,1,0.0
+teatime,frame_00043,apple,deep,3,780,1,0.0
+teatime,frame_00043,apple,deep,3,367,1,0.0
+teatime,frame_00043,apple,deep,3,390,1,0.0
+teatime,frame_00043,apple,combo,2,9,1,0.0
+teatime,frame_00043,apple,combo,2,2,1,0.0
+teatime,frame_00043,apple,combo,3,370,1,0.0
+teatime,frame_00043,apple,combo,3,763,1,0.0
+teatime,frame_00043,apple,combo,2,960,1,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.088005
+teatime,frame_00043,apple,combo,-1,-1,2,0.280391
+teatime,frame_00043,apple,combo,-1,-1,2,0.883381
+teatime,frame_00043,apple,combo,-1,-1,2,0.883381
+teatime,frame_00043,apple,combo,-1,-1,2,0.85161
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,apple,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee mug,c0,2,37,1,0.863814
+teatime,frame_00043,coffee mug,root,3,27,1,0.784306
+teatime,frame_00043,coffee mug,root,3,0,1,0.0
+teatime,frame_00043,coffee mug,root,3,944,1,0.0
+teatime,frame_00043,coffee mug,hier,2,37,1,0.863814
+teatime,frame_00043,coffee mug,hier,3,944,1,0.0
+teatime,frame_00043,coffee mug,deep,1,58,1,0.714484
+teatime,frame_00043,coffee mug,deep,1,1366,1,0.0
+teatime,frame_00043,coffee mug,deep,1,180,1,0.168376
+teatime,frame_00043,coffee mug,deep,1,501,1,0.001295
+teatime,frame_00043,coffee mug,deep,1,3376,1,0.0
+teatime,frame_00043,coffee mug,deep,1,201,1,0.015491
+teatime,frame_00043,coffee mug,deep,2,37,1,0.863814
+teatime,frame_00043,coffee mug,deep,2,1782,1,0.0
+teatime,frame_00043,coffee mug,deep,2,2483,1,0.0
+teatime,frame_00043,coffee mug,deep,2,56,1,0.0
+teatime,frame_00043,coffee mug,deep,2,18,1,0.0
+teatime,frame_00043,coffee mug,deep,2,610,1,0.0
+teatime,frame_00043,coffee mug,deep,2,1087,1,0.0
+teatime,frame_00043,coffee mug,deep,2,749,1,0.0
+teatime,frame_00043,coffee mug,deep,2,1912,1,0.0
+teatime,frame_00043,coffee mug,deep,3,27,1,0.784306
+teatime,frame_00043,coffee mug,deep,3,0,1,0.0
+teatime,frame_00043,coffee mug,deep,3,944,1,0.0
+teatime,frame_00043,coffee mug,deep,3,115,1,0.0
+teatime,frame_00043,coffee mug,deep,3,178,1,0.0
+teatime,frame_00043,coffee mug,deep,3,856,1,0.0
+teatime,frame_00043,coffee mug,deep,3,106,1,0.0
+teatime,frame_00043,coffee mug,deep,3,153,1,0.0
+teatime,frame_00043,coffee mug,deep,3,610,1,0.0
+teatime,frame_00043,coffee mug,deep,3,822,1,0.0
+teatime,frame_00043,coffee mug,combo,3,944,1,0.0
+teatime,frame_00043,coffee mug,combo,-1,-1,2,0.863814
+teatime,frame_00043,coffee,c0,-1,-1,2,0.875194
+teatime,frame_00043,coffee,root,3,27,1,0.943898
+teatime,frame_00043,coffee,root,3,115,1,0.0
+teatime,frame_00043,coffee,root,3,7,1,0.0
+teatime,frame_00043,coffee,root,3,782,1,0.0
+teatime,frame_00043,coffee,root,3,390,1,0.0
+teatime,frame_00043,coffee,hier,3,27,1,0.943898
+teatime,frame_00043,coffee,hier,2,506,1,0.0
+teatime,frame_00043,coffee,hier,2,9,1,0.0
+teatime,frame_00043,coffee,hier,3,782,1,0.0
+teatime,frame_00043,coffee,hier,3,390,1,0.0
+teatime,frame_00043,coffee,deep,1,58,1,0.634448
+teatime,frame_00043,coffee,deep,1,1366,1,0.0
+teatime,frame_00043,coffee,deep,1,501,1,0.003051
+teatime,frame_00043,coffee,deep,1,180,1,0.141347
+teatime,frame_00043,coffee,deep,1,3376,1,0.0
+teatime,frame_00043,coffee,deep,1,666,1,0.0
+teatime,frame_00043,coffee,deep,1,201,1,0.024956
+teatime,frame_00043,coffee,deep,1,320,1,0.0
+teatime,frame_00043,coffee,deep,1,1514,1,0.0
+teatime,frame_00043,coffee,deep,1,2631,1,0.0
+teatime,frame_00043,coffee,deep,2,37,1,0.887157
+teatime,frame_00043,coffee,deep,2,506,1,0.0
+teatime,frame_00043,coffee,deep,2,179,1,0.0
+teatime,frame_00043,coffee,deep,2,56,1,0.07339
+teatime,frame_00043,coffee,deep,2,25,1,0.0
+teatime,frame_00043,coffee,deep,2,9,1,0.0
+teatime,frame_00043,coffee,deep,2,1789,1,0.0
+teatime,frame_00043,coffee,deep,2,631,1,0.0
+teatime,frame_00043,coffee,deep,2,1554,1,0.0
+teatime,frame_00043,coffee,deep,2,821,1,0.0
+teatime,frame_00043,coffee,deep,3,27,1,0.943898
+teatime,frame_00043,coffee,deep,3,115,1,0.0
+teatime,frame_00043,coffee,deep,3,7,1,0.0
+teatime,frame_00043,coffee,deep,3,782,1,0.0
+teatime,frame_00043,coffee,deep,3,390,1,0.0
+teatime,frame_00043,coffee,deep,3,1146,1,0.0
+teatime,frame_00043,coffee,deep,3,977,1,0.0
+teatime,frame_00043,coffee,deep,3,706,1,0.0
+teatime,frame_00043,coffee,deep,3,2,1,0.000708
+teatime,frame_00043,coffee,deep,3,475,1,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.204046
+teatime,frame_00043,coffee,combo,-1,-1,2,0.943898
+teatime,frame_00043,coffee,combo,-1,-1,2,0.943898
+teatime,frame_00043,coffee,combo,-1,-1,3,0.200311
+teatime,frame_00043,coffee,combo,-1,-1,3,0.875194
+teatime,frame_00043,coffee,combo,-1,-1,3,0.875194
+teatime,frame_00043,coffee,combo,-1,-1,2,0.875194
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,coffee,combo,-1,-1,2,0.0
+teatime,frame_00043,three cookies,c0,-1,-1,2,0.916811
+teatime,frame_00043,three cookies,root,3,23,1,0.916811
+teatime,frame_00043,three cookies,root,3,944,1,0.0
+teatime,frame_00043,three cookies,root,3,0,1,0.0
+teatime,frame_00043,three cookies,hier,2,43,1,0.495579
+teatime,frame_00043,three cookies,hier,2,32,1,0.428306
+teatime,frame_00043,three cookies,hier,3,944,1,0.0
+teatime,frame_00043,three cookies,deep,1,68,1,0.387629
+teatime,frame_00043,three cookies,deep,1,52,1,0.400059
+teatime,frame_00043,three cookies,deep,1,186,1,0.019255
+teatime,frame_00043,three cookies,deep,1,755,1,0.0
+teatime,frame_00043,three cookies,deep,1,340,1,0.0484
+teatime,frame_00043,three cookies,deep,1,636,1,0.037804
+teatime,frame_00043,three cookies,deep,2,43,1,0.495579
+teatime,frame_00043,three cookies,deep,2,32,1,0.428306
+teatime,frame_00043,three cookies,deep,2,1782,1,0.0
+teatime,frame_00043,three cookies,deep,2,473,1,0.0
+teatime,frame_00043,three cookies,deep,2,1081,1,0.0
+teatime,frame_00043,three cookies,deep,2,932,1,0.0
+teatime,frame_00043,three cookies,deep,2,42,1,0.0
+teatime,frame_00043,three cookies,deep,2,422,1,0.0
+teatime,frame_00043,three cookies,deep,2,77,1,0.0
+teatime,frame_00043,three cookies,deep,2,1518,1,0.0
+teatime,frame_00043,three cookies,deep,3,23,1,0.916811
+teatime,frame_00043,three cookies,deep,3,944,1,0.0
+teatime,frame_00043,three cookies,deep,3,0,1,0.0
+teatime,frame_00043,three cookies,deep,3,856,1,0.0
+teatime,frame_00043,three cookies,deep,3,7,1,0.014928
+teatime,frame_00043,three cookies,deep,3,390,1,0.0
+teatime,frame_00043,three cookies,deep,3,612,1,0.0
+teatime,frame_00043,three cookies,deep,3,44,1,0.0
+teatime,frame_00043,three cookies,deep,3,101,1,0.0
+teatime,frame_00043,three cookies,deep,3,123,1,0.0
+teatime,frame_00043,three cookies,combo,-1,-1,2,0.428306
+teatime,frame_00043,three cookies,combo,-1,-1,2,0.495579
+teatime,frame_00043,three cookies,combo,-1,-1,3,0.916811
+teatime,frame_00043,three cookies,combo,-1,-1,2,0.916811
+teatime,frame_00107,stuffed bear,c0,3,2,1,0.978582
+teatime,frame_00107,stuffed bear,root,3,2,1,0.978582
+teatime,frame_00107,stuffed bear,root,3,5,1,0.0
+teatime,frame_00107,stuffed bear,root,3,0,1,0.0
+teatime,frame_00107,stuffed bear,hier,3,2,1,0.978582
+teatime,frame_00107,stuffed bear,hier,3,5,1,0.0
+teatime,frame_00107,stuffed bear,deep,1,1590,1,0.0
+teatime,frame_00107,stuffed bear,deep,1,8,1,0.209659
+teatime,frame_00107,stuffed bear,deep,1,81,1,0.0
+teatime,frame_00107,stuffed bear,deep,1,49,1,0.108755
+teatime,frame_00107,stuffed bear,deep,1,462,1,0.000126
+teatime,frame_00107,stuffed bear,deep,1,6021,1,0.0
+teatime,frame_00107,stuffed bear,deep,1,14,1,0.067394
+teatime,frame_00107,stuffed bear,deep,1,4083,1,0.0
+teatime,frame_00107,stuffed bear,deep,1,1279,1,0.0
+teatime,frame_00107,stuffed bear,deep,2,5,1,0.210025
+teatime,frame_00107,stuffed bear,deep,2,1,1,0.539386
+teatime,frame_00107,stuffed bear,deep,2,3,1,0.097507
+teatime,frame_00107,stuffed bear,deep,2,463,1,0.0
+teatime,frame_00107,stuffed bear,deep,2,1782,1,0.0
+teatime,frame_00107,stuffed bear,deep,2,7,1,0.0
+teatime,frame_00107,stuffed bear,deep,2,21,1,0.0
+teatime,frame_00107,stuffed bear,deep,2,45,1,0.143681
+teatime,frame_00107,stuffed bear,deep,2,17,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,2,1,0.978582
+teatime,frame_00107,stuffed bear,deep,3,5,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,0,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,618,1,4.4e-05
+teatime,frame_00107,stuffed bear,deep,3,565,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,14,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,262,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,732,1,0.0
+teatime,frame_00107,stuffed bear,deep,3,289,1,0.0
+teatime,frame_00107,stuffed bear,combo,3,5,1,0.0
+teatime,frame_00107,stuffed bear,combo,-1,-1,2,0.789201
+teatime,frame_00107,sheep,c0,3,5,1,0.957855
+teatime,frame_00107,sheep,root,3,5,1,0.957855
+teatime,frame_00107,sheep,root,3,2,1,0.0
+teatime,frame_00107,sheep,root,3,0,1,0.0
+teatime,frame_00107,sheep,hier,3,5,1,0.957855
+teatime,frame_00107,sheep,hier,3,2,1,0.0
+teatime,frame_00107,sheep,deep,1,6261,1,0.0
+teatime,frame_00107,sheep,deep,1,2366,1,5.3e-05
+teatime,frame_00107,sheep,deep,1,11,1,0.363103
+teatime,frame_00107,sheep,deep,1,218,1,0.016202
+teatime,frame_00107,sheep,deep,1,35,1,0.006171
+teatime,frame_00107,sheep,deep,1,909,1,0.0
+teatime,frame_00107,sheep,deep,1,114,1,0.037778
+teatime,frame_00107,sheep,deep,1,36,1,0.174553
+teatime,frame_00107,sheep,deep,1,681,1,0.00149
+teatime,frame_00107,sheep,deep,1,252,1,0.0536
+teatime,frame_00107,sheep,deep,2,21,1,0.228261
+teatime,frame_00107,sheep,deep,2,7,1,0.473114
+teatime,frame_00107,sheep,deep,2,58,1,0.07033
+teatime,frame_00107,sheep,deep,2,36,1,0.094663
+teatime,frame_00107,sheep,deep,2,6,1,0.084366
+teatime,frame_00107,sheep,deep,2,422,1,0.0
+teatime,frame_00107,sheep,deep,2,1782,1,0.0
+teatime,frame_00107,sheep,deep,2,45,1,0.0
+teatime,frame_00107,sheep,deep,2,427,1,0.000106
+teatime,frame_00107,sheep,deep,2,215,1,0.008714
+teatime,frame_00107,sheep,deep,3,5,1,0.957855
+teatime,frame_00107,sheep,deep,3,2,1,0.0
+teatime,frame_00107,sheep,deep,3,0,1,0.0
+teatime,frame_00107,sheep,deep,3,421,1,0.0
+teatime,frame_00107,sheep,deep,3,944,1,0.0
+teatime,frame_00107,sheep,deep,3,235,1,0.0
+teatime,frame_00107,sheep,deep,3,236,1,0.0
+teatime,frame_00107,sheep,deep,3,856,1,0.0
+teatime,frame_00107,sheep,deep,3,367,1,0.0
+teatime,frame_00107,sheep,deep,3,390,1,0.0
+teatime,frame_00107,sheep,combo,3,2,1,0.0
+teatime,frame_00107,sheep,combo,-1,-1,2,0.186109
+teatime,frame_00107,apple,c0,2,127,1,0.951912
+teatime,frame_00107,apple,root,3,85,1,0.954282
+teatime,frame_00107,apple,root,3,7,1,0.0
+teatime,frame_00107,apple,root,3,370,1,0.0
+teatime,frame_00107,apple,root,3,763,1,0.0
+teatime,frame_00107,apple,root,3,3,1,0.0
+teatime,frame_00107,apple,hier,2,127,1,0.951912
+teatime,frame_00107,apple,hier,2,9,1,0.0
+teatime,frame_00107,apple,hier,2,2,1,0.0
+teatime,frame_00107,apple,hier,3,370,1,0.0
+teatime,frame_00107,apple,hier,3,763,1,0.0
+teatime,frame_00107,apple,hier,2,960,1,0.0
+teatime,frame_00107,apple,deep,1,229,1,0.948406
+teatime,frame_00107,apple,deep,1,1665,1,0.0
+teatime,frame_00107,apple,deep,1,13,1,0.0
+teatime,frame_00107,apple,deep,1,948,1,0.0
+teatime,frame_00107,apple,deep,1,4935,1,0.0
+teatime,frame_00107,apple,deep,1,7015,1,0.0
+teatime,frame_00107,apple,deep,2,127,1,0.951912
+teatime,frame_00107,apple,deep,2,9,1,0.0
+teatime,frame_00107,apple,deep,2,846,1,0.0
+teatime,frame_00107,apple,deep,2,2,1,0.0
+teatime,frame_00107,apple,deep,2,655,1,0.0
+teatime,frame_00107,apple,deep,2,189,1,0.0
+teatime,frame_00107,apple,deep,2,960,1,0.0
+teatime,frame_00107,apple,deep,2,594,1,0.0
+teatime,frame_00107,apple,deep,2,137,1,0.0
+teatime,frame_00107,apple,deep,2,569,1,0.0
+teatime,frame_00107,apple,deep,3,85,1,0.954282
+teatime,frame_00107,apple,deep,3,7,1,0.0
+teatime,frame_00107,apple,deep,3,370,1,0.0
+teatime,frame_00107,apple,deep,3,763,1,0.0
+teatime,frame_00107,apple,deep,3,3,1,0.0
+teatime,frame_00107,apple,deep,3,123,1,0.0
+teatime,frame_00107,apple,deep,3,1162,1,0.0
+teatime,frame_00107,apple,deep,3,780,1,0.0
+teatime,frame_00107,apple,deep,3,367,1,0.0
+teatime,frame_00107,apple,deep,3,390,1,0.0
+teatime,frame_00107,apple,combo,2,9,1,0.0
+teatime,frame_00107,apple,combo,2,2,1,0.0
+teatime,frame_00107,apple,combo,3,370,1,0.0
+teatime,frame_00107,apple,combo,3,763,1,0.0
+teatime,frame_00107,apple,combo,2,960,1,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.197523
+teatime,frame_00107,apple,combo,-1,-1,2,0.125248
+teatime,frame_00107,apple,combo,-1,-1,2,0.951912
+teatime,frame_00107,apple,combo,-1,-1,2,0.951912
+teatime,frame_00107,apple,combo,-1,-1,2,0.627578
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,apple,combo,-1,-1,2,0.0
+teatime,frame_00107,bag of cookies,c0,-1,-1,3,0.743186
+teatime,frame_00107,bag of cookies,root,3,8,1,0.944422
+teatime,frame_00107,bag of cookies,root,3,23,1,0.0
+teatime,frame_00107,bag of cookies,root,3,0,1,0.0
+teatime,frame_00107,bag of cookies,root,3,6,1,0.0
+teatime,frame_00107,bag of cookies,hier,3,8,1,0.944422
+teatime,frame_00107,bag of cookies,hier,2,43,1,0.0
+teatime,frame_00107,bag of cookies,hier,2,32,1,0.0
+teatime,frame_00107,bag of cookies,hier,2,8,1,0.0
+teatime,frame_00107,bag of cookies,deep,1,68,1,0.0
+teatime,frame_00107,bag of cookies,deep,1,52,1,0.0
+teatime,frame_00107,bag of cookies,deep,1,340,1,0.0
+teatime,frame_00107,bag of cookies,deep,1,186,1,0.0
+teatime,frame_00107,bag of cookies,deep,1,15,1,0.178958
+teatime,frame_00107,bag of cookies,deep,1,3968,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,43,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,10,1,0.959331
+teatime,frame_00107,bag of cookies,deep,2,32,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,1782,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,8,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,1031,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,593,1,0.0
+teatime,frame_00107,bag of cookies,deep,2,11,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,8,1,0.944422
+teatime,frame_00107,bag of cookies,deep,3,23,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,0,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,6,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,277,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,248,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,44,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,944,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,31,1,0.0
+teatime,frame_00107,bag of cookies,deep,3,612,1,0.0
+teatime,frame_00107,bag of cookies,combo,-1,-1,3,0.0
+teatime,frame_00107,bag of cookies,combo,-1,-1,3,0.790977
+teatime,frame_00107,bag of cookies,combo,-1,-1,3,0.766952
+teatime,frame_00107,bag of cookies,combo,-1,-1,4,0.700498
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.81842
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.845836
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.876543
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00107,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00107,coffee mug,c0,2,37,1,0.880508
+teatime,frame_00107,coffee mug,root,3,27,1,0.747424
+teatime,frame_00107,coffee mug,root,3,0,1,0.0
+teatime,frame_00107,coffee mug,root,3,944,1,0.0
+teatime,frame_00107,coffee mug,hier,2,37,1,0.880508
+teatime,frame_00107,coffee mug,hier,3,944,1,0.0
+teatime,frame_00107,coffee mug,deep,1,58,1,0.526851
+teatime,frame_00107,coffee mug,deep,1,1366,1,0.153323
+teatime,frame_00107,coffee mug,deep,1,180,1,0.004186
+teatime,frame_00107,coffee mug,deep,1,501,1,0.010452
+teatime,frame_00107,coffee mug,deep,1,3376,1,0.072214
+teatime,frame_00107,coffee mug,deep,1,201,1,0.015381
+teatime,frame_00107,coffee mug,deep,2,37,1,0.880508
+teatime,frame_00107,coffee mug,deep,2,1782,1,0.0
+teatime,frame_00107,coffee mug,deep,2,2483,1,0.0
+teatime,frame_00107,coffee mug,deep,2,56,1,0.004576
+teatime,frame_00107,coffee mug,deep,2,18,1,0.0
+teatime,frame_00107,coffee mug,deep,2,610,1,0.0
+teatime,frame_00107,coffee mug,deep,2,1087,1,0.0
+teatime,frame_00107,coffee mug,deep,2,749,1,0.0
+teatime,frame_00107,coffee mug,deep,2,1912,1,0.0
+teatime,frame_00107,coffee mug,deep,3,27,1,0.747424
+teatime,frame_00107,coffee mug,deep,3,0,1,0.0
+teatime,frame_00107,coffee mug,deep,3,944,1,0.0
+teatime,frame_00107,coffee mug,deep,3,115,1,0.0
+teatime,frame_00107,coffee mug,deep,3,178,1,0.0
+teatime,frame_00107,coffee mug,deep,3,856,1,0.0
+teatime,frame_00107,coffee mug,deep,3,106,1,0.0
+teatime,frame_00107,coffee mug,deep,3,153,1,0.0
+teatime,frame_00107,coffee mug,deep,3,610,1,0.0
+teatime,frame_00107,coffee mug,deep,3,822,1,0.0
+teatime,frame_00107,coffee mug,combo,3,944,1,0.0
+teatime,frame_00107,coffee mug,combo,-1,-1,2,0.880508
+teatime,frame_00107,tea in a glass,c0,3,115,1,0.747722
+teatime,frame_00107,tea in a glass,root,3,115,1,0.747722
+teatime,frame_00107,tea in a glass,root,3,0,1,0.0
+teatime,frame_00107,tea in a glass,root,3,27,1,0.0
+teatime,frame_00107,tea in a glass,hier,3,115,1,0.747722
+teatime,frame_00107,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,666,1,0.129652
+teatime,frame_00107,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00107,tea in a glass,deep,1,667,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,179,1,0.68224
+teatime,frame_00107,tea in a glass,deep,2,506,1,0.079337
+teatime,frame_00107,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00107,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,115,1,0.747722
+teatime,frame_00107,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00107,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00107,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00107,tea in a glass,combo,-1,-1,2,0.314944
+teatime,frame_00107,bear nose,c0,-1,-1,3,0.00072
+teatime,frame_00107,bear nose,root,3,2,1,0.141531
+teatime,frame_00107,bear nose,root,3,618,1,0.0
+teatime,frame_00107,bear nose,root,3,390,1,0.0
+teatime,frame_00107,bear nose,root,3,7,1,0.0
+teatime,frame_00107,bear nose,root,3,235,1,0.0
+teatime,frame_00107,bear nose,hier,2,5,1,0.002067
+teatime,frame_00107,bear nose,hier,2,3,1,0.0
+teatime,frame_00107,bear nose,hier,2,1,1,0.0
+teatime,frame_00107,bear nose,hier,3,618,1,0.0
+teatime,frame_00107,bear nose,hier,2,9,1,0.0
+teatime,frame_00107,bear nose,hier,2,378,1,0.0
+teatime,frame_00107,bear nose,hier,3,390,1,0.0
+teatime,frame_00107,bear nose,deep,1,8,1,0.001408
+teatime,frame_00107,bear nose,deep,1,81,1,0.0
+teatime,frame_00107,bear nose,deep,1,6021,1,0.0
+teatime,frame_00107,bear nose,deep,1,1279,1,0.0
+teatime,frame_00107,bear nose,deep,1,462,1,0.0
+teatime,frame_00107,bear nose,deep,1,4083,1,0.0
+teatime,frame_00107,bear nose,deep,1,5,1,0.0
+teatime,frame_00107,bear nose,deep,1,49,1,0.0
+teatime,frame_00107,bear nose,deep,1,1,1,0.0
+teatime,frame_00107,bear nose,deep,2,5,1,0.002067
+teatime,frame_00107,bear nose,deep,2,3,1,0.0
+teatime,frame_00107,bear nose,deep,2,1,1,0.0
+teatime,frame_00107,bear nose,deep,2,45,1,0.964314
+teatime,frame_00107,bear nose,deep,2,463,1,0.0
+teatime,frame_00107,bear nose,deep,2,121,1,0.0
+teatime,frame_00107,bear nose,deep,2,1381,1,0.0
+teatime,frame_00107,bear nose,deep,2,95,1,0.0
+teatime,frame_00107,bear nose,deep,2,1092,1,0.0
+teatime,frame_00107,bear nose,deep,2,9,1,0.0
+teatime,frame_00107,bear nose,deep,3,2,1,0.141531
+teatime,frame_00107,bear nose,deep,3,618,1,0.0
+teatime,frame_00107,bear nose,deep,3,390,1,0.0
+teatime,frame_00107,bear nose,deep,3,7,1,0.0
+teatime,frame_00107,bear nose,deep,3,235,1,0.0
+teatime,frame_00107,bear nose,deep,3,31,1,0.0
+teatime,frame_00107,bear nose,deep,3,0,1,0.0
+teatime,frame_00107,bear nose,deep,3,44,1,0.0
+teatime,frame_00107,bear nose,deep,3,66,1,0.0
+teatime,frame_00107,bear nose,deep,3,236,1,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.000798
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.000764
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.000799
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.000799
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.001606
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.001476
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.001611
+teatime,frame_00107,bear nose,combo,-1,-1,3,0.001611
+teatime,frame_00107,bear nose,combo,-1,-1,4,0.000719
+teatime,frame_00107,bear nose,combo,-1,-1,4,0.000692
+teatime,frame_00107,bear nose,combo,-1,-1,4,0.00072
+teatime,frame_00107,bear nose,combo,-1,-1,4,0.00072
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.001611
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.000799
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.002059
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.001849
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.002067
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.002067
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,bear nose,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,c0,-1,-1,4,0.894068
+teatime,frame_00107,plate,root,3,7,1,0.894068
+teatime,frame_00107,plate,root,3,1075,1,0.0
+teatime,frame_00107,plate,root,3,956,1,0.0
+teatime,frame_00107,plate,root,3,820,1,0.0
+teatime,frame_00107,plate,root,3,277,1,0.0
+teatime,frame_00107,plate,hier,2,9,1,0.894068
+teatime,frame_00107,plate,hier,3,1075,1,0.0
+teatime,frame_00107,plate,hier,3,956,1,0.0
+teatime,frame_00107,plate,hier,3,820,1,0.0
+teatime,frame_00107,plate,hier,3,277,1,0.0
+teatime,frame_00107,plate,deep,1,705,1,0.0
+teatime,frame_00107,plate,deep,1,4762,1,0.0
+teatime,frame_00107,plate,deep,1,3799,1,0.0
+teatime,frame_00107,plate,deep,1,13,1,0.890353
+teatime,frame_00107,plate,deep,1,948,1,0.0
+teatime,frame_00107,plate,deep,1,811,1,0.0
+teatime,frame_00107,plate,deep,1,5074,1,0.0
+teatime,frame_00107,plate,deep,1,3412,1,0.0
+teatime,frame_00107,plate,deep,2,9,1,0.894068
+teatime,frame_00107,plate,deep,2,846,1,0.0
+teatime,frame_00107,plate,deep,2,655,1,0.0
+teatime,frame_00107,plate,deep,2,1443,1,0.0
+teatime,frame_00107,plate,deep,2,649,1,0.0
+teatime,frame_00107,plate,deep,2,569,1,0.0
+teatime,frame_00107,plate,deep,2,1398,1,0.0
+teatime,frame_00107,plate,deep,2,139,1,0.0
+teatime,frame_00107,plate,deep,2,167,1,0.0
+teatime,frame_00107,plate,deep,2,392,1,0.0
+teatime,frame_00107,plate,deep,3,7,1,0.894068
+teatime,frame_00107,plate,deep,3,956,1,0.0
+teatime,frame_00107,plate,deep,3,1075,1,0.0
+teatime,frame_00107,plate,deep,3,820,1,0.0
+teatime,frame_00107,plate,deep,3,277,1,0.0
+teatime,frame_00107,plate,deep,3,763,1,0.0
+teatime,frame_00107,plate,deep,3,367,1,0.0
+teatime,frame_00107,plate,deep,3,121,1,0.0
+teatime,frame_00107,plate,deep,3,800,1,0.0
+teatime,frame_00107,plate,deep,3,944,1,0.0
+teatime,frame_00107,plate,combo,-1,-1,4,0.0
+teatime,frame_00107,plate,combo,-1,-1,4,0.894068
+teatime,frame_00107,plate,combo,-1,-1,4,0.894068
+teatime,frame_00107,plate,combo,-1,-1,4,0.894068
+teatime,frame_00107,plate,combo,-1,-1,5,0.894068
+teatime,frame_00107,plate,combo,-1,-1,2,0.894068
+teatime,frame_00107,plate,combo,-1,-1,2,0.894068
+teatime,frame_00107,plate,combo,-1,-1,2,0.894068
+teatime,frame_00107,plate,combo,-1,-1,2,0.894068
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,plate,combo,-1,-1,2,0.0
+teatime,frame_00107,three cookies,c0,-1,-1,2,0.903384
+teatime,frame_00107,three cookies,root,3,23,1,0.903384
+teatime,frame_00107,three cookies,root,3,944,1,0.0
+teatime,frame_00107,three cookies,root,3,0,1,0.0
+teatime,frame_00107,three cookies,hier,2,43,1,0.508459
+teatime,frame_00107,three cookies,hier,2,32,1,0.398828
+teatime,frame_00107,three cookies,hier,3,944,1,0.0
+teatime,frame_00107,three cookies,deep,1,68,1,0.381402
+teatime,frame_00107,three cookies,deep,1,52,1,0.398828
+teatime,frame_00107,three cookies,deep,1,186,1,0.0
+teatime,frame_00107,three cookies,deep,1,755,1,0.0
+teatime,frame_00107,three cookies,deep,1,340,1,0.094255
+teatime,frame_00107,three cookies,deep,1,636,1,0.024786
+teatime,frame_00107,three cookies,deep,2,43,1,0.508459
+teatime,frame_00107,three cookies,deep,2,32,1,0.398828
+teatime,frame_00107,three cookies,deep,2,1782,1,0.0
+teatime,frame_00107,three cookies,deep,2,473,1,0.0
+teatime,frame_00107,three cookies,deep,2,1081,1,0.0
+teatime,frame_00107,three cookies,deep,2,932,1,0.0
+teatime,frame_00107,three cookies,deep,2,42,1,0.0
+teatime,frame_00107,three cookies,deep,2,422,1,0.0
+teatime,frame_00107,three cookies,deep,2,77,1,0.0
+teatime,frame_00107,three cookies,deep,2,1518,1,0.0
+teatime,frame_00107,three cookies,deep,3,23,1,0.903384
+teatime,frame_00107,three cookies,deep,3,944,1,0.0
+teatime,frame_00107,three cookies,deep,3,0,1,0.0
+teatime,frame_00107,three cookies,deep,3,856,1,0.0
+teatime,frame_00107,three cookies,deep,3,7,1,0.018495
+teatime,frame_00107,three cookies,deep,3,390,1,0.0
+teatime,frame_00107,three cookies,deep,3,612,1,0.0
+teatime,frame_00107,three cookies,deep,3,44,1,0.0
+teatime,frame_00107,three cookies,deep,3,101,1,0.0
+teatime,frame_00107,three cookies,deep,3,123,1,0.0
+teatime,frame_00107,three cookies,combo,-1,-1,2,0.398828
+teatime,frame_00107,three cookies,combo,-1,-1,2,0.508459
+teatime,frame_00107,three cookies,combo,-1,-1,3,0.903384
+teatime,frame_00107,three cookies,combo,-1,-1,2,0.903384
+teatime,frame_00107,dall-e brand,c0,2,6,1,0.61557
+teatime,frame_00107,dall-e brand,root,3,5,1,0.06778
+teatime,frame_00107,dall-e brand,root,3,367,1,0.0
+teatime,frame_00107,dall-e brand,root,3,0,1,0.0
+teatime,frame_00107,dall-e brand,root,3,231,1,0.0
+teatime,frame_00107,dall-e brand,hier,2,6,1,0.61557
+teatime,frame_00107,dall-e brand,hier,2,7,1,0.016123
+teatime,frame_00107,dall-e brand,hier,3,367,1,0.0
+teatime,frame_00107,dall-e brand,hier,3,231,1,0.0
+teatime,frame_00107,dall-e brand,deep,1,9,1,0.387819
+teatime,frame_00107,dall-e brand,deep,1,415,1,0.008255
+teatime,frame_00107,dall-e brand,deep,1,414,1,0.0
+teatime,frame_00107,dall-e brand,deep,1,114,1,0.044501
+teatime,frame_00107,dall-e brand,deep,1,1273,1,0.002992
+teatime,frame_00107,dall-e brand,deep,1,6387,1,0.008053
+teatime,frame_00107,dall-e brand,deep,1,11,1,0.006978
+teatime,frame_00107,dall-e brand,deep,1,681,1,0.004802
+teatime,frame_00107,dall-e brand,deep,1,266,1,0.0
+teatime,frame_00107,dall-e brand,deep,1,256,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,6,1,0.61557
+teatime,frame_00107,dall-e brand,deep,2,7,1,0.016123
+teatime,frame_00107,dall-e brand,deep,2,1782,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,2265,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,813,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,1492,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,263,1,0.0
+teatime,frame_00107,dall-e brand,deep,2,846,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,5,1,0.06778
+teatime,frame_00107,dall-e brand,deep,3,367,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,0,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,231,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,987,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,583,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,186,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,205,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,139,1,0.0
+teatime,frame_00107,dall-e brand,deep,3,760,1,0.0
+teatime,frame_00107,dall-e brand,combo,2,7,1,0.016123
+teatime,frame_00107,dall-e brand,combo,3,367,1,0.0
+teatime,frame_00107,dall-e brand,combo,3,231,1,0.0
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.122269
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.61557
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.61557
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.016123
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.016123
+teatime,frame_00107,dall-e brand,combo,-1,-1,2,0.0
+teatime,frame_00107,paper napkin,c0,3,3,1,0.919211
+teatime,frame_00107,paper napkin,root,3,3,1,0.919211
+teatime,frame_00107,paper napkin,root,3,6,1,0.0
+teatime,frame_00107,paper napkin,root,3,248,1,0.0
+teatime,frame_00107,paper napkin,root,3,0,1,0.0
+teatime,frame_00107,paper napkin,hier,3,3,1,0.919211
+teatime,frame_00107,paper napkin,hier,3,6,1,0.0
+teatime,frame_00107,paper napkin,hier,3,248,1,0.0
+teatime,frame_00107,paper napkin,deep,1,345,1,0.270347
+teatime,frame_00107,paper napkin,deep,1,147,1,0.06518
+teatime,frame_00107,paper napkin,deep,1,903,1,0.0
+teatime,frame_00107,paper napkin,deep,1,449,1,0.0
+teatime,frame_00107,paper napkin,deep,1,801,1,0.0
+teatime,frame_00107,paper napkin,deep,1,1206,1,0.096713
+teatime,frame_00107,paper napkin,deep,1,979,1,0.0
+teatime,frame_00107,paper napkin,deep,1,735,1,0.175223
+teatime,frame_00107,paper napkin,deep,1,3,1,0.000552
+teatime,frame_00107,paper napkin,deep,1,3870,1,0.0
+teatime,frame_00107,paper napkin,deep,2,960,1,0.070347
+teatime,frame_00107,paper napkin,deep,2,2,1,0.846012
+teatime,frame_00107,paper napkin,deep,2,401,1,0.0
+teatime,frame_00107,paper napkin,deep,2,8,1,0.0
+teatime,frame_00107,paper napkin,deep,2,11,1,0.0
+teatime,frame_00107,paper napkin,deep,2,1782,1,0.0
+teatime,frame_00107,paper napkin,deep,2,155,1,0.0
+teatime,frame_00107,paper napkin,deep,2,1340,1,0.0
+teatime,frame_00107,paper napkin,deep,2,341,1,0.0
+teatime,frame_00107,paper napkin,deep,3,3,1,0.919211
+teatime,frame_00107,paper napkin,deep,3,6,1,0.0
+teatime,frame_00107,paper napkin,deep,3,248,1,0.0
+teatime,frame_00107,paper napkin,deep,3,0,1,0.0
+teatime,frame_00107,paper napkin,deep,3,1106,1,0.0
+teatime,frame_00107,paper napkin,deep,3,277,1,0.0
+teatime,frame_00107,paper napkin,deep,3,178,1,0.0
+teatime,frame_00107,paper napkin,deep,3,600,1,0.0
+teatime,frame_00107,paper napkin,deep,3,26,1,0.0
+teatime,frame_00107,paper napkin,deep,3,445,1,0.0
+teatime,frame_00107,paper napkin,combo,3,6,1,0.0
+teatime,frame_00107,paper napkin,combo,3,248,1,0.0
+teatime,frame_00107,paper napkin,combo,-1,-1,2,0.834855
+teatime,frame_00107,paper napkin,combo,-1,-1,2,0.919211
+teatime,frame_00107,paper napkin,combo,-1,-1,2,0.0
+teatime,frame_00129,tea in a glass,c0,3,115,1,0.774413
+teatime,frame_00129,tea in a glass,root,3,115,1,0.774413
+teatime,frame_00129,tea in a glass,root,3,0,1,0.0
+teatime,frame_00129,tea in a glass,root,3,27,1,0.0
+teatime,frame_00129,tea in a glass,hier,3,115,1,0.774413
+teatime,frame_00129,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,666,1,0.07119
+teatime,frame_00129,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00129,tea in a glass,deep,1,667,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,179,1,0.704823
+teatime,frame_00129,tea in a glass,deep,2,506,1,0.072602
+teatime,frame_00129,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00129,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,115,1,0.774413
+teatime,frame_00129,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00129,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00129,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00129,tea in a glass,combo,-1,-1,2,0.774413
+teatime,frame_00129,apple,c0,2,127,1,0.984175
+teatime,frame_00129,apple,root,3,85,1,0.984884
+teatime,frame_00129,apple,root,3,7,1,0.0
+teatime,frame_00129,apple,root,3,370,1,0.0
+teatime,frame_00129,apple,root,3,763,1,0.0
+teatime,frame_00129,apple,root,3,3,1,0.0
+teatime,frame_00129,apple,hier,2,127,1,0.984175
+teatime,frame_00129,apple,hier,2,9,1,0.0
+teatime,frame_00129,apple,hier,2,2,1,0.0
+teatime,frame_00129,apple,hier,3,370,1,0.0
+teatime,frame_00129,apple,hier,3,763,1,0.0
+teatime,frame_00129,apple,hier,2,960,1,0.0
+teatime,frame_00129,apple,deep,1,229,1,0.983625
+teatime,frame_00129,apple,deep,1,1665,1,0.0
+teatime,frame_00129,apple,deep,1,13,1,0.0
+teatime,frame_00129,apple,deep,1,948,1,0.0
+teatime,frame_00129,apple,deep,1,4935,1,0.0
+teatime,frame_00129,apple,deep,1,7015,1,0.0
+teatime,frame_00129,apple,deep,2,127,1,0.984175
+teatime,frame_00129,apple,deep,2,9,1,0.0
+teatime,frame_00129,apple,deep,2,846,1,0.0
+teatime,frame_00129,apple,deep,2,2,1,0.0
+teatime,frame_00129,apple,deep,2,655,1,0.0
+teatime,frame_00129,apple,deep,2,189,1,0.0
+teatime,frame_00129,apple,deep,2,960,1,0.0
+teatime,frame_00129,apple,deep,2,594,1,0.0
+teatime,frame_00129,apple,deep,2,137,1,0.0
+teatime,frame_00129,apple,deep,2,569,1,0.0
+teatime,frame_00129,apple,deep,3,85,1,0.984884
+teatime,frame_00129,apple,deep,3,7,1,0.0
+teatime,frame_00129,apple,deep,3,370,1,0.0
+teatime,frame_00129,apple,deep,3,763,1,0.0
+teatime,frame_00129,apple,deep,3,3,1,0.0
+teatime,frame_00129,apple,deep,3,123,1,0.0
+teatime,frame_00129,apple,deep,3,1162,1,0.0
+teatime,frame_00129,apple,deep,3,780,1,0.0
+teatime,frame_00129,apple,deep,3,367,1,0.0
+teatime,frame_00129,apple,deep,3,390,1,0.0
+teatime,frame_00129,apple,combo,2,9,1,0.0
+teatime,frame_00129,apple,combo,2,2,1,0.0
+teatime,frame_00129,apple,combo,3,370,1,0.0
+teatime,frame_00129,apple,combo,3,763,1,0.0
+teatime,frame_00129,apple,combo,2,960,1,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.319286
+teatime,frame_00129,apple,combo,-1,-1,2,0.984175
+teatime,frame_00129,apple,combo,-1,-1,2,0.984175
+teatime,frame_00129,apple,combo,-1,-1,2,0.984175
+teatime,frame_00129,apple,combo,-1,-1,2,0.984175
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,apple,combo,-1,-1,2,0.0
+teatime,frame_00129,yellow pouf,c0,3,143,1,0.955294
+teatime,frame_00129,yellow pouf,root,3,143,1,0.955294
+teatime,frame_00129,yellow pouf,root,3,0,1,0.0
+teatime,frame_00129,yellow pouf,root,3,390,1,0.0
+teatime,frame_00129,yellow pouf,root,3,1014,1,0.0
+teatime,frame_00129,yellow pouf,hier,3,143,1,0.955294
+teatime,frame_00129,yellow pouf,hier,2,812,1,0.0
+teatime,frame_00129,yellow pouf,hier,2,631,1,0.0
+teatime,frame_00129,yellow pouf,hier,3,1014,1,0.0
+teatime,frame_00129,yellow pouf,deep,1,713,1,0.205427
+teatime,frame_00129,yellow pouf,deep,1,2309,1,0.095432
+teatime,frame_00129,yellow pouf,deep,1,4266,1,0.108491
+teatime,frame_00129,yellow pouf,deep,1,4048,1,0.086896
+teatime,frame_00129,yellow pouf,deep,1,1066,1,0.124546
+teatime,frame_00129,yellow pouf,deep,1,1276,1,0.025792
+teatime,frame_00129,yellow pouf,deep,1,2442,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,223,1,0.955294
+teatime,frame_00129,yellow pouf,deep,2,1782,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,812,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,631,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,240,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,821,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,541,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,583,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,490,1,0.0
+teatime,frame_00129,yellow pouf,deep,2,1695,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,143,1,0.955294
+teatime,frame_00129,yellow pouf,deep,3,0,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,390,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,1014,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,333,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,438,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,303,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,574,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,895,1,0.0
+teatime,frame_00129,yellow pouf,deep,3,70,1,0.0
+teatime,frame_00129,yellow pouf,combo,2,812,1,0.0
+teatime,frame_00129,yellow pouf,combo,2,631,1,0.0
+teatime,frame_00129,yellow pouf,combo,3,1014,1,0.0
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.955294
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.955294
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.955294
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.0
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.0
+teatime,frame_00129,yellow pouf,combo,-1,-1,2,0.0
+teatime,frame_00129,sheep,c0,3,5,1,0.961382
+teatime,frame_00129,sheep,root,3,5,1,0.961382
+teatime,frame_00129,sheep,root,3,2,1,0.0
+teatime,frame_00129,sheep,root,3,0,1,0.0
+teatime,frame_00129,sheep,hier,3,5,1,0.961382
+teatime,frame_00129,sheep,hier,3,2,1,0.0
+teatime,frame_00129,sheep,deep,1,6261,1,0.0
+teatime,frame_00129,sheep,deep,1,2366,1,8e-06
+teatime,frame_00129,sheep,deep,1,11,1,0.284415
+teatime,frame_00129,sheep,deep,1,218,1,0.018976
+teatime,frame_00129,sheep,deep,1,35,1,0.006896
+teatime,frame_00129,sheep,deep,1,909,1,0.0
+teatime,frame_00129,sheep,deep,1,114,1,0.039723
+teatime,frame_00129,sheep,deep,1,36,1,0.224541
+teatime,frame_00129,sheep,deep,1,681,1,0.001484
+teatime,frame_00129,sheep,deep,1,252,1,0.063602
+teatime,frame_00129,sheep,deep,2,21,1,0.288079
+teatime,frame_00129,sheep,deep,2,7,1,0.380336
+teatime,frame_00129,sheep,deep,2,58,1,0.082433
+teatime,frame_00129,sheep,deep,2,36,1,0.106192
+teatime,frame_00129,sheep,deep,2,6,1,0.07674
+teatime,frame_00129,sheep,deep,2,422,1,0.0
+teatime,frame_00129,sheep,deep,2,1782,1,0.0
+teatime,frame_00129,sheep,deep,2,45,1,0.0
+teatime,frame_00129,sheep,deep,2,427,1,0.003337
+teatime,frame_00129,sheep,deep,2,215,1,0.01907
+teatime,frame_00129,sheep,deep,3,5,1,0.961382
+teatime,frame_00129,sheep,deep,3,2,1,0.0
+teatime,frame_00129,sheep,deep,3,0,1,0.0
+teatime,frame_00129,sheep,deep,3,421,1,0.0
+teatime,frame_00129,sheep,deep,3,944,1,0.0
+teatime,frame_00129,sheep,deep,3,235,1,0.0
+teatime,frame_00129,sheep,deep,3,236,1,0.0
+teatime,frame_00129,sheep,deep,3,856,1,0.0
+teatime,frame_00129,sheep,deep,3,367,1,0.0
+teatime,frame_00129,sheep,deep,3,390,1,0.0
+teatime,frame_00129,sheep,combo,3,2,1,0.0
+teatime,frame_00129,sheep,combo,-1,-1,2,0.961382
+teatime,frame_00129,three cookies,c0,-1,-1,2,0.926305
+teatime,frame_00129,three cookies,root,3,23,1,0.926305
+teatime,frame_00129,three cookies,root,3,944,1,0.0
+teatime,frame_00129,three cookies,root,3,0,1,0.0
+teatime,frame_00129,three cookies,hier,2,43,1,0.924096
+teatime,frame_00129,three cookies,hier,2,32,1,0.0
+teatime,frame_00129,three cookies,hier,3,944,1,0.0
+teatime,frame_00129,three cookies,deep,1,68,1,0.945039
+teatime,frame_00129,three cookies,deep,1,52,1,0.0
+teatime,frame_00129,three cookies,deep,1,186,1,0.0
+teatime,frame_00129,three cookies,deep,1,755,1,0.0
+teatime,frame_00129,three cookies,deep,1,340,1,0.0
+teatime,frame_00129,three cookies,deep,1,636,1,0.0
+teatime,frame_00129,three cookies,deep,2,43,1,0.924096
+teatime,frame_00129,three cookies,deep,2,32,1,0.0
+teatime,frame_00129,three cookies,deep,2,1782,1,0.0
+teatime,frame_00129,three cookies,deep,2,473,1,0.0
+teatime,frame_00129,three cookies,deep,2,1081,1,0.0
+teatime,frame_00129,three cookies,deep,2,932,1,0.0
+teatime,frame_00129,three cookies,deep,2,42,1,0.0
+teatime,frame_00129,three cookies,deep,2,422,1,0.0
+teatime,frame_00129,three cookies,deep,2,77,1,0.0
+teatime,frame_00129,three cookies,deep,2,1518,1,0.0
+teatime,frame_00129,three cookies,deep,3,23,1,0.926305
+teatime,frame_00129,three cookies,deep,3,944,1,0.0
+teatime,frame_00129,three cookies,deep,3,0,1,0.0
+teatime,frame_00129,three cookies,deep,3,856,1,0.0
+teatime,frame_00129,three cookies,deep,3,7,1,0.003239
+teatime,frame_00129,three cookies,deep,3,390,1,0.0
+teatime,frame_00129,three cookies,deep,3,612,1,0.0
+teatime,frame_00129,three cookies,deep,3,44,1,0.0
+teatime,frame_00129,three cookies,deep,3,101,1,0.0
+teatime,frame_00129,three cookies,deep,3,123,1,0.0
+teatime,frame_00129,three cookies,combo,-1,-1,2,0.0
+teatime,frame_00129,three cookies,combo,-1,-1,2,0.924096
+teatime,frame_00129,three cookies,combo,-1,-1,3,0.926305
+teatime,frame_00129,three cookies,combo,-1,-1,2,0.926305
+teatime,frame_00129,plate,c0,-1,-1,4,0.954667
+teatime,frame_00129,plate,root,3,7,1,0.954605
+teatime,frame_00129,plate,root,3,1075,1,0.0
+teatime,frame_00129,plate,root,3,956,1,0.0
+teatime,frame_00129,plate,root,3,820,1,0.0
+teatime,frame_00129,plate,root,3,277,1,0.0
+teatime,frame_00129,plate,hier,2,9,1,0.954667
+teatime,frame_00129,plate,hier,3,1075,1,0.0
+teatime,frame_00129,plate,hier,3,956,1,0.0
+teatime,frame_00129,plate,hier,3,820,1,0.0
+teatime,frame_00129,plate,hier,3,277,1,0.0
+teatime,frame_00129,plate,deep,1,705,1,0.0
+teatime,frame_00129,plate,deep,1,4762,1,0.0
+teatime,frame_00129,plate,deep,1,3799,1,0.0
+teatime,frame_00129,plate,deep,1,13,1,0.95653
+teatime,frame_00129,plate,deep,1,948,1,0.0
+teatime,frame_00129,plate,deep,1,811,1,0.0
+teatime,frame_00129,plate,deep,1,5074,1,0.0
+teatime,frame_00129,plate,deep,1,3412,1,0.0
+teatime,frame_00129,plate,deep,2,9,1,0.954667
+teatime,frame_00129,plate,deep,2,846,1,0.0
+teatime,frame_00129,plate,deep,2,655,1,0.0
+teatime,frame_00129,plate,deep,2,1443,1,0.0
+teatime,frame_00129,plate,deep,2,649,1,0.0
+teatime,frame_00129,plate,deep,2,569,1,0.0
+teatime,frame_00129,plate,deep,2,1398,1,0.0
+teatime,frame_00129,plate,deep,2,139,1,0.0
+teatime,frame_00129,plate,deep,2,167,1,0.0
+teatime,frame_00129,plate,deep,2,392,1,0.0
+teatime,frame_00129,plate,deep,3,7,1,0.954605
+teatime,frame_00129,plate,deep,3,956,1,0.0
+teatime,frame_00129,plate,deep,3,1075,1,0.0
+teatime,frame_00129,plate,deep,3,820,1,0.0
+teatime,frame_00129,plate,deep,3,277,1,0.0
+teatime,frame_00129,plate,deep,3,763,1,0.0
+teatime,frame_00129,plate,deep,3,367,1,0.0
+teatime,frame_00129,plate,deep,3,121,1,0.0
+teatime,frame_00129,plate,deep,3,800,1,0.0
+teatime,frame_00129,plate,deep,3,944,1,0.0
+teatime,frame_00129,plate,combo,-1,-1,4,0.0
+teatime,frame_00129,plate,combo,-1,-1,4,0.954667
+teatime,frame_00129,plate,combo,-1,-1,4,0.954667
+teatime,frame_00129,plate,combo,-1,-1,4,0.954667
+teatime,frame_00129,plate,combo,-1,-1,5,0.954667
+teatime,frame_00129,plate,combo,-1,-1,2,0.954667
+teatime,frame_00129,plate,combo,-1,-1,2,0.954667
+teatime,frame_00129,plate,combo,-1,-1,2,0.954667
+teatime,frame_00129,plate,combo,-1,-1,2,0.954667
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,plate,combo,-1,-1,2,0.0
+teatime,frame_00129,dall-e brand,c0,2,6,1,0.690897
+teatime,frame_00129,dall-e brand,root,3,5,1,0.059863
+teatime,frame_00129,dall-e brand,root,3,367,1,0.0
+teatime,frame_00129,dall-e brand,root,3,0,1,0.0
+teatime,frame_00129,dall-e brand,root,3,231,1,0.0
+teatime,frame_00129,dall-e brand,hier,2,6,1,0.690897
+teatime,frame_00129,dall-e brand,hier,2,7,1,0.006273
+teatime,frame_00129,dall-e brand,hier,3,367,1,0.0
+teatime,frame_00129,dall-e brand,hier,3,231,1,0.0
+teatime,frame_00129,dall-e brand,deep,1,9,1,0.449221
+teatime,frame_00129,dall-e brand,deep,1,415,1,0.005763
+teatime,frame_00129,dall-e brand,deep,1,414,1,0.000672
+teatime,frame_00129,dall-e brand,deep,1,114,1,0.014103
+teatime,frame_00129,dall-e brand,deep,1,1273,1,0.001601
+teatime,frame_00129,dall-e brand,deep,1,6387,1,0.009465
+teatime,frame_00129,dall-e brand,deep,1,11,1,0.002826
+teatime,frame_00129,dall-e brand,deep,1,681,1,0.000263
+teatime,frame_00129,dall-e brand,deep,1,266,1,0.0
+teatime,frame_00129,dall-e brand,deep,1,256,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,6,1,0.690897
+teatime,frame_00129,dall-e brand,deep,2,7,1,0.006273
+teatime,frame_00129,dall-e brand,deep,2,1782,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,2265,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,813,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,1492,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,263,1,0.0
+teatime,frame_00129,dall-e brand,deep,2,846,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,5,1,0.059863
+teatime,frame_00129,dall-e brand,deep,3,367,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,0,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,231,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,987,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,583,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,186,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,205,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,139,1,0.0
+teatime,frame_00129,dall-e brand,deep,3,760,1,0.0
+teatime,frame_00129,dall-e brand,combo,2,7,1,0.006273
+teatime,frame_00129,dall-e brand,combo,3,367,1,0.0
+teatime,frame_00129,dall-e brand,combo,3,231,1,0.0
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.131807
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.690897
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.690897
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.006273
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.006273
+teatime,frame_00129,dall-e brand,combo,-1,-1,2,0.0
+teatime,frame_00140,tea in a glass,c0,3,115,1,0.836684
+teatime,frame_00140,tea in a glass,root,3,115,1,0.836684
+teatime,frame_00140,tea in a glass,root,3,0,1,0.0
+teatime,frame_00140,tea in a glass,root,3,27,1,0.0
+teatime,frame_00140,tea in a glass,hier,3,115,1,0.836684
+teatime,frame_00140,tea in a glass,hier,3,27,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,1305,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,1677,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,666,1,0.064
+teatime,frame_00140,tea in a glass,deep,1,4450,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,1412,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,3907,1,0.0
+teatime,frame_00140,tea in a glass,deep,1,667,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,179,1,0.765159
+teatime,frame_00140,tea in a glass,deep,2,506,1,0.068024
+teatime,frame_00140,tea in a glass,deep,2,1782,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,2483,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,2056,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,749,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,610,1,0.0
+teatime,frame_00140,tea in a glass,deep,2,1677,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,115,1,0.836684
+teatime,frame_00140,tea in a glass,deep,3,0,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,27,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,610,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,822,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,423,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,944,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,706,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,977,1,0.0
+teatime,frame_00140,tea in a glass,deep,3,153,1,0.0
+teatime,frame_00140,tea in a glass,combo,3,27,1,0.0
+teatime,frame_00140,tea in a glass,combo,-1,-1,2,0.576367
+teatime,frame_00140,paper napkin,c0,3,3,1,0.923603
+teatime,frame_00140,paper napkin,root,3,3,1,0.923603
+teatime,frame_00140,paper napkin,root,3,6,1,0.0
+teatime,frame_00140,paper napkin,root,3,248,1,0.0
+teatime,frame_00140,paper napkin,root,3,0,1,0.0
+teatime,frame_00140,paper napkin,hier,3,3,1,0.923603
+teatime,frame_00140,paper napkin,hier,3,6,1,0.0
+teatime,frame_00140,paper napkin,hier,3,248,1,0.0
+teatime,frame_00140,paper napkin,deep,1,345,1,0.358148
+teatime,frame_00140,paper napkin,deep,1,147,1,0.090842
+teatime,frame_00140,paper napkin,deep,1,903,1,0.0
+teatime,frame_00140,paper napkin,deep,1,449,1,0.0
+teatime,frame_00140,paper napkin,deep,1,801,1,0.0
+teatime,frame_00140,paper napkin,deep,1,1206,1,0.032
+teatime,frame_00140,paper napkin,deep,1,979,1,0.0
+teatime,frame_00140,paper napkin,deep,1,735,1,0.094199
+teatime,frame_00140,paper napkin,deep,1,3,1,0.002963
+teatime,frame_00140,paper napkin,deep,1,3870,1,0.0
+teatime,frame_00140,paper napkin,deep,2,960,1,0.000741
+teatime,frame_00140,paper napkin,deep,2,2,1,0.959478
+teatime,frame_00140,paper napkin,deep,2,401,1,0.0
+teatime,frame_00140,paper napkin,deep,2,8,1,0.0
+teatime,frame_00140,paper napkin,deep,2,11,1,0.0
+teatime,frame_00140,paper napkin,deep,2,1782,1,0.0
+teatime,frame_00140,paper napkin,deep,2,155,1,0.0
+teatime,frame_00140,paper napkin,deep,2,1340,1,0.0
+teatime,frame_00140,paper napkin,deep,2,341,1,0.0
+teatime,frame_00140,paper napkin,deep,3,3,1,0.923603
+teatime,frame_00140,paper napkin,deep,3,6,1,0.0
+teatime,frame_00140,paper napkin,deep,3,248,1,0.0
+teatime,frame_00140,paper napkin,deep,3,0,1,0.0
+teatime,frame_00140,paper napkin,deep,3,1106,1,0.0
+teatime,frame_00140,paper napkin,deep,3,277,1,0.0
+teatime,frame_00140,paper napkin,deep,3,178,1,0.0
+teatime,frame_00140,paper napkin,deep,3,600,1,0.0
+teatime,frame_00140,paper napkin,deep,3,26,1,0.0
+teatime,frame_00140,paper napkin,deep,3,445,1,0.0
+teatime,frame_00140,paper napkin,combo,3,6,1,0.0
+teatime,frame_00140,paper napkin,combo,3,248,1,0.0
+teatime,frame_00140,paper napkin,combo,-1,-1,2,0.793922
+teatime,frame_00140,paper napkin,combo,-1,-1,2,0.923603
+teatime,frame_00140,paper napkin,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,c0,2,127,1,0.97677
+teatime,frame_00140,apple,root,3,85,1,0.97677
+teatime,frame_00140,apple,root,3,7,1,0.0
+teatime,frame_00140,apple,root,3,370,1,0.0
+teatime,frame_00140,apple,root,3,763,1,0.0
+teatime,frame_00140,apple,root,3,3,1,0.0
+teatime,frame_00140,apple,hier,2,127,1,0.97677
+teatime,frame_00140,apple,hier,2,9,1,0.0
+teatime,frame_00140,apple,hier,2,2,1,0.0
+teatime,frame_00140,apple,hier,3,370,1,0.0
+teatime,frame_00140,apple,hier,3,763,1,0.0
+teatime,frame_00140,apple,hier,2,960,1,0.0
+teatime,frame_00140,apple,deep,1,229,1,0.976207
+teatime,frame_00140,apple,deep,1,1665,1,0.0
+teatime,frame_00140,apple,deep,1,13,1,0.0
+teatime,frame_00140,apple,deep,1,948,1,0.0
+teatime,frame_00140,apple,deep,1,4935,1,0.0
+teatime,frame_00140,apple,deep,1,7015,1,0.0
+teatime,frame_00140,apple,deep,2,127,1,0.97677
+teatime,frame_00140,apple,deep,2,9,1,0.0
+teatime,frame_00140,apple,deep,2,846,1,0.0
+teatime,frame_00140,apple,deep,2,2,1,0.0
+teatime,frame_00140,apple,deep,2,655,1,0.0
+teatime,frame_00140,apple,deep,2,189,1,0.0
+teatime,frame_00140,apple,deep,2,960,1,0.0
+teatime,frame_00140,apple,deep,2,594,1,0.0
+teatime,frame_00140,apple,deep,2,137,1,0.0
+teatime,frame_00140,apple,deep,2,569,1,0.0
+teatime,frame_00140,apple,deep,3,85,1,0.97677
+teatime,frame_00140,apple,deep,3,7,1,0.0
+teatime,frame_00140,apple,deep,3,370,1,0.0
+teatime,frame_00140,apple,deep,3,763,1,0.0
+teatime,frame_00140,apple,deep,3,3,1,0.0
+teatime,frame_00140,apple,deep,3,123,1,0.0
+teatime,frame_00140,apple,deep,3,1162,1,0.0
+teatime,frame_00140,apple,deep,3,780,1,0.0
+teatime,frame_00140,apple,deep,3,367,1,0.0
+teatime,frame_00140,apple,deep,3,390,1,0.0
+teatime,frame_00140,apple,combo,2,9,1,0.0
+teatime,frame_00140,apple,combo,2,2,1,0.0
+teatime,frame_00140,apple,combo,3,370,1,0.0
+teatime,frame_00140,apple,combo,3,763,1,0.0
+teatime,frame_00140,apple,combo,2,960,1,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.185366
+teatime,frame_00140,apple,combo,-1,-1,2,0.162393
+teatime,frame_00140,apple,combo,-1,-1,2,0.97677
+teatime,frame_00140,apple,combo,-1,-1,2,0.97677
+teatime,frame_00140,apple,combo,-1,-1,2,0.972492
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,apple,combo,-1,-1,2,0.0
+teatime,frame_00140,stuffed bear,c0,3,2,1,0.980256
+teatime,frame_00140,stuffed bear,root,3,2,1,0.980256
+teatime,frame_00140,stuffed bear,root,3,5,1,0.0
+teatime,frame_00140,stuffed bear,root,3,0,1,0.0
+teatime,frame_00140,stuffed bear,hier,3,2,1,0.980256
+teatime,frame_00140,stuffed bear,hier,3,5,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,1590,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,8,1,0.099535
+teatime,frame_00140,stuffed bear,deep,1,81,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,49,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,462,1,0.012569
+teatime,frame_00140,stuffed bear,deep,1,6021,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,14,1,0.333498
+teatime,frame_00140,stuffed bear,deep,1,4083,1,0.0
+teatime,frame_00140,stuffed bear,deep,1,1279,1,0.0
+teatime,frame_00140,stuffed bear,deep,2,5,1,0.099535
+teatime,frame_00140,stuffed bear,deep,2,1,1,0.652794
+teatime,frame_00140,stuffed bear,deep,2,3,1,0.233799
+teatime,frame_00140,stuffed bear,deep,2,463,1,0.0
+teatime,frame_00140,stuffed bear,deep,2,1782,1,0.0
+teatime,frame_00140,stuffed bear,deep,2,7,1,0.0
+teatime,frame_00140,stuffed bear,deep,2,21,1,0.0
+teatime,frame_00140,stuffed bear,deep,2,45,1,0.005218
+teatime,frame_00140,stuffed bear,deep,2,17,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,2,1,0.980256
+teatime,frame_00140,stuffed bear,deep,3,5,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,0,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,618,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,565,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,14,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,262,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,732,1,0.0
+teatime,frame_00140,stuffed bear,deep,3,289,1,0.0
+teatime,frame_00140,stuffed bear,combo,3,5,1,0.0
+teatime,frame_00140,stuffed bear,combo,-1,-1,2,0.980256
+teatime,frame_00140,bag of cookies,c0,-1,-1,3,0.713765
+teatime,frame_00140,bag of cookies,root,3,8,1,0.978243
+teatime,frame_00140,bag of cookies,root,3,23,1,0.0
+teatime,frame_00140,bag of cookies,root,3,0,1,0.0
+teatime,frame_00140,bag of cookies,root,3,6,1,0.0
+teatime,frame_00140,bag of cookies,hier,3,8,1,0.978243
+teatime,frame_00140,bag of cookies,hier,2,43,1,0.0
+teatime,frame_00140,bag of cookies,hier,2,32,1,0.0
+teatime,frame_00140,bag of cookies,hier,2,8,1,0.0
+teatime,frame_00140,bag of cookies,deep,1,68,1,0.0
+teatime,frame_00140,bag of cookies,deep,1,52,1,0.0
+teatime,frame_00140,bag of cookies,deep,1,340,1,0.0
+teatime,frame_00140,bag of cookies,deep,1,186,1,0.0
+teatime,frame_00140,bag of cookies,deep,1,15,1,0.206055
+teatime,frame_00140,bag of cookies,deep,1,3968,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,43,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,10,1,0.979618
+teatime,frame_00140,bag of cookies,deep,2,32,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,1782,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,8,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,1031,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,593,1,0.0
+teatime,frame_00140,bag of cookies,deep,2,11,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,8,1,0.978243
+teatime,frame_00140,bag of cookies,deep,3,23,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,0,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,6,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,277,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,248,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,44,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,944,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,31,1,0.0
+teatime,frame_00140,bag of cookies,deep,3,612,1,0.0
+teatime,frame_00140,bag of cookies,combo,-1,-1,3,0.0
+teatime,frame_00140,bag of cookies,combo,-1,-1,3,0.772462
+teatime,frame_00140,bag of cookies,combo,-1,-1,3,0.728085
+teatime,frame_00140,bag of cookies,combo,-1,-1,4,0.656327
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.799451
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.853276
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.873478
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00140,bag of cookies,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,c0,-1,-1,4,0.955362
+teatime,frame_00140,plate,root,3,7,1,0.955362
+teatime,frame_00140,plate,root,3,1075,1,0.0
+teatime,frame_00140,plate,root,3,956,1,0.0
+teatime,frame_00140,plate,root,3,820,1,0.0
+teatime,frame_00140,plate,root,3,277,1,0.0
+teatime,frame_00140,plate,hier,2,9,1,0.955362
+teatime,frame_00140,plate,hier,3,1075,1,0.0
+teatime,frame_00140,plate,hier,3,956,1,0.0
+teatime,frame_00140,plate,hier,3,820,1,0.0
+teatime,frame_00140,plate,hier,3,277,1,0.0
+teatime,frame_00140,plate,deep,1,705,1,0.0
+teatime,frame_00140,plate,deep,1,4762,1,0.0
+teatime,frame_00140,plate,deep,1,3799,1,0.0
+teatime,frame_00140,plate,deep,1,13,1,0.962291
+teatime,frame_00140,plate,deep,1,948,1,0.0
+teatime,frame_00140,plate,deep,1,811,1,0.0
+teatime,frame_00140,plate,deep,1,5074,1,0.0
+teatime,frame_00140,plate,deep,1,3412,1,0.0
+teatime,frame_00140,plate,deep,2,9,1,0.955362
+teatime,frame_00140,plate,deep,2,846,1,0.0
+teatime,frame_00140,plate,deep,2,655,1,0.0
+teatime,frame_00140,plate,deep,2,1443,1,0.0
+teatime,frame_00140,plate,deep,2,649,1,0.0
+teatime,frame_00140,plate,deep,2,569,1,0.0
+teatime,frame_00140,plate,deep,2,1398,1,0.0
+teatime,frame_00140,plate,deep,2,139,1,0.0
+teatime,frame_00140,plate,deep,2,167,1,0.0
+teatime,frame_00140,plate,deep,2,392,1,0.0
+teatime,frame_00140,plate,deep,3,7,1,0.955362
+teatime,frame_00140,plate,deep,3,956,1,0.0
+teatime,frame_00140,plate,deep,3,1075,1,0.0
+teatime,frame_00140,plate,deep,3,820,1,0.0
+teatime,frame_00140,plate,deep,3,277,1,0.0
+teatime,frame_00140,plate,deep,3,763,1,0.0
+teatime,frame_00140,plate,deep,3,367,1,0.0
+teatime,frame_00140,plate,deep,3,121,1,0.0
+teatime,frame_00140,plate,deep,3,800,1,0.0
+teatime,frame_00140,plate,deep,3,944,1,0.0
+teatime,frame_00140,plate,combo,-1,-1,4,0.0
+teatime,frame_00140,plate,combo,-1,-1,4,0.955362
+teatime,frame_00140,plate,combo,-1,-1,4,0.955362
+teatime,frame_00140,plate,combo,-1,-1,4,0.955362
+teatime,frame_00140,plate,combo,-1,-1,5,0.955362
+teatime,frame_00140,plate,combo,-1,-1,2,0.955362
+teatime,frame_00140,plate,combo,-1,-1,2,0.955362
+teatime,frame_00140,plate,combo,-1,-1,2,0.955362
+teatime,frame_00140,plate,combo,-1,-1,2,0.955362
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,plate,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee mug,c0,2,37,1,0.871818
+teatime,frame_00140,coffee mug,root,3,27,1,0.781159
+teatime,frame_00140,coffee mug,root,3,0,1,0.0
+teatime,frame_00140,coffee mug,root,3,944,1,0.0
+teatime,frame_00140,coffee mug,hier,2,37,1,0.871818
+teatime,frame_00140,coffee mug,hier,3,944,1,0.0
+teatime,frame_00140,coffee mug,deep,1,58,1,0.647339
+teatime,frame_00140,coffee mug,deep,1,1366,1,0.102022
+teatime,frame_00140,coffee mug,deep,1,180,1,0.002449
+teatime,frame_00140,coffee mug,deep,1,501,1,0.002449
+teatime,frame_00140,coffee mug,deep,1,3376,1,0.028829
+teatime,frame_00140,coffee mug,deep,1,201,1,0.025339
+teatime,frame_00140,coffee mug,deep,2,37,1,0.871818
+teatime,frame_00140,coffee mug,deep,2,1782,1,0.0
+teatime,frame_00140,coffee mug,deep,2,2483,1,0.0
+teatime,frame_00140,coffee mug,deep,2,56,1,0.006386
+teatime,frame_00140,coffee mug,deep,2,18,1,0.0
+teatime,frame_00140,coffee mug,deep,2,610,1,0.0
+teatime,frame_00140,coffee mug,deep,2,1087,1,0.0
+teatime,frame_00140,coffee mug,deep,2,749,1,0.0
+teatime,frame_00140,coffee mug,deep,2,1912,1,0.0
+teatime,frame_00140,coffee mug,deep,3,27,1,0.781159
+teatime,frame_00140,coffee mug,deep,3,0,1,0.0
+teatime,frame_00140,coffee mug,deep,3,944,1,0.0
+teatime,frame_00140,coffee mug,deep,3,115,1,0.0
+teatime,frame_00140,coffee mug,deep,3,178,1,0.0
+teatime,frame_00140,coffee mug,deep,3,856,1,0.0
+teatime,frame_00140,coffee mug,deep,3,106,1,0.0
+teatime,frame_00140,coffee mug,deep,3,153,1,0.0
+teatime,frame_00140,coffee mug,deep,3,610,1,0.0
+teatime,frame_00140,coffee mug,deep,3,822,1,0.0
+teatime,frame_00140,coffee mug,combo,3,944,1,0.0
+teatime,frame_00140,coffee mug,combo,-1,-1,2,0.871818
+teatime,frame_00140,coffee,c0,-1,-1,2,0.732646
+teatime,frame_00140,coffee,root,3,27,1,0.83505
+teatime,frame_00140,coffee,root,3,115,1,0.0
+teatime,frame_00140,coffee,root,3,7,1,0.0
+teatime,frame_00140,coffee,root,3,782,1,0.0
+teatime,frame_00140,coffee,root,3,390,1,0.0
+teatime,frame_00140,coffee,hier,3,27,1,0.83505
+teatime,frame_00140,coffee,hier,2,506,1,0.0
+teatime,frame_00140,coffee,hier,2,9,1,0.0
+teatime,frame_00140,coffee,hier,3,782,1,0.0
+teatime,frame_00140,coffee,hier,3,390,1,0.0
+teatime,frame_00140,coffee,deep,1,58,1,0.610319
+teatime,frame_00140,coffee,deep,1,1366,1,0.095711
+teatime,frame_00140,coffee,deep,1,501,1,0.002245
+teatime,frame_00140,coffee,deep,1,180,1,0.002311
+teatime,frame_00140,coffee,deep,1,3376,1,0.027204
+teatime,frame_00140,coffee,deep,1,666,1,0.0
+teatime,frame_00140,coffee,deep,1,201,1,0.028785
+teatime,frame_00140,coffee,deep,1,320,1,0.0
+teatime,frame_00140,coffee,deep,1,1514,1,0.0
+teatime,frame_00140,coffee,deep,1,2631,1,0.0
+teatime,frame_00140,coffee,deep,2,37,1,0.835016
+teatime,frame_00140,coffee,deep,2,506,1,0.0
+teatime,frame_00140,coffee,deep,2,179,1,0.0
+teatime,frame_00140,coffee,deep,2,56,1,0.054499
+teatime,frame_00140,coffee,deep,2,25,1,0.0
+teatime,frame_00140,coffee,deep,2,9,1,0.0
+teatime,frame_00140,coffee,deep,2,1789,1,0.0
+teatime,frame_00140,coffee,deep,2,631,1,0.0
+teatime,frame_00140,coffee,deep,2,1554,1,0.0
+teatime,frame_00140,coffee,deep,2,821,1,0.0
+teatime,frame_00140,coffee,deep,3,27,1,0.83505
+teatime,frame_00140,coffee,deep,3,115,1,0.0
+teatime,frame_00140,coffee,deep,3,7,1,0.0
+teatime,frame_00140,coffee,deep,3,782,1,0.0
+teatime,frame_00140,coffee,deep,3,390,1,0.0
+teatime,frame_00140,coffee,deep,3,1146,1,0.0
+teatime,frame_00140,coffee,deep,3,977,1,0.0
+teatime,frame_00140,coffee,deep,3,706,1,0.0
+teatime,frame_00140,coffee,deep,3,2,1,0.000256
+teatime,frame_00140,coffee,deep,3,475,1,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.289796
+teatime,frame_00140,coffee,combo,-1,-1,2,0.83505
+teatime,frame_00140,coffee,combo,-1,-1,2,0.83505
+teatime,frame_00140,coffee,combo,-1,-1,3,0.276442
+teatime,frame_00140,coffee,combo,-1,-1,3,0.732646
+teatime,frame_00140,coffee,combo,-1,-1,3,0.732646
+teatime,frame_00140,coffee,combo,-1,-1,2,0.732646
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,coffee,combo,-1,-1,2,0.0
+teatime,frame_00140,three cookies,c0,-1,-1,2,0.929341
+teatime,frame_00140,three cookies,root,3,23,1,0.929341
+teatime,frame_00140,three cookies,root,3,944,1,0.0
+teatime,frame_00140,three cookies,root,3,0,1,0.0
+teatime,frame_00140,three cookies,hier,2,43,1,0.555891
+teatime,frame_00140,three cookies,hier,2,32,1,0.385
+teatime,frame_00140,three cookies,hier,3,944,1,0.0
+teatime,frame_00140,three cookies,deep,1,68,1,0.433164
+teatime,frame_00140,three cookies,deep,1,52,1,0.384574
+teatime,frame_00140,three cookies,deep,1,186,1,0.0
+teatime,frame_00140,three cookies,deep,1,755,1,0.0
+teatime,frame_00140,three cookies,deep,1,340,1,0.081605
+teatime,frame_00140,three cookies,deep,1,636,1,0.037065
+teatime,frame_00140,three cookies,deep,2,43,1,0.555891
+teatime,frame_00140,three cookies,deep,2,32,1,0.385
+teatime,frame_00140,three cookies,deep,2,1782,1,0.0
+teatime,frame_00140,three cookies,deep,2,473,1,0.0
+teatime,frame_00140,three cookies,deep,2,1081,1,0.0
+teatime,frame_00140,three cookies,deep,2,932,1,0.0
+teatime,frame_00140,three cookies,deep,2,42,1,0.0
+teatime,frame_00140,three cookies,deep,2,422,1,0.0
+teatime,frame_00140,three cookies,deep,2,77,1,0.0
+teatime,frame_00140,three cookies,deep,2,1518,1,0.0
+teatime,frame_00140,three cookies,deep,3,23,1,0.929341
+teatime,frame_00140,three cookies,deep,3,944,1,0.0
+teatime,frame_00140,three cookies,deep,3,0,1,0.0
+teatime,frame_00140,three cookies,deep,3,856,1,0.0
+teatime,frame_00140,three cookies,deep,3,7,1,0.009491
+teatime,frame_00140,three cookies,deep,3,390,1,0.0
+teatime,frame_00140,three cookies,deep,3,612,1,0.0
+teatime,frame_00140,three cookies,deep,3,44,1,0.0
+teatime,frame_00140,three cookies,deep,3,101,1,0.0
+teatime,frame_00140,three cookies,deep,3,123,1,0.0
+teatime,frame_00140,three cookies,combo,-1,-1,2,0.385
+teatime,frame_00140,three cookies,combo,-1,-1,2,0.555891
+teatime,frame_00140,three cookies,combo,-1,-1,3,0.929341
+teatime,frame_00140,three cookies,combo,-1,-1,2,0.929341

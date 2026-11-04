@@ -1,0 +1,51 @@
+scene,frame,prompt,pred_px,ncand,tot,vis,frac
+figurines,frame_00041,tesla door handle,0,3,2503,0,0.0
+figurines,frame_00195,bag,0,2,279,0,0.0
+figurines,frame_00041,old camera,3962,1,2557,1483,0.58
+figurines,frame_00041,toy elephant,7888,1,1760,1390,0.7898
+figurines,frame_00041,waldo,2806,1,47,47,1.0
+figurines,frame_00041,porcelain hand,204,1,75,72,0.96
+figurines,frame_00041,rubber duck with hat,13703,3,2708,2272,0.839
+figurines,frame_00041,rubber duck with buoy,9013,2,2015,1663,0.8253
+figurines,frame_00041,pink ice cream,4650,1,561,544,0.9697
+figurines,frame_00041,red toy chair,20775,1,1145,1082,0.945
+ramen,frame_00006,bowl,0,1,5495,0,0.0
+ramen,frame_00024,bowl,0,1,5495,0,0.0
+ramen,frame_00024,onion segments,0,6,3926,283,0.0721
+ramen,frame_00060,sake cup,0,3,15510,1,0.0001
+ramen,frame_00060,onion segments,0,6,3926,279,0.0711
+ramen,frame_00065,bowl,0,1,5495,0,0.0
+ramen,frame_00081,napkin,0,1,6596,3,0.0005
+ramen,frame_00119,onion segments,0,6,3926,230,0.0586
+ramen,frame_00128,hand,0,4,501,0,0.0
+ramen,frame_00128,napkin,0,1,6596,2,0.0003
+ramen,frame_00006,chopsticks,7536,2,7087,6152,0.8681
+ramen,frame_00006,egg,6754,2,4310,4233,0.9821
+ramen,frame_00006,nori,19525,3,13951,11022,0.7901
+ramen,frame_00006,napkin,11,1,6596,76,0.0115
+ramen,frame_00006,sake cup,21831,3,15510,3075,0.1983
+ramen,frame_00006,wavy noodles,5493,2,9246,4069,0.4401
+ramen,frame_00006,kamaboko,2323,1,1089,1078,0.9899
+ramen,frame_00006,plate,48328,4,10097,3903,0.3866
+teatime,frame_00025,hooves,0,1,74,0,0.0
+teatime,frame_00043,hooves,0,1,74,0,0.0
+teatime,frame_00002,stuffed bear,147899,1,70334,56191,0.7989
+teatime,frame_00002,coffee mug,2799,1,4543,3915,0.8618
+teatime,frame_00002,bag of cookies,6802,3,13641,11554,0.847
+teatime,frame_00002,sheep,65580,1,26383,18182,0.6892
+teatime,frame_00002,apple,1667,1,1583,1393,0.88
+teatime,frame_00002,paper napkin,5390,1,2491,2142,0.8599
+teatime,frame_00002,plate,4211,4,7981,6251,0.7832
+teatime,frame_00002,tea in a glass,2727,1,3241,2838,0.8757
+waldo_kitchen,frame_00053,ottolenghi,0,1,64,0,0.0
+waldo_kitchen,frame_00089,cabinet,0,4,58098,0,0.0
+waldo_kitchen,frame_00140,spoon,0,1,1638,0,0.0
+waldo_kitchen,frame_00154,knife,0,1,2820,0,0.0
+waldo_kitchen,frame_00053,knife,5681,1,2820,2683,0.9514
+waldo_kitchen,frame_00053,yellow desk,67731,1,7540,1994,0.2645
+waldo_kitchen,frame_00053,toaster,9639,1,4051,3840,0.9479
+waldo_kitchen,frame_00053,Stainless steel pots,15778,1,7595,6335,0.8341
+waldo_kitchen,frame_00053,pour-over vessel,7139,2,8827,1028,0.1165
+waldo_kitchen,frame_00066,plastic ladle,3234,1,1638,1530,0.9341
+waldo_kitchen,frame_00066,refrigerator,73067,1,64148,27249,0.4248
+waldo_kitchen,frame_00066,pot,20370,4,18824,6781,0.3602

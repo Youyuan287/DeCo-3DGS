@@ -1,0 +1,1196 @@
+scene,image,prompt,kind,level,index,n_nodes,iou
+waldo_kitchen,frame_00053,knife,c0,3,48,1,0.439924
+waldo_kitchen,frame_00053,knife,root,3,48,1,0.439924
+waldo_kitchen,frame_00053,knife,root,3,38,1,0.237065
+waldo_kitchen,frame_00053,knife,root,3,63,1,0.0
+waldo_kitchen,frame_00053,knife,root,3,61,1,0.003683
+waldo_kitchen,frame_00053,knife,root,3,110,1,0.0
+waldo_kitchen,frame_00053,knife,hier,3,48,1,0.439924
+waldo_kitchen,frame_00053,knife,hier,2,99,1,0.003367
+waldo_kitchen,frame_00053,knife,hier,3,38,1,0.237065
+waldo_kitchen,frame_00053,knife,hier,3,63,1,0.0
+waldo_kitchen,frame_00053,knife,hier,3,110,1,0.0
+waldo_kitchen,frame_00053,knife,deep,1,2086,1,0.0
+waldo_kitchen,frame_00053,knife,deep,1,2336,1,0.0
+waldo_kitchen,frame_00053,knife,deep,1,229,1,0.351061
+waldo_kitchen,frame_00053,knife,deep,1,1387,1,0.0
+waldo_kitchen,frame_00053,knife,deep,1,395,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,74,1,0.439924
+waldo_kitchen,frame_00053,knife,deep,2,99,1,0.003367
+waldo_kitchen,frame_00053,knife,deep,2,59,1,0.237065
+waldo_kitchen,frame_00053,knife,deep,2,101,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,186,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,198,1,0.166274
+waldo_kitchen,frame_00053,knife,deep,2,209,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,328,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,149,1,0.0
+waldo_kitchen,frame_00053,knife,deep,2,499,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,48,1,0.439924
+waldo_kitchen,frame_00053,knife,deep,3,38,1,0.237065
+waldo_kitchen,frame_00053,knife,deep,3,63,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,61,1,0.003683
+waldo_kitchen,frame_00053,knife,deep,3,110,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,119,1,0.181671
+waldo_kitchen,frame_00053,knife,deep,3,56,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,166,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,292,1,0.0
+waldo_kitchen,frame_00053,knife,deep,3,287,1,0.0
+waldo_kitchen,frame_00053,knife,combo,2,99,1,0.003367
+waldo_kitchen,frame_00053,knife,combo,3,38,1,0.237065
+waldo_kitchen,frame_00053,knife,combo,3,63,1,0.0
+waldo_kitchen,frame_00053,knife,combo,3,110,1,0.0
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.441834
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.634322
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.439924
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.433364
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.251134
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.003367
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.003367
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.237065
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.237065
+waldo_kitchen,frame_00053,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,yellow desk,c0,2,43,1,0.939203
+waldo_kitchen,frame_00053,yellow desk,root,3,30,1,0.535313
+waldo_kitchen,frame_00053,yellow desk,root,3,16,1,0.0
+waldo_kitchen,frame_00053,yellow desk,root,3,31,1,0.0
+waldo_kitchen,frame_00053,yellow desk,hier,2,43,1,0.939203
+waldo_kitchen,frame_00053,yellow desk,hier,2,37,1,0.0
+waldo_kitchen,frame_00053,yellow desk,hier,2,91,1,0.0
+waldo_kitchen,frame_00053,yellow desk,hier,2,44,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,1,98,1,0.811263
+waldo_kitchen,frame_00053,yellow desk,deep,1,214,1,0.040798
+waldo_kitchen,frame_00053,yellow desk,deep,1,478,1,0.084529
+waldo_kitchen,frame_00053,yellow desk,deep,1,3468,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,1,3298,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,2,43,1,0.939203
+waldo_kitchen,frame_00053,yellow desk,deep,2,559,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,2,41,1,0.003308
+waldo_kitchen,frame_00053,yellow desk,deep,2,191,1,0.010251
+waldo_kitchen,frame_00053,yellow desk,deep,2,37,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,2,91,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,2,44,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,2,237,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,3,30,1,0.535313
+waldo_kitchen,frame_00053,yellow desk,deep,3,16,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,3,31,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,3,281,1,0.0
+waldo_kitchen,frame_00053,yellow desk,deep,3,114,1,0.010137
+waldo_kitchen,frame_00053,yellow desk,deep,3,79,1,2.7e-05
+waldo_kitchen,frame_00053,yellow desk,deep,3,103,1,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,2,37,1,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,2,91,1,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,2,44,1,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.939203
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.939203
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.939203
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,yellow desk,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,toaster,c0,3,53,1,0.952188
+waldo_kitchen,frame_00053,toaster,root,3,53,1,0.952188
+waldo_kitchen,frame_00053,toaster,root,3,106,1,0.000153
+waldo_kitchen,frame_00053,toaster,root,3,301,1,0.0
+waldo_kitchen,frame_00053,toaster,root,3,279,1,0.0
+waldo_kitchen,frame_00053,toaster,root,3,102,1,0.0
+waldo_kitchen,frame_00053,toaster,hier,3,53,1,0.952188
+waldo_kitchen,frame_00053,toaster,hier,3,106,1,0.000153
+waldo_kitchen,frame_00053,toaster,hier,3,301,1,0.0
+waldo_kitchen,frame_00053,toaster,hier,3,279,1,0.0
+waldo_kitchen,frame_00053,toaster,hier,3,102,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,3309,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,560,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,2518,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,1931,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,346,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,2465,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,2369,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,1,211,1,0.293482
+waldo_kitchen,frame_00053,toaster,deep,2,611,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,85,1,0.942727
+waldo_kitchen,frame_00053,toaster,deep,2,185,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,122,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,872,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,6,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,565,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,2,659,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,53,1,0.952188
+waldo_kitchen,frame_00053,toaster,deep,3,106,1,0.000153
+waldo_kitchen,frame_00053,toaster,deep,3,301,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,279,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,102,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,133,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,130,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,144,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,139,1,0.0
+waldo_kitchen,frame_00053,toaster,deep,3,173,1,0.0
+waldo_kitchen,frame_00053,toaster,combo,3,106,1,0.000153
+waldo_kitchen,frame_00053,toaster,combo,3,301,1,0.0
+waldo_kitchen,frame_00053,toaster,combo,3,279,1,0.0
+waldo_kitchen,frame_00053,toaster,combo,3,102,1,0.0
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.458078
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.95209
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.952188
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.952188
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.000153
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.000153
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.000153
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,toaster,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,c0,3,74,1,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,root,3,74,1,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,root,3,49,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,root,3,102,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,root,3,264,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,root,3,218,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,hier,3,74,1,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,hier,2,80,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,hier,3,102,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,hier,3,264,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,hier,3,218,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,1,1449,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,1,318,1,0.428179
+waldo_kitchen,frame_00053,Stainless steel pots,deep,1,864,1,0.001043
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,117,1,0.330996
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,80,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,166,1,0.170493
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,544,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,267,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,503,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,172,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,462,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,359,1,0.00768
+waldo_kitchen,frame_00053,Stainless steel pots,deep,2,342,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,74,1,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,49,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,102,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,264,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,218,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,237,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,109,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,7,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,349,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,deep,3,39,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,2,80,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,3,102,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,3,264,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,3,218,1,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.461931
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,Stainless steel pots,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,c0,-1,-1,2,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,root,3,40,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,root,3,79,1,0.866299
+waldo_kitchen,frame_00053,pour-over vessel,root,3,88,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,root,3,73,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,root,3,160,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,hier,3,40,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,hier,2,251,1,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,hier,2,116,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,hier,3,88,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,hier,3,160,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,1,2369,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,1,3189,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,1,962,1,0.43837
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,251,1,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,116,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,611,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,150,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,71,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,246,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,312,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,2,61,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,40,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,79,1,0.866299
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,88,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,73,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,160,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,77,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,46,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,172,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,204,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,deep,3,116,1,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,3,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,3,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,3,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.869992
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,pour-over vessel,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,c0,3,269,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,root,3,269,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,root,3,218,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,root,3,264,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,root,3,4,1,0.975669
+waldo_kitchen,frame_00053,ottolenghi,root,3,266,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,hier,3,269,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,hier,3,218,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,hier,2,125,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,hier,3,264,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,hier,3,266,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,1,112,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,1,880,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,1,423,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,549,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,788,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,125,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,611,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,608,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,150,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,159,1,0.222858
+waldo_kitchen,frame_00053,ottolenghi,deep,2,116,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,2,544,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,269,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,218,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,264,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,4,1,0.975669
+waldo_kitchen,frame_00053,ottolenghi,deep,3,266,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,244,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,367,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,185,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,88,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,deep,3,293,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,3,218,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,2,125,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,3,264,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,3,266,1,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00053,ottolenghi,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,c0,2,362,1,0.84065
+waldo_kitchen,frame_00066,plastic ladle,root,3,158,1,0.573477
+waldo_kitchen,frame_00066,plastic ladle,root,3,21,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,root,3,169,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,root,3,73,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,root,3,88,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,hier,2,362,1,0.84065
+waldo_kitchen,frame_00066,plastic ladle,hier,2,813,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,hier,2,116,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,hier,3,21,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,hier,2,150,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,hier,3,169,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,1216,1,0.837581
+waldo_kitchen,frame_00066,plastic ladle,deep,1,2090,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,519,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,2762,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,3586,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,1803,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,1,3446,1,0.006849
+waldo_kitchen,frame_00066,plastic ladle,deep,1,2233,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,362,1,0.84065
+waldo_kitchen,frame_00066,plastic ladle,deep,2,339,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,116,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,601,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,150,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,114,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,301,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,556,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,2,158,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,158,1,0.573477
+waldo_kitchen,frame_00066,plastic ladle,deep,3,21,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,169,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,73,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,88,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,87,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,62,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,160,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,84,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,deep,3,142,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,2,813,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,2,116,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,3,21,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,2,150,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,3,169,1,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.836476
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.84065
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.84065
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.84065
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.508775
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,plastic ladle,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,c0,3,3,1,0.982256
+waldo_kitchen,frame_00066,refrigerator,root,3,3,1,0.982256
+waldo_kitchen,frame_00066,refrigerator,root,3,10,1,0.0
+waldo_kitchen,frame_00066,refrigerator,root,3,7,1,0.0
+waldo_kitchen,frame_00066,refrigerator,root,3,308,1,0.0
+waldo_kitchen,frame_00066,refrigerator,root,3,218,1,0.0
+waldo_kitchen,frame_00066,refrigerator,hier,3,3,1,0.982256
+waldo_kitchen,frame_00066,refrigerator,hier,3,10,1,0.0
+waldo_kitchen,frame_00066,refrigerator,hier,3,7,1,0.0
+waldo_kitchen,frame_00066,refrigerator,hier,2,462,1,0.0
+waldo_kitchen,frame_00066,refrigerator,hier,3,308,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,1197,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,1645,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,2908,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,2664,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,768,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,1619,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,2523,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,1460,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,1561,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,1,47,1,0.218861
+waldo_kitchen,frame_00066,refrigerator,deep,2,14,1,0.235769
+waldo_kitchen,frame_00066,refrigerator,deep,2,21,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,2,419,1,0.000278
+waldo_kitchen,frame_00066,refrigerator,deep,2,39,1,0.030841
+waldo_kitchen,frame_00066,refrigerator,deep,2,3,1,0.667287
+waldo_kitchen,frame_00066,refrigerator,deep,2,544,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,2,611,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,2,503,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,2,437,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,2,462,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,3,1,0.982256
+waldo_kitchen,frame_00066,refrigerator,deep,3,10,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,7,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,308,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,218,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,264,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,9,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,239,1,0.0
+waldo_kitchen,frame_00066,refrigerator,deep,3,113,1,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,3,10,1,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,3,7,1,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,2,462,1,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,3,308,1,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.733341
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.982256
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.982256
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.982256
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,refrigerator,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,c0,-1,-1,4,0.95001
+waldo_kitchen,frame_00066,pot,root,3,49,1,0.949291
+waldo_kitchen,frame_00066,pot,root,3,160,1,0.0
+waldo_kitchen,frame_00066,pot,root,3,74,1,0.0
+waldo_kitchen,frame_00066,pot,root,3,109,1,0.0
+waldo_kitchen,frame_00066,pot,root,3,46,1,0.0
+waldo_kitchen,frame_00066,pot,hier,2,80,1,0.95001
+waldo_kitchen,frame_00066,pot,hier,3,160,1,0.0
+waldo_kitchen,frame_00066,pot,hier,3,74,1,0.0
+waldo_kitchen,frame_00066,pot,hier,3,109,1,0.0
+waldo_kitchen,frame_00066,pot,hier,3,46,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,962,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,2619,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,239,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,295,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,287,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,170,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,827,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,649,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,3322,1,0.0
+waldo_kitchen,frame_00066,pot,deep,1,1690,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,80,1,0.95001
+waldo_kitchen,frame_00066,pot,deep,2,251,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,117,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,184,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,315,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,166,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,267,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,71,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,123,1,0.0
+waldo_kitchen,frame_00066,pot,deep,2,128,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,49,1,0.949291
+waldo_kitchen,frame_00066,pot,deep,3,160,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,74,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,109,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,46,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,79,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,172,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,77,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,102,1,0.0
+waldo_kitchen,frame_00066,pot,deep,3,88,1,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,4,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,4,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,4,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,4,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,5,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.95001
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,pot,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,c0,3,169,1,0.90344
+waldo_kitchen,frame_00066,spatula,root,3,169,1,0.90344
+waldo_kitchen,frame_00066,spatula,root,3,21,1,0.0
+waldo_kitchen,frame_00066,spatula,root,3,102,1,0.0
+waldo_kitchen,frame_00066,spatula,root,3,158,1,0.0
+waldo_kitchen,frame_00066,spatula,root,3,48,1,0.0
+waldo_kitchen,frame_00066,spatula,hier,3,169,1,0.90344
+waldo_kitchen,frame_00066,spatula,hier,2,30,1,0.0
+waldo_kitchen,frame_00066,spatula,hier,3,102,1,0.0
+waldo_kitchen,frame_00066,spatula,hier,2,362,1,0.0
+waldo_kitchen,frame_00066,spatula,hier,2,813,1,0.0
+waldo_kitchen,frame_00066,spatula,hier,3,48,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,1,2086,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,1,2336,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,1,939,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,1,1216,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,339,1,0.90344
+waldo_kitchen,frame_00066,spatula,deep,2,30,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,362,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,601,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,432,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,683,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,584,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,301,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,2,558,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,169,1,0.90344
+waldo_kitchen,frame_00066,spatula,deep,3,21,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,102,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,158,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,48,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,63,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,292,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,260,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,314,1,0.0
+waldo_kitchen,frame_00066,spatula,deep,3,287,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,2,30,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,3,102,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,2,362,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,2,813,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,3,48,1,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.90344
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.192696
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.398999
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.898872
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.90344
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00066,spatula,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,knife,c0,3,48,1,0.258207
+waldo_kitchen,frame_00089,knife,root,3,48,1,0.258207
+waldo_kitchen,frame_00089,knife,root,3,38,1,0.137759
+waldo_kitchen,frame_00089,knife,root,3,63,1,0.163734
+waldo_kitchen,frame_00089,knife,root,3,61,1,0.003349
+waldo_kitchen,frame_00089,knife,root,3,110,1,0.256216
+waldo_kitchen,frame_00089,knife,hier,3,48,1,0.258207
+waldo_kitchen,frame_00089,knife,hier,2,99,1,0.00311
+waldo_kitchen,frame_00089,knife,hier,3,38,1,0.137759
+waldo_kitchen,frame_00089,knife,hier,3,63,1,0.163734
+waldo_kitchen,frame_00089,knife,hier,3,110,1,0.256216
+waldo_kitchen,frame_00089,knife,deep,1,2086,1,0.0
+waldo_kitchen,frame_00089,knife,deep,1,2336,1,0.0
+waldo_kitchen,frame_00089,knife,deep,1,229,1,0.196632
+waldo_kitchen,frame_00089,knife,deep,1,1387,1,0.0
+waldo_kitchen,frame_00089,knife,deep,1,395,1,0.0
+waldo_kitchen,frame_00089,knife,deep,2,74,1,0.258207
+waldo_kitchen,frame_00089,knife,deep,2,99,1,0.00311
+waldo_kitchen,frame_00089,knife,deep,2,59,1,0.137759
+waldo_kitchen,frame_00089,knife,deep,2,101,1,0.163734
+waldo_kitchen,frame_00089,knife,deep,2,186,1,0.086323
+waldo_kitchen,frame_00089,knife,deep,2,198,1,0.091423
+waldo_kitchen,frame_00089,knife,deep,2,209,1,0.173581
+waldo_kitchen,frame_00089,knife,deep,2,328,1,0.0
+waldo_kitchen,frame_00089,knife,deep,2,149,1,0.0
+waldo_kitchen,frame_00089,knife,deep,2,499,1,0.0
+waldo_kitchen,frame_00089,knife,deep,3,48,1,0.258207
+waldo_kitchen,frame_00089,knife,deep,3,38,1,0.137759
+waldo_kitchen,frame_00089,knife,deep,3,63,1,0.163734
+waldo_kitchen,frame_00089,knife,deep,3,61,1,0.003349
+waldo_kitchen,frame_00089,knife,deep,3,110,1,0.256216
+waldo_kitchen,frame_00089,knife,deep,3,119,1,0.098825
+waldo_kitchen,frame_00089,knife,deep,3,56,1,0.0
+waldo_kitchen,frame_00089,knife,deep,3,166,1,0.0
+waldo_kitchen,frame_00089,knife,deep,3,292,1,0.0
+waldo_kitchen,frame_00089,knife,deep,3,287,1,0.0
+waldo_kitchen,frame_00089,knife,combo,2,99,1,0.00311
+waldo_kitchen,frame_00089,knife,combo,3,38,1,0.137759
+waldo_kitchen,frame_00089,knife,combo,3,63,1,0.163734
+waldo_kitchen,frame_00089,knife,combo,3,110,1,0.256216
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.261388
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.382274
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.406986
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.48361
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.144259
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.166774
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.259175
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.296578
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.384496
+waldo_kitchen,frame_00089,knife,combo,-1,-1,2,0.406478
+waldo_kitchen,frame_00089,ketchup,c0,-1,-1,2,0.827169
+waldo_kitchen,frame_00089,ketchup,root,3,104,1,0.827169
+waldo_kitchen,frame_00089,ketchup,root,3,316,1,0.011603
+waldo_kitchen,frame_00089,ketchup,root,3,58,1,0.0
+waldo_kitchen,frame_00089,ketchup,root,3,34,1,0.028991
+waldo_kitchen,frame_00089,ketchup,root,3,40,1,0.0
+waldo_kitchen,frame_00089,ketchup,hier,3,104,1,0.827169
+waldo_kitchen,frame_00089,ketchup,hier,2,93,1,0.0
+waldo_kitchen,frame_00089,ketchup,hier,2,602,1,0.0
+waldo_kitchen,frame_00089,ketchup,hier,2,284,1,0.0
+waldo_kitchen,frame_00089,ketchup,hier,3,316,1,0.011603
+waldo_kitchen,frame_00089,ketchup,hier,2,361,1,0.002851
+waldo_kitchen,frame_00089,ketchup,hier,2,61,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,235,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,494,1,0.5638
+waldo_kitchen,frame_00089,ketchup,deep,1,1093,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,3460,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,462,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,120,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,493,1,0.065898
+waldo_kitchen,frame_00089,ketchup,deep,1,2997,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,1175,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,1,1282,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,93,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,177,1,0.826833
+waldo_kitchen,frame_00089,ketchup,deep,2,339,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,602,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,284,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,53,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,31,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,2,667,1,0.011603
+waldo_kitchen,frame_00089,ketchup,deep,2,361,1,0.002851
+waldo_kitchen,frame_00089,ketchup,deep,2,359,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,104,1,0.827169
+waldo_kitchen,frame_00089,ketchup,deep,3,316,1,0.011603
+waldo_kitchen,frame_00089,ketchup,deep,3,58,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,34,1,0.028991
+waldo_kitchen,frame_00089,ketchup,deep,3,40,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,66,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,107,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,70,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,35,1,0.0
+waldo_kitchen,frame_00089,ketchup,deep,3,8,1,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.011603
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.002851
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.82212
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.821417
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,3,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,3,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,3,0.82212
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,3,0.821417
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,3,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.827169
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.011603
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.002851
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.011603
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.002851
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.014271
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.011603
+waldo_kitchen,frame_00089,ketchup,combo,-1,-1,2,0.002851
+waldo_kitchen,frame_00089,cabinet,c0,-1,-1,4,0.0
+waldo_kitchen,frame_00089,cabinet,root,3,264,1,0.0
+waldo_kitchen,frame_00089,cabinet,root,3,218,1,0.0
+waldo_kitchen,frame_00089,cabinet,root,3,308,1,0.0
+waldo_kitchen,frame_00089,cabinet,root,3,7,1,0.0
+waldo_kitchen,frame_00089,cabinet,root,3,239,1,0.0
+waldo_kitchen,frame_00089,cabinet,hier,3,264,1,0.0
+waldo_kitchen,frame_00089,cabinet,hier,2,462,1,0.0
+waldo_kitchen,frame_00089,cabinet,hier,3,308,1,0.0
+waldo_kitchen,frame_00089,cabinet,hier,3,7,1,0.0
+waldo_kitchen,frame_00089,cabinet,hier,3,239,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,2908,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,2369,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,1197,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,1619,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,2664,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,1460,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,3189,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,2290,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,2611,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,1,1993,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,544,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,503,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,462,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,8,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,54,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,652,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,94,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,19,1,0.935008
+waldo_kitchen,frame_00089,cabinet,deep,2,506,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,2,13,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,264,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,218,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,308,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,7,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,239,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,237,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,9,1,0.979547
+waldo_kitchen,frame_00089,cabinet,deep,3,10,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,120,1,0.0
+waldo_kitchen,frame_00089,cabinet,deep,3,123,1,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,4,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,4,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,4,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,4,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,5,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00089,cabinet,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,c0,-1,-1,6,0.809782
+waldo_kitchen,frame_00140,plate,root,3,62,1,0.860919
+waldo_kitchen,frame_00140,plate,root,3,130,1,0.0
+waldo_kitchen,frame_00140,plate,root,3,88,1,0.0
+waldo_kitchen,frame_00140,plate,root,3,73,1,0.0
+waldo_kitchen,frame_00140,plate,root,3,183,1,0.0
+waldo_kitchen,frame_00140,plate,hier,2,150,1,0.0
+waldo_kitchen,frame_00140,plate,hier,2,100,1,0.862432
+waldo_kitchen,frame_00140,plate,hier,2,116,1,0.0
+waldo_kitchen,frame_00140,plate,hier,2,307,1,0.0
+waldo_kitchen,frame_00140,plate,hier,2,624,1,0.0
+waldo_kitchen,frame_00140,plate,hier,3,130,1,0.0
+waldo_kitchen,frame_00140,plate,hier,3,183,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,423,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,2223,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,1147,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,841,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,311,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,2159,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,645,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,1148,1,0.0
+waldo_kitchen,frame_00140,plate,deep,1,1550,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,150,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,315,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,100,1,0.862432
+waldo_kitchen,frame_00140,plate,deep,2,116,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,307,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,420,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,312,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,229,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,635,1,0.0
+waldo_kitchen,frame_00140,plate,deep,2,352,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,62,1,0.860919
+waldo_kitchen,frame_00140,plate,deep,3,130,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,88,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,73,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,183,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,160,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,284,1,0.002037
+waldo_kitchen,frame_00140,plate,deep,3,1,1,0.003397
+waldo_kitchen,frame_00140,plate,deep,3,349,1,0.0
+waldo_kitchen,frame_00140,plate,deep,3,116,1,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.826852
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.783202
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.793482
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.783202
+waldo_kitchen,frame_00140,plate,combo,-1,-1,6,0.783202
+waldo_kitchen,frame_00140,plate,combo,-1,-1,7,0.783202
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.820784
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.862432
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.856569
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.862432
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.862432
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.832311
+waldo_kitchen,frame_00140,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,dark cup,c0,2,134,1,0.153703
+waldo_kitchen,frame_00140,dark cup,root,3,81,1,0.825431
+waldo_kitchen,frame_00140,dark cup,root,3,160,1,0.000743
+waldo_kitchen,frame_00140,dark cup,root,3,40,1,0.0
+waldo_kitchen,frame_00140,dark cup,root,3,27,1,0.0
+waldo_kitchen,frame_00140,dark cup,root,3,148,1,0.0
+waldo_kitchen,frame_00140,dark cup,hier,2,134,1,0.153703
+waldo_kitchen,frame_00140,dark cup,hier,3,160,1,0.000743
+waldo_kitchen,frame_00140,dark cup,hier,3,40,1,0.0
+waldo_kitchen,frame_00140,dark cup,hier,3,27,1,0.0
+waldo_kitchen,frame_00140,dark cup,hier,3,148,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,781,1,0.624945
+waldo_kitchen,frame_00140,dark cup,deep,1,962,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,1490,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,330,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,2281,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,1182,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,1,649,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,134,1,0.153703
+waldo_kitchen,frame_00140,dark cup,deep,2,263,1,0.699788
+waldo_kitchen,frame_00140,dark cup,deep,2,204,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,251,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,119,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,326,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,61,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,655,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,466,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,2,421,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,81,1,0.825431
+waldo_kitchen,frame_00140,dark cup,deep,3,160,1,0.000743
+waldo_kitchen,frame_00140,dark cup,deep,3,40,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,27,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,148,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,79,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,74,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,109,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,116,1,0.0
+waldo_kitchen,frame_00140,dark cup,deep,3,75,1,0.0
+waldo_kitchen,frame_00140,dark cup,combo,3,160,1,0.000743
+waldo_kitchen,frame_00140,dark cup,combo,3,40,1,0.0
+waldo_kitchen,frame_00140,dark cup,combo,3,27,1,0.0
+waldo_kitchen,frame_00140,dark cup,combo,3,148,1,0.0
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.119562
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.153703
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.089594
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.143038
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.000743
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.000479
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.000703
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,dark cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,frog cup,c0,-1,-1,2,0.777977
+waldo_kitchen,frame_00140,frog cup,root,3,46,1,0.81278
+waldo_kitchen,frame_00140,frog cup,root,3,172,1,3.6e-05
+waldo_kitchen,frame_00140,frog cup,root,3,160,1,0.0
+waldo_kitchen,frame_00140,frog cup,root,3,40,1,0.0
+waldo_kitchen,frame_00140,frog cup,root,3,77,1,0.0
+waldo_kitchen,frame_00140,frog cup,hier,3,46,1,0.81278
+waldo_kitchen,frame_00140,frog cup,hier,3,172,1,3.6e-05
+waldo_kitchen,frame_00140,frog cup,hier,3,160,1,0.0
+waldo_kitchen,frame_00140,frog cup,hier,3,40,1,0.0
+waldo_kitchen,frame_00140,frog cup,hier,3,77,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,1,239,1,0.111123
+waldo_kitchen,frame_00140,frog cup,deep,1,2619,1,0.00297
+waldo_kitchen,frame_00140,frog cup,deep,1,287,1,0.040605
+waldo_kitchen,frame_00140,frog cup,deep,1,170,1,0.625617
+waldo_kitchen,frame_00140,frog cup,deep,1,3322,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,1,171,1,0.064827
+waldo_kitchen,frame_00140,frog cup,deep,2,71,1,0.803076
+waldo_kitchen,frame_00140,frog cup,deep,2,246,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,346,1,3.6e-05
+waldo_kitchen,frame_00140,frog cup,deep,2,338,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,213,1,0.055303
+waldo_kitchen,frame_00140,frog cup,deep,2,61,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,123,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,315,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,134,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,2,203,1,9.3e-05
+waldo_kitchen,frame_00140,frog cup,deep,3,46,1,0.81278
+waldo_kitchen,frame_00140,frog cup,deep,3,172,1,3.6e-05
+waldo_kitchen,frame_00140,frog cup,deep,3,160,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,40,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,77,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,116,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,88,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,84,1,0.00053
+waldo_kitchen,frame_00140,frog cup,deep,3,81,1,0.0
+waldo_kitchen,frame_00140,frog cup,deep,3,87,1,0.0
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,2.7e-05
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,3.6e-05
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,2.4e-05
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.627751
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.81278
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.540289
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,3,0.60728
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,3,0.777977
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,3,0.525322
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.777977
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,frog cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,c0,2,362,1,0.0
+waldo_kitchen,frame_00140,spoon,root,3,158,1,0.0
+waldo_kitchen,frame_00140,spoon,root,3,142,1,0.0
+waldo_kitchen,frame_00140,spoon,root,3,21,1,0.0
+waldo_kitchen,frame_00140,spoon,root,3,102,1,0.0
+waldo_kitchen,frame_00140,spoon,root,3,87,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,2,362,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,2,305,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,3,142,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,3,21,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,3,102,1,0.0
+waldo_kitchen,frame_00140,spoon,hier,3,87,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,1,1216,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,1,3446,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,1,2250,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,1,2157,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,1,1741,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,362,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,305,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,584,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,339,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,556,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,73,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,31,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,337,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,153,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,2,144,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,158,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,142,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,21,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,102,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,87,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,84,1,0.026926
+waldo_kitchen,frame_00140,spoon,deep,3,90,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,186,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,284,1,0.0
+waldo_kitchen,frame_00140,spoon,deep,3,62,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,2,305,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,3,142,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,3,21,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,3,102,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,3,87,1,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,spoon,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,c0,-1,-1,3,0.852364
+waldo_kitchen,frame_00140,sink,root,3,1,1,0.852364
+waldo_kitchen,frame_00140,sink,root,3,39,1,0.0
+waldo_kitchen,frame_00140,sink,root,3,349,1,0.0
+waldo_kitchen,frame_00140,sink,root,3,88,1,0.0
+waldo_kitchen,frame_00140,sink,root,3,352,1,0.0
+waldo_kitchen,frame_00140,sink,hier,3,1,1,0.852364
+waldo_kitchen,frame_00140,sink,hier,3,39,1,0.0
+waldo_kitchen,frame_00140,sink,hier,3,349,1,0.0
+waldo_kitchen,frame_00140,sink,hier,2,624,1,0.0
+waldo_kitchen,frame_00140,sink,hier,3,352,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,295,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,417,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,367,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,292,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,140,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,1877,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,58,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,0,1,0.583591
+waldo_kitchen,frame_00140,sink,deep,1,841,1,0.0
+waldo_kitchen,frame_00140,sink,deep,1,3501,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,0,1,0.867413
+waldo_kitchen,frame_00140,sink,deep,2,411,1,0.000255
+waldo_kitchen,frame_00140,sink,deep,2,742,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,60,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,747,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,811,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,213,1,0.002881
+waldo_kitchen,frame_00140,sink,deep,2,544,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,150,1,0.0
+waldo_kitchen,frame_00140,sink,deep,2,623,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,1,1,0.852364
+waldo_kitchen,frame_00140,sink,deep,3,39,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,349,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,88,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,352,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,224,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,143,1,0.00242
+waldo_kitchen,frame_00140,sink,deep,3,217,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,218,1,0.0
+waldo_kitchen,frame_00140,sink,deep,3,237,1,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,3,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,4,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,4,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.852364
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00140,sink,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,c0,-1,-1,6,0.840339
+waldo_kitchen,frame_00154,plate,root,3,62,1,0.0
+waldo_kitchen,frame_00154,plate,root,3,130,1,0.0
+waldo_kitchen,frame_00154,plate,root,3,88,1,0.896626
+waldo_kitchen,frame_00154,plate,root,3,73,1,0.0
+waldo_kitchen,frame_00154,plate,root,3,183,1,0.0
+waldo_kitchen,frame_00154,plate,hier,2,150,1,0.897588
+waldo_kitchen,frame_00154,plate,hier,2,100,1,0.0
+waldo_kitchen,frame_00154,plate,hier,2,116,1,0.0
+waldo_kitchen,frame_00154,plate,hier,2,307,1,0.0
+waldo_kitchen,frame_00154,plate,hier,2,624,1,0.0
+waldo_kitchen,frame_00154,plate,hier,3,130,1,0.0
+waldo_kitchen,frame_00154,plate,hier,3,183,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,423,1,0.374059
+waldo_kitchen,frame_00154,plate,deep,1,2223,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,1147,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,841,1,0.344863
+waldo_kitchen,frame_00154,plate,deep,1,311,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,2159,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,645,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,1148,1,0.0
+waldo_kitchen,frame_00154,plate,deep,1,1550,1,0.099041
+waldo_kitchen,frame_00154,plate,deep,2,150,1,0.897588
+waldo_kitchen,frame_00154,plate,deep,2,315,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,100,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,116,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,307,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,420,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,312,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,229,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,635,1,0.0
+waldo_kitchen,frame_00154,plate,deep,2,352,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,62,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,130,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,88,1,0.896626
+waldo_kitchen,frame_00154,plate,deep,3,73,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,183,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,160,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,284,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,1,1,0.007772
+waldo_kitchen,frame_00154,plate,deep,3,349,1,0.0
+waldo_kitchen,frame_00154,plate,deep,3,116,1,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.896626
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.838654
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.839053
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.839127
+waldo_kitchen,frame_00154,plate,combo,-1,-1,6,0.838654
+waldo_kitchen,frame_00154,plate,combo,-1,-1,7,0.838654
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.841183
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.897588
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.897166
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.897082
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.897588
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.897588
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,plate,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,c0,3,48,1,0.0
+waldo_kitchen,frame_00154,knife,root,3,48,1,0.0
+waldo_kitchen,frame_00154,knife,root,3,38,1,0.0
+waldo_kitchen,frame_00154,knife,root,3,63,1,0.0
+waldo_kitchen,frame_00154,knife,root,3,61,1,0.0
+waldo_kitchen,frame_00154,knife,root,3,110,1,0.0
+waldo_kitchen,frame_00154,knife,hier,3,48,1,0.0
+waldo_kitchen,frame_00154,knife,hier,2,99,1,0.0
+waldo_kitchen,frame_00154,knife,hier,3,38,1,0.0
+waldo_kitchen,frame_00154,knife,hier,3,63,1,0.0
+waldo_kitchen,frame_00154,knife,hier,3,110,1,0.0
+waldo_kitchen,frame_00154,knife,deep,1,2086,1,0.0
+waldo_kitchen,frame_00154,knife,deep,1,2336,1,0.0
+waldo_kitchen,frame_00154,knife,deep,1,229,1,0.0
+waldo_kitchen,frame_00154,knife,deep,1,1387,1,0.0
+waldo_kitchen,frame_00154,knife,deep,1,395,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,74,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,99,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,59,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,101,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,186,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,198,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,209,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,328,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,149,1,0.0
+waldo_kitchen,frame_00154,knife,deep,2,499,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,48,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,38,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,63,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,61,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,110,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,119,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,56,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,166,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,292,1,0.0
+waldo_kitchen,frame_00154,knife,deep,3,287,1,0.0
+waldo_kitchen,frame_00154,knife,combo,2,99,1,0.0
+waldo_kitchen,frame_00154,knife,combo,3,38,1,0.0
+waldo_kitchen,frame_00154,knife,combo,3,63,1,0.0
+waldo_kitchen,frame_00154,knife,combo,3,110,1,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,knife,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,c0,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,root,3,40,1,0.731559
+waldo_kitchen,frame_00154,red cup,root,3,104,1,0.0
+waldo_kitchen,frame_00154,red cup,root,3,316,1,0.0
+waldo_kitchen,frame_00154,red cup,root,3,58,1,0.0
+waldo_kitchen,frame_00154,red cup,root,3,74,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,2,61,1,0.823781
+waldo_kitchen,frame_00154,red cup,hier,2,177,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,2,93,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,2,284,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,2,667,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,2,602,1,0.0
+waldo_kitchen,frame_00154,red cup,hier,3,74,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,462,1,0.167231
+waldo_kitchen,frame_00154,red cup,deep,1,494,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,1848,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,509,1,0.38519
+waldo_kitchen,frame_00154,red cup,deep,1,805,1,0.00769
+waldo_kitchen,frame_00154,red cup,deep,1,1093,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,2814,1,0.010088
+waldo_kitchen,frame_00154,red cup,deep,1,493,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,3460,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,1,558,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,61,1,0.823781
+waldo_kitchen,frame_00154,red cup,deep,2,177,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,93,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,284,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,667,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,602,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,359,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,32,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,92,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,2,361,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,40,1,0.731559
+waldo_kitchen,frame_00154,red cup,deep,3,104,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,316,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,58,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,74,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,204,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,88,1,0.018655
+waldo_kitchen,frame_00154,red cup,deep,3,135,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,244,1,0.0
+waldo_kitchen,frame_00154,red cup,deep,3,160,1,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,3,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,3,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,3,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,3,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,3,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.823781
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,red cup,combo,-1,-1,2,0.0
+waldo_kitchen,frame_00154,sink,c0,-1,-1,3,0.819553
+waldo_kitchen,frame_00154,sink,root,3,1,1,0.808907
+waldo_kitchen,frame_00154,sink,root,3,39,1,0.006646
+waldo_kitchen,frame_00154,sink,root,3,349,1,0.00756
+waldo_kitchen,frame_00154,sink,root,3,88,1,0.004103
+waldo_kitchen,frame_00154,sink,root,3,352,1,0.0
+waldo_kitchen,frame_00154,sink,hier,3,1,1,0.808907
+waldo_kitchen,frame_00154,sink,hier,3,39,1,0.006646
+waldo_kitchen,frame_00154,sink,hier,3,349,1,0.00756
+waldo_kitchen,frame_00154,sink,hier,2,624,1,6.4e-05
+waldo_kitchen,frame_00154,sink,hier,3,352,1,0.0
+waldo_kitchen,frame_00154,sink,deep,1,295,1,0.171962
+waldo_kitchen,frame_00154,sink,deep,1,417,1,0.070436
+waldo_kitchen,frame_00154,sink,deep,1,367,1,0.055291
+waldo_kitchen,frame_00154,sink,deep,1,292,1,0.0
+waldo_kitchen,frame_00154,sink,deep,1,140,1,0.006464
+waldo_kitchen,frame_00154,sink,deep,1,1877,1,0.0
+waldo_kitchen,frame_00154,sink,deep,1,58,1,0.00824
+waldo_kitchen,frame_00154,sink,deep,1,0,1,0.571104
+waldo_kitchen,frame_00154,sink,deep,1,841,1,0.0
+waldo_kitchen,frame_00154,sink,deep,1,3501,1,0.007106
+waldo_kitchen,frame_00154,sink,deep,2,0,1,0.810504
+waldo_kitchen,frame_00154,sink,deep,2,411,1,0.0
+waldo_kitchen,frame_00154,sink,deep,2,742,1,0.00756
+waldo_kitchen,frame_00154,sink,deep,2,60,1,0.006646
+waldo_kitchen,frame_00154,sink,deep,2,747,1,0.0
+waldo_kitchen,frame_00154,sink,deep,2,811,1,0.0
+waldo_kitchen,frame_00154,sink,deep,2,213,1,0.0
+waldo_kitchen,frame_00154,sink,deep,2,544,1,0.0
+waldo_kitchen,frame_00154,sink,deep,2,150,1,0.00392
+waldo_kitchen,frame_00154,sink,deep,2,623,1,0.0
+waldo_kitchen,frame_00154,sink,deep,3,1,1,0.808907
+waldo_kitchen,frame_00154,sink,deep,3,39,1,0.006646
+waldo_kitchen,frame_00154,sink,deep,3,349,1,0.00756
+waldo_kitchen,frame_00154,sink,deep,3,88,1,0.004103
+waldo_kitchen,frame_00154,sink,deep,3,352,1,0.0
+waldo_kitchen,frame_00154,sink,deep,3,224,1,0.0
+waldo_kitchen,frame_00154,sink,deep,3,143,1,4e-06
+waldo_kitchen,frame_00154,sink,deep,3,217,1,0.0
+waldo_kitchen,frame_00154,sink,deep,3,218,1,0.0
+waldo_kitchen,frame_00154,sink,deep,3,237,1,0.0
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.014253
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.014189
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.815247
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.815095
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.813536
+waldo_kitchen,frame_00154,sink,combo,-1,-1,3,0.813384
+waldo_kitchen,frame_00154,sink,combo,-1,-1,4,0.819705
+waldo_kitchen,frame_00154,sink,combo,-1,-1,4,0.819553
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.813384
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.815095
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.80906
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.808907
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.014189
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.00671
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.006646
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.007624
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,0.00756
+waldo_kitchen,frame_00154,sink,combo,-1,-1,2,6.4e-05
