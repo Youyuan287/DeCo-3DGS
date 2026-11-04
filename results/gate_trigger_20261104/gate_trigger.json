@@ -1,0 +1,23 @@
+{
+  "n": 208,
+  "clip_med": 0.803,
+  "gsam_med": 0.722,
+  "oracle_med": 0.921,
+  "oracle_ge50": 0.75,
+  "clip_ge50": 0.577,
+  "n_switch_helps": 52,
+  "auc_top1_clipbad": 0.273,
+  "auc_top1_switch": 0.349,
+  "auc_gap_clipbad": 0.506,
+  "auc_gap_switch": 0.551,
+  "auc_sd_clipbad": 0.357,
+  "auc_sd_switch": 0.469,
+  "auc_snr_clipbad": 0.476,
+  "auc_snr_switch": 0.429,
+  "auc_entropy_clipbad": 0.762,
+  "auc_entropy_switch": 0.609,
+  "auc_n_masks_clipbad": 0.457,
+  "auc_n_masks_switch": 0.512,
+  "auc_area_clipbad": 0.447,
+  "auc_area_switch": 0.525
+}

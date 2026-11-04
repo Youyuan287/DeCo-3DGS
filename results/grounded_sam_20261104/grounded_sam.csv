@@ -1,0 +1,62 @@
+scene,view,name,clip_rank1,gsam_iou,gsam_iou_samsel,sam_score,n_boxes_used,gt_px
+ramen,0,chopsticks,0,0.8174,0.8157,0.9807,1,1368
+ramen,0,egg,1,0.5016,0.5008,0.9963,1,23691
+ramen,0,glass of water,0,0.9434,0.8882,0.9778,1,34133
+ramen,0,pork belly,1,0.9857,0.9857,0.9958,1,36559
+ramen,0,wavy noodles in bowl,1,0.052,0.0,0.9616,1,21517
+ramen,0,yellow bowl,1,0.9805,0.9805,0.9926,1,109674
+ramen,1,chopsticks,0,0.0,0.0,0.0,1,168
+ramen,1,egg,1,0.4767,0.4608,0.9872,1,37426
+ramen,1,glass of water,0,0.9463,0.9339,0.9791,1,8769
+ramen,1,pork belly,1,0.6659,0.662,0.9957,1,53405
+ramen,1,wavy noodles in bowl,1,0.0876,0.0,0.868,1,32021
+ramen,1,yellow bowl,1,0.9848,0.9826,0.987,1,156388
+ramen,2,chopsticks,0,0.0,0.0,0.0,1,7142
+ramen,2,egg,1,0.6118,0.602,0.9867,1,19727
+ramen,2,glass of water,0,0.9921,0.9921,1.0074,1,59558
+ramen,2,pork belly,1,0.9814,0.9776,0.9928,1,26781
+ramen,2,wavy noodles in bowl,0,0.0129,0.0,0.957,1,19178
+ramen,2,yellow bowl,1,0.9754,0.9751,0.9864,1,65302
+teatime,0,apple,1,0.9458,0.9446,0.9961,1,1478
+teatime,0,bag of cookies,0,0.9633,0.9605,0.9979,1,4846
+teatime,0,coffee mug,1,0.8876,0.8876,0.9669,1,2755
+teatime,0,cookies on a plate,1,0.2236,0.0022,0.9779,1,1773
+teatime,0,paper napkin,0,0.9655,0.9648,1.005,1,6057
+teatime,0,plate,1,0.889,0.889,0.9923,1,5638
+teatime,0,sheep,1,0.9794,0.9794,0.9976,1,66846
+teatime,0,spoon handle,0,0.8089,0.7704,0.947,1,273
+teatime,0,stuffed bear,1,0.8516,0.8509,1.002,1,134173
+teatime,0,tea in a glass,1,0.9381,0.9381,0.968,1,3322
+teatime,2,apple,1,0.9694,0.9683,0.9996,1,4366
+teatime,2,cookies on a plate,1,0.2462,0.0005,0.9874,1,5354
+teatime,2,plate,0,0.9171,0.9156,0.9949,1,16334
+teatime,2,sheep,1,0.9869,0.9857,1.0013,1,92180
+teatime,2,tea in a glass,1,0.9769,0.9768,0.9905,1,9009
+figurines,0,green apple,0,0.9797,0.9797,1.0049,1,13438
+figurines,0,green toy chair,0,0.94,0.9389,0.987,1,9117
+figurines,0,old camera,0,0.4699,0.4606,0.98,1,26428
+figurines,0,porcelain hand,1,0.9524,0.9524,0.9849,1,7104
+figurines,0,red apple,1,0.9565,0.9565,0.9946,1,5334
+figurines,0,red toy chair,1,0.9722,0.9717,0.9984,1,10606
+figurines,0,rubber duck with red hat,1,0.9649,0.9505,0.9877,1,3363
+figurines,1,green apple,0,0.9685,0.9667,0.9943,1,7896
+figurines,1,green toy chair,1,0.966,0.966,0.9911,1,15586
+figurines,1,old camera,0,0.9731,0.4391,0.9649,1,11658
+figurines,1,porcelain hand,1,0.0,0.0,0.0,1,4540
+figurines,1,red apple,1,0.9698,0.9687,0.9924,1,6294
+figurines,1,red toy chair,0,0.9604,0.9604,0.9865,1,17496
+figurines,1,rubber duck with red hat,1,0.9639,0.9616,0.9907,1,5076
+figurines,2,green apple,1,0.9758,0.9727,1.0071,1,5812
+figurines,2,green toy chair,0,0.9542,0.9477,0.9879,1,8482
+figurines,2,old camera,0,0.9481,0.9444,0.9824,1,13416
+figurines,2,porcelain hand,0,0.0,0.0,0.0,1,1536
+figurines,2,red apple,1,0.9798,0.9798,1.0235,1,10572
+figurines,2,red toy chair,0,0.9679,0.9457,0.9839,1,8845
+figurines,2,rubber duck with red hat,1,0.0,0.0,0.0,1,1494
+figurines,3,green apple,1,0.9467,0.9465,0.98,1,2866
+figurines,3,green toy chair,1,0.9323,0.9323,0.9788,1,7117
+figurines,3,old camera,1,0.7426,0.7363,0.9599,1,19890
+figurines,3,porcelain hand,1,0.0,0.0,0.0,1,562
+figurines,3,red apple,1,0.9838,0.9838,1.0028,1,16583
+figurines,3,red toy chair,1,0.9389,0.9389,0.9808,1,7970
+figurines,3,rubber duck with red hat,0,0.0,0.0,0.0,1,1627

@@ -1,0 +1,9 @@
+{
+  "n_frames": 11,
+  "mean_share_a": 0.261,
+  "mean_share_b": 0.245,
+  "mean_share_r": 0.494,
+  "mean_agree_queryfree": 0.114,
+  "mean_std_a": 0.0229,
+  "mean_std_r": 0.0315
+}

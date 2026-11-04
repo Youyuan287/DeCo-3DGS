@@ -1,0 +1,15 @@
+{
+  "n": 22,
+  "argright_{}": 0.091,
+  "medgap_{}": -0.0635,
+  "argright_a photo of {}": 0.091,
+  "medgap_a photo of {}": -0.0488,
+  "argright_a {}": 0.091,
+  "medgap_a {}": -0.0546,
+  "argright_this is a {}": 0.091,
+  "medgap_this is a {}": -0.0494,
+  "argright_a close-up photo of {}": 0.045,
+  "medgap_a close-up photo of {}": -0.0465,
+  "upper_bound_wins": 0.136,
+  "med_upper_bound_gap": -0.0436
+}

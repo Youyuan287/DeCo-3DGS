@@ -1,0 +1,11 @@
+**The same operator under each benchmark's own protocol. Sign flips are the point: a column-axis operator helps only multi-class readouts, a set-level certificate helps only equal-size replacement on an open-vocabulary query axis.**
+
+| Operator | LERF-OVS | LERF-MASK | ScanNet-10 | 3D-OVS |
+|---|---|---|---|---|
+| C1 region-axis centring | -0.08 | +3.12 | +12.88 | -- |
+| C2 text lexicon, $\tau$-LSE | -3.98 | -- | +15.53 | -- |
+| score-side $zR$ | -- | -- | +5.62 | -- |
+| per-view evidence E0 | -0.18 | -- | +1.51 | -- |
+| decision certificate | +3.13 | -27.09 | -4.27 | -6.54 |
+
+Cells are $Delta$ in mIoU points. Columns: O-16/P1, M-04/P4, S-13/S-35/P5, D-11/P8. The certificate is evaluated on nesting in LERF-MASK, on the class axis in ScanNet and on the superpoint set in 3D-OVS; all three violate its equal-size, same-query premise. Grounded-SAM (O-28) is a 2D observation path with no 3D lift and is reported in Table~ref{tab:ceil}.

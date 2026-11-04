@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" font-family="Inter, Helvetica, Arial, sans-serif">
+  <rect width="900" height="470" fill="#ffffff"/>
+
+  <text x="450" y="30" text-anchor="middle" font-size="17" font-weight="700" fill="#111">
+    One operator, opposite sign on the two decision axes
+  </text>
+  <text x="450" y="50" text-anchor="middle" font-size="12" fill="#555">
+    Region-feature centering (&#945;=1), identical field, identical selection rule; only the readout axis changes
+  </text>
+
+  <!-- y axis -->
+  <line x1="70" y1="260" x2="850" y2="260" stroke="#999" stroke-width="1.2"/>
+  <line x1="70" y1="80"  x2="70"  y2="400" stroke="#ccc" stroke-width="1"/>
+  <g font-size="11" fill="#666" text-anchor="end">
+    <text x="62" y="84">+40%</text>
+    <text x="62" y="174">+20%</text>
+    <text x="62" y="264">0</text>
+    <text x="62" y="354">&#8722;20%</text>
+  </g>
+  <g stroke="#eee" stroke-width="1">
+    <line x1="70" y1="80"  x2="850" y2="80"/>
+    <line x1="70" y1="170" x2="850" y2="170"/>
+    <line x1="70" y1="350" x2="850" y2="350"/>
+  </g>
+
+  <!-- ===== panel 1: ScanNet ===== -->
+  <text x="245" y="76" text-anchor="middle" font-size="13" font-weight="600" fill="#222">ScanNet-10</text>
+
+  <!-- multiclass +30.7% -> y=122 -->
+  <rect x="150" y="122" width="76" height="138" fill="#2e7d32" opacity="0.85"/>
+  <text x="188" y="114" text-anchor="middle" font-size="12" font-weight="700" fill="#2e7d32">+30.7%</text>
+  <text x="188" y="277" text-anchor="middle" font-size="10.5" fill="#333">0.241 &#8594; 0.315</text>
+  <text x="188" y="292" text-anchor="middle" font-size="10.5" fill="#333">mIoU</text>
+
+  <!-- single-query -13.0% -> y=318 -->
+  <rect x="264" y="260" width="76" height="58" fill="#c62828" opacity="0.85"/>
+  <text x="302" y="336" text-anchor="middle" font-size="12" font-weight="700" fill="#c62828">&#8722;13.0%</text>
+  <text x="302" y="352" text-anchor="middle" font-size="10.5" fill="#333">AP 0.580 &#8594; 0.504</text>
+
+  <text x="188" y="382" text-anchor="middle" font-size="11" fill="#444">multi-class</text>
+  <text x="302" y="382" text-anchor="middle" font-size="11" fill="#444">single-query</text>
+
+  <!-- ===== panel 2: LERF-OVS ===== -->
+  <text x="665" y="76" text-anchor="middle" font-size="13" font-weight="600" fill="#222">LERF-OVS (ramen)</text>
+
+  <!-- multiclass +24.7% -> y=149 -->
+  <rect x="570" y="149" width="76" height="111" fill="#2e7d32" opacity="0.85"/>
+  <text x="608" y="141" text-anchor="middle" font-size="12" font-weight="700" fill="#2e7d32">+24.7%</text>
+  <text x="608" y="277" text-anchor="middle" font-size="10.5" fill="#333">0.260 &#8594; 0.324</text>
+  <text x="608" y="292" text-anchor="middle" font-size="10.5" fill="#333">mIoU</text>
+
+  <!-- single-query -2.7% -> y=272 -->
+  <rect x="684" y="260" width="76" height="12" fill="#c62828" opacity="0.85"/>
+  <text x="722" y="290" text-anchor="middle" font-size="12" font-weight="700" fill="#c62828">&#8722;2.7%</text>
+  <text x="722" y="306" text-anchor="middle" font-size="10.5" fill="#333">0.555 &#8594; 0.540</text>
+
+  <text x="608" y="382" text-anchor="middle" font-size="11" fill="#444">multi-class</text>
+  <text x="722" y="382" text-anchor="middle" font-size="11" fill="#444">single-query</text>
+
+  <!-- divider -->
+  <line x1="455" y1="66" x2="455" y2="395" stroke="#e5e5e5" stroke-width="1"/>
+
+  <!-- zero-control band -->
+  <rect x="70" y="410" width="780" height="46" fill="#f5f7fa" rx="4"/>
+  <text x="82" y="428" font-size="11.5" font-weight="600" fill="#222">Zero controls (predicted identity, measured bit-identical):</text>
+  <text x="82" y="445" font-size="11" fill="#444">
+    remove column bias on the single-query axis &#8212; LERF 9/9 frames identical (0.639 = 0.639) &#183; ScanNet 30/30 classes identical (AP 0.5797 = 0.5797)
+  </text>
+
+  <text x="450" y="466" text-anchor="middle" font-size="10" fill="#888">
+    ScanNet: 3 scenes (the ones used for the AP run); the 10-scene official record gives the same sign and size (+12.88 pooled, +31.6%). Per-scene sign varies (one of three is negative).
+  </text>
+</svg>

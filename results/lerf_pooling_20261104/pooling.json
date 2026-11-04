@@ -1,0 +1,16 @@
+{
+  "n": 61,
+  "n_typeA": 15,
+  "rank1_global": 0.639,
+  "meanrank_global": 4.26,
+  "typeA_dargright_global": 0.067,
+  "typeA_medgap_global": -0.0614,
+  "rank1_masked_mean": 0.541,
+  "meanrank_masked_mean": 4.97,
+  "typeA_dargright_masked_mean": 0.067,
+  "typeA_medgap_masked_mean": -0.0511,
+  "rank1_masked_max": 0.377,
+  "meanrank_masked_max": 8.85,
+  "typeA_dargright_masked_max": 0.2,
+  "typeA_medgap_masked_max": -0.0159
+}

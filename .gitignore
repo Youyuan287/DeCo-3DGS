@@ -12,3 +12,4 @@ part_grounding/
 digs_2610.16177.pdf
 _tmp/
 results/**/*_feats.npz
+.claude/settings.local.json

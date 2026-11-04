@@ -1,0 +1,2 @@
+image: SCENE_RESULT ramen mIoU=0.5400 flat=0.5263 queries=71 images=7
+none: SCENE_RESULT ramen mIoU=0.5548 flat=0.5433 queries=71 images=7

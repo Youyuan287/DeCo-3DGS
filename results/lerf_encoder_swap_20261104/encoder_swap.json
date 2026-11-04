@@ -1,0 +1,12 @@
+{
+  "n": 61,
+  "n_failures_baseline": 22,
+  "rank1_ViT-B-16": 0.639,
+  "meanrank_ViT-B-16": 4.26,
+  "fail_dargright_ViT-B-16": 0.091,
+  "fail_medgap_ViT-B-16": -0.0635,
+  "rank1_ViT-L-14-336": 0.623,
+  "meanrank_ViT-L-14-336": 3.46,
+  "fail_dargright_ViT-L-14-336": 0.227,
+  "fail_medgap_ViT-L-14-336": -0.0233
+}

@@ -1,0 +1,19 @@
+{
+  "n": 61,
+  "rank1_K1_s": 0.639,
+  "rank1_margin_s": 0.557,
+  "rank1_rand_s": 0.492,
+  "rank1_min_s": 0.541,
+  "rank1_K1_m": 0.574,
+  "rank1_margin_m": 0.475,
+  "rank1_rand_m": 0.459,
+  "rank1_min_m": 0.574,
+  "n_hard": 22,
+  "hard_rescue_margin": 0.227,
+  "hard_medgap_margin": 0.0232,
+  "hard_rescue_rand": 0.091,
+  "hard_medgap_rand": 0.0392,
+  "hard_rescue_min": 0.091,
+  "hard_medgap_min": 0.0309,
+  "hard_medgap_K1": 0.0324
+}

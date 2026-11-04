@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="230" viewBox="0 0 540 230" role="img" aria-label="Remaining headroom per benchmark"><style>
+text{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif}
+.grid{stroke:#e1e0d9;stroke-width:1}
+.baseline{stroke:#c3c2b7;stroke-width:1.5;stroke-dasharray:4 4}
+.conn{stroke:#898781;stroke-width:2;stroke-linecap:round}
+.ci{stroke:#52514e;stroke-width:2}
+.dot-base{fill:#898781}
+.dot-best{fill:#2a78d6}
+.dot-neg{fill:#e34948}
+.dot-oracle{fill:#fcfcfb;stroke:#2a78d6;stroke-width:3}
+.bar{fill:#2a78d6;opacity:.9}
+.empty{fill:#e1e0d9;opacity:.35}
+.tick{fill:#898781;font-size:11px;font-variant-numeric:tabular-nums}
+.lab{fill:#0b0b0b;font-size:12px}
+.sub{fill:#898781;font-size:11px}
+.val{fill:#0b0b0b;font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}
+.delta{fill:#52514e;font-size:11px;font-variant-numeric:tabular-nums}
+.cell{font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}
+.na{font-size:11px;fill:#898781}
+.note{font-size:11px;fill:#898781}
+</style><rect width="540" height="230" fill="#fcfcfb"/><line x1="150.0" y1="26" x2="150.0" y2="196" class="grid"/><text x="150.0" y="216" class="tick" text-anchor="middle">0</text><line x1="264.2857142857143" y1="26" x2="264.2857142857143" y2="196" class="grid"/><text x="264.2857142857143" y="216" class="tick" text-anchor="middle">10</text><line x1="378.57142857142856" y1="26" x2="378.57142857142856" y2="196" class="grid"/><text x="378.57142857142856" y="216" class="tick" text-anchor="middle">20</text><line x1="470.0" y1="26" x2="470.0" y2="196" class="grid"/><text x="470.0" y="216" class="tick" text-anchor="middle">28</text><text x="138" y="43" class="lab" text-anchor="end">LERF-OVS</text><text x="138" y="57" class="sub" text-anchor="end">67.11 → 67.51</text><rect x="150.0" y="39" width="4.6" height="14" rx="4" class="bar"><title>LERF-OVS: 0.40 mIoU points of headroom</title></rect><text x="162.6" y="50" class="val">0.40</text><text x="138" y="83" class="lab" text-anchor="end">LERF-MASK</text><text x="138" y="97" class="sub" text-anchor="end">66.60 → 72.99</text><rect x="150.0" y="79" width="73.0" height="14" rx="4" class="bar"><title>LERF-MASK: 6.39 mIoU points of headroom</title></rect><text x="231.0" y="90" class="val">6.39</text><text x="138" y="123" class="lab" text-anchor="end">ScanNet-10</text><text x="138" y="137" class="sub" text-anchor="end">51.7 → 76.9 (K10)</text><rect x="150.0" y="119" width="288.0" height="14" rx="4" class="bar"><title>ScanNet-10: 25.20 mIoU points of headroom</title></rect><text x="446.0" y="130" class="val">25.20</text><text x="138" y="163" class="lab" text-anchor="end">3D-OVS</text><text x="138" y="177" class="sub" text-anchor="end">70.05 → 95.94</text><rect x="150.0" y="159" width="295.9" height="14" rx="4" class="bar"><title>3D-OVS: 25.89 mIoU points of headroom</title></rect><text x="453.9" y="170" class="val">25.89</text><text x="150" y="228" class="sub">headroom = oracle − current, same readout</text></svg>

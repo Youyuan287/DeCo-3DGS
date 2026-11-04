@@ -1,0 +1,13 @@
+**Protocol cards. A number is comparable only to another number with the same P.**
+
+| P | Bench. | Name | Readout | Aggregation | Anchor | Comparability rule |
+|---|---|---|---|---|---|---|
+| P1 | LERF-OVS | official | single-query retrieval, gap selection then render | query mean within image -> mean over images -> mean over scenes (macro) | 0.6401 | Any number under P1 is comparable to 64.01. Naive flat mean over the 208 rows gives \textasciitilde{}0.63, not 0.6401. |
+| P2 | LERF-OVS | in-harness single candidate | one candidate per query (rank-1 of the NAG score order); no gap set | query mean within image -> image mean -> scene mean | 0.5565 | Diagnostic only. Never compare to P1: the gap set is what supplies most of the 0.64. |
+| P3 | LERF-MASK | Gaussian Grouping | single-query retrieval on held-out test views | mean over views per prompt -> mean over prompts | 0.6800 mIoU / 0.6444 BIoU | Pure-CLIP retrieval; no class denominator. BIoU uses dilation_ratio=0.02. |
+| P4 | LERF-MASK | set / prefix | choose k from the candidate prefix, then render | pair mean, weighted over scenes | 0.6660 | Gap rule already equals the global best fixed k (figurines k=1, ramen k=2). Different readout from P3; do not mix 0.6800 and 0.6660. |
+| P5 | ScanNet | K19 pooled | multi-class argmax over 19 NYU40 classes per root superpoint | pool intersection/union per class over scenes, then mean over the 18 present classes | 40.79 | bookshelf has 0 GT points in all 10 scenes. Fixed 19-divisor: multiply means by 18/19. |
+| P6 | ScanNet | macro | same readout, per-scene averaging | per scene mean over classes present in that scene, then mean over 10 scenes | 39.94 | Not interchangeable with P5. OpenGaussian additionally drops sigmoid(opacity)<0.1 and forces pred=0 where gt=0; we do neither. |
+| P7 | ScanNet | offline probe pipeline | root-superpoint reasoning with exported features and GT labels | per-scene mean | 0.384 (CLIP) / 0.451 (OpenSeg) | For relative comparisons only. The offline base sits \textasciitilde{}4-7 points above the official 40.79; absolute values are not comparable to P5. |
+| P8 | 3D-OVS | official | per-pixel similarity threshold then render | mean over classes with GT | 70.05 (ours) / 92.5 (paper) | Protocol verified: per-Gaussian oracle 0.9594 matches the paper's 94.4. The 22-point gap is feature resolution (masks per view), not protocol. |
+| P9 | LERF-OVS / LERF-MASK | 2D mask retrieval proxy | rank the pipeline own SAM mask pool by CLIP vs by Grounded-SAM | per query; no image or scene aggregation | 0.803 on LERF-OVS | 2D only: no 3D lift, no render, no mIoU. Not comparable to P1 or P3. |

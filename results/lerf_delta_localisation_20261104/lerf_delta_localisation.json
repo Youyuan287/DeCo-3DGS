@@ -1,0 +1,12 @@
+{
+  "failures": {
+    "n": 22,
+    "delta_argmax_right": 0.091,
+    "delta_gt_argmax_right": 0.136,
+    "med_delta_gap": -0.0635,
+    "med_delta_gt_gap": -0.0495
+  },
+  "consistency_pairs": 6,
+  "frac_items_all_views_same_sign": 0.833,
+  "mean_frac_positive": 0.111
+}

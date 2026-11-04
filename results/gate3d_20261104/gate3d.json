@@ -1,0 +1,19 @@
+{
+  "n": 145,
+  "n_switch_would_help": 35,
+  "clip_med": 0.8098,
+  "gsam_med": 0.5896,
+  "oracle_med": 0.8772,
+  "auc_top1": 0.547,
+  "auc_top1_clipbad": 0.404,
+  "auc_gap": 0.424,
+  "auc_gap_clipbad": 0.272,
+  "auc_sd": NaN,
+  "auc_sd_clipbad": NaN,
+  "auc_snr": NaN,
+  "auc_snr_clipbad": NaN,
+  "auc_ent": NaN,
+  "auc_ent_clipbad": NaN,
+  "auc_ztop": NaN,
+  "auc_ztop_clipbad": NaN
+}

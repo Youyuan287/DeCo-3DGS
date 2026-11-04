@@ -1,0 +1,49 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Falsified directions and superseded numbers, kept because they constrain the claim.}
+\label{tab:neg}
+\begin{tabular}{llllrlp{6.0cm}}
+\toprule
+ID & Bench. & P & Attempt & $\Delta$ & Status & Why it failed / why it is superseded \\
+\midrule
+O-12 & LERF-OVS & P1 & a\_g-alone & +0.97 & negative & Row bias helps alone but is not identifiable as pure bias \\
+O-13 & LERF-OVS & P1 & a\_g-plus-auditor-alpha0.25 & $-$0.36 & negative & Stacking a\_g on the auditor is monotonically destructive \\
+O-14 & LERF-OVS & P1 & a\_g-plus-auditor-alpha>=0.5 & $-$1.47 & negative & deep revisions drop from 6 to 0 \\
+O-15 & LERF-OVS & P1 & a\_g-shuffle-control & $-$4.40 & negative & Random-permutation control for a\_g \\
+O-22 & LERF-OVS & P1 & C1-plus-L2renorm & $-$17.15 & negative & renorm breaks the canon readout \\
+O-23 & LERF-OVS & P1 & C2-templates & $-$3.98 & negative & Widening the text bank widens the false-positive surface \\
+O-24 & LERF-OVS & P1 & gateE-LOSO & +3.59 & superseded & Contains a frozen LOSO GBM predicted-IoU column; not training-free; ablation only \\
+O-25 & LERF-OVS & P1 & route-B & +0.70 & superseded & Built field + gap patch on hn01; never re-verified \\
+O-26 & LERF-OVS & P1 & E0-per-view-evidence & $-$0.18 & negative & Mean per-view evidence replaces the released score \\
+O-27 & LERF-OVS & P2 & LOSO-logistic & +6.61 & negative & Supervised ranker; 8pp below pool oracle and not training-free \\
+O-28 & LERF-OVS & P9 & M8-grounded-sam-median & $-$8.10 & negative & CLIP mask ranking vs detector-top1-box -> SAM, LERF-OVS 208 queries; overall a wash, GSAM slightly worse \\
+O-29 & LERF-OVS & P9 & M8-grounded-sam-ge50 & $-$0.50 & negative & Fraction of queries with IoU>=0.5: 57.7\% CLIP vs 57.2\% GSAM \\
+O-33 & LERF-OVS & P1 & V2-visibility-reorder & $-$0.33 & negative & Recomputing the gap after visibility reorder is noise \\
+M-08 & LERF-MASK & P4 & M7-increment-pi0.9 & $-$1.97 & negative & At pi=0.9 the rule never grows \\
+M-09 & LERF-MASK & P4 & certificate-nested & $-$27.09 & negative & Nested sets violate B superset A => delta>=0; certificate only handles equal-size replacement \\
+S-13 & ScanNet & P5 & zR & +5.62 & superseded & Score-side per-class standardisation (S-mean\_g)/std\_g; 9/10 scenes; superseded by C1 \\
+S-14 & ScanNet & P5 & zR-plus-E0 & +1.51 & superseded & Correct text bank; per-scene signs mixed; no significance test \\
+S-15 & ScanNet & P5 & zR-plus-E0-wrong-text & +2.79 & superseded & Wrong text space (text\_features vs text\_bank.npz; class-name cos 0.495); do not cite \\
+S-16 & ScanNet & P5 & zR-plus-VCLS & +8.80 & negative & Independent VCLS gain over zR is only +0.39 (CI -0.03,+0.82) \\
+S-17 & ScanNet & P5 & certified-chain-C1C2 & +9.82 & superseded & Early C1 was per-view mask-mean centring (wrong operator); correct cluster-axis version gives 58.55 \\
+S-20 & ScanNet & P5 & region-op-image-mean & +8.53 & superseded & Other region-side operators, same base \\
+S-21 & ScanNet & P5 & region-op-image+text & +10.44 & superseded & Projection removal style arm \\
+S-22 & ScanNet & P5 & region-op-text-only & $-$2.60 & negative & Text-only calibration hurts \\
+S-23 & ScanNet & P5 & region-op-hub-only & +0.16 & negative & Hub direction only \\
+S-27 & ScanNet & P5 & openseg-forced & $-$14.59 & negative & Same operator forced on OpenSeg; gate should close (CMR 1.13) \\
+S-29 & ScanNet & P7 & C1-C2-on-openseg & +0.77 & negative & +C1 +2.61, +C2 -3.48, combined +0.77; none passes t>=2 and 8/10 \\
+S-32 & ScanNet & P5 & openseg-10scene-old & -- & superseded & Older draft number; superseded by the shipped 61.64 baseline \\
+S-34 & ScanNet & P5 & VCLS & +0.39 & negative & View centring independent gain over zR; standalone Ev-E0 +4.28 (CI 1.44,7.16) that does not propagate \\
+S-35 & ScanNet & P5 & certificate-on-class-axis & $-$4.27 & negative & Trigger 24-47\% vs 9\% on LERF; witness weaker than region on CLIP field \\
+S-36 & ScanNet & P5 & local-contrast & -- & negative & Erand -2.96, Eknn -2.89, Ehard -2.58, Epair -11.84 \\
+S-37 & ScanNet & P5 & matrix-normalisation & -- & negative & Sinkhorn/rank variants 45.54-47.57; colsub/colmul identity 48.77 \\
+S-38 & ScanNet & P5 & ICM-neighbourhood & -- & negative & lambda 0.5/1/2 -> 36.31/34.73/31.38, monotone degradation \\
+S-39 & ScanNet & P5 & decision-vote & -- & negative & zR+vote vs zR+mean; 10/10 scenes negative \\
+D-09 & 3D-OVS & P8 & level0-retrieval & -- & negative & bed, z2 threshold; finer level retrieves worse \\
+D-10 & 3D-OVS & P8 & reencode-pps64 & $-$16.88 & negative & bed; level-1 oracle also drops 77.35 -> 56.40 \\
+D-11 & 3D-OVS & P8 & decision-audit & $-$6.54 & negative & 4 of 5 revisions lose; bench -13.8, lawn -14.8, room -4.7, sofa +0.5 \\
+\bottomrule
+\end{tabular}
+\par\smallskip\footnotesize Negative results are reported under the protocol they were run on; a negative on one protocol is not evidence against the same operator under another.
+\end{table*}

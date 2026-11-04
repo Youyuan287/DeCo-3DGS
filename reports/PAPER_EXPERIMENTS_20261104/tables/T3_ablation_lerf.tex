@@ -1,0 +1,36 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{LERF-OVS ablation on the official readout (P1). Baseline is 0.6401 unless stated.}
+\label{tab:abl-lerf}
+\begin{tabular}{llrrrcclp{5.2cm}}
+\toprule
+ID & Ablation & Base & Value & $\Delta$ & 95\% CI & Status & R & Note \\
+\midrule
+O-01 & baseline & 64.0 & 64.0 & +0.00 &  & anchor & R0 & Official anchor, center=none, 208 queries, nested per-image->per-scene macro \\
+O-02 & M5-C\_tf & 64.0 & 65.7 & +1.71 &  & active & R0 & Scale-gated challenger inclusion; fires 20/208 \\
+O-03 & M6-mask-rerank & 64.0 & 65.8 & +1.81 &  & active & R0 & id\_top3 late-interaction rerank; prefix size fixed \\
+O-04 & M4-auditor & 64.0 & 67.1 & +3.13 & [+1.14, +5.48] & active & R0 & Equal-size incumbent/challenger, half-sample majority, pi=0.5; fires 19/208 \\
+O-05 & M4-deterministic & 64.0 & 67.2 & +3.15 &  & active & R1 & Deterministic gate variant; no bootstrap resampling \\
+O-06 & M4-cluster5 & 64.0 & 67.1 & +3.10 &  & active & R2 & Bootstrap resamples 5-frame view clusters instead of views \\
+O-07 & M4-cluster10 & 64.0 & 66.8 & +2.74 &  & active & R2 & 10-frame clusters \\
+O-08 & M4-crossfield & 63.9 & 66.9 & +2.99 &  & active & R2 & Auditor on the center=image field (63.93 baseline) \\
+O-09 & M4-leaveout & 64.0 & 66.8 & +2.77 &  & active & R2 & leave-query-view-out witness dump \\
+O-12 & a\_g-alone & 64.0 & 65.0 & +0.97 & [+0.12, +2.50] & negative & R1 & Row bias helps alone but is not identifiable as pure bias \\
+O-13 & a\_g-plus-auditor-alpha0.25 & 67.1 & 66.8 & $-$0.36 &  & negative & R2 & Stacking a\_g on the auditor is monotonically destructive \\
+O-14 & a\_g-plus-auditor-alpha>=0.5 & 67.1 & 65.6 & $-$1.47 &  & negative & R2 & deep revisions drop from 6 to 0 \\
+O-15 & a\_g-shuffle-control & 65.0 & 60.6 & $-$4.40 &  & negative & R2 & Random-permutation control for a\_g \\
+O-16 & option-oracle & 64.0 & 67.5 & +3.50 &  & oracle & R0 & Per-query best of released/C/mask; auditor consumes 88.6\% \\
+O-21 & C1-on & 64.0 & 63.9 & $-$0.08 &  & null & R1 & 173/208 queries bit-identical; single-query centre is provably a no-op \\
+O-22 & C1-plus-L2renorm & 64.0 & 46.9 & $-$17.15 &  & negative & R1 & renorm breaks the canon readout \\
+O-23 & C2-templates & 64.0 & 60.0 & $-$3.98 &  & negative & R1 & Widening the text bank widens the false-positive surface \\
+O-24 & gateE-LOSO & 64.0 & 67.6 & +3.59 &  & superseded & R2 & Contains a frozen LOSO GBM predicted-IoU column; not training-free; ablation only \\
+O-26 & E0-per-view-evidence & 64.0 & 63.8 & $-$0.18 &  & negative & R1 & Mean per-view evidence replaces the released score \\
+O-27 & LOSO-logistic & 55.6 & 62.3 & +6.61 &  & negative & R2 & Supervised ranker; 8pp below pool oracle and not training-free \\
+O-32 & V1-visible-prefix-prune & 64.0 & 64.0 & +0.00 &  & null & R0 & Pixel-identical: invisible prefix members already contribute 0 pixels on the official union readout \\
+O-33 & V2-visibility-reorder & 64.0 & 63.7 & $-$0.33 & [$-$2.20, +0.25] & negative & R0 & Recomputing the gap after visibility reorder is noise \\
+O-34 & V3-empty-render-guard & 64.0 & 65.2 & +1.50 & [+0.18, +3.14] & guard & R0 & 5/208, all ramen; readout sanity guard, not a contribution. 18/208 official predictions render empty: 10 recoverable, 8 coverage-bound \\
+\bottomrule
+\end{tabular}
+\par\smallskip\footnotesize All rows use the same 208 queries and the same evaluator. O-24 (0.6760) is a diagnostic, not a method: its module-C branch reads a frozen LOSO-GBM predicted IoU.
+\end{table*}

@@ -1,0 +1,10 @@
+/root/rivermind-data/repro/deco-b123/calib_20261104/ramen/csls: SCENE_RESULT ramen mIoU=0.4638 flat=0.4611 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_20261104/ramen/off: SCENE_RESULT ramen mIoU=0.5400 flat=0.5263 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_20261104/ramen/on: SCENE_RESULT ramen mIoU=0.3903 flat=0.3843 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_20261104/ramen/whiten: SCENE_RESULT ramen mIoU=0.4080 flat=0.3964 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_alpha_20261104/ramen/a0.0: SCENE_RESULT ramen mIoU=0.4403 flat=0.4299 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_alpha_20261104/ramen/a0.25: SCENE_RESULT ramen mIoU=0.4224 flat=0.4110 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_tc_20261104/ramen/csls_global: SCENE_RESULT ramen mIoU=0.4692 flat=0.4678 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_tc_20261104/ramen/csls_none: SCENE_RESULT ramen mIoU=0.4638 flat=0.4611 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_tc_20261104/ramen/off_global: SCENE_RESULT ramen mIoU=0.5125 flat=0.4974 queries=71 images=7
+/root/rivermind-data/repro/deco-b123/calib_tc_20261104/ramen/off_none: SCENE_RESULT ramen mIoU=0.5400 flat=0.5263 queries=71 images=7

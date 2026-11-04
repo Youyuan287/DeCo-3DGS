@@ -1,0 +1,9 @@
+{
+  "all": {
+    "n": 60,
+    "med_best_iou": 0.885,
+    "med_own_frac": 0.967,
+    "dominant_is_best": 0.667,
+    "med_dom_iou": 0.626
+  }
+}

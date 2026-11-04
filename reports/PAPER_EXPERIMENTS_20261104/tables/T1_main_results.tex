@@ -1,0 +1,43 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Deployable modules per benchmark. Each row is measured under its own protocol; absolute values are not comparable across benchmarks.}
+\label{tab:main}
+\begin{tabular}{llllrrrccl}
+\toprule
+Bench. & P & Module & Metric & Base & Value & $\Delta$ & 95\% CI & n & R \\
+\midrule
+LERF-OVS & P1 & baseline & mIoU & 64.0 & 64.0 & +0.00 &  & 208 & R0 \\
+ & P1 & M5-C\_tf & mIoU & 64.0 & 65.7 & +1.71 &  & 208 & R0 \\
+ & P1 & M6-mask-rerank & mIoU & 64.0 & 65.8 & +1.81 &  & 208 & R0 \\
+ & P1 & M4-auditor & mIoU & 64.0 & 67.1 & +3.13 & [+1.14, +5.48] & 208 & R0 \\
+ & P1 & M4-deterministic & mIoU & 64.0 & 67.2 & +3.15 &  & 208 & R1 \\
+ & P1 & M4-cluster5 & mIoU & 64.0 & 67.1 & +3.10 &  & 208 & R2 \\
+ & P1 & M4-cluster10 & mIoU & 64.0 & 66.8 & +2.74 &  & 208 & R2 \\
+ & P1 & M4-crossfield & mIoU & 63.9 & 66.9 & +2.99 &  & 208 & R2 \\
+ & P1 & M4-leaveout & mIoU & 64.0 & 66.8 & +2.77 &  & 208 & R2 \\
+ & P1 & M4-deep-family & mIoU & 29.1 & 65.1 & +36.01 &  & 25 & R0 \\
+ & P1 & M4-found-family & mIoU & 83.2 & 82.8 & $-$0.41 &  & 129 & R0 \\
+LERF-MASK & P3 & baseline & mIoU & -- & 68.0 & -- &  & 61 & R1 \\
+ & P4 & baseline & mIoU & -- & 66.6 & -- &  & 46 & R2 \\
+ & P4 & baseline-figurines & mIoU & -- & 73.1 & -- &  & 28 & R2 \\
+ & P4 & baseline-ramen & mIoU & -- & 56.5 & -- &  & 18 & R2 \\
+ & P3 & M1-C1 & mIoU & 68.0 & 71.1 & +3.12 &  & 61 & R1 \\
+ & P3 & M1-C1-BIoU & BIoU & 64.4 & 66.5 & +2.11 &  & 61 & R1 \\
+ & P4 & M7-increment-growth & mIoU & 73.1 & 75.9 & +2.78 &  & 28 & R2 \\
+ScanNet & P5 & baseline & mIoU & -- & 40.79 & -- &  & 10 & R3 \\
+ & P6 & baseline-macro & mIoU & -- & 39.94 & -- &  & 10 & R3 \\
+ & P5 & rebuilt-baseline & mIoU & -- & 41.05 & -- &  & 10 & R1 \\
+ & P5 & M1-C1 & mIoU & 40.79 & 53.67 & +12.88 &  & 10 & R3 \\
+ & P5 & M2-C2 & mIoU & 40.79 & 56.32 & +15.53 &  & 10 & R3 \\
+ & P5 & M1+M2-renorm1 & mIoU & 40.79 & 57.85 & +17.06 & [+5.47, +23.06] & 10 & R3 \\
+ & P5 & M1+M2-renorm0 & mIoU & 40.79 & 58.55 & +17.76 &  & 10 & R3 \\
+ & P6 & M1+M2-macro & mIoU & 39.94 & 53.30 & +13.36 &  & 10 & R3 \\
+ & P5 & M1+M2-rebuilt & mIoU & 41.05 & 56.05 & +15.00 &  & 10 & R1 \\
+ & P6 & rebuilt-macro & mIoU & 38.87 & 49.89 & +11.02 &  & 10 & R1 \\
+ & P5 & M1+M2-rebuilt-renorm1 & mIoU & 41.05 & 56.59 & +15.54 &  & 10 & R1 \\
+3D-OVS & P8 & baseline & mIoU & -- & 70.05 & -- &  & 5 & R3 \\
+\bottomrule
+\end{tabular}
+\par\smallskip\footnotesize P = protocol card in Table~\ref{tab:prot}. $\Delta$ and CI are in the metric's own units (mIoU points). R = reproduction level: R0 recomputable from this repo, R1 rerun on an existing cache, R2 needs re-encoding, R3 artefact missing.
+\end{table*}

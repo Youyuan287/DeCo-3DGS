@@ -1,0 +1,23 @@
+{
+  "n": 61,
+  "n_hit": 39,
+  "n_miss": 22,
+  "med_disc_hit": 0.0654,
+  "med_disc_miss": -0.0032,
+  "auc_disc_to_miss": 0.252,
+  "med_std_hit": 31.16,
+  "med_std_miss": 34.24,
+  "auc_std_to_miss": 0.534,
+  "med_grad_hit": 46.31,
+  "med_grad_miss": 51.39,
+  "auc_grad_to_miss": 0.497,
+  "med_area_frac_hit": 0.0125,
+  "med_area_frac_miss": 0.0122,
+  "auc_area_frac_to_miss": 0.433,
+  "med_aspect_hit": 1.14,
+  "med_aspect_miss": 1.245,
+  "auc_aspect_to_miss": 0.575,
+  "med_best_iou_hit": 0.8927,
+  "med_best_iou_miss": 0.8375,
+  "auc_best_iou_to_miss": 0.423
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="250" viewBox="0 0 540 250" role="img" aria-label="Baseline and best deployable module per benchmark"><style>
+text{font-family:Arial,"Helvetica Neue",Helvetica,sans-serif}
+.grid{stroke:#e1e0d9;stroke-width:1}
+.baseline{stroke:#c3c2b7;stroke-width:1.5;stroke-dasharray:4 4}
+.conn{stroke:#898781;stroke-width:2;stroke-linecap:round}
+.ci{stroke:#52514e;stroke-width:2}
+.dot-base{fill:#898781}
+.dot-best{fill:#2a78d6}
+.dot-neg{fill:#e34948}
+.dot-oracle{fill:#fcfcfb;stroke:#2a78d6;stroke-width:3}
+.bar{fill:#2a78d6;opacity:.9}
+.empty{fill:#e1e0d9;opacity:.35}
+.tick{fill:#898781;font-size:11px;font-variant-numeric:tabular-nums}
+.lab{fill:#0b0b0b;font-size:12px}
+.sub{fill:#898781;font-size:11px}
+.val{fill:#0b0b0b;font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}
+.delta{fill:#52514e;font-size:11px;font-variant-numeric:tabular-nums}
+.cell{font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}
+.na{font-size:11px;fill:#898781}
+.note{font-size:11px;fill:#898781}
+</style><rect width="540" height="250" fill="#fcfcfb"/><line x1="128.0" y1="30" x2="128.0" y2="212" class="grid"/><text x="128.0" y="232" class="tick" text-anchor="middle">0</text><line x1="223.0" y1="30" x2="223.0" y2="212" class="grid"/><text x="223.0" y="232" class="tick" text-anchor="middle">20</text><line x1="318.0" y1="30" x2="318.0" y2="212" class="grid"/><text x="318.0" y="232" class="tick" text-anchor="middle">40</text><line x1="413.0" y1="30" x2="413.0" y2="212" class="grid"/><text x="413.0" y="232" class="tick" text-anchor="middle">60</text><line x1="508.0" y1="30" x2="508.0" y2="212" class="grid"/><text x="508.0" y="232" class="tick" text-anchor="middle">80</text><text x="116" y="56" class="lab" text-anchor="end">LERF-OVS</text><text x="116" y="70" class="sub" text-anchor="end">P1</text><circle cx="432.0" cy="52" r="5" class="dot-base"><title>LERF-OVS baseline 64.01</title></circle><line x1="432.0" y1="52" x2="446.8" y2="52" class="conn"/><circle cx="446.8" cy="52" r="7" class="dot-best"><title>LERF-OVS best 67.11</title></circle><text x="460.8" y="56" class="val">67.11</text><text x="496.8" y="56" class="delta">+3.1</text><text x="116" y="98" class="lab" text-anchor="end">LERF-MASK</text><text x="116" y="112" class="sub" text-anchor="end">P3</text><circle cx="451.0" cy="94" r="5" class="dot-base"><title>LERF-MASK baseline 68.00</title></circle><line x1="451.0" y1="94" x2="465.8" y2="94" class="conn"/><circle cx="465.8" cy="94" r="7" class="dot-best"><title>LERF-MASK best 71.12</title></circle><text x="479.8" y="98" class="val">71.12</text><text x="515.8" y="98" class="delta">+3.1</text><text x="116" y="140" class="lab" text-anchor="end">ScanNet-10</text><text x="116" y="154" class="sub" text-anchor="end">P5</text><circle cx="321.8" cy="136" r="5" class="dot-base"><title>ScanNet-10 baseline 40.79</title></circle><line x1="321.8" y1="136" x2="406.1" y2="136" class="conn"/><circle cx="406.1" cy="136" r="7" class="dot-best"><title>ScanNet-10 best 58.55</title></circle><text x="420.1" y="140" class="val">58.55</text><text x="456.1" y="140" class="delta">+17.8</text><text x="116" y="182" class="lab" text-anchor="end">3D-OVS</text><text x="116" y="196" class="sub" text-anchor="end">P8</text><circle cx="460.7" cy="178" r="5" class="dot-base"><title>3D-OVS baseline 70.05</title></circle><text x="474.7" y="182" class="val">70.05</text><text x="508" y="196" class="note" text-anchor="end">no module</text></svg>

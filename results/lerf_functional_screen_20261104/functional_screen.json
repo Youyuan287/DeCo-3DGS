@@ -1,0 +1,9 @@
+{
+  "plain": 0.639,
+  "row_centered": 0.639,
+  "col_centered": 0.607,
+  "both_centered": 0.607,
+  "residual_cos": 0.541,
+  "whitened": 0.459,
+  "n_eval": 61
+}

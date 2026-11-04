@@ -1,0 +1,18 @@
+{
+  "n": 61,
+  "all_med_gsam": 0.946,
+  "all_med_gsam_samsel": 0.939,
+  "all_gsam_ge50": 0.77,
+  "all_gsam_samsel_ge50": 0.754,
+  "all_n": 61,
+  "clip_bad_med_gsam": 0.945,
+  "clip_bad_med_gsam_samsel": 0.925,
+  "clip_bad_gsam_ge50": 0.727,
+  "clip_bad_gsam_samsel_ge50": 0.682,
+  "clip_bad_n": 22,
+  "clip_ok_med_gsam": 0.947,
+  "clip_ok_med_gsam_samsel": 0.947,
+  "clip_ok_gsam_ge50": 0.795,
+  "clip_ok_gsam_samsel_ge50": 0.795,
+  "clip_ok_n": 39
+}

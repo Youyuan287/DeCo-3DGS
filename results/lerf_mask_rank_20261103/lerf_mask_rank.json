@@ -1,0 +1,26 @@
+{
+  "kept_mask_group": {
+    "n": 40,
+    "med_best_iou": 0.751,
+    "rank1": 0.7,
+    "med_rank": 1.0,
+    "clip_top_ge50": 0.45,
+    "med_clip_top_iou": 0.334
+  },
+  "overwritten_group": {
+    "n": 20,
+    "med_best_iou": 0.92,
+    "rank1": 0.55,
+    "med_rank": 1.0,
+    "clip_top_ge50": 0.85,
+    "med_clip_top_iou": 0.813
+  },
+  "all": {
+    "n": 60,
+    "med_best_iou": 0.885,
+    "rank1": 0.65,
+    "med_rank": 1.0,
+    "clip_top_ge50": 0.583,
+    "med_clip_top_iou": 0.603
+  }
+}

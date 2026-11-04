@@ -1,0 +1,16 @@
+{
+  "n": 61,
+  "n_failures_B16": 22,
+  "rank1_B16_global": 0.639,
+  "medrank_B16_global": 1.0,
+  "fail_medcolgap_B16_global": 0.0324,
+  "fail_colgap_lt_half_B16_global": 0.227,
+  "rank1_L336_global": 0.623,
+  "medrank_L336_global": 1.0,
+  "fail_medcolgap_L336_global": 0.0113,
+  "fail_colgap_lt_half_L336_global": 0.545,
+  "rank1_B16_maskedmax": 0.377,
+  "medrank_B16_maskedmax": 5.0,
+  "fail_medcolgap_B16_maskedmax": 0.0314,
+  "fail_colgap_lt_half_B16_maskedmax": 0.227
+}

@@ -1,0 +1,9 @@
+{
+  "n": 61,
+  "n_paired": 61,
+  "box_ge50_all": 0.656,
+  "box_ge50_clip_ok": 0.615,
+  "box_ge50_clip_bad": 0.727,
+  "n_clip_ok": 39,
+  "n_clip_bad": 22
+}

@@ -1,0 +1,9 @@
+{
+  "n": 208,
+  "clip_med": 0.803,
+  "gsam_med": 0.722,
+  "clip_ge50": 0.577,
+  "gsam_ge50": 0.572,
+  "gsam_wins": 0.25,
+  "clip_wins": 0.245
+}
